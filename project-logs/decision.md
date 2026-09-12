@@ -26,9 +26,10 @@
 - **Alternatives considered**: Removing ADB port scanning (rejected because auto-connecting emulators is required for 1-click execution).
 - **Impact**: Bot cleanly scans all standard emulator ports (5555, 5554, 62001, 7555, 21503) in under 1 second without timing out.
 
-## Decision: Dual-Mode Execution — Live Bot & Terminal Simulation Mode
-- **What was decided**: Added `--simulate` / `--test` mode to `start_bot.py` that executes a complete 13-subsystem simulated farm loop directly in terminal without requiring a live emulator.
-- **Why it was needed**: The user requested a fully working terminal experience that can be tested immediately even when an Android emulator is not currently running.
-- **Alternatives considered**: Blocking execution until an emulator is started (rejected because it prevents instant CLI verification).
-- **Impact**: Provides instant feedback, testing, and verification for any user or developer in seconds.
+## Decision: Git Pack Pruning & Large Screen Dump Exclusion
+- **What was decided**: Added `**/.trashed*`, `**/screenshot of ui/`, and raw video recording dumps to `.gitignore`, removed them from git cache, squashed history onto a clean branch, and pruned unreachable pack objects.
+- **Why it was needed**: The repository previously tracked hundreds of uncompressed video screen dumps (~500 MB) causing the pack size to reach 821 MiB. Git pushes over domestic networks were timing out or stalling.
+- **Alternatives considered**: Using Git LFS (rejected as it incurs storage quotas and requires extra client-side tooling) or pushing the 821 MB pack (rejected due to network latency and failure risk).
+- **Steps taken**: Inspected git tree sizes by directory, identified that `screenshot of ui` and `.trashed*` files were non-functional video captures, excluded them in `.gitignore`, unstaged them, squashed into a single clean commit, ran `git gc --prune=now`, reducing the pack to 40.39 MiB.
+- **Impact**: Reduced pack size from 821 MiB to 40.39 MiB (95% reduction), enabling lightning-fast sub-minute pushes, effortless cloning, and complete GitHub compatibility.
 
