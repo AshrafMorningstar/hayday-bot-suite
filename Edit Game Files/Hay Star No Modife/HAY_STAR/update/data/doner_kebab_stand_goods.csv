@@ -1,0 +1,13 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Lamb Doner Wrap,sc/icons.sc,recipe_lamb_kebab_wrap,TID_PRODUCT_LAMB_DONER_WRAP,Doner_Kebab_Stand,1,Grilled Lamb Skewer,20,500,500,100,2,1,30,30,32,TID_DONER_KEBAB_STAND_PRODUCT_DESC,46,,42
+,,,,,1,Tomato,,,,,,,,,,,,,
+,,,,,1,Bread,,,,,,,,,,,,,
+Spicy Bean Doner,sc/icons.sc,recipe_spicy_bean_wrap,TID_PRODUCT_SPICY_BEAN_DONER,Doner_Kebab_Stand,1,Corn Bread,30,1215,1170,280,3,1,87,87,32,TID_DONER_KEBAB_STAND_PRODUCT_DESC,46,,42
+,,,,,3,BlackBean,,,,,,,,,,,,,
+,,,,,3,Chili,,,,,,,,,,,,,
+,,,,,2,Cheese,,,,,,,,,,,,,
+Tower Doner Supreme,sc/icons.sc,recipe_tower_doner_supreme,TID_PRODUCT_TOWER_DONER_SUPREME,Doner_Kebab_Stand,3,Lamb Meat,40,915,880,210,3,1,68,68,58,TID_DONER_KEBAB_STAND_PRODUCT_DESC,46,,42
+,,,,,1,Corn Bread,,,,,,,,,,,,,
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+,,,,,3,Lettuce,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+Name,DisableBuildingPainting,StartingChickens,ChickenBuilding,UnlockTruckFromTutorial,UnlockButtonsFromTutorial,StartingChickensReadyToCollect,FreeSkipUntilLvl
+String,boolean,int,String,boolean,boolean,int,int
+Default,false,0,,false,false,0,3
+NewFtue,true,4,ChickenTent,true,true,3,5

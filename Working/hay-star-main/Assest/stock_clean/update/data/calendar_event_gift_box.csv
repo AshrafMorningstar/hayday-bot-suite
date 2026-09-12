@@ -1,0 +1,17 @@
+Name,FileName,ExportName,TileWidth,TileHeight,TapSound
+String,String,String,int,int,String
+CalendarEventGiftBox1,sc/common.sc,gift_box_1,2,2,TreasureBox
+CalendarEventGiftBox2,sc/common.sc,gift_box_2,2,2,TreasureBox
+CalendarEventGiftBox3,sc/common.sc,gift_box_3,2,2,TreasureBox
+CalendarEventGiftBox4,sc/common.sc,gift_box_4,2,2,TreasureBox
+GenericCalendarEventGiftBox1,sc/common.sc,giftbox_generic01_yellowgreeng,2,2,TreasureBox
+GenericCalendarEventGiftBox2,sc/common.sc,giftbox_generic02_orangeblue,2,2,TreasureBox
+GenericCalendarEventGiftBox3,sc/common.sc,giftbox_generic03_bluepurple,2,2,TreasureBox
+HalloweenCalendarEventGiftBox1,sc/common.sc,giftbox_halloween,1,1,CollectLantern
+ChineseEventGiftBox1,sc/common.sc,giftbox_chinese_candy_box,1,1,TreasureBox
+EasterEventGiftBox1,sc/common.sc,giftbox_easter_01,2,2,TreasureBox
+EasterEventGiftBox2,sc/common.sc,giftbox_easter_02,2,2,TreasureBox
+EasterEventGiftBox3,sc/common.sc,giftbox_easter_03,2,2,TreasureBox
+EasterEventGiftBox4,sc/common.sc,giftbox_easter_04,2,2,TreasureBox
+EasterEventGiftBox5,sc/common.sc,giftbox_easter_05,2,2,TreasureBox
+HamperGiftBox1,sc/common.sc,giftbox_hamper,2,2,TreasureBox

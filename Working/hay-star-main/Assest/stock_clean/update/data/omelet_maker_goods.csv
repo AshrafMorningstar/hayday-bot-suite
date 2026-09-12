@@ -1,0 +1,19 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Colorful omelet,sc/icons.sc,recipe_omelette_colorful,TID_PRODUCT_OMELET_COLORFUL,Omelet_Maker,2,Egg,60,71,68,16,4,1,26,26,77,TID_OMELET_MAKER_PRODUCT_DESCRIPTION,30,,26
+,,,,,1,Bellpepper,,,,,,,,,,,,,
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,1,Cabbage,,,,,,,,,,,,,
+Spring omelet,sc/icons.sc,recipe_omelette_spring,TID_PRODUCT_OMELET_SPRING,Omelet_Maker,2,Egg,40,119,115,27,3,1,42,42,77,TID_OMELET_MAKER_PRODUCT_DESCRIPTION,45,,42
+,,,,,1,Butter,,,,,,,,,,,,,
+,,,,,2,Asparagus,,,,,,,,,,,,,
+Rice omelet,sc/icons.sc,recipe_omelette_rice,TID_PRODUCT_OMELET_RICE,Omelet_Maker,3,Egg,120,295,283,68,5,1,104,110,83,TID_OMELET_MAKER_PRODUCT_DESCRIPTION,109,,104
+,,,,,1,Rice,,,,,,,,,,,,,
+,,,,,2,Tomato Sauce,,,,,,,,,,,,,
+Cheese omelet,sc/icons.sc,recipe_omelette_cheese,TID_PRODUCT_OMELET_CHEESE,Omelet_Maker,3,Egg,90,239,230,55,5,1,85,85,79,TID_OMELET_MAKER_PRODUCT_DESCRIPTION,90,,85
+,,,,,2,Cheese,,,,,,,,,,,,,
+,,,,,1,Onion,,,,,,,,,,,,,
+,,,,,2,Tomato,,,,,,,,,,,,,
+Potato omelet,sc/icons.sc,recipe_omelette_potato,TID_PRODUCT_OMELET_POTATO,Omelet_Maker,3,Egg,75,139,133,32,4,1,53,53,87,TID_OMELET_MAKER_PRODUCT_DESCRIPTION,57,,53
+,,,,,1,Potato,,,,,,,,,,,,,
+,,,,,3,Bacon,,,,,,,,,,,,,

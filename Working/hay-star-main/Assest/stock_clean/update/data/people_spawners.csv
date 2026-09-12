@@ -1,0 +1,3 @@
+Name,UnlockLevel,MinTutorialPeopleToSpawnBeforeUnlock,MinSpawnTime,MaxSpawnTime,MinSpawnTimeForDailyGift,MaxSpawnTimeForDailyGift,MinOrderSize,MaxOrderSize,CanCompleteOrderChance,MaxPeople,GoodNumber,GoldMultiplier,ExpMultiplier,ConstantExp,ForcedUnlockLevel,UseV2Logic,NumSlotsV2,MinSpawnTimeV2,MaxSpawnTimeV2,PeopleStay,MondayVisitorLimit,TuesdayVisitorLimit,WednesdayVisitorLimit,ThursdayVisitorLimit,FridayVisitorLimit,SaturdayVisitorLimit,SundayVisitorLimit,FriendshipPointsForLegacyRequests
+String,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,boolean,int,int,int,boolean,int,int,int,int,int,int,int,int
+PeopleSpawner,6,2,120,900,5,10,35,65,80,2,2,140,0,5,9,false,4,120,900,false,10,10,10,10,10,14,14,0

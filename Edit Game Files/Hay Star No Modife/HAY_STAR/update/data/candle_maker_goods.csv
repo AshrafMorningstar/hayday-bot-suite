@@ -1,0 +1,15 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Strawberry Candle,sc/icons.sc,recipe_candle_strawberry,TID_PRODUCT_STRAWBERRY_CANDLE,Candle_Maker,1,Beeswax,120,955,920,220,5,1,37,37,48,TID_CANDLEMAKER_PRODUCT_DESCRIPTION,42,,37
+,,,,,2,Strawberry,,,,,,,,,,,,,
+Raspberry Candle,sc/icons.sc,recipe_candle_rasberry,TID_PRODUCT_RASPBERRY_CANDLE,Candle_Maker,1,Beeswax,105,925,890,215,5,1,35,35,52,TID_CANDLEMAKER_PRODUCT_DESCRIPTION,40,,35
+,,,,,2,Raspberry,,,,,,,,,,,,,
+Lemon Candle,sc/icons.sc,recipe_candle_lemon,TID_PRODUCT_LEMON_CANDLE,Candle_Maker,1,Beeswax,135,1185,1140,275,5,1,53,53,72,TID_CANDLEMAKER_PRODUCT_DESCRIPTION,58,,53
+,,,,,2,Lemon,,,,,,,,,,,,,
+Floral candle,sc/icons.sc,recipe_candle_floral,TID_PRODUCT_FLORALCANDLE,Candle_Maker,1,Beeswax,120,1140,1095,265,5,1,51,51,95,TID_CANDLEMAKER_PRODUCT_DESCRIPTION,56,,51
+,,,,,2,Peony,,,,,,,,,,,,,
+,,,,,2,Sunflower,,,,,,,,,,,,,
+,,,,,2,Indigo,,,,,,,,,,,,,
+Party Candle,sc/icons.sc,recipe_candle_party,TID_PRODUCT_PARTYCANDLE,Candle_Maker,1,Beeswax,110,835,805,195,5,1,28,28,84,TID_CANDLEMAKER_PRODUCT_DESCRIPTION,33,,28
+,,,,,1,Raspberry,,,,,,,,,,,,,
+,,,,,1,Carrot,,,,,,,,,,,,,

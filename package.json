@@ -1,0 +1,38 @@
+{
+  "name": "hayday-bot-suite",
+  "version": "1.0.0",
+  "description": "Unified Hay Day Automation Suite & Bot Control Center for HayStar, Inxernal, HDX, and Frida Supervisor Engines.",
+  "main": "src/index.js",
+  "bin": {
+    "hayday": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js ui",
+    "ui": "node bin/cli.js ui",
+    "setup": "node src/core/installer.js",
+    "fix": "node src/core/installer.js",
+    "bot": "node bin/cli.js bot",
+    "scan": "node bin/cli.js scan",
+    "test": "node test/test-all.js"
+  },
+  "keywords": [
+    "hayday",
+    "bot",
+    "automation",
+    "hay-star",
+    "inxernal",
+    "hdx",
+    "frida",
+    "adb",
+    "emulator",
+    "control-center"
+  ],
+  "author": "Ashraf Morningstar & Community",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "open": "^10.1.0"
+  },
+  "devDependencies": {}
+}

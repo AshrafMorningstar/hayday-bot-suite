@@ -1,0 +1,17 @@
+Name,CrateCountEachType,Goods,GoodAmounts
+String,int,String,int
+A,0,Egg,1
+,,Corn,2
+,,Wheat,3
+B,0,Egg,2
+,,Wheat,4
+,,Corn,2
+C,0,Bread,1
+,,Corn,5
+,,Egg,2
+D,0,Bread,2
+,,Corn,5
+,,Egg,2
+E,0,Bread,3
+,,Corn,5
+,,Egg,2

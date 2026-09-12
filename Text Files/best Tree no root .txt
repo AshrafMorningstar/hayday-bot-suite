@@ -1,0 +1,147 @@
+Here is the complete, beginner-friendly, step-by-step tutorial on **how Tree Cutting with Wheat works** and **how you can do it completely by hand using just a simple text editor (like Notepad) and ADB commands**, without needing any complex programs or scripts.
+
+---
+
+### The Big Picture: How Hay Day Handles Trees & Tools
+
+In Hay Day, the game decides which tool cuts which tree using **3 simple CSV spreadsheet files**:
+
+1. **`tools.csv`**: A list of every tool that can be selected (Axe, Saw, Dynamite, etc.).
+2. **`forests.csv`**: A list of every wild tree, pine, and bush on your farm, and which tool cuts it.
+3. **`fruit_trees.csv`**: A list of planted trees (Apple, Cherry, Cacao, etc.), and which tool clears them when dead.
+
+Whenever you tap a tree, the game looks up that tree in `forests.csv` or `fruit_trees.csv`, finds its `Tool` name, and checks `tools.csv` to display the bubble.
+
+---
+
+### Step 1: Tell the Game that "Wheat" is a Tool (`tools.csv`)
+
+Normally, `tools.csv` only knows about Axe, Saw, Dynamite, Shovel, and Pickaxe. We need to register `Wheat` so the game can show it in the tool bubble.
+
+1. Open **`tools.csv`** in **Notepad** (or Notepad++):
+   ```text
+   com.supercell.hayday\نسخه اعلى سعر\update\data\tools.csv
+   ```
+2. Scroll to the very bottom of the file.
+3. Add this single new line at the end:
+   ```csv
+   Wheat,sc/icons.sc,icon_wheat,1,TID_WHEAT,1,0,TID_WHEAT,25,0,0,TRUE
+   ```
+
+#### What this line means:
+- **`Wheat`**: The internal name of our tool.
+- **`sc/icons.sc,icon_wheat`**: Uses the official golden wheat sprite from the game files.
+- **`1`**: Unlocked at Level 1.
+- **`0`**: Diamond cost is 0.
+- **`0`**: Coin cost is 0.
+- **`TRUE`**: Allows purchase/use.
+
+*(Optional)*: On the existing `Axe` and `Saw` lines, you can also change their diamond price column from `4` and `5` to `0` and level to `1`.
+
+4. **Save** the file.
+
+---
+
+### Step 2: Change Wild Trees to Use Wheat (`forests.csv`)
+
+1. Open **`forests.csv`** in **Notepad**:
+   ```text
+   com.supercell.hayday\نسخه اعلى سعر\update\data\forests.csv
+   ```
+2. Look at row 1 (the headers). Find the column named **`Tool`** (column #10).
+3. Look through the rows below:
+   - Find all rows that have **`Axe`** or **`Saw`**:
+     - `fir_small_01`
+     - `leafy_small_01`
+     - `fir_medium_01`
+     - `fir_medium_02`
+     - `fir_big_01`
+     - `leafy_big_01`
+     - `leafy_big_02`
+     - `pine_small_01`
+     - `pine_big_01`
+     - `pine_big_02`
+     - `wildbush01`
+     - `train_fir_...`
+     - `wildbush01_snow`
+4. Replace **`Axe`** and **`Saw`** with **`Wheat`**:
+   ```csv
+   fir_small_01,fir_small_01,sc/nature_new.sc,1,1,,1,4,0,Wheat,BigPineTap,,SmallPineCollect,,Farm
+   fir_medium_01,fir_medium_01,sc/nature_new.sc,1,1,,1,5,0,Wheat,BigPineTap,,BigPineCollect,,Farm
+   pine_big_01,pine_big_01,sc/nature_new.sc,1,1,,1,5,0,Wheat,BigPineTap,,BigPineCollect,,Farm
+   ```
+   *(Note: Leave `rock_...` with `Dynamite` and `bog_...` with `Shovel` so they remain normal).*
+
+> **Tip for "No Tool Needed"**:
+> If you want trees to clear with **no tool at all**, simply leave the `Tool` column empty `,,` instead of typing `Wheat`.
+
+5. **Save** the file.
+
+---
+
+### Step 3: Change Fruit Trees & Bushes to Use Wheat (`fruit_trees.csv`)
+
+1. Open **`fruit_trees.csv`** in **Notepad**:
+   ```text
+   com.supercell.hayday\نسخه اعلى سعر\update\data\fruit_trees.csv
+   ```
+2. Look at column #12 named **`Tool`**.
+3. You will see all fruit trees (`AppleTree`, `CherryTree`, `RaspberryBush`, `BlackberryBush`, `CacaoTree`, etc.) have `Saw` or `Axe`.
+4. Replace **`Saw`** and **`Axe`** with **`Wheat`**:
+   ```csv
+   AppleTree,apple_tree,TRUE,dead_apple_tree,sc/crops.sc,2,2,960,13,7,0,Wheat,...
+   CherryTree,cherry_tree,TRUE,dead_cherry_tree,sc/crops.sc,2,2,1680,13,10,0,Wheat,...
+   ```
+5. **Save** the file.
+
+---
+
+### Step 4: How to Put the Files into the Game (No Python Needed)
+
+You do **not** need any loader or python script to copy these files into your game. You can use either **Method A (Command Prompt)** or **Method B (Android File Manager)**:
+
+#### Method A: Using standard ADB in Command Prompt
+Open Windows Command Prompt (`cmd.exe`) and run these 4 simple commands:
+
+```cmd
+:: 1. Enable root access
+"C:\LDPlayer\LDPlayer9\adb.exe" root
+
+:: 2. Push tools.csv
+"C:\LDPlayer\LDPlayer9\adb.exe" push "tools.csv" /data/data/com.supercell.hayday/update/data/tools.csv
+
+:: 3. Push forests.csv
+"C:\LDPlayer\LDPlayer9\adb.exe" push "forests.csv" /data/data/com.supercell.hayday/update/data/forests.csv
+
+:: 4. Push fruit_trees.csv
+"C:\LDPlayer\LDPlayer9\adb.exe" push "fruit_trees.csv" /data/data/com.supercell.hayday/update/data/fruit_trees.csv
+
+:: 5. Set permissions so the game can read them
+"C:\LDPlayer\LDPlayer9\adb.exe" shell chmod 777 /data/data/com.supercell.hayday/update/data/*.csv
+```
+
+#### Method B: Using MT Manager / Root Explorer inside Android
+If you don't even want to touch Command Prompt:
+1. In LDPlayer (or your rooted phone), open **MT Manager** or **Root Explorer**.
+2. Navigate to:
+   ```text
+   /data/data/com.supercell.hayday/update/data/
+   ```
+3. Paste your edited `tools.csv`, `forests.csv`, and `fruit_trees.csv` into that folder.
+4. Long press the files -> **Properties / Permissions** -> Set to `rwxrwxrwx` (777).
+
+---
+
+### Step 5: Test in Game
+
+1. Force-stop Hay Day and relaunch it:
+   ```cmd
+   "C:\LDPlayer\LDPlayer9\adb.exe" shell am force-stop com.supercell.hayday
+   "C:\LDPlayer\LDPlayer9\adb.exe" shell monkey -p com.supercell.hayday 1
+   ```
+2. Tap any pine tree, oak tree, or dead bush on your farm.
+3. The **Wheat icon** will float above the tree in place of the axe/saw.
+4. Drag the Wheat across the tree — the tree is cut down instantly!
+
+
+"./this file was created by Sonnet 46"

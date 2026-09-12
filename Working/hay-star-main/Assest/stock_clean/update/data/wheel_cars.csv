@@ -1,0 +1,6 @@
+Name,FileName,ExportName,RequiredLevel,StoppedExportName,TileWidth,TileHeight,TapSound,WheelVelocityMin,WheelVelocityMax,WheelFrictionMin,WheelFrictionMax,WheelMinAcceptedVelocity,WheelNumSlots,WheelFreeSpinSlot,WheelJackpotSlot,WheelJackpotAsDiamonds,WheelSpinPriceMultiplier,ExpensiveDiamondThreshold,WheelNumExpensiveItems,WheelNumDecoItems,WheelNumVoucherItems,WheelNumBoosterItems,WheelMaxRandomVelocity,WaitUntilLeaveSeconds,MaxProbabilityAddFromOrder,TierMax,DailyResetHour,ExcludeCombinedGoodsTypes
+String,String,String,int,String,int,int,String,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+TruckWheel,sc/buildings_new.sc,truck_drive,2,truck_wheel_stop,2,1,MenuBleep,0,0,10,100,0,12,-1,0,45,1,8,3,1,1,1,150,87000,3,0,8,19
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,270
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,271
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,341

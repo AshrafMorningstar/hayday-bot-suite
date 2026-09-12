@@ -1,0 +1,42 @@
+Name,PerAmount,FallbackRewardName,FallbackRewardAmount
+String,int,String,int
+Land Deed,1,Cash,3000
+Mallet,1,Cash,3000
+Marker Stake,1,Cash,3000
+Hammer,1,Cash,2500
+Hand Drill,1,Cash,2500
+Paint Bucket,1,Cash,2500
+Stone Block,1,Cash,2500
+Brick,1,Cash,2500
+Tar Bucket,1,Cash,2500
+Map Piece,1,Cash,2000
+Voucher1,1,Cash,500
+Voucher2,1,Cash,750
+Voucher3,1,Cash,1250
+Voucher4,1,Cash,2000
+Voucher5,1,Cash,3500
+Expansion Key,1,Cash,5000
+Blueprint,1,Cash,2500
+Mistletoe,1,Cash,1
+Chocobunny,1,Cash,1
+SeasonalCurrency1,1,Cash,1
+MusicNote,1,Cash,1
+WaterBottle,1,Cash,1
+SeasonalCurrency4,1,Cash,1
+SeasonalCurrency5,1,Cash,1
+SeasonalCurrency6,1,Cash,1
+FlowerBlue,1,Cash,1
+FlowerPurple,1,Cash,1
+FlowerWhite,1,Cash,1
+FlowerYellow,1,Cash,1
+Pinecone,1,Cash,1
+SeasonalCurrency7,1,Cash,1
+SeasonalCurrency8,1,Cash,1
+SeasonalCurrency9,1,Cash,1
+SeasonalCurrency10,1,Cash,1
+SeasonalCurrency11,1,Cash,1
+SeasonalCurrency12,1,Cash,1
+Puzzle Piece 1,1,Cash,3500
+Workbench_Green_Cog_Common,1,Cash,300
+Workbench_Blue_Cog_Common,1,Cash,300
+Workbench_Silver_Cog_Rare,1,Cash,600

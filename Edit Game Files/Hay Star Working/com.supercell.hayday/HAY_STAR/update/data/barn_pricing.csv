@@ -1,0 +1,9 @@
+Name,FromLevel,RareMaterial,RegularMaterial,CommonMaterial
+String,int,int,int,int
+Initial,0,8,8,8
+Step1,12,8,8,7
+Step2,22,8,7,6
+Step3,32,7,6,5
+Step4,42,6,5,4
+Step5,52,5,4,4
+Step6,62,4,4,4

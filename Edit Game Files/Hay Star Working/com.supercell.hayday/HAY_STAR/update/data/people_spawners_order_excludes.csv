@@ -1,0 +1,7 @@
+DataSet,ExcludeCsvName,ExcludeGoodName
+String,String,String
+default,data/tools.csv,
+,data/jeweler_goods.csv,
+,,Marmelade
+,,Peach Jam
+

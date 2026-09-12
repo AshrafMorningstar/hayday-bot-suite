@@ -1,0 +1,4 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,int
+Honey,sc/icons.sc,recipe_honey,TID_PRODUCT_HONEY,Honey_Extractor,2,Honeycomb,0,81,78,19,0,1,8,8,39,TID_HONEYEXTRACTOR_PRODUCT_DESCRIPTION,10,8
+Beeswax,sc/icons.sc,recipe_beeswax,TID_PRODUCT_BEESWAX,Honey_Extractor,3,Honeycomb,0,121,116,28,0,1,12,12,48,TID_HONEYEXTRACTOR_PRODUCT_DESCRIPTION,15,12

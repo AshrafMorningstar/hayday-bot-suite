@@ -1,0 +1,4 @@
+Name,TID,TimeMin,TimeSec,DescriptionTID,UnlockLevel
+String,String,int,int,String,int
+Nectar,TID_NECTAR,0,,TID_NECTAR_DESCRIPTION,39
+PeanutPods,TID_PEANUT_PODS,0,,TID_PEANUTS_DESCRIPTION,62

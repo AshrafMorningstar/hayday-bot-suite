@@ -1,0 +1,7 @@
+Name,Threshold,InventoryChance,ExcludeProductInOtherOrders,ExcludeBuildingInOtherOrders,ExcludeLockedProducts,RewardMultiplier,IncludeBoatInOtherOrderChecks
+String,int,int,Boolean,Boolean,Boolean,int,Boolean
+VeryEasy,0,100,TRUE,TRUE,TRUE,200,FALSE
+Easy,25,80,TRUE,TRUE,TRUE,150,FALSE
+Medium,50,40,TRUE,FALSE,TRUE,125,FALSE
+Hard,75,20,FALSE,FALSE,FALSE,100,FALSE
+BeyondQuota,100,20,FALSE,FALSE,FALSE,-1,FALSE

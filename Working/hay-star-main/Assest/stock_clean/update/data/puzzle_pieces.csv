@@ -1,0 +1,3 @@
+Name,ToolIconFileName,ToolIconExportName,TID,DescriptionTID,UnlockLevel,ReputationUnlockLevel,DiamondPrice,PerceivedValue
+String,String,String,String,String,int,int,int,int
+Puzzle Piece 1,sc/icons.sc,icon_puzzlepiece,TID_PUZZLE_PIECE_1,TID_PUZZLE_PIECE_1_DESCRIPTION,1,,1000,10000

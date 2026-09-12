@@ -1,0 +1,10 @@
+Name,FileName,ExportName,ExportNameNests,Gatherer,MaxGatherer,TID,TapSound,CollectSound,TileWidth,TileHeight,InputResource,InputResourceAmount,OutputGood,OutputResourceAmount,ReadyNotificationName,PlaceInsideNestTID,DepthOffset
+String,String,String,String,String,int,String,String,String,int,int,String,int,String,int,String,String,int
+BeeHive,sc/buildings_new.sc,bee_hive,bee_hive,Bee,3,TID_BEE_HIVE,TapBeeHive,Collect,,,Nectar,100,Honeycomb,1,HivesReady,TID_BEE_HIVE_PLACE_BEE_INSIDE_NEST_TEXT,0
+,,,bee_hive,,,,,,,,,,,,,,128
+,,,bee_hive,,,,,,,,,,,,,,384
+,,,bee_hive,,,,,,,,,,,,,,256
+SquirrelHouse,sc/buildings_new.sc,squirrel_house_lvl1_base,squirrel_house_lvl1_base,Squirrel,2,TID_SQUIRREL_HOUSE,TapSquirrelTree,Collect,,,PeanutPods,300,PeanutBag,1,PeanutsReady,TID_SQUIRREL_HOUSE_PLACE_SQUIRREL_INSIDE_NEST_TEXT,0
+,,,squirrel_house_lvl2_base,,,,,,,,,,,,,,128
+,,,squirrel_house_lvl3_base,,,,,,,,,,,,,,384
+,,,squirrel_house_lvl4_base,,,,,,,,,,,,,,256

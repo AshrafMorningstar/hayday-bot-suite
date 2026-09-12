@@ -1,0 +1,23 @@
+Name,ToolIconFileName,ToolIconExportName,TID,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,ProcessingBuilding,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,int,String,int,int,int,int,int,int,int,int,String,int,string,int,Boolean,int
+Caramel Apple,sc/icons.sc,recipe_caramel_apple,TID_CARAMEL_APPLE,1,Apple,120,66,255,31,5,1,46,66,Candy_Machine,51,TID_CANDY_PRODUCT_DESCRIPTION,51,,46
+,,,,2,Syrup,,,,,,,,,,,,,,
+Toffee,sc/icons.sc,recipe_toffee,TID_TOFFEE,1,Butter,90,45,173,21,5,1,30,35,Candy_Machine,52,TID_CANDY_PRODUCT_DESCRIPTION,35,,30
+,,,,1,Wheat,,,,,,,,,,,,,,
+,,,,1,White Sugar,,,,,,,,,,,,,,
+Chocolate,sc/icons.sc,recipe_chocolate_bar,TID_CHOCOLATE,3,Cacao,1200,119,456,55,15,1,80,85,Candy_Machine,54,TID_CANDY_PRODUCT_DESCRIPTION,95,,80
+,,,,1,Cream,,,,,,,,,,,,,,
+,,,,1,White Sugar,,,,,,,,,,,,,,
+Lollipop,sc/icons.sc,recipe_lollipop,TID_LOLLIPOP,1,Syrup,720,88,339,41,12,1,62,72,Candy_Machine,57,TID_CANDY_PRODUCT_DESCRIPTION,74,,62
+,,,,2,Strawberry,,,,,,,,,,,,,,
+,,,,1,Cherry,,,,,,,,,,,,,,
+Jelly Beans,sc/icons.sc,recipe_jelly_beans,TID_JELLY_BEANS,1,Raspberry Jam,1440,122,984,81,16,1,119,124,Candy_Machine,60,TID_CANDY_PRODUCT_DESCRIPTION,135,,119
+,,,,1,Blackberry Jam,,,,,,,,,,,,,,
+,,,,1,White Sugar,,,,,,,,,,,,,,
+SesameBrittle,sc/icons.sc,recipe_ginger_sesame_brittle,TID_SESAME_BRITTLE,3,Sesame,60,70,269,32,4,1,30,30,Candy_Machine,78,TID_CANDY_PRODUCT_DESCRIPTION,34,,30
+,,,,1,Ginger,,,,,,,,,,,,,,
+,,,,1,Honey,,,,,,,,,,,,,,
+CandiedPeanuts,sc/icons.sc,recipe_candied_peanuts,TID_CANDIED_PEANUTS,1,PeanutBag,40,279,268,64,3,1,17,17,Candy_Machine,63,TID_CANDY_PRODUCT_DESCRIPTION,20,,17
+,,,,1,Honey,,,,,,,,,,,,,,
+Cotton Candy,sc/icons.sc,recipe_cotton_candy,TID_COTTON_CANDY,3,White Sugar,30,116,112,27,3,1,40,55,Candy_Machine,75,TID_CANDY_PRODUCT_DESCRIPTION,43,,40
+,,,,1,Strawberry,,,,,,,,,,,,,,

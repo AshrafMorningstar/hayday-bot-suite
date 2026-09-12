@@ -1,0 +1,7 @@
+Name,ProvisionOrder,MinPerNewspaper,MaxPerNewspaper
+String,int,int,int
+ToolsAndCollectionToolsExcludingTown,1,1,10
+CraftFishLobsterDuckFeather,2,0,30
+Crops,3,0,40
+TreeBushGatherer,4,0,30
+AnimalProduct,5,0,20

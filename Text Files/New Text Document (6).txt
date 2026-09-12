@@ -1,0 +1,1321 @@
+22:45:19.399  no emulator selected — pick one from the list, or click Refresh emulators if it is empty
+22:45:56.886  connected emulator-5554
+22:46:01.347  no account selected — grab one in the Accounts tab
+22:54:13.262  switching to account: 86
+22:54:14.273  pushing save...
+22:54:14.426  starting the game...
+22:54:14.670  engine: verifying supported game installation [T+246ms]
+22:54:14.757  engine: fetching signed native runtime and game definitions [T+332ms]
+22:54:16.171  engine: native engine: verifying signed native provider environment [T+1.746s]
+22:54:16.609  engine: native engine: staging authenticated native runtime [T+2.185s]
+22:54:16.978  engine: native engine: launching game through the HDX native provider [T+2.554s]
+22:54:19.628  engine: native engine: waiting for native guest transport [T+5.203s]
+22:54:19.961  engine: native engine: authenticating native guest transport [T+5.538s]
+22:54:20.114  engine: native engine: arming native guest session [T+5.690s]
+22:54:20.325  engine: native engine: waiting for structural farm readiness [T+5.901s]
+22:54:32.794  engine: native engine: native engine ready [T+18.369s]
+22:54:33.181  engine: environment: emulator 23113RKC6C, bridge libnb.so, translator /mnt/expand/lib64/arm64/libzyte.so /mnt/expand/lib64/x86_64/libzyte.so /system/lib64/libhoudini.so /system/lib64/libnb.so [T+18.757s]
+22:54:33.182  engine: ready [T+18.757s]
+22:54:33.182  game ready [engine=18.757s, account-start=19.920s]
+22:54:33.182  [pass 1] start [account=86, config=loll, trigger=scheduler]
+22:54:33.185  [automation] observing and planning
+22:54:34.072  automation: daily expansion/upgrade material allowance [bought=49/80, remaining=31]
+22:54:35.327  automation: reading current newspaper ads...
+22:54:35.670  automation: requesting the current newspaper...
+22:54:44.589  automation: signed newspaper plan ready [steps=59, notes=0, t=5.067s]
+22:54:44.590  automation: inspect another advertised farm for selected products
+22:54:47.756  [smart:visit_home_raw] OK [visit=2] [t=3.167s]
+22:54:47.907  automation: visited shop has no selected product
+22:54:47.908  automation: inspect another advertised farm for selected products
+22:54:54.824  automation: visit_home_raw missed its execution deadline while the native game remained responsive outside FarmMode; ending this plan without restarting the live process
+22:54:54.827  [smart:visit_home_raw] FAIL: native bounded operation timed out [dispatch=game, queued=1, sent=1, accepted=0, rejected=0, boundary-passes=1, pending=0] [t=6.172s]
+22:54:54.976  automation: asked for 1/38115105, the game is showing 1/38115105 [area=2]
+22:54:54.976  automation: the advertised farm did not finish loading; ending only this sniper phase after returning home
+22:55:02.974  [smart:travel] OK [traveled=1] [t=7.996s]
+22:55:02.974  automation: returned home after ending the sniper run; normal farm automation will continue from fresh state
+22:55:02.974  automation: observing farm state...
+22:55:06.260  automation: full snapshot ready [readouts=11, t=3.285s, slowest=machines_detail 875ms]
+22:55:07.853  automation: signed full plan ready [steps=53, notes=20, t=1.593s]
+22:55:07.853  automation: Fish Meat: unavailable dependency for Carnivore Food
+22:55:07.853  automation: Milk: unavailable dependency for Cheese
+22:55:07.853  automation: Banana: unavailable dependency for BananaBread
+22:55:07.853  automation: Coconut: unavailable dependency for Macaroon
+22:55:07.853  automation: Honeycomb: unavailable dependency for Honey
+22:55:07.853  automation: Bacon: unavailable dependency for Hamburger
+22:55:07.853  automation: Wool: unavailable dependency for Sweater
+22:55:07.853  automation: Duck Down: unavailable dependency for Pillow
+22:55:07.855  automation: Cherry: unavailable dependency for Berry Cake
+22:55:07.855  automation: Egg: unavailable dependency for Honey Apple Cake
+22:55:07.855  automation: GoldOre: unavailable dependency for Fancy Cake
+22:55:07.855  automation: Pomegranate: unavailable dependency for Pomegranate Cake
+22:55:07.855  automation: SilverOre: unavailable dependency for SilverBar
+22:55:07.855  automation: IronOre: unavailable dependency for IronBar
+22:55:07.855  automation: Guava: unavailable dependency for Fruit Sorbet
+22:55:07.855  automation: Mango: unavailable dependency for Fruit Sorbet
+22:55:07.855  automation: Eggplant is short but is not in the Fields crop list, so no ground was given to it
+22:55:07.856  automation: Mint is short but is not in the Fields crop list, so no ground was given to it
+22:55:07.856  automation: Mushroom is short but is not in the Fields crop list, so no ground was given to it
+22:55:07.856  automation: 4 more short crop(s) are not in the Fields crop list
+22:55:07.856  automation: use up to 1 Dynamite until the daily diamond target (10)
+22:55:08.020  [smart:mine_use_until_target] OK [drain_ok=1, used=1, rejected=0, diamonds_today=1, target=10] [t=166ms]
+22:55:08.020  automation: collect ready mined ore
+22:55:08.185  [smart:mine_collect] OK [drain_rejected=1, mined=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=3:1] [t=164ms]
+22:55:08.185  automation: collect ready trees and bushes
+22:55:09.303  [smart:tree_collect_all] OK [drain_ok=325, drain_rejected=1376, fruit=325, rejected=1376] [dispatch=game, queued=1701, sent=1701, accepted=325, rejected=1376, reject-codes=6:642/5:128/7:18/0:588] [t=1.118s]
+22:55:09.304  automation: request help for eligible dead trees and bushes
+22:55:09.774  [smart:tree_request_help_all] OK [drain_ok=33, drain_rejected=555, requested=33, rejected=555] [dispatch=game, queued=588, sent=588, accepted=33, rejected=555, reject-codes=0:555] [t=471ms]
+22:55:09.775  automation: collect ready honey
+22:55:09.948  [smart:honey_collect] OK [drain_ok=3, drain_rejected=3, honey=3, honey_rejected=3] [dispatch=game, queued=6, sent=6, accepted=3, rejected=3, reject-codes=3:3] [t=173ms]
+22:55:09.949  automation: collect finished machine output
+22:55:10.213  [smart:production_collect_all] OK [drain_ok=16, drain_rejected=25, collected=16, rejected=66] [dispatch=game, queued=83, sent=83, accepted=16, rejected=66, reject-codes=3:42/0:24] [t=265ms]
+22:55:10.214  automation: queue 1 Cow Food batch(es) (3 units) for animal feed
+22:55:10.372  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=158ms]
+22:55:10.372  automation: collect and feed the selected animal types
+22:55:10.615  [smart:animal_cycle] OK [drain_rejected=85, processed=0, rejected=170] [dispatch=game, queued=170, sent=170, accepted=0, rejected=170, reject-codes=0:58/3:112] [t=242ms]
+22:55:10.616  automation: queue 1 Carnivore Food batch(es) (3 units) for stock target 10
+22:55:10.781  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=165ms]
+22:55:10.781  automation: machine 600006 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:10.781  automation: queue 3 Bread for stock target 10
+22:55:10.966  [smart:machine_produce] OK [drain_ok=3, queued=3, rejected=0] [t=184ms]
+22:55:10.966  automation: queue 3 Cookie for stock target 10
+22:55:11.132  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=166ms]
+22:55:11.132  automation: queue 3 Blueberry Muffin for stock target 10
+22:55:11.297  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=164ms]
+22:55:11.297  automation: machine 600000 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:11.297  automation: queue 1 Cheese for Pizza
+22:55:11.528  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=231ms]
+22:55:11.528  automation: queue 1 Cream for stock target 10
+22:55:11.699  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=171ms]
+22:55:11.701  automation: queue 3 Popcorn for stock target 10
+22:55:11.875  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=175ms]
+22:55:11.875  automation: queue 3 Snack Mix for stock target 10
+22:55:12.124  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=249ms]
+22:55:12.124  automation: machine 600005 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:12.125  automation: queue 3 Grilled Lamb Skewer for stock target 10
+22:55:12.322  [smart:machine_produce] OK [drain_ok=2, drain_rejected=1, queued=2, rejected=1] [dispatch=game, queued=3, sent=3, accepted=2, rejected=1, reject-codes=5:1] [t=197ms]
+22:55:12.322  automation: queue 1 Fish and Chips for stock target 10
+22:55:12.510  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=187ms]
+22:55:12.510  automation: machine 600004 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:12.511  automation: queue 1 Apple Pie for stock target 10
+22:55:12.662  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=152ms]
+22:55:12.662  automation: machine 600009 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:12.663  automation: queue 3 Cotton Fabrics for stock target 10
+22:55:12.848  [smart:machine_produce] OK [drain_ok=3, queued=3, rejected=0] [t=185ms]
+22:55:12.848  automation: queue 3 Potato Feta Cake for stock target 10
+22:55:13.021  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=173ms]
+22:55:13.021  automation: queue 1 IronBar for stock target 10
+22:55:13.267  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=245ms]
+22:55:13.267  automation: machine 600008 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:13.268  automation: queue 1 IronBar for stock target 10
+22:55:13.431  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=164ms]
+22:55:13.432  automation: machine 600018 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:13.432  automation: queue 2 Carrot Juice for stock target 10
+22:55:13.598  [smart:machine_produce] OK [drain_ok=1, drain_rejected=1, queued=1, rejected=1] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=5:1] [t=166ms]
+22:55:13.598  automation: queue 3 Apple Juice for stock target 10
+22:55:13.748  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=149ms]
+22:55:13.748  automation: machine 600011 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:55:13.748  automation: harvest ready fields
+22:55:16.220  [smart:harvest_all] OK: harvested [drain_ok=14, drain_rejected=94, harvested=14, field_rejected=94, h_attempted=108, h_accepted=14, h_empty_before=0, h_empty_after=14] [t=2.472s]
+22:55:16.220  automation: sow 108 field(s) with Wheat
+22:55:16.519  [smart:plant_crop] OK [drain_ok=14, planted=14, field_rejected=0, bought=0, p_empty_after=0] [t=299ms]
+22:55:16.519  automation: place Flowerbed_2 at (-16,-16)
+22:55:16.791  [smart:place_object_batch] OK [drain_rejected=1, placed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=13:1] [t=271ms]
+22:55:16.791  automation: collect mail: scheduled maintenance after core farm work
+22:55:16.984  [smart:collect_mail] OK [drain_rejected=1, mail=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=2:1] [t=192ms]
+22:55:16.984  automation: mystery box claim cycle: scheduled maintenance after core farm work
+22:55:17.174  [smart:mystery_box_claim_cycle] OK [processed=0, rejected=0] [t=190ms]
+22:55:17.174  automation: spin wheel cycle: scheduled maintenance after core farm work
+22:55:17.360  [smart:spin_wheel_cycle] OK [drain_rejected=1, wheel=0, rejected=2] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=4:2] [t=185ms]
+22:55:17.361  automation: event curtain open all: scheduled maintenance after core farm work
+22:55:17.571  [smart:event_curtain_open_all] OK [drain_ok=10, curtains=10, rejected=0] [t=210ms]
+22:55:17.571  automation: event basket open all: scheduled maintenance after core farm work
+22:55:17.730  [smart:event_basket_open_all] OK [t=159ms]
+22:55:17.730  automation: event floater collect: scheduled maintenance after core farm work
+22:55:17.873  [smart:event_floater_collect] OK [floaters=0, floaters_rejected=0] [t=143ms]
+22:55:17.873  automation: farm pass claim direct: scheduled maintenance after core farm work
+22:55:20.219  [smart:farm_pass_claim_direct] OK [farm_pass=0, rejected=0] [t=2.346s]
+22:55:20.220  automation: achievement claim all: scheduled maintenance after core farm work
+22:55:20.480  [smart:achievement_claim_all] OK [drain_rejected=151, claimed=0, rejected=151] [dispatch=game, queued=151, sent=151, accepted=0, rejected=151, reject-codes=4:151] [t=261ms]
+22:55:20.480  automation: build claim all: scheduled maintenance after core farm work
+22:55:20.653  [smart:build_claim_all] OK [drain_rejected=1, claimed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=172ms]
+22:55:20.654  automation: tutorial skip all: scheduled maintenance after core farm work
+22:55:26.851  [smart:tutorial_skip_all] OK [drain_ok=2, tutorials=28, tutorial_farm_active=1] [t=6.198s]
+22:55:32.042  [smart:tutorial_skip_all round 2] OK [tutorials=0, tutorial_farm_active=1] [t=5.190s]
+22:55:32.042  automation: tutorials are complete; this account will not be rescanned again during the current run
+22:55:32.042  automation: storage upgrade barn: scheduled maintenance after core farm work
+22:55:32.196  [smart:storage_upgrade_barn] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=154ms]
+22:55:32.197  automation: storage upgrade silo: scheduled maintenance after core farm work
+22:55:32.366  [smart:storage_upgrade_silo] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=170ms]
+22:55:32.367  automation: travel to the fishing lake
+22:55:36.604  [smart:travel] OK [traveled=4] [t=4.236s]
+22:55:36.866  automation: collect finished lures
+22:55:37.014  [smart:fishing_lure_bench_collect] OK [drain_ok=2, drain_rejected=22, lure_bench=2] [dispatch=game, queued=24, sent=24, accepted=2, rejected=22, reject-codes=3:22] [t=148ms]
+22:55:37.014  automation: take every fish in the lake
+22:55:37.793  [smart:fish_catch_ready] OK: that was the last of this bait [drain_ok=1, caught=34, rejected=0, lure_used=9800000, bait_left=0] [t=778ms]
+22:55:37.793  automation: collect ready pool lobsters
+22:55:38.031  [smart:lobster_pool_collect] OK [drain_rejected=3, lobster=0, rejected=3] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=0:3] [t=238ms]
+22:55:38.031  automation: collect ready sea lobsters
+22:55:38.174  [smart:lobster_sea_collect] OK [sea_lobster=0, rejected=0] [t=142ms]
+22:55:38.175  automation: collect finished nets
+22:55:38.354  [smart:fishing_net_maker_collect] OK [drain_ok=3, drain_rejected=21, net_maker=3] [dispatch=game, queued=24, sent=24, accepted=3, rejected=21, reject-codes=3:21] [t=180ms]
+22:55:38.355  automation: return home after lake tasks
+22:55:49.118  [smart:travel] OK [traveled=1] [t=10.763s]
+22:55:49.541  account inventory snapshot saved [barn=192, silo=41, other=492]
+22:55:49.541  [pass 1] complete [elapsed=76.358s, mutations=possible]
+22:55:49.541  pass done - next full pass follows the free newspaper refresh
+22:55:49.681  waiting for the free newspaper refresh (~70s)...
+22:56:03.611  cycle stopped
+22:58:36.509  switching to account: 86
+22:58:37.401  pushing save...
+22:58:37.568  starting the game...
+22:58:37.834  engine: verifying supported game installation [T+266ms]
+22:58:37.917  engine: fetching signed native runtime and game definitions [T+349ms]
+22:58:40.038  engine: native engine: verifying signed native provider environment [T+2.469s]
+22:58:40.494  engine: native engine: staging authenticated native runtime [T+2.925s]
+22:58:40.888  engine: native engine: launching game through the HDX native provider [T+3.320s]
+22:58:43.240  engine: native engine: waiting for native guest transport [T+5.671s]
+22:58:43.277  engine: native engine: authenticating native guest transport [T+5.709s]
+22:58:43.441  engine: native engine: arming native guest session [T+5.872s]
+22:58:43.913  engine: native engine: waiting for structural farm readiness [T+6.345s]
+22:58:54.862  engine: native engine: native engine ready [T+17.294s]
+22:58:55.260  engine: environment: emulator 23113RKC6C, bridge libnb.so, translator /mnt/expand/lib64/arm64/libzyte.so /mnt/expand/lib64/x86_64/libzyte.so /system/lib64/libhoudini.so /system/lib64/libnb.so [T+17.691s]
+22:58:55.260  engine: ready [T+17.691s]
+22:58:55.260  game ready [engine=17.691s, account-start=18.758s]
+22:58:55.261  [pass 1] start [account=86, config=loll, trigger=scheduler]
+22:58:55.262  [automation] observing and planning
+22:58:55.440  automation: daily expansion/upgrade material allowance [bought=49/80, remaining=31]
+22:58:55.831  automation: reading current newspaper ads...
+22:58:56.018  automation: requesting the current newspaper...
+22:59:02.456  automation: newspaper refresh produced no new advertisements
+22:59:02.456  automation: observing farm state...
+22:59:04.740  automation: full snapshot ready [readouts=11, t=2.282s, slowest=place_catalog_detail 255ms]
+22:59:05.259  automation: signed full plan ready [steps=56, notes=20, t=519ms]
+22:59:05.259  automation: no selected mine tool is currently usable
+22:59:05.259  automation: Milk: unavailable dependency for Cheese
+22:59:05.259  automation: Banana: unavailable dependency for BananaBread
+22:59:05.259  automation: Coconut: unavailable dependency for Macaroon
+22:59:05.259  automation: Honeycomb: unavailable dependency for Honey
+22:59:05.259  automation: Bacon: unavailable dependency for Hamburger
+22:59:05.259  automation: Egg: unavailable dependency for Peach Tart
+22:59:05.261  automation: Wool: unavailable dependency for Sweater
+22:59:05.261  automation: Duck Down: unavailable dependency for Pillow
+22:59:05.261  automation: GoldOre: unavailable dependency for Fancy Cake
+22:59:05.261  automation: Cacao: unavailable dependency for Chocolate Roll
+22:59:05.261  automation: Pomegranate: unavailable dependency for Pomegranate Cake
+22:59:05.261  automation: SilverOre: unavailable dependency for SilverBar
+22:59:05.261  automation: IronOre: unavailable dependency for IronBar
+22:59:05.261  automation: Guava: unavailable dependency for Fruit Sorbet
+22:59:05.261  automation: Mango: unavailable dependency for Fruit Sorbet
+22:59:05.261  automation: Cotton is short but is not in the Fields crop list, so no ground was given to it
+22:59:05.261  automation: Eggplant is short but is not in the Fields crop list, so no ground was given to it
+22:59:05.261  automation: Mint is short but is not in the Fields crop list, so no ground was given to it
+22:59:05.261  automation: 5 more short crop(s) are not in the Fields crop list
+22:59:05.261  automation: collect ready mined ore
+22:59:05.699  [smart:mine_collect] OK [drain_ok=1, drain_rejected=1, mined=1] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=0:1] [t=439ms]
+22:59:05.699  automation: collect ready trees and bushes
+22:59:05.930  [smart:tree_collect_all] OK [drain_ok=21, drain_rejected=1694, fruit=21, rejected=1694] [dispatch=game, queued=1715, sent=1715, accepted=21, rejected=1694, reject-codes=6:924/5:184/7:19/0:567] [t=229ms]
+22:59:05.930  automation: request help for eligible dead trees and bushes
+22:59:06.106  [smart:tree_request_help_all] OK [drain_rejected=588, requested=0, rejected=588] [dispatch=game, queued=588, sent=588, accepted=0, rejected=588, reject-codes=0:588] [t=177ms]
+22:59:06.107  automation: collect ready honey
+22:59:06.279  [smart:honey_collect] OK [drain_rejected=6, honey=0, honey_rejected=6] [dispatch=game, queued=6, sent=6, accepted=0, rejected=6, reject-codes=3:6] [t=171ms]
+22:59:06.279  automation: collect finished machine output
+22:59:06.673  [smart:production_collect_all] OK [drain_rejected=41, collected=0, rejected=41] [dispatch=game, queued=41, sent=41, accepted=0, rejected=41, reject-codes=0:16/3:25] [t=395ms]
+22:59:06.673  automation: queue 1 Cow Food batch(es) (3 units) for animal feed
+22:59:06.881  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=208ms]
+22:59:06.881  automation: collect and feed the selected animal types
+22:59:07.067  [smart:animal_cycle] OK [drain_rejected=85, processed=0, rejected=170] [dispatch=game, queued=170, sent=170, accepted=0, rejected=170, reject-codes=0:58/3:112] [t=184ms]
+22:59:07.067  automation: queue 2 Carnivore Food batch(es) (6 units) for stock target 10
+22:59:07.265  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=6:2, boundary-passes=1, pending=0] [t=199ms]
+22:59:07.265  automation: machine 600006 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:07.265  automation: queue 1 Carnivore Food batch(es) (3 units) for stock target 10
+22:59:07.444  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=178ms]
+22:59:07.444  automation: machine 600001 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:07.444  automation: queue 3 Bread for stock target 10
+22:59:07.640  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=195ms]
+22:59:07.640  automation: machine 600000 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:07.640  automation: queue 3 Popcorn for stock target 10
+22:59:07.818  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=178ms]
+22:59:07.819  automation: machine 600005 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:07.819  automation: queue 1 Honey for Honey Popcorn
+22:59:08.212  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=393ms]
+22:59:08.212  automation: queue 3 Grilled Lamb Skewer for stock target 10
+22:59:08.665  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=452ms]
+22:59:08.665  automation: machine 600004 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:08.665  automation: queue 1 Apple Pie for stock target 10
+22:59:08.881  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=215ms]
+22:59:08.881  automation: queue 3 Fish Pie for stock target 10
+22:59:09.055  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=174ms]
+22:59:09.055  automation: machine 600009 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:09.055  automation: queue 1 Potato Feta Cake for stock target 10
+22:59:09.229  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=174ms]
+22:59:09.229  automation: machine 600010 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:09.230  automation: queue 1 IronBar for stock target 10
+22:59:09.404  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=174ms]
+22:59:09.404  automation: machine 600008 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:09.404  automation: queue 1 IronBar for stock target 10
+22:59:09.579  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=175ms]
+22:59:09.579  automation: machine 600018 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:09.579  automation: queue 3 SesameIceCream for stock target 10
+22:59:09.885  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=306ms]
+22:59:09.886  automation: queue 1 Carrot Juice for stock target 10
+22:59:10.067  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=182ms]
+22:59:10.068  automation: machine 600011 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+22:59:10.068  automation: harvest ready fields
+22:59:20.294  automation: harvest_all missed its execution deadline, but the native realm still reports the current own-farm FarmMode; isolating the failure to this module
+22:59:20.294  [smart:harvest_all] FAIL: native bounded operation timed out [dispatch=game, queued=101, sent=101, accepted=5, rejected=96, reject-codes=0:96, boundary-passes=4, pending=0] [t=10.180s]
+22:59:20.294  automation: fields module ended after a live game-side failure; unrelated modules will continue
+22:59:20.294  automation: place Flowerbed_2 at (-16,-16)
+22:59:20.622  [smart:place_object_batch] OK [drain_rejected=1, placed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=13:1] [t=327ms]
+22:59:20.622  automation: collect mail: scheduled maintenance after core farm work
+22:59:20.950  [smart:collect_mail] OK [drain_rejected=1, mail=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=2:1] [t=328ms]
+22:59:20.950  automation: mystery box claim cycle: scheduled maintenance after core farm work
+22:59:21.126  [smart:mystery_box_claim_cycle] OK [processed=0, rejected=0] [t=176ms]
+22:59:21.127  automation: spin wheel cycle: scheduled maintenance after core farm work
+22:59:21.303  [smart:spin_wheel_cycle] OK [drain_rejected=1, wheel=0, rejected=2] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=4:2] [t=176ms]
+22:59:21.303  automation: event curtain open all: scheduled maintenance after core farm work
+22:59:21.478  [smart:event_curtain_open_all] OK [curtains=0, rejected=0] [t=175ms]
+22:59:21.478  automation: event basket open all: scheduled maintenance after core farm work
+22:59:21.822  [smart:event_basket_open_all] OK [t=342ms]
+22:59:21.822  automation: event floater collect: scheduled maintenance after core farm work
+22:59:21.998  [smart:event_floater_collect] OK [floaters=0, floaters_rejected=0] [t=177ms]
+22:59:21.999  automation: farm pass claim direct: scheduled maintenance after core farm work
+22:59:22.516  [smart:farm_pass_claim_direct] OK [farm_pass=0, rejected=0] [t=516ms]
+22:59:22.516  automation: achievement claim all: scheduled maintenance after core farm work
+22:59:22.689  [smart:achievement_claim_all] OK [drain_rejected=151, claimed=0, rejected=151] [dispatch=game, queued=151, sent=151, accepted=0, rejected=151, reject-codes=4:151] [t=173ms]
+22:59:22.690  automation: build claim all: scheduled maintenance after core farm work
+22:59:22.889  [smart:build_claim_all] OK [drain_rejected=1, claimed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=199ms]
+22:59:22.890  automation: tutorial skip all: scheduled maintenance after core farm work
+22:59:23.079  [smart:tutorial_skip_all] OK [tutorials=0, tutorial_farm_active=1] [t=189ms]
+22:59:23.080  automation: tutorials are complete; this account will not be rescanned again during the current run
+22:59:23.080  automation: storage upgrade barn: scheduled maintenance after core farm work
+22:59:23.257  [smart:storage_upgrade_barn] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=177ms]
+22:59:23.257  automation: storage upgrade silo: scheduled maintenance after core farm work
+22:59:23.437  [smart:storage_upgrade_silo] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=180ms]
+22:59:23.438  automation: travel to the fishing lake
+22:59:38.658  automation: travel missed its execution deadline, but the native realm still reports the current own-farm FarmMode; isolating the failure to this module
+22:59:38.658  [smart:travel] FAIL: native bounded operation timed out [dispatch=game, queued=1, sent=1, accepted=0, rejected=0, boundary-passes=1, pending=0] [t=15.179s]
+22:59:38.658  automation: fishing module ended after a live game-side failure; unrelated modules will continue
+22:59:38.660  automation: refreshing stock and roadside-shop slots...
+22:59:39.601  automation: market snapshot ready [readouts=5, t=940ms, slowest=raw_inventory_detail 198ms]
+22:59:39.840  automation: signed market plan ready [steps=2, notes=1, t=240ms]
+22:59:39.840  automation: roadside shop: advertising is switched off in this config
+22:59:39.842  automation: collect sold roadside-shop slots
+22:59:40.019  [smart:rss_claim_all] OK [drain_rejected=16, claimed=0, rejected=16, slots=16] [dispatch=game, queued=16, sent=16, accepted=0, rejected=16, reject-codes=0:16] [t=177ms]
+22:59:40.019  automation: list 16 surplus stack(s) (using the available free advertisement on the first one)
+22:59:40.380  [smart:rss_list_batch] OK [drain_ok=13, listed=13, rejected=0] [t=361ms]
+22:59:40.778  account inventory snapshot saved [barn=192, silo=41, other=494]
+22:59:40.778  [pass 1] complete [elapsed=45.516s, mutations=possible]
+22:59:40.779  pass done - next full pass follows the free newspaper refresh
+22:59:40.952  waiting for the free newspaper refresh (~120s)...
+23:05:33.049  cycle stopped
+23:06:00.158  switching to account: 86
+23:06:00.663  pushing save...
+23:06:00.811  starting the game...
+23:06:01.063  engine: verifying supported game installation [T+251ms]
+23:06:01.166  engine: fetching signed native runtime and game definitions [T+354ms]
+23:06:03.658  engine: native engine: verifying signed native provider environment [T+2.846s]
+23:06:04.106  engine: native engine: staging authenticated native runtime [T+3.294s]
+23:06:04.485  engine: native engine: launching game through the HDX native provider [T+3.673s]
+23:06:07.215  engine: native engine: waiting for native guest transport [T+6.403s]
+23:06:07.530  engine: native engine: authenticating native guest transport [T+6.718s]
+23:06:07.688  engine: native engine: arming native guest session [T+6.876s]
+23:06:08.322  engine failed: engine: could not obtain a session epoch from the server
+23:06:08.322  initial account start did not become ready - retrying clean launch (2/3)
+23:06:08.323  switching to account: 86
+23:06:08.738  pushing save...
+23:06:08.876  starting the game...
+23:06:09.149  engine: verifying supported game installation [T+273ms]
+23:06:09.229  engine: fetching signed native runtime and game definitions [T+352ms]
+23:06:09.930  engine: native engine: verifying signed native provider environment [T+1.054s]
+23:06:10.364  engine: native engine: staging authenticated native runtime [T+1.487s]
+23:06:10.752  engine: native engine: launching game through the HDX native provider [T+1.875s]
+23:06:26.177  engine failed: engine: the HDX native provider could not load the guest (exit=1): provider_ready  the exact game main process was not observed
+23:06:26.178  initial account start did not become ready - retrying clean launch (3/3)
+23:06:26.178  switching to account: 86
+23:06:26.594  pushing save...
+23:06:26.740  starting the game...
+23:06:26.985  engine: verifying supported game installation [T+244ms]
+23:06:27.070  engine: fetching signed native runtime and game definitions [T+330ms]
+23:06:27.662  engine: native engine: verifying signed native provider environment [T+922ms]
+23:06:28.086  engine: native engine: staging authenticated native runtime [T+1.346s]
+23:06:28.453  engine: native engine: launching game through the HDX native provider [T+1.712s]
+23:06:31.083  engine: native engine: waiting for native guest transport [T+4.343s]
+23:06:31.125  engine: native engine: authenticating native guest transport [T+4.385s]
+23:06:31.298  engine: native engine: arming native guest session [T+4.557s]
+23:06:31.501  engine: native engine: waiting for structural farm readiness [T+4.760s]
+23:06:44.475  engine: native engine: native engine ready [T+17.722s]
+23:06:44.877  engine: environment: emulator 23113RKC6C, bridge libnb.so, translator /mnt/expand/lib64/arm64/libzyte.so /mnt/expand/lib64/x86_64/libzyte.so /system/lib64/libhoudini.so /system/lib64/libnb.so [T+18.136s]
+23:06:44.877  engine: ready [T+18.136s]
+23:06:44.877  game ready [engine=18.136s, account-start=18.699s]
+23:06:44.882  [pass 1] start [account=86, config=loll, trigger=scheduler]
+23:06:44.885  [automation] observing and planning
+23:06:45.061  automation: daily expansion/upgrade material allowance [bought=49/80, remaining=31]
+23:06:45.415  automation: reading current newspaper ads...
+23:06:45.585  automation: requesting the current newspaper...
+23:06:49.520  automation: signed newspaper plan ready [steps=60, notes=0, t=239ms]
+23:06:49.520  automation: visit direct Pumpkin Pie advertisement
+23:06:52.827  [smart:visit_home_raw] OK [visit=2] [t=3.307s]
+23:06:53.373  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=373ms]
+23:06:53.373  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:06:53.373  automation: visit direct Shovel advertisement
+23:06:57.951  [smart:visit_home_raw] OK [visit=2] [t=4.578s]
+23:06:58.466  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=354ms]
+23:06:58.466  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:06:58.466  automation: visit direct Hand Drill advertisement
+23:07:02.288  [smart:visit_home_raw] OK [visit=2] [t=3.821s]
+23:07:02.965  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=371ms]
+23:07:02.965  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:07:02.965  automation: visit direct Hand Drill advertisement
+23:07:07.108  [smart:visit_home_raw] OK [visit=2] [t=4.142s]
+23:07:07.615  [smart:rss_buy_slots_batch] OK [requested=3, purchased=1, rejected=2, stale=0] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=7:2] [t=338ms]
+23:07:07.616  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:07:07.616  automation: visit direct Hand Drill advertisement
+23:07:13.800  [smart:visit_home_raw] OK [visit=2] [t=6.184s]
+23:07:14.372  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=3, stale=0] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=7:3] [t=401ms]
+23:07:14.372  automation: the game rejected 3 purchase request(s); continuing with conservative stock projection
+23:07:14.372  automation: visit direct Hand Drill advertisement
+23:07:19.092  [smart:visit_home_raw] OK [visit=2] [t=4.719s]
+23:07:19.576  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=314ms]
+23:07:19.576  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:07:19.576  automation: visit direct Hand Drill advertisement
+23:07:23.213  [smart:visit_home_raw] OK [visit=2] [t=3.636s]
+23:07:23.694  [smart:rss_buy_slots_batch] OK [requested=14, purchased=0, rejected=14, stale=0] [dispatch=game, queued=14, sent=14, accepted=0, rejected=14, reject-codes=7:14] [t=310ms]
+23:07:23.694  automation: the game rejected 14 purchase request(s); continuing with conservative stock projection
+23:07:23.694  automation: visit direct Hand Drill advertisement
+23:07:26.777  [smart:visit_home_raw] OK [visit=2] [t=3.083s]
+23:07:27.294  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=352ms]
+23:07:27.294  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:07:27.294  automation: visit direct Hand Drill advertisement
+23:07:30.088  [smart:visit_home_raw] OK [visit=2] [t=2.793s]
+23:07:30.564  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=302ms]
+23:07:30.564  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:07:30.565  automation: visit direct Hand Drill advertisement
+23:07:33.734  [smart:visit_home_raw] OK [visit=2] [t=3.169s]
+23:07:34.216  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=312ms]
+23:07:34.216  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:07:34.216  automation: visit direct Hand Drill advertisement
+23:07:37.427  [smart:visit_home_raw] OK [visit=2] [t=3.211s]
+23:07:38.065  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=433ms]
+23:07:38.065  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:07:38.066  automation: visit direct Hand Drill advertisement
+23:07:41.585  [smart:visit_home_raw] OK [visit=2] [t=3.519s]
+23:07:42.070  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=3, stale=0] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=7:3] [t=324ms]
+23:07:42.070  automation: the game rejected 3 purchase request(s); continuing with conservative stock projection
+23:07:42.070  automation: visit direct Hand Drill advertisement
+23:07:45.454  [smart:visit_home_raw] OK [visit=2] [t=3.383s]
+23:07:45.951  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=316ms]
+23:07:45.951  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:07:45.952  automation: visit direct Hand Drill advertisement
+23:07:50.528  [smart:visit_home_raw] OK [visit=2] [t=4.576s]
+23:07:51.403  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=571ms]
+23:07:51.403  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:07:51.404  automation: visit direct Hand Drill advertisement
+23:07:56.834  [smart:visit_home_raw] OK [visit=2] [t=5.430s]
+23:07:57.679  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=582ms]
+23:07:57.679  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:07:57.680  automation: visit direct Hand Drill advertisement
+23:08:04.588  automation: visit_home_raw missed its execution deadline while the native game remained responsive outside FarmMode; ending this plan without restarting the live process
+23:08:04.589  [smart:visit_home_raw] FAIL: native bounded operation timed out [dispatch=game, queued=1, sent=1, accepted=0, rejected=0, boundary-passes=1, pending=0] [t=6.168s]
+23:08:04.749  automation: asked for 19/11604517, the game is showing 19/11604517 [area=2]
+23:08:04.749  automation: the advertised farm did not finish loading; ending only this sniper phase after returning home
+23:08:08.631  [smart:travel] OK [traveled=1] [t=3.881s]
+23:08:08.631  automation: returned home after ending the sniper run; normal farm automation will continue from fresh state
+23:08:08.632  automation: observing farm state...
+23:08:10.853  automation: full snapshot ready [readouts=11, t=2.222s, slowest=animals_detail 282ms]
+23:08:11.372  automation: signed full plan ready [steps=119, notes=86, t=518ms]
+23:08:11.372  automation: no selected mine tool is currently usable
+23:08:11.372  automation: Milk: unavailable dependency for Cheese
+23:08:11.372  automation: Banana: unavailable dependency for BananaBread
+23:08:11.372  automation: Coconut: unavailable dependency for Macaroon
+23:08:11.372  automation: Honeycomb: unavailable dependency for Honey
+23:08:11.373  automation: Bacon: unavailable dependency for Hamburger
+23:08:11.373  automation: Egg: unavailable dependency for Peach Tart
+23:08:11.373  automation: Wool: unavailable dependency for Sweater
+23:08:11.373  automation: Duck Down: unavailable dependency for Pillow
+23:08:11.373  automation: GoldOre: unavailable dependency for Fancy Cake
+23:08:11.373  automation: Pomegranate: unavailable dependency for Pomegranate Cake
+23:08:11.373  automation: SilverOre: unavailable dependency for SilverBar
+23:08:11.373  automation: PlatinumOre: unavailable dependency for PlatinumBar
+23:08:11.374  automation: IronOre: unavailable dependency for IronBar
+23:08:11.374  automation: Guava: unavailable dependency for Fruit Sorbet
+23:08:11.374  automation: Mango: unavailable dependency for Fruit Sorbet
+23:08:11.374  automation: Plum: unavailable dependency for PlumJam
+23:08:11.374  automation: Lamb Meat: unavailable dependency for Tower Doner Supreme
+23:08:11.374  automation: Diamonds: unavailable dependency for Diamond Ring
+23:08:11.374  automation: item 28100000: unavailable dependency for stock target 10
+23:08:11.374  automation: item 28100001: unavailable dependency for stock target 10
+23:08:11.375  automation: item 28100002: unavailable dependency for stock target 10
+23:08:11.375  automation: Hot Dog: unavailable dependency for stock target 10
+23:08:11.375  automation: item 16700001: unavailable dependency for stock target 10
+23:08:11.375  automation: item 16700002: unavailable dependency for stock target 10
+23:08:11.375  automation: item 16700003: unavailable dependency for stock target 10
+23:08:11.375  automation: item 17700000: unavailable dependency for stock target 10
+23:08:11.375  automation: item 17700001: unavailable dependency for stock target 10
+23:08:11.375  automation: item 17700002: unavailable dependency for stock target 10
+23:08:11.375  automation: item 17700003: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700007: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700004: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700005: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700006: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700009: unavailable dependency for stock target 10
+23:08:11.376  automation: item 17700008: unavailable dependency for stock target 10
+23:08:11.376  automation: item 23900002: unavailable dependency for stock target 10
+23:08:11.376  automation: item 23900001: unavailable dependency for stock target 10
+23:08:11.377  automation: item 23900000: unavailable dependency for stock target 10
+23:08:11.377  automation: item 23900003: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24100002: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24100003: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24100000: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24100001: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24100004: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000000: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000002: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000004: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000001: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000003: unavailable dependency for stock target 10
+23:08:11.377  automation: item 24000005: unavailable dependency for stock target 10
+23:08:11.377  automation: item 26100001: unavailable dependency for stock target 10
+23:08:11.378  automation: item 26100002: unavailable dependency for stock target 10
+23:08:11.378  automation: item 26100003: unavailable dependency for stock target 10
+23:08:11.378  automation: item 26100000: unavailable dependency for stock target 10
+23:08:11.378  automation: item 26100004: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26200000: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26200001: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26200002: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26300004: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26300000: unavailable dependency for stock target 10
+23:08:11.379  automation: item 26300001: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26300002: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26300003: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26700000: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26700001: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26700002: unavailable dependency for stock target 10
+23:08:11.380  automation: item 26700003: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26900000: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26900002: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26900001: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26800003: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26800000: unavailable dependency for stock target 10
+23:08:11.381  automation: item 26800001: unavailable dependency for stock target 10
+23:08:11.382  automation: item 26800002: unavailable dependency for stock target 10
+23:08:11.382  automation: item 29400000: unavailable dependency for stock target 10
+23:08:11.382  automation: item 29400001: unavailable dependency for stock target 10
+23:08:11.382  automation: item 29400002: unavailable dependency for stock target 10
+23:08:11.382  automation: item 27400002: unavailable dependency for stock target 10
+23:08:11.382  automation: item 27400000: unavailable dependency for stock target 10
+23:08:11.383  automation: item 27400003: unavailable dependency for stock target 10
+23:08:11.383  automation: item 27400004: unavailable dependency for stock target 10
+23:08:11.383  automation: item 27400001: unavailable dependency for stock target 10
+23:08:11.383  automation: item 28000000: unavailable dependency for stock target 10
+23:08:11.383  automation: item 28000001: unavailable dependency for stock target 10
+23:08:11.383  automation: item 28000002: unavailable dependency for stock target 10
+23:08:11.384  automation: collect ready mined ore
+23:08:11.623  [smart:mine_collect] OK [drain_rejected=1, mined=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=250ms]
+23:08:11.623  automation: collect ready trees and bushes
+23:08:12.748  [smart:tree_collect_all] OK [drain_ok=131, drain_rejected=1584, fruit=131, rejected=1584] [dispatch=game, queued=1715, sent=1715, accepted=131, rejected=1584, reject-codes=6:944/5:184/7:20/0:436] [t=1.125s]
+23:08:12.748  automation: request help for eligible dead trees and bushes
+23:08:13.254  [smart:tree_request_help_all] OK [drain_ok=6, drain_rejected=582, requested=6, rejected=582] [dispatch=game, queued=588, sent=588, accepted=6, rejected=582, reject-codes=0:582] [t=505ms]
+23:08:13.254  automation: collect ready honey
+23:08:13.433  [smart:honey_collect] OK [drain_rejected=6, honey=0, honey_rejected=6] [dispatch=game, queued=6, sent=6, accepted=0, rejected=6, reject-codes=3:6] [t=180ms]
+23:08:13.434  automation: collect finished machine output
+23:08:13.633  [smart:production_collect_all] OK [drain_rejected=41, collected=0, rejected=41] [dispatch=game, queued=41, sent=41, accepted=0, rejected=41, reject-codes=0:21/3:20] [t=200ms]
+23:08:13.634  automation: queue 1 Cow Food batch(es) (3 units) for animal feed
+23:08:13.825  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=191ms]
+23:08:13.825  automation: collect and feed the selected animal types
+23:08:14.126  [smart:animal_cycle] OK [drain_rejected=85, processed=0, rejected=170] [dispatch=game, queued=170, sent=170, accepted=0, rejected=170, reject-codes=0:58/3:112] [t=300ms]
+23:08:14.126  automation: queue 2 Carnivore Food batch(es) (6 units) for stock target 10
+23:08:14.524  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=6:2, boundary-passes=1, pending=0] [t=398ms]
+23:08:14.525  automation: machine 600006 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:14.525  automation: queue 1 Carnivore Food batch(es) (3 units) for stock target 10
+23:08:14.714  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=189ms]
+23:08:14.714  automation: machine 600001 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:14.714  automation: queue 3 Bread for stock target 10
+23:08:14.887  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=173ms]
+23:08:14.887  automation: queue 3 Cookie for stock target 10
+23:08:15.070  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=183ms]
+23:08:15.071  automation: machine 600000 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:15.071  automation: queue 3 Popcorn for stock target 10
+23:08:15.246  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=175ms]
+23:08:15.246  automation: machine 600005 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:15.246  automation: queue 3 Grilled Lamb Skewer for stock target 10
+23:08:15.430  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=184ms]
+23:08:15.430  automation: queue 3 Fish and Chips for stock target 10
+23:08:15.629  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=199ms]
+23:08:15.630  automation: machine 600004 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:15.630  automation: queue 3 Fish Pie for stock target 10
+23:08:15.815  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=185ms]
+23:08:15.816  automation: machine 600009 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:15.816  automation: queue 1 Strawberry Cake for stock target 10
+23:08:15.987  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=171ms]
+23:08:15.987  automation: machine 600010 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:15.987  automation: queue 1 IronBar for stock target 10
+23:08:16.187  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=200ms]
+23:08:16.187  automation: machine 600008 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:16.187  automation: queue 1 IronBar for stock target 10
+23:08:16.362  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=174ms]
+23:08:16.362  automation: machine 600018 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:16.362  automation: queue 1 Carrot Juice for stock target 10
+23:08:16.550  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=188ms]
+23:08:16.550  automation: machine 600011 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:16.551  automation: queue 3 Apple Jam for stock target 10
+23:08:16.720  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=169ms]
+23:08:16.721  automation: machine 600013 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:16.721  automation: queue 1 Diamond Ring for stock target 10
+23:08:16.922  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=201ms]
+23:08:16.922  automation: queue 3 Flower Pendant for stock target 10
+23:08:17.089  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=6:3, boundary-passes=1, pending=0] [t=167ms]
+23:08:17.090  automation: machine 600023 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:17.090  automation: queue 3 Espreso for stock target 10
+23:08:17.274  [smart:machine_produce] OK [drain_ok=3, queued=3, rejected=0] [t=185ms]
+23:08:17.275  automation: queue 1 Rice Noodles for Noodle Soup
+23:08:17.563  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=288ms]
+23:08:17.563  automation: queue 1 Strawberry Candle for stock target 10
+23:08:17.749  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=185ms]
+23:08:17.749  automation: queue 2 Raspberry Candle for stock target 10
+23:08:18.012  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=262ms]
+23:08:18.012  automation: machine 600020 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:18.013  automation: queue 2 Candy bouquet for stock target 10
+23:08:18.209  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=6:2, boundary-passes=1, pending=0] [t=196ms]
+23:08:18.209  automation: machine 600029 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:18.209  automation: queue 1 Caramel Apple for stock target 10
+23:08:18.401  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=191ms]
+23:08:18.401  automation: machine 600019 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:18.401  automation: queue 1 White Sugar for Cotton Candy
+23:08:18.586  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=185ms]
+23:08:18.586  automation: queue 1 SoySauce for stock target 10
+23:08:18.768  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=181ms]
+23:08:18.768  automation: queue 1 Bean Salad for stock target 10
+23:08:18.976  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=208ms]
+23:08:18.976  automation: queue 1 Beetroot salad for stock target 10
+23:08:19.182  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=206ms]
+23:08:19.183  automation: machine 600027 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:19.183  automation: queue 1 GreenSmoothie for stock target 10
+23:08:19.391  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=208ms]
+23:08:19.391  automation: queue 3 MixedSmoothie for stock target 10
+23:08:19.571  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=180ms]
+23:08:19.572  automation: machine 600030 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:08:19.572  automation: queue 2 Lemon essential oil for stock target 10
+23:08:19.778  [smart:machine_produce] OK [drain_ok=2, queued=2, rejected=0] [t=206ms]
+23:08:19.779  automation: queue 2 Chamomile essential oil for stock target 10
+23:08:19.943  [smart:machine_produce] OK [drain_ok=2, queued=2, rejected=0] [t=164ms]
+23:08:19.943  automation: queue 3 Crunchy donut for stock target 10
+23:08:20.129  [smart:machine_produce] OK [drain_ok=3, queued=3, rejected=0] [t=186ms]
+23:08:20.130  automation: queue 2 Spicy fish for stock target 10
+23:08:20.297  [smart:machine_produce] OK [drain_ok=1, drain_rejected=1, queued=1, rejected=1] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=5:1] [t=168ms]
+23:08:20.297  automation: harvest ready fields
+23:08:22.844  [smart:harvest_all] OK: harvested [drain_ok=39, drain_rejected=57, harvested=39, field_rejected=57, h_attempted=96, h_accepted=39, h_empty_before=12, h_empty_after=51] [t=2.547s]
+23:08:22.845  automation: sow 3 field(s) with Grapes
+23:08:23.059  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=214ms]
+23:08:23.059  automation: sow 3 field(s) with Mint
+23:08:23.266  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=206ms]
+23:08:23.266  automation: sow 3 field(s) with Watermelon
+23:08:23.464  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=198ms]
+23:08:23.465  automation: sow 3 field(s) with Eggplant
+23:08:23.649  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=184ms]
+23:08:23.649  automation: sow 3 field(s) with Broccoli
+23:08:23.830  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=180ms]
+23:08:23.830  automation: sow 3 field(s) with Mushroom
+23:08:24.000  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=170ms]
+23:08:24.000  automation: sow 3 field(s) with item 400034
+23:08:24.174  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=173ms]
+23:08:24.174  automation: sow 3 field(s) with Chickpea
+23:08:24.353  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=179ms]
+23:08:24.354  automation: sow 3 field(s) with PassionFruit
+23:08:24.529  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=175ms]
+23:08:24.529  automation: sow 3 field(s) with Oats
+23:08:24.715  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=51] [t=186ms]
+23:08:24.716  automation: sow 3 field(s) with Cotton
+23:08:24.954  [smart:plant_crop] OK [drain_ok=1, drain_rejected=1, planted=1, field_rejected=0, bought=0, p_empty_after=50] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=0:1] [t=237ms]
+23:08:24.954  automation: sow 3 field(s) with Onion
+23:08:25.159  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=47] [t=205ms]
+23:08:25.159  automation: sow 3 field(s) with TeaLeaves
+23:08:25.377  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=44] [t=217ms]
+23:08:25.378  automation: sow 3 field(s) with Tomato
+23:08:25.822  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=41] [t=445ms]
+23:08:25.823  automation: sow 3 field(s) with Lettuce
+23:08:26.046  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=38] [t=223ms]
+23:08:26.046  automation: sow 3 field(s) with Chamomile
+23:08:26.277  [smart:plant_crop] OK [drain_ok=1, planted=3, field_rejected=0, bought=1, p_empty_after=35] [t=230ms]
+23:08:26.277  automation: sow 3 field(s) with Chili
+23:08:26.489  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=32] [t=212ms]
+23:08:26.489  automation: sow 3 field(s) with Beetroot
+23:08:26.715  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=29] [t=226ms]
+23:08:26.715  automation: sow 3 field(s) with Pumpkin
+23:08:26.939  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=26] [t=223ms]
+23:08:26.939  automation: sow 3 field(s) with Bellpepper
+23:08:27.151  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=23] [t=212ms]
+23:08:27.152  automation: sow 3 field(s) with Ginger
+23:08:27.367  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=20] [t=215ms]
+23:08:27.368  automation: sow 3 field(s) with Peony
+23:08:27.815  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=17] [t=448ms]
+23:08:27.817  automation: sow 3 field(s) with Strawberry
+23:08:28.928  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=14] [t=1.111s]
+23:08:28.928  automation: sow 2 field(s) with Potato
+23:08:29.214  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=12] [t=285ms]
+23:08:29.214  automation: sow 2 field(s) with Sesame
+23:08:29.453  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=10] [t=239ms]
+23:08:29.453  automation: sow 2 field(s) with Indigo
+23:08:29.680  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=8] [t=226ms]
+23:08:29.680  automation: sow 2 field(s) with Soybean
+23:08:29.895  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=6] [t=214ms]
+23:08:29.895  automation: sow 2 field(s) with Sunflower
+23:08:30.167  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=4] [t=273ms]
+23:08:30.169  automation: sow 2 field(s) with Pineapple
+23:08:30.393  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=2] [t=225ms]
+23:08:30.394  automation: sow 2 field(s) with Lily
+23:08:30.622  [smart:plant_crop] OK [drain_ok=2, planted=2, field_rejected=0, bought=0, p_empty_after=0] [t=229ms]
+23:08:30.623  automation: no empty field remained after the live harvest; remaining sowing waits until storage can accept another cut
+23:08:30.623  automation: place Flowerbed_2 at (-16,-16)
+23:08:30.926  [smart:place_object_batch] OK [drain_rejected=1, placed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=13:1] [t=303ms]
+23:08:30.926  automation: collect mail: scheduled maintenance after core farm work
+23:08:31.107  [smart:collect_mail] OK [drain_rejected=1, mail=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=2:1] [t=181ms]
+23:08:31.107  automation: mystery box claim cycle: scheduled maintenance after core farm work
+23:08:31.267  [smart:mystery_box_claim_cycle] OK [processed=0, rejected=0] [t=160ms]
+23:08:31.267  automation: spin wheel cycle: scheduled maintenance after core farm work
+23:08:31.464  [smart:spin_wheel_cycle] OK [drain_rejected=1, wheel=0, rejected=2] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=4:2] [t=196ms]
+23:08:31.464  automation: event curtain open all: scheduled maintenance after core farm work
+23:08:31.627  [smart:event_curtain_open_all] OK [curtains=0, rejected=0] [t=163ms]
+23:08:31.627  automation: event basket open all: scheduled maintenance after core farm work
+23:08:31.784  [smart:event_basket_open_all] OK [t=157ms]
+23:08:31.784  automation: event floater collect: scheduled maintenance after core farm work
+23:08:31.947  [smart:event_floater_collect] OK [floaters=0, floaters_rejected=0] [t=161ms]
+23:08:31.947  automation: farm pass claim direct: scheduled maintenance after core farm work
+23:08:34.329  [smart:farm_pass_claim_direct] OK [farm_pass=0, rejected=0] [t=2.382s]
+23:08:34.329  automation: achievement claim all: scheduled maintenance after core farm work
+23:08:34.559  [smart:achievement_claim_all] OK [drain_rejected=151, claimed=0, rejected=151] [dispatch=game, queued=151, sent=151, accepted=0, rejected=151, reject-codes=4:151] [t=229ms]
+23:08:34.559  automation: build claim all: scheduled maintenance after core farm work
+23:08:34.729  [smart:build_claim_all] OK [drain_rejected=1, claimed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=170ms]
+23:08:34.730  automation: tutorial skip all: scheduled maintenance after core farm work
+23:08:39.952  [smart:tutorial_skip_all] OK [tutorials=0, tutorial_farm_active=1] [t=5.222s]
+23:08:39.952  automation: tutorials are complete; this account will not be rescanned again during the current run
+23:08:39.953  automation: storage upgrade barn: scheduled maintenance after core farm work
+23:08:40.129  [smart:storage_upgrade_barn] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=176ms]
+23:08:40.129  automation: storage upgrade silo: scheduled maintenance after core farm work
+23:08:40.311  [smart:storage_upgrade_silo] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=181ms]
+23:08:40.311  automation: travel to the fishing lake
+23:08:42.104  [smart:travel] OK [traveled=4] [t=1.794s]
+23:08:42.269  automation: collect finished lures
+23:08:42.442  [smart:fishing_lure_bench_collect] OK [drain_ok=1, drain_rejected=23, lure_bench=1] [dispatch=game, queued=24, sent=24, accepted=1, rejected=23, reject-codes=3:23] [t=172ms]
+23:08:42.442  automation: take every fish in the lake
+23:08:42.617  [smart:fish_catch_ready] OK: that was the last of this bait [drain_ok=1, caught=1, rejected=0, lure_used=9800000, bait_left=0] [t=174ms]
+23:08:42.617  automation: collect ready pool lobsters
+23:08:42.789  [smart:lobster_pool_collect] OK [drain_rejected=3, lobster=0, rejected=3] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=0:3] [t=172ms]
+23:08:42.790  automation: collect ready sea lobsters
+23:08:42.955  [smart:lobster_sea_collect] OK [sea_lobster=0, rejected=0] [t=166ms]
+23:08:42.956  automation: collect finished nets
+23:08:43.236  [smart:fishing_net_maker_collect] OK [drain_rejected=24, net_maker=0] [dispatch=game, queued=24, sent=24, accepted=0, rejected=24, reject-codes=3:24] [t=279ms]
+23:08:43.236  automation: return home after lake tasks
+23:08:46.666  [smart:travel] OK [traveled=1] [t=3.430s]
+23:08:46.668  automation: refreshing stock and roadside-shop slots...
+23:08:47.683  automation: market snapshot ready [readouts=5, t=1.013s, slowest=animals_detail 267ms]
+23:08:47.952  automation: signed market plan ready [steps=3, notes=0, t=269ms]
+23:08:47.953  automation: collect sold roadside-shop slots
+23:08:48.119  [smart:rss_claim_all] OK [drain_ok=16, claimed=16, rejected=0, slots=16] [t=167ms]
+23:08:48.120  automation: list 16 surplus stack(s)
+23:08:48.517  [smart:rss_list_batch] OK [drain_ok=16, listed=16, rejected=0] [t=397ms]
+23:08:48.517  automation: advertise the listing already in slot 2
+23:08:48.738  [smart:rss_advertise_slot] OK [drain_ok=1, advertised=1, rejected=0, free=1] [t=219ms]
+23:08:49.115  account inventory snapshot saved [barn=191, silo=39, other=492]
+23:08:49.115  [pass 1] complete [elapsed=124.233s, mutations=possible]
+23:08:49.118  pass done - next full pass follows the free newspaper refresh
+23:08:49.285  waiting for the free newspaper refresh (~62s)...
+23:09:52.967  [pass 2] start [account=86, config=loll, trigger=newspaper]
+23:09:53.041  [automation] observing and planning
+23:09:53.214  automation: daily expansion/upgrade material allowance [bought=49/80, remaining=31]
+23:09:53.377  automation: reading current newspaper ads...
+23:09:53.545  automation: requesting the free natural newspaper refresh...
+23:09:54.795  automation: signed newspaper plan ready [steps=60, notes=0, t=239ms]
+23:09:54.795  automation: visit direct Blueberry Muffin advertisement
+23:09:59.402  [smart:visit_home_raw] OK [visit=2] [t=4.607s]
+23:10:00.049  [smart:rss_buy_slots_batch] OK [requested=5, purchased=0, rejected=5, stale=0] [dispatch=game, queued=5, sent=5, accepted=0, rejected=5, reject-codes=7:5] [t=482ms]
+23:10:00.051  automation: the game rejected 5 purchase request(s); continuing with conservative stock projection
+23:10:00.051  automation: visit direct Shepherds Pie advertisement
+23:10:04.117  [smart:visit_home_raw] OK [visit=2] [t=4.068s]
+23:10:04.619  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=3, stale=0] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=7:3] [t=325ms]
+23:10:04.620  automation: the game rejected 3 purchase request(s); continuing with conservative stock projection
+23:10:04.620  automation: visit direct Hand Drill advertisement
+23:10:07.220  [smart:visit_home_raw] OK [visit=2] [t=2.600s]
+23:10:07.771  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=3, stale=0] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=7:3] [t=348ms]
+23:10:07.771  automation: the game rejected 3 purchase request(s); continuing with conservative stock projection
+23:10:07.771  automation: visit direct Hand Drill advertisement
+23:10:10.657  [smart:visit_home_raw] OK [visit=2] [t=2.886s]
+23:10:11.564  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=744ms]
+23:10:11.564  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:10:11.565  automation: visit direct Hand Drill advertisement
+23:10:16.493  [smart:visit_home_raw] OK [visit=2] [t=4.929s]
+23:10:17.003  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=346ms]
+23:10:17.003  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:10:17.003  automation: visit direct Hand Drill advertisement
+23:10:23.914  automation: visit_home_raw missed its execution deadline while the native game remained responsive outside FarmMode; ending this plan without restarting the live process
+23:10:23.915  [smart:visit_home_raw] FAIL: native bounded operation timed out [dispatch=game, queued=1, sent=1, accepted=0, rejected=0, boundary-passes=1, pending=0] [t=6.172s]
+23:10:24.085  automation: the switch went nowhere - asked for 15/43214069, the game is showing no farm at all [area=-1]
+23:10:24.086  automation: the advertised farm did not finish loading; ending only this sniper phase after returning home
+23:10:27.727  [smart:travel] OK [traveled=1] [t=3.642s]
+23:10:27.727  automation: returned home after ending the sniper run; normal farm automation will continue from fresh state
+23:10:27.728  automation: observing farm state...
+23:10:30.617  automation: full snapshot ready [readouts=11, t=2.888s, slowest=raw_inventory_detail 875ms]
+23:10:31.113  automation: signed full plan ready [steps=73, notes=86, t=496ms]
+23:10:31.113  automation: no selected mine tool is currently usable
+23:10:31.114  automation: Milk: unavailable dependency for Cheese
+23:10:31.114  automation: Banana: unavailable dependency for BananaBread
+23:10:31.114  automation: Coconut: unavailable dependency for Macaroon
+23:10:31.114  automation: Honeycomb: unavailable dependency for Honey
+23:10:31.114  automation: Bacon: unavailable dependency for Hamburger
+23:10:31.114  automation: Egg: unavailable dependency for Peach Tart
+23:10:31.114  automation: Wool: unavailable dependency for Sweater
+23:10:31.114  automation: Duck Down: unavailable dependency for Pillow
+23:10:31.114  automation: GoldOre: unavailable dependency for Fancy Cake
+23:10:31.114  automation: Pomegranate: unavailable dependency for Pomegranate Cake
+23:10:31.115  automation: SilverOre: unavailable dependency for SilverBar
+23:10:31.115  automation: PlatinumOre: unavailable dependency for PlatinumBar
+23:10:31.115  automation: IronOre: unavailable dependency for IronBar
+23:10:31.115  automation: Guava: unavailable dependency for Fruit Sorbet
+23:10:31.115  automation: Mango: unavailable dependency for Fruit Sorbet
+23:10:31.115  automation: Plum: unavailable dependency for PlumJam
+23:10:31.115  automation: Lamb Meat: unavailable dependency for Tower Doner Supreme
+23:10:31.115  automation: Diamonds: unavailable dependency for Diamond Ring
+23:10:31.115  automation: item 28100000: unavailable dependency for stock target 10
+23:10:31.115  automation: item 28100001: unavailable dependency for stock target 10
+23:10:31.116  automation: item 28100002: unavailable dependency for stock target 10
+23:10:31.116  automation: Hot Dog: unavailable dependency for stock target 10
+23:10:31.116  automation: item 16700001: unavailable dependency for stock target 10
+23:10:31.116  automation: item 16700002: unavailable dependency for stock target 10
+23:10:31.116  automation: item 16700003: unavailable dependency for stock target 10
+23:10:31.116  automation: item 17700000: unavailable dependency for stock target 10
+23:10:31.116  automation: item 17700001: unavailable dependency for stock target 10
+23:10:31.116  automation: item 17700002: unavailable dependency for stock target 10
+23:10:31.116  automation: item 17700003: unavailable dependency for stock target 10
+23:10:31.116  automation: item 17700007: unavailable dependency for stock target 10
+23:10:31.117  automation: item 17700004: unavailable dependency for stock target 10
+23:10:31.117  automation: item 17700005: unavailable dependency for stock target 10
+23:10:31.117  automation: item 17700006: unavailable dependency for stock target 10
+23:10:31.117  automation: item 17700009: unavailable dependency for stock target 10
+23:10:31.117  automation: item 17700008: unavailable dependency for stock target 10
+23:10:31.117  automation: item 23900002: unavailable dependency for stock target 10
+23:10:31.117  automation: item 23900001: unavailable dependency for stock target 10
+23:10:31.117  automation: item 23900000: unavailable dependency for stock target 10
+23:10:31.118  automation: item 23900003: unavailable dependency for stock target 10
+23:10:31.118  automation: item 24100002: unavailable dependency for stock target 10
+23:10:31.118  automation: item 24100003: unavailable dependency for stock target 10
+23:10:31.118  automation: item 24100000: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24100001: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24100004: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000000: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000002: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000004: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000001: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000003: unavailable dependency for stock target 10
+23:10:31.119  automation: item 24000005: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26100001: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26100002: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26100003: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26100000: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26100004: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26200000: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26200001: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26200002: unavailable dependency for stock target 10
+23:10:31.120  automation: item 26300004: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26300000: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26300001: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26300002: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26300003: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26700000: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26700001: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26700002: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26700003: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26900000: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26900002: unavailable dependency for stock target 10
+23:10:31.121  automation: item 26900001: unavailable dependency for stock target 10
+23:10:31.122  automation: item 26800003: unavailable dependency for stock target 10
+23:10:31.122  automation: item 26800000: unavailable dependency for stock target 10
+23:10:31.122  automation: item 26800001: unavailable dependency for stock target 10
+23:10:31.122  automation: item 26800002: unavailable dependency for stock target 10
+23:10:31.122  automation: item 29400000: unavailable dependency for stock target 10
+23:10:31.122  automation: item 29400001: unavailable dependency for stock target 10
+23:10:31.122  automation: item 29400002: unavailable dependency for stock target 10
+23:10:31.122  automation: item 27400002: unavailable dependency for stock target 10
+23:10:31.122  automation: item 27400000: unavailable dependency for stock target 10
+23:10:31.122  automation: item 27400003: unavailable dependency for stock target 10
+23:10:31.123  automation: item 27400004: unavailable dependency for stock target 10
+23:10:31.123  automation: item 27400001: unavailable dependency for stock target 10
+23:10:31.123  automation: item 28000000: unavailable dependency for stock target 10
+23:10:31.123  automation: item 28000001: unavailable dependency for stock target 10
+23:10:31.123  automation: item 28000002: unavailable dependency for stock target 10
+23:10:31.123  automation: collect ready mined ore
+23:10:31.294  [smart:mine_collect] OK [drain_rejected=1, mined=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=180ms]
+23:10:31.294  automation: collect ready trees and bushes
+23:10:32.388  [smart:tree_collect_all] OK [drain_ok=165, drain_rejected=1558, fruit=165, rejected=1558] [dispatch=game, queued=1723, sent=1723, accepted=165, rejected=1558, reject-codes=6:1054/5:218/7:15/0:271] [t=1.094s]
+23:10:32.389  automation: request help for eligible dead trees and bushes
+23:10:33.017  [smart:tree_request_help_all] OK [drain_ok=21, drain_rejected=567, requested=21, rejected=567] [dispatch=game, queued=588, sent=588, accepted=21, rejected=567, reject-codes=0:567] [t=628ms]
+23:10:33.017  automation: collect ready honey
+23:10:33.206  [smart:honey_collect] OK [drain_rejected=6, honey=0, honey_rejected=6] [dispatch=game, queued=6, sent=6, accepted=0, rejected=6, reject-codes=3:6] [t=189ms]
+23:10:33.207  automation: collect finished machine output
+23:10:33.407  [smart:production_collect_all] OK [drain_rejected=41, collected=0, rejected=41] [dispatch=game, queued=41, sent=41, accepted=0, rejected=41, reject-codes=0:22/3:19] [t=200ms]
+23:10:33.407  automation: collect and feed the selected animal types
+23:10:33.691  [smart:animal_cycle] OK [drain_rejected=85, processed=0, rejected=170] [dispatch=game, queued=170, sent=170, accepted=0, rejected=170, reject-codes=0:66/3:104] [t=284ms]
+23:10:33.691  automation: queue 2 Carnivore Food batch(es) (6 units) for stock target 10
+23:10:33.862  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=6:2, boundary-passes=1, pending=0] [t=170ms]
+23:10:33.862  automation: machine 600001 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:33.862  automation: queue 1 Carnivore Food batch(es) (3 units) for stock target 10
+23:10:34.031  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=169ms]
+23:10:34.031  automation: machine 600006 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:34.032  automation: queue 3 Bread for stock target 10
+23:10:34.207  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=175ms]
+23:10:34.207  automation: queue 3 Cookie for stock target 10
+23:10:34.394  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=186ms]
+23:10:34.394  automation: machine 600000 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:34.394  automation: queue 1 White Sugar for stock target 10
+23:10:34.565  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=170ms]
+23:10:34.565  automation: machine 600003 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:34.565  automation: queue 1 White Sugar for stock target 10
+23:10:34.738  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=174ms]
+23:10:34.739  automation: queue 3 Popcorn for stock target 10
+23:10:34.932  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=193ms]
+23:10:34.933  automation: machine 600005 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:34.933  automation: queue 3 Grilled Lamb Skewer for stock target 10
+23:10:35.113  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=180ms]
+23:10:35.113  automation: queue 3 Fish and Chips for stock target 10
+23:10:35.285  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=172ms]
+23:10:35.285  automation: machine 600004 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:35.285  automation: queue 3 Fish Pie for stock target 10
+23:10:35.453  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=168ms]
+23:10:35.454  automation: machine 600009 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:35.454  automation: queue 1 Birthday Cake for stock target 10
+23:10:35.633  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=179ms]
+23:10:35.634  automation: machine 600010 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:35.634  automation: queue 1 IronBar for stock target 10
+23:10:35.820  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=187ms]
+23:10:35.820  automation: machine 600008 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:35.820  automation: queue 1 IronBar for stock target 10
+23:10:35.988  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=167ms]
+23:10:35.988  automation: machine 600018 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:35.988  automation: queue 1 Carrot Juice for stock target 10
+23:10:36.159  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=171ms]
+23:10:36.159  automation: machine 600011 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:36.159  automation: queue 3 Apple Jam for stock target 10
+23:10:36.347  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=187ms]
+23:10:36.347  automation: machine 600013 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:36.348  automation: queue 3 Flower Pendant for stock target 10
+23:10:36.513  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=6:3, boundary-passes=1, pending=0] [t=166ms]
+23:10:36.513  automation: machine 600023 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:36.513  automation: queue 3 Espreso for stock target 10
+23:10:36.700  [smart:machine_produce] OK [drain_ok=2, drain_rejected=1, queued=2, rejected=1] [dispatch=game, queued=3, sent=3, accepted=2, rejected=1, reject-codes=5:1] [t=186ms]
+23:10:36.700  automation: queue 2 Raspberry Candle for stock target 10
+23:10:37.096  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=396ms]
+23:10:37.097  automation: machine 600020 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:37.097  automation: queue 1 Candy bouquet for stock target 10
+23:10:37.288  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=191ms]
+23:10:37.288  automation: machine 600029 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:37.288  automation: queue 2 Lollipop for stock target 10
+23:10:37.467  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=178ms]
+23:10:37.467  automation: machine 600019 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:37.467  automation: queue 1 OliveOil for stock target 10
+23:10:37.660  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=193ms]
+23:10:37.660  automation: machine 600026 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:37.660  automation: queue 3 MixedSmoothie for stock target 10
+23:10:37.835  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=175ms]
+23:10:37.835  automation: machine 600030 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:37.836  automation: queue 1 Rice Noodles for stock target 10
+23:10:38.005  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=169ms]
+23:10:38.005  automation: queue 1 Chamomile essential oil for stock target 10
+23:10:38.188  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=183ms]
+23:10:38.189  automation: queue 1 Spicy fish for stock target 10
+23:10:38.356  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=167ms]
+23:10:38.356  automation: machine 600034 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:10:38.357  automation: harvest ready fields
+23:10:40.605  [smart:harvest_all] OK: harvested [drain_ok=10, drain_rejected=21, harvested=10, field_rejected=21, h_attempted=31, h_accepted=10, h_empty_before=0, h_empty_after=10] [t=2.249s]
+23:10:40.605  automation: sow 1 field(s) with Grapes
+23:10:40.801  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=10] [t=195ms]
+23:10:40.801  automation: sow up to 1 field(s) with Wheat
+23:10:41.019  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=9] [t=218ms]
+23:10:41.019  automation: place Flowerbed_2 at (-16,-16)
+23:10:41.297  [smart:place_object_batch] OK [drain_rejected=1, placed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=13:1] [t=279ms]
+23:10:41.299  automation: collect mail: scheduled maintenance after core farm work
+23:10:41.472  [smart:collect_mail] OK [drain_rejected=1, mail=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=2:1] [t=174ms]
+23:10:41.472  automation: mystery box claim cycle: scheduled maintenance after core farm work
+23:10:41.637  [smart:mystery_box_claim_cycle] OK [processed=0, rejected=0] [t=164ms]
+23:10:41.638  automation: spin wheel cycle: scheduled maintenance after core farm work
+23:10:41.837  [smart:spin_wheel_cycle] OK [drain_rejected=1, wheel=0, rejected=2] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=4:2] [t=199ms]
+23:10:41.837  automation: event curtain open all: scheduled maintenance after core farm work
+23:10:42.012  [smart:event_curtain_open_all] OK [curtains=0, rejected=0] [t=175ms]
+23:10:42.012  automation: event basket open all: scheduled maintenance after core farm work
+23:10:42.184  [smart:event_basket_open_all] OK [t=172ms]
+23:10:42.185  automation: event floater collect: scheduled maintenance after core farm work
+23:10:42.366  [smart:event_floater_collect] OK [floaters=0, floaters_rejected=0] [t=181ms]
+23:10:42.366  automation: farm pass claim direct: scheduled maintenance after core farm work
+23:10:44.944  [smart:farm_pass_claim_direct] OK [farm_pass=0, rejected=0] [t=2.579s]
+23:10:44.946  automation: achievement claim all: scheduled maintenance after core farm work
+23:10:45.228  [smart:achievement_claim_all] OK [drain_rejected=151, claimed=0, rejected=151] [dispatch=game, queued=151, sent=151, accepted=0, rejected=151, reject-codes=4:151] [t=282ms]
+23:10:45.228  automation: build claim all: scheduled maintenance after core farm work
+23:10:45.400  [smart:build_claim_all] OK [drain_rejected=1, claimed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=172ms]
+23:10:45.400  automation: storage upgrade barn: scheduled maintenance after core farm work
+23:10:45.577  [smart:storage_upgrade_barn] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=177ms]
+23:10:45.577  automation: storage upgrade silo: scheduled maintenance after core farm work
+23:10:45.765  [smart:storage_upgrade_silo] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=187ms]
+23:10:45.765  automation: travel to the fishing lake
+23:10:47.202  [smart:travel] OK [traveled=4] [t=1.437s]
+23:10:47.366  automation: collect finished lures
+23:10:47.557  [smart:fishing_lure_bench_collect] OK [drain_rejected=24, lure_bench=0] [dispatch=game, queued=24, sent=24, accepted=0, rejected=24, reject-codes=3:24] [t=190ms]
+23:10:47.557  automation: take every fish in the lake
+23:10:47.744  [smart:fish_catch_ready] NO CHANGE: no bait in storage from the ticked list, so nothing was taken [caught=0, rejected=0, lure_used=0, bait_left=0] [t=186ms]
+23:10:47.744  automation: collect ready pool lobsters
+23:10:47.907  [smart:lobster_pool_collect] OK [drain_rejected=3, lobster=0, rejected=3] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=0:3] [t=162ms]
+23:10:47.907  automation: collect ready sea lobsters
+23:10:48.068  [smart:lobster_sea_collect] OK [sea_lobster=0, rejected=0] [t=161ms]
+23:10:48.068  automation: collect finished nets
+23:10:48.230  [smart:fishing_net_maker_collect] OK [drain_ok=1, drain_rejected=23, net_maker=1] [dispatch=game, queued=24, sent=24, accepted=1, rejected=23, reject-codes=3:23] [t=161ms]
+23:10:48.231  automation: return home after lake tasks
+23:10:54.019  [smart:travel] OK [traveled=1] [t=5.788s]
+23:10:54.022  automation: refreshing stock and roadside-shop slots...
+23:10:55.075  automation: market snapshot ready [readouts=5, t=1.053s, slowest=animals_detail 283ms]
+23:10:55.357  automation: signed market plan ready [steps=2, notes=1, t=281ms]
+23:10:55.357  automation: roadside shop: the free advertisement is on cooldown; no paid advertisement was attempted
+23:10:55.358  automation: collect sold roadside-shop slots
+23:10:55.562  [smart:rss_claim_all] OK [drain_ok=7, drain_rejected=9, claimed=7, rejected=9, slots=16] [dispatch=game, queued=16, sent=16, accepted=7, rejected=9, reject-codes=0:9] [t=204ms]
+23:10:55.562  automation: list 16 surplus stack(s)
+23:10:55.946  [smart:rss_list_batch] OK [drain_ok=8, listed=8, rejected=0] [t=383ms]
+23:10:56.333  account inventory snapshot saved [barn=191, silo=38, other=492]
+23:10:56.333  [pass 2] complete [elapsed=63.364s, mutations=possible]
+23:10:56.336  pass done - next full pass follows the free newspaper refresh
+23:10:56.500  waiting for the free newspaper refresh (~87s)...
+23:12:24.936  [pass 3] start [account=86, config=loll, trigger=newspaper]
+23:12:24.998  [automation] observing and planning
+23:12:25.169  automation: daily expansion/upgrade material allowance [bought=49/80, remaining=31]
+23:12:25.334  automation: reading current newspaper ads...
+23:12:25.515  automation: requesting the free natural newspaper refresh...
+23:12:26.492  automation: signed newspaper plan ready [steps=60, notes=0, t=233ms]
+23:12:26.493  automation: visit direct Corn Bread advertisement
+23:12:28.484  [smart:visit_home_raw] OK [visit=2] [t=1.991s]
+23:12:29.115  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=3, stale=0] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=7:3] [t=448ms]
+23:12:29.115  automation: the game rejected 3 purchase request(s); continuing with conservative stock projection
+23:12:29.117  automation: visit direct Shepherds Pie advertisement
+23:12:31.050  [smart:visit_home_raw] OK [visit=2] [t=1.932s]
+23:12:31.712  [smart:rss_buy_slots_batch] OK [requested=4, purchased=0, rejected=4, stale=0] [dispatch=game, queued=4, sent=4, accepted=0, rejected=4, reject-codes=7:4] [t=490ms]
+23:12:31.713  automation: the game rejected 4 purchase request(s); continuing with conservative stock projection
+23:12:31.713  automation: visit direct Grilled Lamb Skewer advertisement
+23:12:34.337  [smart:visit_home_raw] OK [visit=2] [t=2.625s]
+23:12:34.950  [smart:rss_buy_slots_batch] OK [requested=5, purchased=0, rejected=5, stale=0] [dispatch=game, queued=5, sent=5, accepted=0, rejected=5, reject-codes=7:5] [t=416ms]
+23:12:34.951  automation: the game rejected 5 purchase request(s); continuing with conservative stock projection
+23:12:34.951  automation: visit direct Bolt advertisement
+23:12:37.419  [smart:visit_home_raw] OK [visit=2] [t=2.467s]
+23:12:38.477  [smart:rss_buy_slots_batch] OK [requested=15, purchased=0, rejected=15, stale=0] [dispatch=game, queued=15, sent=15, accepted=0, rejected=15, reject-codes=7:15] [t=821ms]
+23:12:38.477  automation: the game rejected 15 purchase request(s); continuing with conservative stock projection
+23:12:38.477  automation: visit direct Hand Drill advertisement
+23:12:40.751  [smart:visit_home_raw] OK [visit=2] [t=2.275s]
+23:12:41.374  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=454ms]
+23:12:41.374  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:12:41.375  automation: visit direct Hand Drill advertisement
+23:12:43.359  [smart:visit_home_raw] OK [visit=2] [t=1.984s]
+23:12:44.207  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=575ms]
+23:12:44.208  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:12:44.208  automation: visit direct Hand Drill advertisement
+23:12:46.514  [smart:visit_home_raw] OK [visit=2] [t=2.306s]
+23:12:47.219  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=526ms]
+23:12:47.220  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:12:47.220  automation: visit direct Hand Drill advertisement
+23:12:49.387  [smart:visit_home_raw] OK [visit=2] [t=2.167s]
+23:12:50.101  [smart:rss_buy_slots_batch] OK [requested=2, purchased=0, rejected=2, stale=0] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=544ms]
+23:12:50.101  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:12:50.101  automation: visit direct Hand Drill advertisement
+23:12:52.582  [smart:visit_home_raw] OK [visit=2] [t=2.481s]
+23:12:53.209  [smart:rss_buy_slots_batch] OK [requested=3, purchased=0, rejected=2, stale=1] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=7:2] [t=460ms]
+23:12:53.209  automation: the game rejected 2 purchase request(s); continuing with conservative stock projection
+23:12:53.209  automation: 1 offer(s) changed before purchase and were safely skipped
+23:12:53.209  automation: visit direct Hand Drill advertisement
+23:12:54.671  [smart:visit_home_raw] OK [visit=2] [t=1.462s]
+23:12:55.323  [smart:rss_buy_slots_batch] OK [requested=1, purchased=0, rejected=1, stale=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=7:1] [t=472ms]
+23:12:55.323  automation: the game rejected 1 purchase request(s); continuing with conservative stock projection
+23:12:55.325  automation: visit direct Hand Drill advertisement
+23:13:02.300  automation: visit_home_raw missed its execution deadline while the native game remained responsive outside FarmMode; ending this plan without restarting the live process
+23:13:02.302  [smart:visit_home_raw] FAIL: native bounded operation timed out [dispatch=game, queued=1, sent=1, accepted=0, rejected=0, boundary-passes=1, pending=0] [t=6.236s]
+23:13:02.515  automation: the switch went nowhere - asked for 23/3281454, the game is showing no farm at all [area=-1]
+23:13:02.515  automation: the advertised farm did not finish loading; ending only this sniper phase after returning home
+23:13:12.927  [smart:travel] OK [traveled=1] [t=10.413s]
+23:13:12.928  automation: returned home after ending the sniper run; normal farm automation will continue from fresh state
+23:13:12.928  automation: observing farm state...
+23:13:15.366  automation: full snapshot ready [readouts=11, t=2.436s, slowest=animals_detail 322ms]
+23:13:15.921  automation: signed full plan ready [steps=97, notes=90, t=556ms]
+23:13:15.921  automation: no selected mine tool is currently usable
+23:13:15.921  automation: Milk: unavailable dependency for Cheese
+23:13:15.922  automation: Banana: unavailable dependency for BananaBread
+23:13:15.922  automation: Coconut: unavailable dependency for Macaroon
+23:13:15.922  automation: Honeycomb: unavailable dependency for Honey
+23:13:15.922  automation: Bacon: unavailable dependency for Hamburger
+23:13:15.922  automation: Lamb Meat: unavailable dependency for Grilled Lamb Skewer
+23:13:15.922  automation: Egg: unavailable dependency for Peach Tart
+23:13:15.922  automation: Wool: unavailable dependency for Sweater
+23:13:15.922  automation: Duck Down: unavailable dependency for Pillow
+23:13:15.922  automation: GoldOre: unavailable dependency for Fancy Cake
+23:13:15.922  automation: Pomegranate: unavailable dependency for Pomegranate Cake
+23:13:15.922  automation: SilverOre: unavailable dependency for SilverBar
+23:13:15.923  automation: PlatinumOre: unavailable dependency for PlatinumBar
+23:13:15.923  automation: IronOre: unavailable dependency for IronBar
+23:13:15.923  automation: Guava: unavailable dependency for Fruit Sorbet
+23:13:15.923  automation: Mango: unavailable dependency for Fruit Sorbet
+23:13:15.923  automation: Plum: unavailable dependency for PlumJam
+23:13:15.923  automation: Diamonds: unavailable dependency for Diamond Ring
+23:13:15.923  automation: item 28100000: unavailable dependency for stock target 10
+23:13:15.923  automation: item 28100001: unavailable dependency for stock target 10
+23:13:15.923  automation: item 28100002: unavailable dependency for stock target 10
+23:13:15.923  automation: Hot Dog: unavailable dependency for stock target 10
+23:13:15.924  automation: item 16700001: unavailable dependency for stock target 10
+23:13:15.924  automation: item 16700002: unavailable dependency for stock target 10
+23:13:15.924  automation: item 16700003: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700000: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700001: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700002: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700003: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700007: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700004: unavailable dependency for stock target 10
+23:13:15.924  automation: item 17700005: unavailable dependency for stock target 10
+23:13:15.925  automation: item 17700006: unavailable dependency for stock target 10
+23:13:15.925  automation: item 17700009: unavailable dependency for stock target 10
+23:13:15.925  automation: item 17700008: unavailable dependency for stock target 10
+23:13:15.925  automation: item 23900002: unavailable dependency for stock target 10
+23:13:15.925  automation: item 23900001: unavailable dependency for stock target 10
+23:13:15.925  automation: item 23900000: unavailable dependency for stock target 10
+23:13:15.925  automation: item 23900003: unavailable dependency for stock target 10
+23:13:15.925  automation: item 24100002: unavailable dependency for stock target 10
+23:13:15.925  automation: item 24100003: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24100000: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24100001: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24100004: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000000: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000002: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000004: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000001: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000003: unavailable dependency for stock target 10
+23:13:15.926  automation: item 24000005: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26100001: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26100002: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26100003: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26100000: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26100004: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26200000: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26200001: unavailable dependency for stock target 10
+23:13:15.927  automation: item 26200002: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26300004: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26300000: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26300001: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26300002: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26300003: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26700000: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26700001: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26700002: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26700003: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26900000: unavailable dependency for stock target 10
+23:13:15.928  automation: item 26900002: unavailable dependency for stock target 10
+23:13:15.930  automation: item 26900001: unavailable dependency for stock target 10
+23:13:15.930  automation: item 26800003: unavailable dependency for stock target 10
+23:13:15.930  automation: item 26800000: unavailable dependency for stock target 10
+23:13:15.930  automation: item 26800001: unavailable dependency for stock target 10
+23:13:15.930  automation: item 26800002: unavailable dependency for stock target 10
+23:13:15.930  automation: item 29400000: unavailable dependency for stock target 10
+23:13:15.930  automation: item 29400001: unavailable dependency for stock target 10
+23:13:15.930  automation: item 29400002: unavailable dependency for stock target 10
+23:13:15.931  automation: item 27400002: unavailable dependency for stock target 10
+23:13:15.931  automation: item 27400000: unavailable dependency for stock target 10
+23:13:15.931  automation: item 27400003: unavailable dependency for stock target 10
+23:13:15.931  automation: item 27400004: unavailable dependency for stock target 10
+23:13:15.931  automation: item 27400001: unavailable dependency for stock target 10
+23:13:15.931  automation: item 28000000: unavailable dependency for stock target 10
+23:13:15.932  automation: item 28000001: unavailable dependency for stock target 10
+23:13:15.932  automation: item 28000002: unavailable dependency for stock target 10
+23:13:15.932  automation: Mint is short but is not in the Fields crop list, so no ground was given to it
+23:13:15.932  automation: Mushroom is short but is not in the Fields crop list, so no ground was given to it
+23:13:15.932  automation: Eggplant is short but is not in the Fields crop list, so no ground was given to it
+23:13:15.933  automation: 6 more short crop(s) are not in the Fields crop list
+23:13:15.933  automation: collect ready mined ore
+23:13:16.124  [smart:mine_collect] OK [drain_rejected=1, mined=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=202ms]
+23:13:16.124  automation: collect ready trees and bushes
+23:13:17.274  [smart:tree_collect_all] OK [drain_ok=43, drain_rejected=1695, fruit=43, rejected=1695] [dispatch=game, queued=1738, sent=1738, accepted=43, rejected=1695, reject-codes=6:1180/5:280/0:228/7:7] [t=1.150s]
+23:13:17.276  automation: request help for eligible dead trees and bushes
+23:13:17.796  [smart:tree_request_help_all] OK [drain_ok=7, drain_rejected=581, requested=7, rejected=581] [dispatch=game, queued=588, sent=588, accepted=7, rejected=581, reject-codes=0:581] [t=512ms]
+23:13:17.798  automation: collect ready honey
+23:13:17.982  [smart:honey_collect] OK [drain_rejected=6, honey=0, honey_rejected=6] [dispatch=game, queued=6, sent=6, accepted=0, rejected=6, reject-codes=3:6] [t=193ms]
+23:13:17.982  automation: collect finished machine output
+23:13:18.218  [smart:production_collect_all] OK [drain_rejected=41, collected=0, rejected=41] [dispatch=game, queued=41, sent=41, accepted=0, rejected=41, reject-codes=0:24/3:17] [t=236ms]
+23:13:18.218  automation: collect and feed the selected animal types
+23:13:18.492  [smart:animal_cycle] OK [drain_rejected=85, processed=0, rejected=170] [dispatch=game, queued=170, sent=170, accepted=0, rejected=170, reject-codes=0:67/3:103] [t=274ms]
+23:13:18.492  automation: queue 2 Carnivore Food batch(es) (6 units) for stock target 10
+23:13:18.670  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=6:2, boundary-passes=1, pending=0] [t=177ms]
+23:13:18.672  automation: machine 600001 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:18.672  automation: queue 1 Carnivore Food batch(es) (3 units) for stock target 10
+23:13:18.842  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=172ms]
+23:13:18.843  automation: machine 600006 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:18.843  automation: queue 3 Bread for stock target 10
+23:13:19.022  [smart:machine_produce] OK [drain_ok=1, drain_rejected=2, queued=1, rejected=2] [dispatch=game, queued=3, sent=3, accepted=1, rejected=2, reject-codes=5:2] [t=179ms]
+23:13:19.022  automation: queue 3 Cookie for stock target 10
+23:13:19.208  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=186ms]
+23:13:19.209  automation: machine 600000 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:19.209  automation: queue 2 White Sugar for stock target 10
+23:13:19.384  [smart:machine_produce] OK [drain_ok=1, drain_rejected=1, queued=1, rejected=1] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=5:1] [t=175ms]
+23:13:19.385  automation: queue 1 White Sugar for stock target 10
+23:13:19.567  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=182ms]
+23:13:19.567  automation: machine 600038 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:19.568  automation: queue 3 Popcorn for stock target 10
+23:13:19.765  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=198ms]
+23:13:19.766  automation: machine 600005 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:19.766  automation: queue 2 Grilled Lamb Skewer for stock target 10
+23:13:19.960  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=194ms]
+23:13:19.961  automation: machine 600004 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:19.961  automation: queue 3 Fish Pie for stock target 10
+23:13:20.155  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=194ms]
+23:13:20.156  automation: machine 600009 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:20.156  automation: queue 1 Birthday Cake for stock target 10
+23:13:20.336  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=179ms]
+23:13:20.338  automation: machine 600010 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:20.339  automation: queue 1 IronBar for stock target 10
+23:13:20.523  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=188ms]
+23:13:20.524  automation: machine 600008 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:20.524  automation: queue 1 IronBar for stock target 10
+23:13:20.711  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=188ms]
+23:13:20.713  automation: machine 600018 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:20.713  automation: queue 1 Carrot Juice for stock target 10
+23:13:20.907  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=194ms]
+23:13:20.907  automation: machine 600011 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:20.907  automation: queue 3 Apple Jam for stock target 10
+23:13:21.086  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=179ms]
+23:13:21.087  automation: machine 600013 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:21.087  automation: queue 3 Flower Pendant for stock target 10
+23:13:21.291  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=6:3, boundary-passes=1, pending=0] [t=202ms]
+23:13:21.292  automation: machine 600023 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:21.294  automation: queue 1 Espreso for stock target 10
+23:13:21.487  [smart:machine_produce] OK [drain_ok=1, queued=1, rejected=0] [t=197ms]
+23:13:21.487  automation: queue 2 Raspberry Candle for stock target 10
+23:13:21.674  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=186ms]
+23:13:21.675  automation: machine 600020 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:21.677  automation: queue 1 Candy bouquet for stock target 10
+23:13:21.851  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=6:1, boundary-passes=1, pending=0] [t=176ms]
+23:13:21.851  automation: machine 600029 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:21.851  automation: queue 2 Lollipop for stock target 10
+23:13:22.028  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=5:2, boundary-passes=1, pending=0] [t=177ms]
+23:13:22.030  automation: machine 600019 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:22.031  automation: queue 1 OliveOil for stock target 10
+23:13:22.264  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=235ms]
+23:13:22.264  automation: machine 600026 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:22.264  automation: queue 2 Beetroot salad for stock target 10
+23:13:22.459  [smart:machine_produce] OK [drain_ok=1, drain_rejected=1, queued=1, rejected=1] [dispatch=game, queued=2, sent=2, accepted=1, rejected=1, reject-codes=5:1] [t=194ms]
+23:13:22.460  automation: queue 3 MixedSmoothie for stock target 10
+23:13:22.630  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=5:3, boundary-passes=1, pending=0] [t=171ms]
+23:13:22.631  automation: machine 600030 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:22.632  automation: queue 1 Spicy fish for stock target 10
+23:13:22.797  [smart:machine_produce] SKIPPED: this recipe or machine is unavailable on the current account [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=5:1, boundary-passes=1, pending=0] [t=166ms]
+23:13:22.797  automation: machine 600034 stopped accepting queue work; its remaining stale targets are deferred while other machines continue
+23:13:22.797  automation: harvest ready fields
+23:13:24.989  [smart:harvest_all] OK [drain_ok=2, harvested=2, field_rejected=0, h_attempted=2, h_accepted=2, h_empty_before=25, h_empty_after=27] [t=2.192s]
+23:13:24.990  automation: sow 1 field(s) with Lettuce
+23:13:25.247  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=27] [t=258ms]
+23:13:25.250  automation: sow 1 field(s) with Cotton
+23:13:25.450  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=27] [t=202ms]
+23:13:25.451  automation: sow 1 field(s) with Chamomile
+23:13:25.708  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=26] [t=220ms]
+23:13:25.708  automation: sow 1 field(s) with Chili
+23:13:25.900  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=25] [t=230ms]
+23:13:25.902  automation: sow 1 field(s) with Onion
+23:13:26.121  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=24] [t=220ms]
+23:13:26.122  automation: sow 1 field(s) with TeaLeaves
+23:13:26.357  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=23] [t=236ms]
+23:13:26.358  automation: sow 1 field(s) with Tomato
+23:13:26.568  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=22] [t=210ms]
+23:13:26.568  automation: sow 1 field(s) with Pumpkin
+23:13:26.791  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=1, p_empty_after=21] [t=222ms]
+23:13:26.791  automation: sow 1 field(s) with Beetroot
+23:13:27.006  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=20] [t=213ms]
+23:13:27.007  automation: sow 1 field(s) with Bellpepper
+23:13:27.440  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=19] [t=434ms]
+23:13:27.440  automation: sow 1 field(s) with Ginger
+23:13:28.173  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=18] [t=733ms]
+23:13:28.174  automation: sow 1 field(s) with Peony
+23:13:28.462  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=17] [t=285ms]
+23:13:28.463  automation: sow 1 field(s) with Strawberry
+23:13:28.708  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=16] [t=248ms]
+23:13:28.710  automation: sow 1 field(s) with Potato
+23:13:28.914  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=15] [t=207ms]
+23:13:28.914  automation: sow 1 field(s) with Soybean
+23:13:29.105  [smart:plant_crop] NO CHANGE: the game refused this crop - it is most likely not unlocked at this farm's level; its ground was left for another crop [drain_rejected=1, planted=0, field_rejected=0, bought=0, p_empty_after=15] [t=189ms]
+23:13:29.105  automation: sow 1 field(s) with Sesame
+23:13:29.320  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=14] [t=215ms]
+23:13:29.321  automation: sow 1 field(s) with Indigo
+23:13:29.531  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=13] [t=210ms]
+23:13:29.532  automation: sow 1 field(s) with Sunflower
+23:13:29.754  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=12] [t=223ms]
+23:13:29.754  automation: sow 1 field(s) with Pineapple
+23:13:29.970  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=11] [t=215ms]
+23:13:29.970  automation: sow 1 field(s) with Garlic
+23:13:30.182  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=10] [t=210ms]
+23:13:30.182  automation: sow 1 field(s) with Lily
+23:13:30.404  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=9] [t=223ms]
+23:13:30.404  automation: sow 1 field(s) with Cabbage
+23:13:30.642  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=8] [t=234ms]
+23:13:30.642  automation: sow 1 field(s) with Rice
+23:13:31.084  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=7] [t=444ms]
+23:13:31.084  automation: sow 1 field(s) with Asparagus
+23:13:31.296  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=6] [t=212ms]
+23:13:31.296  automation: sow 1 field(s) with BlackBean
+23:13:31.512  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=5] [t=216ms]
+23:13:31.512  automation: sow 1 field(s) with Cucumber
+23:13:31.768  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=4] [t=256ms]
+23:13:31.770  automation: sow 1 field(s) with Sugarcane
+23:13:32.007  [smart:plant_crop] OK [drain_ok=1, planted=1, field_rejected=0, bought=0, p_empty_after=3] [t=234ms]
+23:13:32.009  automation: sow up to 27 field(s) with Corn
+23:13:32.253  [smart:plant_crop] OK [drain_ok=3, planted=3, field_rejected=0, bought=0, p_empty_after=0] [t=246ms]
+23:13:32.253  automation: place Flowerbed_2 at (-16,-16)
+23:13:32.574  [smart:place_object_batch] OK [drain_rejected=1, placed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=13:1] [t=322ms]
+23:13:32.574  automation: collect mail: scheduled maintenance after core farm work
+23:13:32.745  [smart:collect_mail] OK [drain_rejected=1, mail=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=2:1] [t=170ms]
+23:13:32.745  automation: mystery box claim cycle: scheduled maintenance after core farm work
+23:13:32.925  [smart:mystery_box_claim_cycle] OK [processed=0, rejected=0] [t=180ms]
+23:13:32.927  automation: spin wheel cycle: scheduled maintenance after core farm work
+23:13:33.108  [smart:spin_wheel_cycle] OK [drain_rejected=1, wheel=0, rejected=2] [dispatch=game, queued=2, sent=2, accepted=0, rejected=2, reject-codes=4:2] [t=182ms]
+23:13:33.108  automation: event curtain open all: scheduled maintenance after core farm work
+23:13:33.270  [smart:event_curtain_open_all] OK [curtains=0, rejected=0] [t=161ms]
+23:13:33.272  automation: event basket open all: scheduled maintenance after core farm work
+23:13:33.437  [smart:event_basket_open_all] OK [t=168ms]
+23:13:33.438  automation: event floater collect: scheduled maintenance after core farm work
+23:13:33.619  [smart:event_floater_collect] OK [floaters=0, floaters_rejected=0] [t=179ms]
+23:13:33.621  automation: farm pass claim direct: scheduled maintenance after core farm work
+23:13:35.941  [smart:farm_pass_claim_direct] OK [farm_pass=0, rejected=0] [t=2.321s]
+23:13:35.941  automation: achievement claim all: scheduled maintenance after core farm work
+23:13:36.223  [smart:achievement_claim_all] OK [drain_rejected=151, claimed=0, rejected=151] [dispatch=game, queued=151, sent=151, accepted=0, rejected=151, reject-codes=4:151] [t=282ms]
+23:13:36.225  automation: build claim all: scheduled maintenance after core farm work
+23:13:36.424  [smart:build_claim_all] OK [drain_rejected=1, claimed=0, rejected=1] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=0:1] [t=200ms]
+23:13:36.424  automation: storage upgrade barn: scheduled maintenance after core farm work
+23:13:36.660  [smart:storage_upgrade_barn] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=236ms]
+23:13:36.662  automation: storage upgrade silo: scheduled maintenance after core farm work
+23:13:36.866  [smart:storage_upgrade_silo] OK [drain_rejected=1, storage=0] [dispatch=game, queued=1, sent=1, accepted=0, rejected=1, reject-codes=10:1] [t=205ms]
+23:13:36.867  automation: travel to the fishing lake
+23:13:39.284  [smart:travel] OK [traveled=4] [t=2.418s]
+23:13:39.457  automation: collect finished lures
+23:13:39.661  [smart:fishing_lure_bench_collect] OK [drain_rejected=24, lure_bench=0] [dispatch=game, queued=24, sent=24, accepted=0, rejected=24, reject-codes=3:24] [t=202ms]
+23:13:39.661  automation: take every fish in the lake
+23:13:39.846  [smart:fish_catch_ready] NO CHANGE: no bait in storage from the ticked list, so nothing was taken [caught=0, rejected=0, lure_used=0, bait_left=0] [t=185ms]
+23:13:39.847  automation: collect ready pool lobsters
+23:13:40.731  [smart:lobster_pool_collect] OK [drain_rejected=3, lobster=0, rejected=3] [dispatch=game, queued=3, sent=3, accepted=0, rejected=3, reject-codes=0:3] [t=874ms]
+23:13:40.731  automation: collect ready sea lobsters
+23:13:40.885  [smart:lobster_sea_collect] OK [sea_lobster=0, rejected=0] [t=161ms]
+23:13:40.885  automation: collect finished nets
+23:13:41.458  [smart:fishing_net_maker_collect] OK [drain_rejected=24, net_maker=0] [dispatch=game, queued=24, sent=24, accepted=0, rejected=24, reject-codes=3:24] [t=573ms]
+23:13:41.459  automation: return home after lake tasks
+23:13:47.018  [smart:travel] OK [traveled=1] [t=5.559s]
+23:13:47.022  automation: refreshing stock and roadside-shop slots...
+23:13:48.757  automation: market snapshot ready [readouts=5, t=1.732s, slowest=raw_inventory_detail 876ms]
+23:13:49.082  automation: signed market plan ready [steps=2, notes=1, t=324ms]
+23:13:49.082  automation: roadside shop: the free advertisement is on cooldown; no paid advertisement was attempted
+23:13:49.082  automation: collect sold roadside-shop slots
+23:13:49.666  [smart:rss_claim_all] OK [drain_rejected=16, claimed=0, rejected=16, slots=16] [dispatch=game, queued=16, sent=16, accepted=0, rejected=16, reject-codes=0:16] [t=586ms]
+23:13:49.667  automation: list 16 surplus stack(s)
+23:13:50.356  [smart:rss_list_batch] OK [listed=0, rejected=0] [t=689ms]
+23:13:50.752  account inventory snapshot saved [barn=191, silo=38, other=492]
+23:13:50.753  [pass 3] complete [elapsed=85.815s, mutations=possible]
+23:13:50.755  pass done - next full pass follows the free newspaper refresh
+23:13:50.955  waiting for the free newspaper refresh (~67s)...
+23:14:30.266  cycle stopped
+23:18:19.093  switching to account: 86
+23:18:19.617  pushing save...
+23:18:19.766  starting the game...
+23:18:20.046  engine: verifying supported game installation [T+280ms]
+23:18:20.172  engine: fetching signed native runtime and game definitions [T+406ms]
+23:18:21.861  engine: native engine: verifying signed native provider environment [T+2.095s]
+23:18:22.342  engine: native engine: staging authenticated native runtime [T+2.576s]
+23:18:22.754  engine: native engine: launching game through the HDX native provider [T+2.988s]

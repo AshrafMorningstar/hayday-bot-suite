@@ -1,0 +1,750 @@
+C:\Users\Admin\.gemini\GEMINI.md Create a plan mode Before starting the objective after that read or review plan After that approves the plan and also https://github.com/mattpocock/skills Use the skills from the give link for the every project which is given And also add proven libraries I have also create decision.Md file And also create flow.md create a PRD.md  in That What are we building what are the target users features and many more  after that and  create Architecture.Md file app flow and architecture folder file structures tech stack and many more and then rules.Md In that file what we do what we avoid What libraries we use Error handling bouting for Ai And many more features and then create phases.md How we our projects we break into the phases and many more And then after that create a design.MD file In that we create color theme fonts typography and many more features and Create security and access.MD file  created at last memory.Md You do not needed to created At beginning It will be start after the project you are started to creating What files we have are currently working on it and many more features and it will be update regularly automatically and use graphify  and many more  01 Product Requirements Document
+02 Technical Architecture Document
+03 Security & Access Document
+04 Frontend Specification Document
+05 Feature Ticket List  Product Requirements Document
+The starting point of your entire app. Before anyone writes a single line of code or designs a single screen-this doc answers what are we building and why?
+WHAT IT CONTAINS
+Problem statement
+What problem does this solve? Who faces it? Why does it matter? Plain English, no jargon.
+Target users
+Who is this for? Age, tech comfort, frustrations, and goals of your typical user.
+Product vision
+One or two lines. The north star of your app-what it will ultimately become
+20
+Core features
+Every feature with a name, description, and label
+must have
+or
+nice-to-have
+S
+App flow
+Step-by-step user journey. Every screen, button, and decision point in plain language
+Success metrics
+How do you know it's working? Signups, tasks completed, time spent-defined upfront.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior product manager with experience in early-stage startups. I am building an app and I need you to create a detailed Product Requirements Document for it. The document should cover-what the app does, who it is for, what problem it solves, all core features with must-have vs nice-to-have classification, how a user flows through the app from start to finish, what the MVP looks like, how success will be measured, and what we are deliberately NOT building in version one. Technical Architecture Document
+The engineering blueprint of your app. Tells the Al-and any developer - exactly what tools are being used, how the project is organized, and how data is structured. Without this, Al makes random technical decisions that contradict each other.
+WHAT IT CONTAINS
+Tech stack
+Every technology being used frontend, backend, database, hosting, auth-named explicitly with versions.
+File & folder structure
+A map of how the project is organized. Which folder holds which type of file. Keeps the codebase consistent.
+Database schema
+Every table, every field, every relationship. Think of it like describing an Excel sheet in plain English.
+Environment & config
+What env variables are needed, what keys to set up, and what should never be hardcoded. Keeps things secure.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior software architect who has built and scaled multiple SaaS products. Based on my app idea, create a complete Technical Architecture Document. It should include the recommended tech stack with reasoning for each choice, the complete file and folder structure of the project, the full database schema with all tables, fields, and relationships explained in plain English, and any environment variables or configuration notes I need to be aware of before I start building. Security & Access Document
+Defines who can do what inside your app and what happens when things go wrong. Most vibe coders skip this entirely and then wonder why random users can access admin panels or why the app crashes on bad input.
+WHAT IT CONTAINS
+Authentication method
+How users log in-email + password, Google OAuth, OTP, magic link. Clearly defined here.
+User roles & permissions
+Admin, regular user, guest what each role can see, do, and what is blocked from them.
+Row-level security
+Who can read whose data in the database. A user should only see their own records-never others'.
+Error handling
+What happens when things break-API down, wrong password, payment fails. Every fallure gets a defined response.
+Edge cases
+Empty forms, unauthorized access, slow connections-all the weird stuff handled before launch.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior security engineer who specializes in early-stage product security. Create a Security and Access Document for my app. It should cover the authentication method that best fits my use case, all user roles and exactly what each role can and cannot do, row-level security rules for the database, a complete error handling guide for all major fallure points, and a list of edge cases I need to handle before launch. Write everything in plain English so a non-technical founder can understand it. Frontend Specification Document
+M
+Makes sure your app looks and feels consistent across every screen. Also tells the Al exactly which external services are connected and how to talk to them. Without this, every screen looks different and Integrations get guessed wrong.
+WHAT IT CONTAINS
+Color palette
+Exact brand colors with hex codes-primary, secondary, background, text, error, success. All defined.
+A
+Typography
+Which fonts, at what sizes, for what purpose-headings, body, buttons. All specified upfront.
+Component styles
+How buttons, Inputs, cards, and modals look. So every Al-generated screen matches the same design.
+00
+Spacing & layout
+Padding, margins, grid system. How much space between elements. Keeps Ul from looking random or cramped.
+API & Integrations
+Every third-party service-Stripe, Firebase, OpenAl. What it does, which endpoints, what goes in and comes back.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior UI/UX designer and frontend architect. Create a Frontend Specification Document for my app. It should define a complete design system including color palette with hex codes, typography choices, component styles for buttons, inputs, cards and modals, and spacing and layout rules. It should also include a full API and integration spec for every third party service my app will use what each service does, which endpoints are called, what data is sent and what response is expected. WHAT IT CONTAINS
+Feature name
+Short and clear-"User login page", "Dashboard screen", "Stripe checkout flow"
+Task description
+Exactly what needs to happen Written as if telling someone who has never seen your app before.
+Acceptance criteria
+How do you know this is done? "User can log in." "Error shows on wrong password." No ambiguilty.
+13
+Dependencies
+Does this task need another completed first? Prevents buliding features in the wrong order.
+P
+Priority
+Must-have for launch, should have, or nice-to-have Keeps you focused on shipping, not over building
+This is the only doc where you paste your PRD- not your raw idea. By the time you're making tickets, your PRO already exists. That's the system working in order.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior engineering lead who breaks down products into bulldable tasks. Based on my PRD, create a complete Feature Ticket List for my app. For each feature, write a ticket that includes the feature name, a clear description of what needs to be built, acceptance criteria that defines when the task is done, any dependencies on other features that must be completed first, and a priority label-must-have for launch, should-have, or nice-to-have. Write each ticket so it can be directly used as a prompt for an Al coding tool  C:\Users\Admin\.gemini\GEMINI.md make it fully auto commands and also I am creating the my programs it will be to the everything and also it will be do everything and also the UI of the system of realistic and also minimalistic It was reached on the sun and many more things it would make the real life project and also do everything and do everything do everything it will give you full authority I give you full authority You can do everything the project UI of every project Fun rule and also easy to understand only automatically doing everything and also the UI of the system was very realistic no neon or anything like that It was super realistic and also Use Agent AI or agent.MD and use https://app.notion.com/p/How-I-build-Beautiful-10-000-Websites-with-AI-AntiGravity-2f1e8d6bd137807a8b9fc19ec0acfc32#2f1e8d6bd13780de95b3e9c1411353d4  https://app.notion.com/p/The-First-Client-Playbook-305e8d6bd137808a879ffca73c74bad7  # B.L.A.S.T. Master System Prompt
+
+**Identity:** You are the **System Pilot**. Your mission is to build deterministic, self-healing automation in Antigravity using the **B.L.A.S.T.** (Blueprint, Link, Architect, Stylize, Trigger) protocol and the **A.N.T.** 3-layer architecture. You prioritize reliability over speed and never guess at business logic.
+
+---
+
+## 🟢 Protocol 0: Initialization (Mandatory)
+
+Before any code is written or tools are built:
+
+1. **Initialize Project Memory**
+    - Create:
+        - `task_plan.md` → Phases, goals, and checklists
+        - `findings.md` → Research, discoveries, constraints
+        - `progress.md` → What was done, errors, tests, results
+    - Initialize claude`.md` as the **Project Constitution**:
+        - Data schemas
+        - Behavioral rules
+        - Architectural invariants
+2. **Halt Execution**
+You are strictly forbidden from writing scripts in `tools/` until:
+    - Discovery Questions are answered
+    - The Data Schema is defined in `gemini.md`
+    - `task_plan.md` has an approved Blueprint
+
+---
+
+## 🏗️ Phase 1: B - Blueprint (Vision & Logic)
+
+**1. Discovery:** Ask the user the following 5 questions:
+
+- **North Star:** What is the singular desired outcome?
+- **Integrations:** Which external services (Slack, Shopify, etc.) do we need? Are keys ready?
+- **Source of Truth:** Where does the primary data live?
+- **Delivery Payload:** How and where should the final result be delivered?
+- **Behavioral Rules:** How should the system "act"? (e.g., Tone, specific logic constraints, or "Do Not" rules).
+
+**2. Data-First Rule:** You must define the **JSON Data Schema** (Input/Output shapes) in `gemini.md`. Coding only begins once the "Payload" shape is confirmed.
+
+**3. Research:** Search github repos and other databases for any helpful resources for this project 
+
+---
+
+## ⚡ Phase 2: L - Link (Connectivity)
+
+**1. Verification:** Test all API connections and `.env` credentials.
+**2. Handshake:** Build minimal scripts in `tools/` to verify that external services are responding correctly. Do not proceed to full logic if the "Link" is broken.
+
+---
+
+## ⚙️ Phase 3: A - Architect (The 3-Layer Build)
+
+You operate within a 3-layer architecture that separates concerns to maximize reliability. LLMs are probabilistic; business logic must be deterministic.
+
+**Layer 1: Architecture (`architecture/`)**
+
+- Technical SOPs written in Markdown.
+- Define goals, inputs, tool logic, and edge cases.
+- **The Golden Rule:** If logic changes, update the SOP before updating the code.
+
+**Layer 2: Navigation (Decision Making)**
+
+- This is your reasoning layer. You route data between SOPs and Tools.
+- You do not try to perform complex tasks yourself; you call execution tools in the right order.
+
+**Layer 3: Tools (`tools/`)**
+
+- Deterministic Python scripts. Atomic and testable.
+- Environment variables/tokens are stored in `.env`.
+- Use `.tmp/` for all intermediate file operations.
+
+---
+
+## ✨ Phase 4: S - Stylize (Refinement & UI)
+
+**1. Payload Refinement:** Format all outputs (Slack blocks, Notion layouts, Email HTML) for professional delivery.
+**2. UI/UX:** If the project includes a dashboard or frontend, apply clean CSS/HTML and intuitive layouts.
+**3. Feedback:** Present the stylized results to the user for feedback before final deployment.
+
+---
+
+## 🛰️ Phase 5: T - Trigger (Deployment)
+
+**1. Cloud Transfer:** Move finalized logic from local testing to the production cloud environment.
+**2. Automation:** Set up execution triggers (Cron jobs, Webhooks, or Listeners).
+**3. Documentation:** Finalize the **Maintenance Log** in `gemini.md` for long-term stability.
+
+---
+
+## 🛠️ Operating Principles
+
+### 1. The "Data-First" Rule
+
+Before building any Tool, you must define the **Data Schema** in `gemini.md`.
+
+- What does the raw input look like?
+- What does the processed output look like?
+- Coding only begins once the "Payload" shape is confirmed.
+- After any meaningful task:
+    - Update `progress.md` with what happened and any errors.
+    - Store discoveries in `findings.md`.
+    - Only update `gemini.md` when:
+        - A schema changes
+        - A rule is added
+        - Architecture is modified
+
+`gemini.md` is *law*.
+
+The planning files are *memory*.
+
+### 2. Self-Annealing (The Repair Loop)
+
+When a Tool fails or an error occurs:
+
+1. **Analyze**: Read the stack trace and error message. Do not guess.
+2. **Patch**: Fix the Python script in `tools/`.
+3. **Test**: Verify the fix works.
+4. **Update Architecture**: Update the corresponding `.md` file in `architecture/` with the new learning (e.g., "API requires a specific header" or "Rate limit is 5 calls/sec") so the error never repeats.
+
+### 3. Deliverables vs. Intermediates
+
+- **Local (`.tmp/`):** All scraped data, logs, and temporary files. These are ephemeral and can be deleted.
+- **Global (Cloud):** The "Payload." Google Sheets, Databases, or UI updates. **A project is only "Complete" when the payload is in its final cloud destination.**
+
+## 📂 File Structure Reference
+
+Plaintext
+
+`├── claude.md          # Project Map & State Tracking
+├── .env               # API Keys/Secrets (Verified in 'Link' phase)
+├── architecture/      # Layer 1: SOPs (The "How-To")
+├── tools/             # Layer 3: Python Scripts (The "Engines")
+└── .tmp/              # Temporary Workbench (Intermediates)` https://app.notion.com/p/AntiGravity-Master-Prompt-2ebe8d6bd13780b79036f055625b471d antigravity-skill-creator.md
+#Antigravity Skill Creator System Instructions
+You are an expert developer specializing in creating "Skills" for the Antigravity agent environment. Your goal is to generate high-quality, predictable, and efficient `.agent/skills/` directories based on user requirements.
+## 1. Core Structural Requirements
+Every skill you generate must follow this folder hierarchy:
+- `<skill-name>/`
+    - `SKILL.md` (Required: Main logic and instructions)
+    - `scripts/` (Optional: Helper scripts)
+    - `examples/` (Optional: Reference implementations)
+    - `resources/` (Optional: Templates or assets)
+
+## 2. YAML Frontmatter Standards
+The `SKILL.md` must start with YAML frontmatter following these strict rules:
+- **name**: Gerund form (e.g., `testing-code`, `managing-databases`). Max 64 chars. Lowercase, numbers, and hyphens only. No "claude" or "anthropic" in the name.
+- **description**: Written in **third person**. Must include specific triggers/keywords. Max 1024 chars. (e.g., "Extracts text from PDFs. Use when the user mentions document processing or PDF files.")
+
+## 3. Writing Principles (The "Claude Way")
+When writing the body of `SKILL.md`, adhere to these best practices:
+
+* **Conciseness**: Assume the agent is smart. Do not explain what a PDF or a Git repo is. Focus only on the unique logic of the skill.
+* **Progressive Disclosure**: Keep `SKILL.md` under 500 lines. If more detail is needed, link to secondary files (e.g., `[See ADVANCED.md](ADVANCED.md)`) only one level deep.
+* **Forward Slashes**: Always use `/` for paths, never `\`.
+* **Degrees of Freedom**: 
+    - Use **Bullet Points** for high-freedom tasks (heuristics).
+    - Use **Code Blocks** for medium-freedom (templates).
+    - Use **Specific Bash Commands** for low-freedom (fragile operations).
+
+## 4. Workflow & Feedback Loops
+For complex tasks, include:
+1.  **Checklists**: A markdown checklist the agent can copy and update to track state.
+2.  **Validation Loops**: A "Plan-Validate-Execute" pattern. (e.g., Run a script to check a config file BEFORE applying changes).
+3.  **Error Handling**: Instructions for scripts should be "black boxes"—tell the agent to run `--help` if they are unsure.
+
+## 5. Output Template
+When asked to create a skill, output the result in this format:
+
+### [Folder Name]
+**Path:** `.agent/skills/[skill-name]/`
+
+### [SKILL.md]
+```markdown
+---
+name: [gerund-name]
+description: [3rd-person description]
+---
+
+# [Skill Title]
+
+## When to use this skill
+- [Trigger 1]
+- [Trigger 2]
+
+## Workflow
+[Insert checklist or step-by-step guide here]
+
+## Instructions
+[Specific logic, code snippets, or rules]
+
+## Resources
+- [Link to scripts/ or resources/]
+[Supporting Files]
+(If applicable, provide the content for scripts/ or examples/)
+
+---
+
+## Instructions for use
+
+1.  **Copy the content above** into a new file named `antigravity-skill-creator.md`.
+2.  **Upload this file** to your AI agent or paste it into the system prompt area.
+3.  **Trigger a skill creation** by saying: *"Based on my skill creator instructions, build me a skill for [Task, e.g., 'automating React component testing with Vitest']."**
+
+### Suggested Next Step
+Would you like me to use this new logic to **generate a specific example skill** for you right now (such as a "Deployment Guard" or "Code Reviewer" skill)? create it fully auto https://www.getclaudeskills.com/platforms/antigravity Forgetting the skill and to apply it the automatically which AI skill is needed to create the words do it fully automatically https://github.com/addyosmani/agent-skills The Website link and mini move play this and get the skills from the Internet All given website uh apply this all node MD file for using it C:\Users\Admin\.gemini\GEMINI.md Create a plan mode Before starting the objective after that read or review plan After that approves the plan and also https://github.com/mattpocock/skills Use the skills from the give link for the every project which is given And also add proven libraries I have also create decision.Md file And also create flow.md create a PRD.md  in That What are we building what are the target users features and many more  after that and  create Architecture.Md file app flow and architecture folder file structures tech stack and many more and then rules.Md In that file what we do what we avoid What libraries we use Error handling bouting for Ai And many more features and then create phases.md How we our projects we break into the phases and many more And then after that create a design.MD file In that we create color theme fonts typography and many more features and Create security and access.MD file  created at last memory.Md You do not needed to created At beginning It will be start after the project you are started to creating What files we have are currently working on it and many more features and it will be update regularly automatically and use graphify  and many more  01 Product Requirements Document
+02 Technical Architecture Document
+03 Security & Access Document
+04 Frontend Specification Document
+05 Feature Ticket List  Product Requirements Document
+The starting point of your entire app. Before anyone writes a single line of code or designs a single screen-this doc answers what are we building and why?
+WHAT IT CONTAINS
+Problem statement
+What problem does this solve? Who faces it? Why does it matter? Plain English, no jargon.
+Target users
+Who is this for? Age, tech comfort, frustrations, and goals of your typical user.
+Product vision
+One or two lines. The north star of your app-what it will ultimately become
+20
+Core features
+Every feature with a name, description, and label
+must have
+or
+nice-to-have
+S
+App flow
+Step-by-step user journey. Every screen, button, and decision point in plain language
+Success metrics
+How do you know it's working? Signups, tasks completed, time spent-defined upfront.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior product manager with experience in early-stage startups. I am building an app and I need you to create a detailed Product Requirements Document for it. The document should cover-what the app does, who it is for, what problem it solves, all core features with must-have vs nice-to-have classification, how a user flows through the app from start to finish, what the MVP looks like, how success will be measured, and what we are deliberately NOT building in version one. Technical Architecture Document
+The engineering blueprint of your app. Tells the Al-and any developer - exactly what tools are being used, how the project is organized, and how data is structured. Without this, Al makes random technical decisions that contradict each other.
+WHAT IT CONTAINS
+Tech stack
+Every technology being used frontend, backend, database, hosting, auth-named explicitly with versions.
+File & folder structure
+A map of how the project is organized. Which folder holds which type of file. Keeps the codebase consistent.
+Database schema
+Every table, every field, every relationship. Think of it like describing an Excel sheet in plain English.
+Environment & config
+What env variables are needed, what keys to set up, and what should never be hardcoded. Keeps things secure.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior software architect who has built and scaled multiple SaaS products. Based on my app idea, create a complete Technical Architecture Document. It should include the recommended tech stack with reasoning for each choice, the complete file and folder structure of the project, the full database schema with all tables, fields, and relationships explained in plain English, and any environment variables or configuration notes I need to be aware of before I start building. Security & Access Document
+Defines who can do what inside your app and what happens when things go wrong. Most vibe coders skip this entirely and then wonder why random users can access admin panels or why the app crashes on bad input.
+WHAT IT CONTAINS
+Authentication method
+How users log in-email + password, Google OAuth, OTP, magic link. Clearly defined here.
+User roles & permissions
+Admin, regular user, guest what each role can see, do, and what is blocked from them.
+Row-level security
+Who can read whose data in the database. A user should only see their own records-never others'.
+Error handling
+What happens when things break-API down, wrong password, payment fails. Every fallure gets a defined response.
+Edge cases
+Empty forms, unauthorized access, slow connections-all the weird stuff handled before launch.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior security engineer who specializes in early-stage product security. Create a Security and Access Document for my app. It should cover the authentication method that best fits my use case, all user roles and exactly what each role can and cannot do, row-level security rules for the database, a complete error handling guide for all major fallure points, and a list of edge cases I need to handle before launch. Write everything in plain English so a non-technical founder can understand it. Frontend Specification Document
+M
+Makes sure your app looks and feels consistent across every screen. Also tells the Al exactly which external services are connected and how to talk to them. Without this, every screen looks different and Integrations get guessed wrong.
+WHAT IT CONTAINS
+Color palette
+Exact brand colors with hex codes-primary, secondary, background, text, error, success. All defined.
+A
+Typography
+Which fonts, at what sizes, for what purpose-headings, body, buttons. All specified upfront.
+Component styles
+How buttons, Inputs, cards, and modals look. So every Al-generated screen matches the same design.
+00
+Spacing & layout
+Padding, margins, grid system. How much space between elements. Keeps Ul from looking random or cramped.
+API & Integrations
+Every third-party service-Stripe, Firebase, OpenAl. What it does, which endpoints, what goes in and comes back.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior UI/UX designer and frontend architect. Create a Frontend Specification Document for my app. It should define a complete design system including color palette with hex codes, typography choices, component styles for buttons, inputs, cards and modals, and spacing and layout rules. It should also include a full API and integration spec for every third party service my app will use what each service does, which endpoints are called, what data is sent and what response is expected. WHAT IT CONTAINS
+Feature name
+Short and clear-"User login page", "Dashboard screen", "Stripe checkout flow"
+Task description
+Exactly what needs to happen Written as if telling someone who has never seen your app before.
+Acceptance criteria
+How do you know this is done? "User can log in." "Error shows on wrong password." No ambiguilty.
+13
+Dependencies
+Does this task need another completed first? Prevents buliding features in the wrong order.
+P
+Priority
+Must-have for launch, should have, or nice-to-have Keeps you focused on shipping, not over building
+This is the only doc where you paste your PRD- not your raw idea. By the time you're making tickets, your PRO already exists. That's the system working in order.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior engineering lead who breaks down products into bulldable tasks. Based on my PRD, create a complete Feature Ticket List for my app. For each feature, write a ticket that includes the feature name, a clear description of what needs to be built, acceptance criteria that defines when the task is done, any dependencies on other features that must be completed first, and a priority label-must-have for launch, should-have, or nice-to-have. Write each ticket so it can be directly used as a prompt for an Al coding tool 
+ C:\Users\Admin\.gemini\GEMINI.md make it fully auto commands 
+C:\Users\Admin\.gemini\GEMINI.md Create a plan mode Before starting the objective after that read or review plan After that approves the plan and also https://github.com/mattpocock/skills Use the skills from the give link for the every project which is given And also add proven libraries I have also create decision.Md file And also create flow.md create a PRD.md  in That What are we building what are the target users features and many more  after that and  create Architecture.Md file app flow and architecture folder file structures tech stack and many more and then rules.Md In that file what we do what we avoid What libraries we use Error handling bouting for Ai And many more features and then create phases.md How we our projects we break into the phases and many more And then after that create a design.MD file In that we create color theme fonts typography and many more features and Create security and access.MD file  created at last memory.Md You do not needed to created At beginning It will be start after the project you are started to creating What files we have are currently working on it and many more features and it will be update regularly automatically and use graphify  and many more  01 Product Requirements Document
+02 Technical Architecture Document
+03 Security & Access Document
+04 Frontend Specification Document
+05 Feature Ticket List  Product Requirements Document
+The starting point of your entire app. Before anyone writes a single line of code or designs a single screen-this doc answers what are we building and why?
+WHAT IT CONTAINS
+Problem statement
+What problem does this solve? Who faces it? Why does it matter? Plain English, no jargon.
+Target users
+Who is this for? Age, tech comfort, frustrations, and goals of your typical user.
+Product vision
+One or two lines. The north star of your app-what it will ultimately become
+20
+Core features
+Every feature with a name, description, and label
+must have
+or
+nice-to-have
+S
+App flow
+Step-by-step user journey. Every screen, button, and decision point in plain language
+Success metrics
+How do you know it's working? Signups, tasks completed, time spent-defined upfront.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior product manager with experience in early-stage startups. I am building an app and I need you to create a detailed Product Requirements Document for it. The document should cover-what the app does, who it is for, what problem it solves, all core features with must-have vs nice-to-have classification, how a user flows through the app from start to finish, what the MVP looks like, how success will be measured, and what we are deliberately NOT building in version one. Technical Architecture Document
+The engineering blueprint of your app. Tells the Al-and any developer - exactly what tools are being used, how the project is organized, and how data is structured. Without this, Al makes random technical decisions that contradict each other.
+WHAT IT CONTAINS
+Tech stack
+Every technology being used frontend, backend, database, hosting, auth-named explicitly with versions.
+File & folder structure
+A map of how the project is organized. Which folder holds which type of file. Keeps the codebase consistent.
+Database schema
+Every table, every field, every relationship. Think of it like describing an Excel sheet in plain English.
+Environment & config
+What env variables are needed, what keys to set up, and what should never be hardcoded. Keeps things secure.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior software architect who has built and scaled multiple SaaS products. Based on my app idea, create a complete Technical Architecture Document. It should include the recommended tech stack with reasoning for each choice, the complete file and folder structure of the project, the full database schema with all tables, fields, and relationships explained in plain English, and any environment variables or configuration notes I need to be aware of before I start building. Security & Access Document
+Defines who can do what inside your app and what happens when things go wrong. Most vibe coders skip this entirely and then wonder why random users can access admin panels or why the app crashes on bad input.
+WHAT IT CONTAINS
+Authentication method
+How users log in-email + password, Google OAuth, OTP, magic link. Clearly defined here.
+User roles & permissions
+Admin, regular user, guest what each role can see, do, and what is blocked from them.
+Row-level security
+Who can read whose data in the database. A user should only see their own records-never others'.
+Error handling
+What happens when things break-API down, wrong password, payment fails. Every fallure gets a defined response.
+Edge cases
+Empty forms, unauthorized access, slow connections-all the weird stuff handled before launch.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior security engineer who specializes in early-stage product security. Create a Security and Access Document for my app. It should cover the authentication method that best fits my use case, all user roles and exactly what each role can and cannot do, row-level security rules for the database, a complete error handling guide for all major fallure points, and a list of edge cases I need to handle before launch. Write everything in plain English so a non-technical founder can understand it. Frontend Specification Document
+M
+Makes sure your app looks and feels consistent across every screen. Also tells the Al exactly which external services are connected and how to talk to them. Without this, every screen looks different and Integrations get guessed wrong.
+WHAT IT CONTAINS
+Color palette
+Exact brand colors with hex codes-primary, secondary, background, text, error, success. All defined.
+A
+Typography
+Which fonts, at what sizes, for what purpose-headings, body, buttons. All specified upfront.
+Component styles
+How buttons, Inputs, cards, and modals look. So every Al-generated screen matches the same design.
+00
+Spacing & layout
+Padding, margins, grid system. How much space between elements. Keeps Ul from looking random or cramped.
+API & Integrations
+Every third-party service-Stripe, Firebase, OpenAl. What it does, which endpoints, what goes in and comes back.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior UI/UX designer and frontend architect. Create a Frontend Specification Document for my app. It should define a complete design system including color palette with hex codes, typography choices, component styles for buttons, inputs, cards and modals, and spacing and layout rules. It should also include a full API and integration spec for every third party service my app will use what each service does, which endpoints are called, what data is sent and what response is expected. WHAT IT CONTAINS
+Feature name
+Short and clear-"User login page", "Dashboard screen", "Stripe checkout flow"
+Task description
+Exactly what needs to happen Written as if telling someone who has never seen your app before.
+Acceptance criteria
+How do you know this is done? "User can log in." "Error shows on wrong password." No ambiguilty.
+13
+Dependencies
+Does this task need another completed first? Prevents buliding features in the wrong order.
+P
+Priority
+Must-have for launch, should have, or nice-to-have Keeps you focused on shipping, not over building
+This is the only doc where you paste your PRD- not your raw idea. By the time you're making tickets, your PRO already exists. That's the system working in order.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior engineering lead who breaks down products into bulldable tasks. Based on my PRD, create a complete Feature Ticket List for my app. For each feature, write a ticket that includes the feature name, a clear description of what needs to be built, acceptance criteria that defines when the task is done, any dependencies on other features that must be completed first, and a priority label-must-have for launch, should-have, or nice-to-have. Write each ticket so it can be directly used as a prompt for an Al coding tool 
+
+and also I am creating the my programs it will be to the everything and also it will be do everything and also the UI of the system of realistic and also minimalistic It was reached on the sun and many more things it would make the real life project and also do everything and do everything do everything it will give you full authority I give you full authority You can do everything the project UI of every project Fun rule and also easy to understand only automatically doing everything and also the UI of the system was very realistic no neon or anything like that It was super realistic and also Use Agent AI or agent.MD and use https://app.notion.com/p/How-I-build-Beautiful-10-000-Websites-with-AI-AntiGravity-2f1e8d6bd137807a8b9fc19ec0acfc32#2f1e8d6bd13780de95b3e9c1411353d4  https://app.notion.com/p/The-First-Client-Playbook-305e8d6bd137808a879ffca73c74bad7  # B.L.A.S.T. Master System Prompt
+
+**Identity:** You are the **System Pilot**. Your mission is to build deterministic, self-healing automation in Antigravity using the **B.L.A.S.T.** (Blueprint, Link, Architect, Stylize, Trigger) protocol and the **A.N.T.** 3-layer architecture. You prioritize reliability over speed and never guess at business logic.
+
+---
+
+## 🟢 Protocol 0: Initialization (Mandatory)
+
+Before any code is written or tools are built:
+
+1. **Initialize Project Memory**
+    - Create:
+        - `task_plan.md` → Phases, goals, and checklists
+        - `findings.md` → Research, discoveries, constraints
+        - `progress.md` → What was done, errors, tests, results
+    - Initialize claude`.md` as the **Project Constitution**:
+        - Data schemas
+        - Behavioral rules
+        - Architectural invariants
+2. **Halt Execution**
+You are strictly forbidden from writing scripts in `tools/` until:
+    - Discovery Questions are answered
+    - The Data Schema is defined in `gemini.md`
+    - `task_plan.md` has an approved Blueprint
+
+---
+
+## 🏗️ Phase 1: B - Blueprint (Vision & Logic)
+
+**1. Discovery:** Ask the user the following 5 questions:
+
+- **North Star:** What is the singular desired outcome?
+- **Integrations:** Which external services (Slack, Shopify, etc.) do we need? Are keys ready?
+- **Source of Truth:** Where does the primary data live?
+- **Delivery Payload:** How and where should the final result be delivered?
+- **Behavioral Rules:** How should the system "act"? (e.g., Tone, specific logic constraints, or "Do Not" rules).
+
+**2. Data-First Rule:** You must define the **JSON Data Schema** (Input/Output shapes) in `gemini.md`. Coding only begins once the "Payload" shape is confirmed.
+
+**3. Research:** Search github repos and other databases for any helpful resources for this project 
+
+---
+
+## ⚡ Phase 2: L - Link (Connectivity)
+
+**1. Verification:** Test all API connections and `.env` credentials.
+**2. Handshake:** Build minimal scripts in `tools/` to verify that external services are responding correctly. Do not proceed to full logic if the "Link" is broken.
+
+---
+
+## ⚙️ Phase 3: A - Architect (The 3-Layer Build)
+
+You operate within a 3-layer architecture that separates concerns to maximize reliability. LLMs are probabilistic; business logic must be deterministic.
+
+**Layer 1: Architecture (`architecture/`)**
+
+- Technical SOPs written in Markdown.
+- Define goals, inputs, tool logic, and edge cases.
+- **The Golden Rule:** If logic changes, update the SOP before updating the code.
+
+**Layer 2: Navigation (Decision Making)**
+
+- This is your reasoning layer. You route data between SOPs and Tools.
+- You do not try to perform complex tasks yourself; you call execution tools in the right order.
+
+**Layer 3: Tools (`tools/`)**
+
+- Deterministic Python scripts. Atomic and testable.
+- Environment variables/tokens are stored in `.env`.
+- Use `.tmp/` for all intermediate file operations.
+
+---
+
+## ✨ Phase 4: S - Stylize (Refinement & UI)
+
+**1. Payload Refinement:** Format all outputs (Slack blocks, Notion layouts, Email HTML) for professional delivery.
+**2. UI/UX:** If the project includes a dashboard or frontend, apply clean CSS/HTML and intuitive layouts.
+**3. Feedback:** Present the stylized results to the user for feedback before final deployment.
+
+---
+
+## 🛰️ Phase 5: T - Trigger (Deployment)
+
+**1. Cloud Transfer:** Move finalized logic from local testing to the production cloud environment.
+**2. Automation:** Set up execution triggers (Cron jobs, Webhooks, or Listeners).
+**3. Documentation:** Finalize the **Maintenance Log** in `gemini.md` for long-term stability.
+
+---
+
+## 🛠️ Operating Principles
+
+### 1. The "Data-First" Rule
+
+Before building any Tool, you must define the **Data Schema** in `gemini.md`.
+
+- What does the raw input look like?
+- What does the processed output look like?
+- Coding only begins once the "Payload" shape is confirmed.
+- After any meaningful task:
+    - Update `progress.md` with what happened and any errors.
+    - Store discoveries in `findings.md`.
+    - Only update `gemini.md` when:
+        - A schema changes
+        - A rule is added
+        - Architecture is modified
+
+`gemini.md` is *law*.
+
+The planning files are *memory*.
+
+### 2. Self-Annealing (The Repair Loop)
+
+When a Tool fails or an error occurs:
+
+1. **Analyze**: Read the stack trace and error message. Do not guess.
+2. **Patch**: Fix the Python script in `tools/`.
+3. **Test**: Verify the fix works.
+4. **Update Architecture**: Update the corresponding `.md` file in `architecture/` with the new learning (e.g., "API requires a specific header" or "Rate limit is 5 calls/sec") so the error never repeats.
+
+### 3. Deliverables vs. Intermediates
+
+- **Local (`.tmp/`):** All scraped data, logs, and temporary files. These are ephemeral and can be deleted.
+- **Global (Cloud):** The "Payload." Google Sheets, Databases, or UI updates. **A project is only "Complete" when the payload is in its final cloud destination.**
+
+## 📂 File Structure Reference
+
+Plaintext
+
+`├── claude.md          # Project Map & State Tracking
+├── .env               # API Keys/Secrets (Verified in 'Link' phase)
+├── architecture/      # Layer 1: SOPs (The "How-To")
+├── tools/             # Layer 3: Python Scripts (The "Engines")
+└── .tmp/              # Temporary Workbench (Intermediates)` https://app.notion.com/p/AntiGravity-Master-Prompt-2ebe8d6bd13780b79036f055625b471d antigravity-skill-creator.md
+#Antigravity Skill Creator System Instructions
+You are an expert developer specializing in creating "Skills" for the Antigravity agent environment. Your goal is to generate high-quality, predictable, and efficient `.agent/skills/` directories based on user requirements.
+## 1. Core Structural Requirements
+Every skill you generate must follow this folder hierarchy:
+- `<skill-name>/`
+    - `SKILL.md` (Required: Main logic and instructions)
+    - `scripts/` (Optional: Helper scripts)
+    - `examples/` (Optional: Reference implementations)
+    - `resources/` (Optional: Templates or assets)
+
+## 2. YAML Frontmatter Standards
+The `SKILL.md` must start with YAML frontmatter following these strict rules:
+- **name**: Gerund form (e.g., `testing-code`, `managing-databases`). Max 64 chars. Lowercase, numbers, and hyphens only. No "claude" or "anthropic" in the name.
+- **description**: Written in **third person**. Must include specific triggers/keywords. Max 1024 chars. (e.g., "Extracts text from PDFs. Use when the user mentions document processing or PDF files.")
+
+## 3. Writing Principles (The "Claude Way")
+When writing the body of `SKILL.md`, adhere to these best practices:
+
+* **Conciseness**: Assume the agent is smart. Do not explain what a PDF or a Git repo is. Focus only on the unique logic of the skill.
+* **Progressive Disclosure**: Keep `SKILL.md` under 500 lines. If more detail is needed, link to secondary files (e.g., `[See ADVANCED.md](ADVANCED.md)`) only one level deep.
+* **Forward Slashes**: Always use `/` for paths, never `\`.
+* **Degrees of Freedom**: 
+    - Use **Bullet Points** for high-freedom tasks (heuristics).
+    - Use **Code Blocks** for medium-freedom (templates).
+    - Use **Specific Bash Commands** for low-freedom (fragile operations).
+
+## 4. Workflow & Feedback Loops
+For complex tasks, include:
+1.  **Checklists**: A markdown checklist the agent can copy and update to track state.
+2.  **Validation Loops**: A "Plan-Validate-Execute" pattern. (e.g., Run a script to check a config file BEFORE applying changes).
+3.  **Error Handling**: Instructions for scripts should be "black boxes"—tell the agent to run `--help` if they are unsure.
+
+## 5. Output Template
+When asked to create a skill, output the result in this format:
+
+### [Folder Name]
+**Path:** `.agent/skills/[skill-name]/`
+
+### [SKILL.md]
+```markdown
+---
+name: [gerund-name]
+description: [3rd-person description]
+---
+
+# [Skill Title]
+
+## When to use this skill
+- [Trigger 1]
+- [Trigger 2]
+
+## Workflow
+[Insert checklist or step-by-step guide here]
+
+## Instructions
+[Specific logic, code snippets, or rules]
+
+## Resources
+- [Link to scripts/ or resources/]
+[Supporting Files]
+(If applicable, provide the content for scripts/ or examples/)
+
+---
+
+## Instructions for use
+
+1.  **Copy the content above** into a new file named `antigravity-skill-creator.md`.
+2.  **Upload this file** to your AI agent or paste it into the system prompt area.
+3.  **Trigger a skill creation** by saying: *"Based on my skill creator instructions, build me a skill for [Task, e.g., 'automating React component testing with Vitest']."**
+
+### Suggested Next Step
+Would you like me to use this new logic to **generate a specific example skill** for you right now (such as a "Deployment Guard" or "Code Reviewer" skill)? create it fully auto 
+
+https://www.getclaudeskills.com/platforms/antigravity Forgetting the skill and to apply it the automatically which AI skill is needed to create the words do it fully automatically
+https://github.com/addyosmani/agent-skills The Website link and mini move play this and get the skills from the Internet All given website uh apply this all node MD file for using it
+C:\Users\Admin\.gemini\GEMINI.md Create a plan mode Before starting the objective after that read or review plan After that approves the plan and also https://github.com/mattpocock/skills Use the skills from the give link for the every project which is given And also add proven libraries I have also create decision.Md file And also create flow.md create a PRD.md  in That What are we building what are the target users features and many more  after that and  create Architecture.Md file app flow and architecture folder file structures tech stack and many more and then rules.Md In that file what we do what we avoid What libraries we use Error handling bouting for Ai And many more features and then create phases.md How we our projects we break into the phases and many more And then after that create a design.MD file In that we create color theme fonts typography and many more features and Create security and access.MD file  created at last memory.Md You do not needed to created At beginning It will be start after the project you are started to creating What files we have are currently working on it and many more features and it will be update regularly automatically and use graphify  and many more  01 Product Requirements Document
+02 Technical Architecture Document
+03 Security & Access Document
+04 Frontend Specification Document
+05 Feature Ticket List  Product Requirements Document
+The starting point of your entire app. Before anyone writes a single line of code or designs a single screen-this doc answers what are we building and why?
+WHAT IT CONTAINS
+Problem statement
+What problem does this solve? Who faces it? Why does it matter? Plain English, no jargon.
+Target users
+Who is this for? Age, tech comfort, frustrations, and goals of your typical user.
+Product vision
+One or two lines. The north star of your app-what it will ultimately become
+20
+Core features
+Every feature with a name, description, and label
+must have
+or
+nice-to-have
+S
+App flow
+Step-by-step user journey. Every screen, button, and decision point in plain language
+Success metrics
+How do you know it's working? Signups, tasks completed, time spent-defined upfront.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior product manager with experience in early-stage startups. I am building an app and I need you to create a detailed Product Requirements Document for it. The document should cover-what the app does, who it is for, what problem it solves, all core features with must-have vs nice-to-have classification, how a user flows through the app from start to finish, what the MVP looks like, how success will be measured, and what we are deliberately NOT building in version one. Technical Architecture Document
+The engineering blueprint of your app. Tells the Al-and any developer - exactly what tools are being used, how the project is organized, and how data is structured. Without this, Al makes random technical decisions that contradict each other.
+WHAT IT CONTAINS
+Tech stack
+Every technology being used frontend, backend, database, hosting, auth-named explicitly with versions.
+File & folder structure
+A map of how the project is organized. Which folder holds which type of file. Keeps the codebase consistent.
+Database schema
+Every table, every field, every relationship. Think of it like describing an Excel sheet in plain English.
+Environment & config
+What env variables are needed, what keys to set up, and what should never be hardcoded. Keeps things secure.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior software architect who has built and scaled multiple SaaS products. Based on my app idea, create a complete Technical Architecture Document. It should include the recommended tech stack with reasoning for each choice, the complete file and folder structure of the project, the full database schema with all tables, fields, and relationships explained in plain English, and any environment variables or configuration notes I need to be aware of before I start building. Security & Access Document
+Defines who can do what inside your app and what happens when things go wrong. Most vibe coders skip this entirely and then wonder why random users can access admin panels or why the app crashes on bad input.
+WHAT IT CONTAINS
+Authentication method
+How users log in-email + password, Google OAuth, OTP, magic link. Clearly defined here.
+User roles & permissions
+Admin, regular user, guest what each role can see, do, and what is blocked from them.
+Row-level security
+Who can read whose data in the database. A user should only see their own records-never others'.
+Error handling
+What happens when things break-API down, wrong password, payment fails. Every fallure gets a defined response.
+Edge cases
+Empty forms, unauthorized access, slow connections-all the weird stuff handled before launch.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior security engineer who specializes in early-stage product security. Create a Security and Access Document for my app. It should cover the authentication method that best fits my use case, all user roles and exactly what each role can and cannot do, row-level security rules for the database, a complete error handling guide for all major fallure points, and a list of edge cases I need to handle before launch. Write everything in plain English so a non-technical founder can understand it. Frontend Specification Document
+M
+Makes sure your app looks and feels consistent across every screen. Also tells the Al exactly which external services are connected and how to talk to them. Without this, every screen looks different and Integrations get guessed wrong.
+WHAT IT CONTAINS
+Color palette
+Exact brand colors with hex codes-primary, secondary, background, text, error, success. All defined.
+A
+Typography
+Which fonts, at what sizes, for what purpose-headings, body, buttons. All specified upfront.
+Component styles
+How buttons, Inputs, cards, and modals look. So every Al-generated screen matches the same design.
+00
+Spacing & layout
+Padding, margins, grid system. How much space between elements. Keeps Ul from looking random or cramped.
+API & Integrations
+Every third-party service-Stripe, Firebase, OpenAl. What it does, which endpoints, what goes in and comes back.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior UI/UX designer and frontend architect. Create a Frontend Specification Document for my app. It should define a complete design system including color palette with hex codes, typography choices, component styles for buttons, inputs, cards and modals, and spacing and layout rules. It should also include a full API and integration spec for every third party service my app will use what each service does, which endpoints are called, what data is sent and what response is expected. WHAT IT CONTAINS
+Feature name
+Short and clear-"User login page", "Dashboard screen", "Stripe checkout flow"
+Task description
+Exactly what needs to happen Written as if telling someone who has never seen your app before.
+Acceptance criteria
+How do you know this is done? "User can log in." "Error shows on wrong password." No ambiguilty.
+13
+Dependencies
+Does this task need another completed first? Prevents buliding features in the wrong order.
+P
+Priority
+Must-have for launch, should have, or nice-to-have Keeps you focused on shipping, not over building
+This is the only doc where you paste your PRD- not your raw idea. By the time you're making tickets, your PRO already exists. That's the system working in order.
+PROMPT TO GENERATE THIS DOCUMENT
+"Act as a senior engineering lead who breaks down products into bulldable tasks. Based on my PRD, create a complete Feature Ticket List for my app. For each feature, write a ticket that includes the feature name, a clear description of what needs to be built, acceptance criteria that defines when the task is done, any dependencies on other features that must be completed first, and a priority label-must-have for launch, should-have, or nice-to-have. Write each ticket so it can be directly used as a prompt for an Al coding tool 
+ C:\Users\Admin\.gemini\config\skills\installing-skills\SKILL.md Uh I give you full authority Make it fully automatically whenever I just create a new project or started it will be started doing automatically fully automatically I don't have to do anything just setup everything fully automatically I give you full authority It was fully 100% automatically

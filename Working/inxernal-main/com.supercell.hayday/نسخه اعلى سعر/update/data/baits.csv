@@ -1,0 +1,7 @@
+Name,ToolIconFileName,ToolIconExportName,TID,DescriptionTID,Colour,MainColourMultiplier,SubColourMultiplier,InstantComplete,DiamondPrice,RequirementAmount,Requirement,TimeMin,ProcessingBuilding,UnlockLevel,ExpCollect,InitialAmount,DonateAllowed
+String,String,String,String,string,String,int,int,int,int,int,String,int,String,int,int,int,boolean
+BaitRed,sc/fishing_icons.sc,icon_fishing_lure_normal,TID_BAIT_RED,TID_BAITMAKER_PRODUCT_DESCRIPTION,Red,6,2,0,5,,,0,BaitMaker,27,1,3,TRUE
+BaitGreen,sc/fishing_icons.sc,icon_fishing_lure_green,TID_BAIT_GREEN,TID_BAITMAKER_PRODUCT_DESCRIPTION,Green,6,2,0,19,1,Voucher1,0,BaitMaker,27,2,,TRUE
+BaitBlue,sc/fishing_icons.sc,icon_fishing_lure_blue,TID_BAIT_BLUE,TID_BAITMAKER_PRODUCT_DESCRIPTION,Blue,6,2,0,34,1,Voucher2,0,BaitMaker,27,3,,TRUE
+BaitPurple,sc/fishing_icons.sc,icon_fishing_lure_purple,TID_BAIT_PURPLE,TID_BAITMAKER_PRODUCT_DESCRIPTION,Purple,6,2,0,53,1,Voucher3,0,BaitMaker,27,4,,TRUE
+BaitGold,sc/fishing_icons.sc,icon_fishing_lure_gold,TID_BAIT_GOLD,TID_BAITMAKER_PRODUCT_DESCRIPTION,Gold,6,2,0,83,1,Voucher4,0,BaitMaker,27,5,,TRUE

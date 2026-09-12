@@ -1,0 +1,4 @@
+Name,ToolIconFileName,ToolIconExportName,TID,DescriptionTID,UnlockLevel,ReputationUnlockLevel,DiamondPrice,PerceivedValue
+String,String,String,String,String,int,int,int,int
+Expansion Key,sc/icons.sc,collection_expansion_key,TID_SPECIAL_EXPANSION_PERMIT,TID_SPECIAL_EXPANSION_PERMIT_DESCRIPTION,25,,1000,13000
+Blueprint,sc/icons.sc,collection_blueprint,TID_SPECIAL_BLUEPRINT,TID_SPECIAL_BLUEPRINT_DESCRIPTION,71,,1000,13000

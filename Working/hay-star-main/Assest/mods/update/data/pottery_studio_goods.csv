@@ -1,0 +1,10 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Tea Pot,sc/icons.sc,recipe_tea_pot,TID_TEA_POT,Pottery_Studio,3,Clay,240,114,110,26,7,1,40,40,94,TID_POTTERY_STUDIO_PRODUCT_DESCRIPTION,51,,40
+,,,,,1,Coffee,,,,,,,,,,,,,
+,,,,,1,GoldOre,,,,,,,,,,,,,
+Plant pot,sc/icons.sc,recipe_plant_pot,TID_PLANT_POT,Pottery_Studio,3,Clay,220,77,74,26,7,1,27,27,96,TID_POTTERY_STUDIO_PRODUCT_DESCRIPTION,34,,27
+,,,,,1,Sunflower,,,,,,,,,,,,,
+Mug,sc/icons.sc,recipe_mug,TID_MUG,Pottery_Studio,3,Clay,200,109,105,25,7,1,39,39,99,TID_POTTERY_STUDIO_PRODUCT_DESCRIPTION,44,,39
+,,,,,2,Indigo,,,,,,,,,,,,,
+,,,,,1,Peony,,,,,,,,,,,,,

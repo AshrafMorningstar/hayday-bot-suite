@@ -1,0 +1,19 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,String,int,Boolean,int
+Plain donut,sc/icons.sc,recipe_plain_donut,TID_PLAIN_DONUT,Donut_Maker,3,Wheat,0,67,64,15,0,1,24,29,76,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,26,,24
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,Egg,,,,,,,,,,,,,
+Cream donut,sc/icons.sc,recipe_cream_donut,TID_CREAM_DONUT,Donut_Maker,1,Plain donut,0,119,114,27,0,1,40,48,86,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,43,,40
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+Bacon donut,sc/icons.sc,recipe_bacon_donut,TID_BACON_DONUT,Donut_Maker,1,Plain donut,0,200,193,46,0,1,74,89,88,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,77,,74
+,,,,,1,Syrup,,,,,,,,,,,,,
+,,,,,3,Bacon,,,,,,,,,,,,,
+Filled donut,sc/icons.sc,recipe_filled_donut,TID_FILLED_DONUT,Donut_Maker,1,Plain donut,0,208,200,48,0,1,63,68,93,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,66,,63
+,,,,,1,Raspberry Jam,,,,,,,,,,,,,
+Crunchy donut,sc/icons.sc,recipe_crunchy_donut,TID_CRUNCHY_DONUT,Donut_Maker,1,Plain donut,0,306,295,71,0,1,49,54,82,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,52,,49
+,,,,,1,Cacao,,,,,,,,,,,,,
+,,,,,1,PeanutBag,,,,,,,,,,,,,
+Sprinkles donut,sc/icons.sc,recipe_sprinkles_donut,TID_SPRINKLES_DONUT,Donut_Maker,1,Plain donut,0,161,155,37,0,1,58,63,79,TID_DONUT_MAKER_PRODUCT_DESCRIPTION,60,,58
+,,,,,2,Cacao,,,,,,,,,,,,,

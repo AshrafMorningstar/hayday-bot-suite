@@ -1,0 +1,8 @@
+Name,UnlockLevel,FileName,ShopIconFileName,ShopIconExportName,ShopIconAnimScale,GathererMine,Price,PriceIncrease,OnGround,DoPriceIncreaseEveryNObject,ExportName,StateNestTakeOffExportName,StateNestTakeOffMS,StateMoveExportName,StateMineLandingExportName,StateMineLandingMS,StateMineGatherExportName,StateMineTakeOffExportName,StateMineTakeOffMS,StateMoveWithResourceExportName,StateNestLandingExportName,StateNestLandingMS,StateIdleExportName,StateReadyExportName,StateTappedExportName,StateTappedWithResourceExportName,MovementSpeed,TID,TapSound,TapProcessingSound,CollectSound,BuySound
+String,int,String,String,String,int,String,int,int,boolean,int,String,String,int,String,String,int,String,String,int,String,String,int,String,String,String,String,int,String,String,String,String,String
+Bee,39,sc/animals.sc,,,160,Dandelion,1500,500,false,3,bee01,FlyingFromHive,700,Flying,FlyingToFlower01,1000,Harvesting,FlyingFromFlower,700,FlyingHoney,FlyingHoneyToHive01,1000,IdleLeft,Ready01,Tapped,TappedHoney,15,TID_BEE,TapBee,TapBee,Collect,Buy
+,,,,,,,,,,,,,,,FlyingToFlower02,800,,,,,FlyingHoneyToHive02,800,IdleRight,Ready02,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Sleep,,,,,,,,,
+Squirrel,62,sc/animals.sc,,,120,Peanutbush,4000,1000,true,2,squirrel01,ExitingHouse,2450,Running,EnteringBush01,2500,Harvesting01,ExitingBush01,1300,RunningNut,EnteringHouse,900,IdleLeft,Ready01,Tapped,TappedNut,20,TID_SQUIRREL,TapSquirrel,TapSquirrel,Collect,Buy
+,,,,,,,,,,,,,,,EnteringBush02,1400,Harvesting02,,,,,,Sleep,Ready02,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Sleep,,,,,,,,,

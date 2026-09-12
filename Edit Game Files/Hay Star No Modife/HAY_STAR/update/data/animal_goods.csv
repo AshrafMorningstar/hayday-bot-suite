@@ -1,0 +1,8 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,TimeMin,TimeSec,ExpCollect,OrderValue,BoatOrderValue,InstantComplete,UnlockLevel,OrderPrice,OrderExp,DumbValue,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,int,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Egg,sc/icons.sc,icon_egg,TID_EGG,20,,100,4,4,2,1,500,500,1,TID_EGG_DESCRIPTION,6,,4
+Milk,sc/icons.sc,icon_milk,TID_MILK,60,,100,6,6,4,6,500,500,1,TID_MILK_DESCRIPTION,10,,6
+Wool,sc/icons.sc,icon_wool,TID_WOOL,360,,100,11,11,8,16,500,500,1,TID_WOOL_DESCRIPTION,19,,11
+Bacon,sc/icons.sc,icon_bacon,TID_BACON,240,,100,10,10,7,10,500,500,1,TID_BACON_DESCRIPTION,17,,10
+Goat Milk,sc/icons.sc,icon_goat_milk,TID_GOAT_MILK,480,,100,13,13,10,32,500,500,1,TID_GOAT_MILK_DESCRIPTION,23,,13
+Lamb Meat,sc/icons.sc,recipe_lamb_meat,TID_LAMB_MEAT,30,,100,7,7,3,25,500,500,1,TID_LAMB_MEAT_DESCRIPTION,10,,5

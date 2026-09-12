@@ -1,0 +1,61 @@
+ cutting the trees by axe and saw It didn't needed to cut the tree or if it was not working then it was replaced by wheat For cutting the tree
+10:53 PM
+All requested features have been implemented, verified, and deployed to your game assets and tools:
+
+1. Instant Shop & Teleport Commands
+In 
+
+loader.py
+, TCP control server (port 31350), and 
+
+ui_server.py
+:
+
+Instant Shop:
+shop: Opens the Diamond / Item Shop instantly (OpenDiamondShop).
+shop roadside: Focuses and warps camera to Roadside Shop (SelectGameObject&name=RoadsideShop).
+shop deco: Opens the Decoration Shop (OpenShopDeco).
+shop build: Taps the bottom-left shop awning (input tap 35 440).
+Teleportation:
+teleport <destination> (aliases: goto, tp, jump):
+Supported destinations: fishing, town, greg, gregtown, events, clans, roadside, truck, boat, mine, mailbox, derby, farm.
+Return to Farm from Everywhere:
+home or teleport farm: Warps camera back to Farm House (SelectGameObject&name=House) and triggers bottom-left return tap to exit Fishing/Town/Greg scenes.
+back: Sends Android Back key (input keyevent 4) to close any active shop, modal, or overlay.
+2. Tree Cutting with Wheat / No Tool Needed
+To remove the need for axes and saws, or replace them with Wheat:
+
+Live Assets Patched:
+In 
+
+tools.csv
+: Registered Wheat as an official clearing tool with the wheat icon, level 1 unlock, and 0 diamond cost. Also set DiamondPrice = 0 for Axe and Saw.
+In 
+
+fruit_trees.csv
+ and 
+
+forests.csv
+: All trees, fruit trees, and bushes now use Wheat as their cutting tool.
+In 
+
+run_asset_editor.bat
+:
+Select Option [12] (Mod Tree Cutting):
+[1] Replace Axe & Saw with Wheat (Cut trees using Wheat).
+[2] No Tool Needed (Empty tool — clear trees freely without tools).
+[3] Free Axe & Saw (0 Diamonds / 0 Coins — unlimited cuts).
+In 
+
+loader.py
+:
+Run modtrees wheat, modtrees notool, or modtrees zero_cost to switch modes and auto-deploy live to LDPlayer.
+3. Web UI Controls
+In 
+
+ui/index.html
+ and 
+
+ui/app.js
+, a dedicated Instant Shop & Teleport panel has been added to the dashboard with 1-click buttons for:
+[🛒 Shop], [🏪 Roadside], [🏠 Farm (Home)], [🎣 Fishing], [🚂 Town], [👨‍🌾 Greg], [📋 Events], [🛡️ Clans], [🔙 Back], plus a destination dropdown and Warp button.

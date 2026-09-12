@@ -1,0 +1,3 @@
+Name,FileName,ExportName,PopupExportName,WalkSpeed,IdleTimeMinMS,IdleTimeMaxMS,Greeting,UnlockLevel,TapSound,BuilderFadeSpeed,TeleportTimeMinMS,TeleportTimeMaxMS,AfterTeleportTimeMinMS,AfterTeleportTimeMaxMS,RenovationTimeMinMS,RenovationTimeMaxMS,AfterRenovationTimeMinMS,AfterRenovationTimeMaxMS,MaxPathLength,RenovationEndingTimeMinMS,RenovationEndingTimeMaxMS,TutorialWalkSpeed,TileWidth,TileHeight
+String,String,String,String,int,int,int,String,int,string,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+BuilderGirl,sc/humans.sc,builder_girl,,18,10400,52000,,1,FarmFemaleAttention,200,500,500,2000,2000,2650,2650,3000,13000,200,1500,3000,36,1,1

@@ -1,0 +1,7 @@
+Name,ToolIconFileName,ToolIconExportName,TID,DescriptionTID,UnlockLevel,DiamondPrice,CashValue
+String,String,String,String,String,int,int,int
+Workbench_Green_Cog_Common,sc/icons.sc,workbench_currency_t1,TID_WORKBENCH_CURRENCY_1,TID_WORKBENCH_CURRENCY_1_DESCRIPTION,12,5,200
+Workbench_Blue_Cog_Common,sc/icons.sc,workbench_currency_t2,TID_WORKBENCH_CURRENCY_2,TID_WORKBENCH_CURRENCY_2_DESCRIPTION,12,5,200
+Workbench_Silver_Cog_Rare,sc/icons.sc,workbench_currency_t3,TID_WORKBENCH_CURRENCY_3,TID_WORKBENCH_CURRENCY_3_DESCRIPTION,12,10,400
+Workbench_Gold_Cog_Epic,sc/icons.sc,workbench_currency_t4,TID_WORKBENCH_CURRENCY_4,TID_WORKBENCH_CURRENCY_4_DESCRIPTION,12,15,400
+Workbench_Purple_Cog_Mythic,sc/icons.sc,workbench_currency_t5,TID_WORKBENCH_CURRENCY_5,TID_WORKBENCH_CURRENCY_5_DESCRIPTION,12,15,500

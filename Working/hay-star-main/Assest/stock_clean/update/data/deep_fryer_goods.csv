@@ -1,0 +1,24 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Loaded Fries,sc/icons.sc,recipe_loaded_fries,TID_PRODUCT_BACONFRIES,Deep_Fryer,4,Potato,25,157,151,36,3,1,61,61,87,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,64,,61
+,,,,,2,Bacon,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,1,Garlic,,,,,,,,,,,,,
+Stuffed Peppers,sc/icons.sc,recipe_stuffed_peppers,TID_PRODUCT_CHILIPOPPERS,Deep_Fryer,3,Chili,40,209,201,48,3,1,77,77,98,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,80,,77
+,,,,,3,Bacon,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+,,,,,1,Wheat,,,,,,,,,,,,,
+Hand Pies,sc/icons.sc,recipe_hand_pies,TID_PRODUCT_HANDPIES,Deep_Fryer,5,Wheat,20,152,146,35,2,1,44,44,91,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,46,,44
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,1,Apple Jam,,,,,,,,,,,,,
+Fried Candy,sc/icons.sc,recipe_fried_candy,TID_PRODUCT_FRIEDCANDYBAR,Deep_Fryer,3,Cacao,15,376,362,87,2,1,75,78,100,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,77,,75
+,,,,,1,PeanutBag,,,,,,,,,,,,,
+,,,,,1,Cookie,,,,,,,,,,,,,
+Falafel,sc/icons.sc,recipe_falafel,TID_PRODUCT_FALAFEL,Deep_Fryer,3,Chickpea,55,117,113,27,4,1,45,45,98,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,49,FALSE,45
+,,,,,2,Onion,,,,,,,,,,,,,
+,,,,,2,Garlic,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+Samosa,sc/icons.sc,recipe_samosa,TID_PRODUCT_SAMOSA,Deep_Fryer,2,Chickpea,75,116,111,27,4,1,44,44,103,TID_DEEP_FRYER_PRODUCT_DESCRIPTION,48,FALSE,44
+,,,,,3,Potato,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,4,Wheat,,,,,,,,,,,,,

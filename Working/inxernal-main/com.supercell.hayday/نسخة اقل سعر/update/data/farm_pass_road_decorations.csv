@@ -1,0 +1,16 @@
+Name,FileName,ExportName,EndSection
+String,String,String,Boolean
+Start,sc/farmpass.sc,fp_path_background_start,
+Background01,sc/farmpass.sc,fp_path_background01,
+Background02,sc/farmpass.sc,fp_path_background02,
+Background03,sc/farmpass.sc,fp_path_background03,
+End,sc/farmpass.sc,fp_path_background_end,True
+End_Section1,sc/farmpass.sc,fp_path_background_end_section1,True
+End_Section2,sc/farmpass.sc,fp_path_background_end_section2,True
+Background01_Section1,sc/farmpass.sc,fp_path_background01_section1,
+Background02_Section1,sc/farmpass.sc,fp_path_background02_section1,
+Background03_Section1,sc/farmpass.sc,fp_path_background03_section1,
+Background01_Section2,sc/farmpass.sc,fp_path_background01_section2,
+Background02_Section2,sc/farmpass.sc,fp_path_background02_section2,
+Background03_Section2,sc/farmpass.sc,fp_path_background03_section2,
+EndNew,sc/farmpass.sc,fp_path_background_end_new,True

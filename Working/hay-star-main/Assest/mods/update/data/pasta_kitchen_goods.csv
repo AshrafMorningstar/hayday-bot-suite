@@ -1,0 +1,28 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Gnocchi,sc/icons.sc,recipe_gnocchi,TID_PRODUCT_GNOCCHI,Pasta_Kitchen,4,Potato,80,245,236,57,4,1,88,88,72,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,92,,88
+,,,,,2,Wheat,,,,,,,,,,,,,
+,,,,,3,Tomato,,,,,,,,,,,,,
+,,,,,2,Butter,,,,,,,,,,,,,
+Lasagna,sc/icons.sc,recipe_lasagne,TID_PRODUCT_LASAGNA,Pasta_Kitchen,3,Raw Pasta,100,275,265,63,5,1,97,100,74,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,102,,97
+,,,,,1,Cheese,,,,,,,,,,,,,
+,,,,,1,Tomato Sauce,,,,,,,,,,,,,
+,,,,,1,Carrot,,,,,,,,,,,,,
+Lobster Pasta,sc/icons.sc,recipe_lobsterpasta,TID_PRODUCT_LOBSTERPASTA,Pasta_Kitchen,3,Raw Pasta,120,329,316,76,5,1,98,106,79,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,103,,98
+,,,,,1,Lobster Meat,,,,,,,,,,,,,
+,,,,,4,Tomato,,,,,,,,,,,,,
+,,,,,2,Cream,,,,,,,,,,,,,
+Pasta Carbonara,sc/icons.sc,recipe_carbonara,TID_PRODUCT_PASTACARBONARA,Pasta_Kitchen,3,Raw Pasta,150,212,204,49,6,1,76,76,83,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,82,,76
+,,,,,1,Egg,,,,,,,,,,,,,
+,,,,,2,Bacon,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Spicy spaghetti,sc/icons.sc,recipe_spicy_pasta,TID_PRODUCT_SPICYSPAGHETTI,Pasta_Kitchen,3,Raw Pasta,90,297,286,69,5,1,108,111,87,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,113,,108
+,,,,,1,Tomato Sauce,,,,,,,,,,,,,
+,,,,,3,Chili,,,,,,,,,,,,,
+,,,,,2,Onion,,,,,,,,,,,,,
+Broccoli Mac,sc/icons.sc,recipe_broccoli_mac,TID_PRODUCT_BROCCOLIMAC,Pasta_Kitchen,3,Broccoli,60,178,171,41,4,1,62,62,83,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,66,,62
+,,,,,3,Raw Pasta,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+MushroomPasta,sc/icons.sc,recipe_mushroom_pasta,TID_MUSHROOM_PASTA,Pasta_Kitchen,3,Raw Pasta,75,144,139,33,4,1,51,51,101,TID_PASTA_KITCHEN_PRODUCT_DESCRIPTION,55,,51
+,,,,,5,Mushroom,,,,,,,,,,,,,
+,,,,,1,Goat Milk,,,,,,,,,,,,,

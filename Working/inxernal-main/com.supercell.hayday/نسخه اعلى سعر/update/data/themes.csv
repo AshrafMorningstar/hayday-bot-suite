@@ -1,0 +1,12 @@
+Name,LevelLimit,ExportNamePostfix,Enabled,SnowFileName,SnowExportNames,TID
+String,int,String,boolean,String,String,String
+ChineseNewYear,9,,TRUE,,,TID_THEME_CHINESE_NEW_YEAR
+Valentines,9,,TRUE,,,TID_THEME_VALENTINES
+Easter,9,,TRUE,,,TID_THEME_EASTER
+Summer,9,,TRUE,,,TID_THEME_SUMMER
+Halloween,9,,TRUE,,,TID_THEME_HALLOWEEN
+Autumn,9,,TRUE,,,TID_THEME_AUTUMN
+Winter,9,,TRUE,,,TID_THEME_WINTER
+Christmas,9,,TRUE,,,TID_THEME_CHRISTMAS
+NewYear,9,,TRUE,,,TID_THEME_NEW_YEAR
+Ramadan,9,,TRUE,,,TID_THEME_RAMADAN

@@ -1,0 +1,12 @@
+Name,IntValue,StringValue,BooleanValue
+String,int,String,boolean
+Enabled,,,false
+NewspaperBotPercentage,30,,
+MinGoodAmountPerNewspaper,10,,
+MaxGoodAmountPerNewspaper,120,,
+DailyCapFromBots,500,,
+ToolsAndCollectionToolsExcludingTownDailyCapFromRss,20,,
+BackfillCategory,,Crops,
+MinLockedGoodBoxesPerBot,0,,
+MaxLockedGoodBoxesPerBot,4,,
+BlackListGoods,,Popcorn/Pumpkin,

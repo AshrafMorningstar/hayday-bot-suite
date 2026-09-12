@@ -1,0 +1,17 @@
+Name,ExportName,FileName,UpgradeAnimFrameStart,UpgradeAnimFrameEnd,TileWidth,TileHeight,TapSound,TapProcessingSound,CollectSound,IntroFileName,IntroFlyExportName,IntroBurstExportName,IntroFallDurationMS,IntroFallSpeed,TimeMin,TimeSec,ExpToBuild,InstantComplete,TID
+String,String,String,String,String,int,int,String,String,String,String,String,String,int,int,int,int,int,int,String
+Placeholder,under_construction_sign,sc/nh_object.sc,,,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+WinterTree,nhobj_wintertree_1,sc/nh_object.sc,,,1,1,MenuBleep,BigRockCollect,Collect,sc/nh_object.sc,cr_crate_fly,cr_crate_burst,4500,100,,,,,
+,nhobj_wintertree_2,sc/nh_object.sc,WintertreeUpgradeStart,WintertreeUpgradeEnd,2,2,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_wintertree_3,sc/nh_object.sc,WintertreeUpgradeStart,WintertreeUpgradeEnd,2,2,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_wintertree_4,sc/nh_object.sc,WintertreeUpgradeStart,WintertreeUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_wintertree_5,sc/nh_object.sc,WintertreeUpgradeStart,WintertreeUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+SpringObject,nhobj_springtreehouse_1,sc/nh_object.sc,,,3,3,MenuBleep,BigRockCollect,Collect,sc/nh_object.sc,cr_crate_fly_nhspring,cr_crate_burst_nhspring,4500,100,,,,,
+,nhobj_springtreehouse_2,sc/nh_object.sc,SpringtreehouseUpgradeStart,SpringtreehouseUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_springtreehouse_3,sc/nh_object.sc,SpringtreehouseUpgradeStart,SpringtreehouseUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+SummerObject,nhobj_summersandcastle_1,sc/nh_object.sc,,,2,2,MenuBleep,BigRockCollect,Collect,sc/nh_object.sc,cr_crate_fly_nh,cr_crate_burst_nh,4500,100,,,,,
+,nhobj_summersandcastle_2,sc/nh_object.sc,SummersandcastleUpgradeStart,SummersandcastleUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_summersandcastle_3,sc/nh_object.sc,SummersandcastleUpgradeStart,SummersandcastleUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+AutumnObject,nhobj_autumnswamp_1,sc/nh_object.sc,,,2,2,MenuBleep,BigRockCollect,Collect,sc/nh_object.sc,cr_crate_fly_nh,cr_crate_burst_nh,4500,100,,,,,
+,nhobj_autumnswamp_2,sc/nh_object.sc,AutumnswampUpgradeStart,AutumnswampUpgradeEnd,3,2,MenuBleep,BigRockCollect,Collect,,,,,,,,,,
+,nhobj_autumnswamp_3,sc/nh_object.sc,AutumnswampUpgradeStart,AutumnswampUpgradeEnd,3,3,MenuBleep,BigRockCollect,Collect,,,,,,,,,,

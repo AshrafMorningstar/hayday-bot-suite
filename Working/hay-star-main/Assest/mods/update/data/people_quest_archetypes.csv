@@ -1,0 +1,5 @@
+Name,Disabled,DistributionCount,EffortBucketVeryLow,EffortBucketLow,EffortBucketMedium,EffortBucketHigh,EffortBucketVeryHigh,BaseFriendshipPoints,MinProductCount,RequireProductionBuilding,ModifyGiftByFriendshipMultiplier,GiftCap
+String,boolean,int,int,int,int,int,int,int,int,boolean,String,int
+Farmhand,true,3,,,,,,,,,1,
+DC,,6,10,20,35,50,100,10,2,true,1,
+GiftHorse,,1,,,,,,10,2,,0.4,

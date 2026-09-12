@@ -1,0 +1,19 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+SushiRoll,sc/icons.sc,recipe_sushiroll,TID_PRODUCT_SUSHIROLL,Sushi_Bar,15,Rice,60,253,243,58,4,1,85,85,56,TID_SUSHIBAR_PRODUCT_DESCRIPTION,89,,85
+,,,,,1,SoySauce,,,,,,,,,,,,,
+,,,,,1,Fish Meat,,,,,,,,,,,,,
+LobsterSushi,sc/icons.sc,recipe_lobstersushi,TID_PRODUCT_LOBSTERSUSHI,Sushi_Bar,15,Rice,60,329,317,76,4,1,95,103,59,TID_SUSHIBAR_PRODUCT_DESCRIPTION,99,,95
+,,,,,1,SoySauce,,,,,,,,,,,,,
+,,,,,1,Lobster Meat,,,,,,,,,,,,,
+EggRoll,sc/icons.sc,recipe_eggroll,TID_PRODUCT_EGGROLL,Sushi_Bar,15,Rice,120,285,274,66,5,1,96,99,63,TID_SUSHIBAR_PRODUCT_DESCRIPTION,101,,96
+,,,,,4,Egg,,,,,,,,,,,,,
+,,,,,1,SoySauce,,,,,,,,,,,,,
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+Big sushi roll,sc/icons.sc,recipe_big_sushiroll,TID_PRODUCT_BIGSUSHIROLL,Sushi_Bar,20,Rice,90,334,321,77,5,1,123,123,76,TID_SUSHIBAR_PRODUCT_DESCRIPTION,128,,123
+,,,,,1,Fish Meat,,,,,,,,,,,,,
+,,,,,3,Egg,,,,,,,,,,,,,
+,,,,,5,Lettuce,,,,,,,,,,,,,
+Rice Ball,sc/icons.sc,recipe_rice_balls,TID_PRODUCT_RICEBALL,Sushi_Bar,20,Rice,45,239,230,55,3,1,83,83,110,TID_SUSHIBAR_PRODUCT_DESCRIPTION,86,,83
+,,,,,1,Plum,,,,,,,,,,,,,
+,,,,,1,Sesame,,,,,,,,,,,,,

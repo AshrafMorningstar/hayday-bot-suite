@@ -1,0 +1,124 @@
+==========================================================================================
+CONVERSATION 04: Inxernal Documents & Supercell File Integration
+Category:     File Management & Integration
+Session ID:   d249fcf1-4184-4f20-91ee-566a979d3fd6
+Date/Time:    2026-09-06T15:34:03-07:00
+Total Turns:  1
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+TURN 1 | Timestamp: 2026-09-06T15:34:03-07:00
+------------------------------------------------------------------------------------------
+
+[USER PROMPT]:
+I give you the old files in the file path C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday Upload the files before starting the programs give me option to selecting Which file I want to upload from the folder and also create option for clean the all files from the folder and show They do that only automatically So whenever Program was launched It will give the options for running the mod The person can choose the more before applying itStart the my program and before starting the program C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday It will be automatically upload the file which is the given in the folder fully automatically You automatically arrange it which is suitable for the program I give you full authority you can do anything you want to do I give you full authority And also reapplying the all files because I added new files in the folder So do everything from the start Of the for example the mode 1 mode 2 mode 3 option for selecting and uploading the files in the before starting the In the program Cleaned & Arranged Game Assets Directory  Implemented Automatic Game Asset Staging Start the my program and before starting the program C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday It will be automatically upload the file which is the given in the folder fully automatically You automatically arrange it which is suitable for the program I give you full authority you can do anything you want to do I give you full authority
+
+[ASSISTANT RESPONSE]:
+The game assets directory in [`C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday`](file:///c:/Users/Admin/Documents/inxernal-main/com.supercell.hayday) has been cleaned and rearranged, the mod staging system with interactive & automatic options has been integrated into [`loader.py`](file:///c:/Users/Admin/Documents/inxernal-main/loader.py), and the program was launched and verified.
+
+---
+
+### What Was Done
+
+1. **Cleaned & Arranged Assets Directory**:
+   - Removed all android database, webview, and cache residue.
+   - Organized 4 standardized mod profiles (399 files each) under `com.supercell.hayday`:
+     - **Mode 1 (`HAY_STAR`)**: Merged Ultimate Mod (Min Tom buy price, max sell & order rewards, fast speed, clean farm layout, custom branding).
+     - **Mode 2 (`نسخه اعلى سعر`)**: Highest Price / Maximum Sell & Order Rewards.
+     - **Mode 3 (`نسخة اقل سعر`)**: Lowest Price / Cheap Tom Purchases.
+     - **Mode 4 (`نسخه رفع الزينه`)**: Clean Farm / Cleared Decorations Layout.
+   - Created directory junctions: `mode_1_hay_star`, `mode_2_highest_price`, `mode_3_lowest_price`, `mode_4_remove_decor`.
+
+2. **Automatic & Interactive Mod Selector**:
+   - Added startup menu in [`loader.py`](file:///c:/Users/Admin/Documents/inxernal-main/loader.py) with a 5-second countdown timer.
+   - **Automatic Action**: If no input is entered during the countdown, it automatically stages Mode 1 (`HAY_STAR`) without blocking.
+   - **Manual Option**: You can pick `[1]`, `[2]`, `[3]`, `[4]` to choose any mod, `[5]` to clean/wipe all mod files from the device and restore stock, or `[0]` to skip.
+   - Added CLI arguments: `--mod <1-4|clean|skip>`, `--mod-clean`, `--mod-skip`, and `--mod-timeout <seconds>`.
+   - Staging uses high-speed compressed tarball streaming over ADB, sets app permissions, and applies Linux immutable attributes (`chattr -R +i`) so Supercell's servers cannot overwrite modded CSVs.
+   - Added `nmod` to the console and `mod` to the TCP control socket (`127.0.0.1:31350`) for dynamic runtime switching.
+
+3. **Program Launched & Verified**:
+   - Emulator booted and connected (`emulator-5554`).
+   - Mod assets staged to `/data/data/com.supercell.hayday/update`.
+   - Frida Gadget injected into game process; engine heartbeat verified.
+   - Verified that Hay Day launched with custom mod branding: `⭐HAY_STAR⭐ LOADING..`.
+   - TCP control socket active and responding on port `31350`.
+
+For complete details and commands, see the [Walkthrough Document](file:///C:/Users/Admin/.gemini/antigravity-ide/brain/d249fcf1-4184-4f20-91ee-566a979d3fd6/walkthrough.md).
+
+The execution is complete and verified:
+
+- **Mod Staging & Assets**: Mode 1 (`HAY_STAR` with 375 modded CSVs and custom localization) is staged and active on the device.
+- **Engine Status**: The program is attached and active (`attached=yes`, `gate=down`).
+- **Control Interface**: The control server is listening on `127.0.0.1:31350`, responding to both in-game automation commands (`nplant`, `nharvest`, `nfarm`, `nsell`, `nfields`) and mod switching commands (`nmod 1-4`, `nmod clean`, `nmod list`).
+
+The program is running with all of your latest additions integrated and verified:
+
+### Status & Verification
+
+1. **Native Module & Gate Status**:
+   - `status`: `OK farm=stopped fields=0 attached=yes gate=ready`
+   - `loadnative`: `OK loaded 0x8a30000` (successfully resident in-process via ART/Houdini native bridge)
+   - `fields`: `OK 0 []` (enumerated through the live in-process tick gate)
+
+2. **Mod Staging & Asset Protection**:
+   - `mod status`: `OK csv_count=375` (Mode 1: `HAY_STAR` active with custom loading bar and full CSV suite)
+   - Staging commands verified with `find -exec chattr -i` / `chattr +i`
+   - Google Play Services auth popups suppressed from stealing focus
+
+3. **Live TCP Control Socket (`127.0.0.1:31350`)**:
+   - Active and responding to automation commands (`nfarm`, `nplant`, `nharvest`, `fields`, `status`) and dynamic mod switching commands (`mod 1`, `mod 2`, `mod 3`, `mod 4`, `mod clean`, `mod list`).
+
+The program has been started as a background daemon and is fully operational:
+
+- **Game & Frida Engine**: Attached and active (`attached=yes`, `libg.so base: 0x5030000`).
+- **Mod Asset Staging**: Mode 1 (`HAY_STAR`) staged with all 375 modded CSVs and custom localization active.
+- **Control Server**: Listening on `127.0.0.1:31350` and ready to accept automation, native module, and mod switching commands.
+
+All files, directories, and code modifications are complete, verified, and ready.
+
+### Summary of System State
+
+1. **Cleaned & Arranged Assets (`com.supercell.hayday`)**:
+   - Organized 4 standardized mod profiles, each with an exact, clean `update/` structure (399 files each):
+     - **Mode 1 (`HAY_STAR`)**: Merged Ultimate Mod (Lowest Tom buy price, highest sell/order prices, fast speeds, cleared farm, custom rebranding).
+     - **Mode 2 (`نسخه اعلى سعر`)**: Highest Price (Max Sell & Order Rewards).
+     - **Mode 3 (`نسخة اقل سعر`)**: Lowest Price (Cheap Tom Purchases).
+     - **Mode 4 (`نسخه رفع الزينه`)**: Clean Farm (Removed/Cleared Decorations Layout).
+   - Standardized Windows directory junctions created: `mode_1_hay_star`, `mode_2_highest_price`, `mode_3_lowest_price`, and `mode_4_remove_decor`.
+
+2. **Automated & Interactive Mod Staging in [`loader.py`](file:///c:/Users/Admin/Documents/inxernal-main/loader.py)**:
+   - **Interactive Menu with Auto-Countdown**: When [`loader.py`](file:///c:/Users/Admin/Documents/inxernal-main/loader.py) is launched, it displays the mod selector menu. If no key is pressed within 5 seconds, it automatically stages Mode 1 (`HAY_STAR`) and starts the game.
+   - **Clean Option (`[5]` or `--mod-clean`)**: Completely clears `/data/data/com.supercell.hayday/update` on the emulator and restores stock assets.
+   - **Protection & Fast Transfer**: Uses compressed tar streaming directly over ADB into the app data directory, sets permissions, and applies Linux immutable attributes (`chattr -R +i`) so Supercell servers cannot overwrite modded CSVs.
+   - **Socket & Console Control (`127.0.0.1:31350`)**: Supports `loadnative`, `fields`, `nmod`, `status`, and all automation commands live.
+
+---
+
+### Running the Program
+
+To run the program with the interactive menu:
+```powershell
+python loader.py
+```
+
+To auto-select a specific mod directly:
+```powershell
+python loader.py --mod 1
+```
+
+To wipe mod files from the emulator and launch stock:
+```powershell
+python loader.py --mod-clean
+```
+
+The lines you viewed (12–46 of [`loader.py`](file:///c:/Users/Admin/Documents/inxernal-main/loader.py)) define the core paths and configuration constants for the asset staging and injection pipeline:
+
+- **Target App**: `com.supercell.hayday`
+- **Mod Directory**: [`com.supercell.hayday`](file:///c:/Users/Admin/Documents/inxernal-main/com.supercell.hayday) (containing Mode 1–4 profiles)
+- **Target Device Path**: `/data/user/0/com.supercell.hayday/update`
+- **Asset Vault & Frida Gadget**: `/data/adb/nxrth-assets` and `/data/user/0/com.supercell.hayday/files/metrics`
+- **Native Engine Module**: `native/build/libnxrth.so` loaded in-process via ART/Houdini bridge
+
+Everything is configured and ready. Would you like to adjust any of these paths or test running a specific mod profile?
+

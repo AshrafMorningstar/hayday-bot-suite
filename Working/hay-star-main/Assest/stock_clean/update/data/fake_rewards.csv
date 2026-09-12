@@ -1,0 +1,6 @@
+Name,FileName,ExportName,BigIconFileName,BigIconExportName,ResourceTarget,TID,Description
+String,String,String,String,String,String,String,String
+BeatsAlbum,sc/icons.sc,Icon_FreshBeats_Record_multi,sc/icons.sc,Icon_FreshBeats_Record_multi,Beats,TID_TT_BEAT_ALBUM,TID_TT_BEAT_ALBUM_DESC
+BoatTrackBonus,sc/hud_ship_orders.sc,icon_nautical_miles,sc/hud_ship_orders.sc,icon_nautical_miles,,TID_TT_BOAT_TRACK_BONUS,TID_TT_BOAT_TRACK_BONUS_DESC
+BoatRandomVoucher,sc/icons.sc,icon_voucher_random,sc/icons.sc,icon_voucher_random_big,,TID_BOAT_ORDER_TOOLTIP_VOUCHER_TITLE,TID_BOAT_ORDER_TOOLTIP_VOUCHER_DESCRIPTION
+PeopleFriendshipPoint,sc/icons.sc,icon_xp_reputation,sc/icons.sc,icon_xp_reputation,,TID_PEOPLE_QUEST_V2_FRIENDSHIP_POINT,TID_PEOPLE_QUEST_V2_FRIENDSHIP_POINT_DESCRIPTION

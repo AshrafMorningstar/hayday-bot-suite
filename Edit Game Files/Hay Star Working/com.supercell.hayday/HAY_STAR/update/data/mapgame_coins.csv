@@ -1,0 +1,7 @@
+Name,CoinType,Tier2RewardCoin,ToolIconFileName,ToolIconExportName,ToolBigIconFileName,ToolBigIconExportName,TID,DescriptionTID,DiamondPrice
+String,int,Boolean,String,String,String,String,String,String,int
+MapGameCoinBlue,1,,sc/map_icons.sc,icon_mapcurrency_type01,sc/map_icons.sc,icon_mapcurrency_type01,TID_MAPGAME_BLUE_COIN,TID_MAPGAME_BLUE_COIN_DESCRIPTION,1000
+MapGameCoinRed,2,,sc/map_icons.sc,icon_mapcurrency_type02,sc/map_icons.sc,icon_mapcurrency_type02,TID_MAPGAME_RED_COIN,TID_MAPGAME_RED_COIN_DESCRIPTION,1000
+MapGameCoinGreen,3,,sc/map_icons.sc,icon_mapcurrency_type03,sc/map_icons.sc,icon_mapcurrency_type03,TID_MAPGAME_GREEN_COIN,TID_MAPGAME_GREEN_COIN_DESCRIPTION,1000
+MapGameCoinChicken,4,TRUE,sc/map_icons.sc,icon_mapchicken_small,sc/map_icons.sc,icon_mapchicken,TID_MAPGAME_CHICKEN_COIN,TID_MAPGAME_CHICKEN_COIN_DESCRIPTION,1000
+MapGameCoinSanctuaryAnimal,5,TRUE,sc/map_icons.sc,icon_sanctuarypaw_token_small,sc/map_icons.sc,icon_sanctuarypaw_token,TID_MAPGAME_SANCTUARY_ANIMAL_COIN,TID_MAPGAME_SANCTUARY_ANIMAL_COIN_DESCRIPTION,1000

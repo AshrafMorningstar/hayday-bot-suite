@@ -1,0 +1,16 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int
+Bracelet,sc/icons.sc,recipe_bracelet,TID_BRACELET,Jeweler,2,SilverBar,120,531,128,61,5,1,85,85,38,TID_JEWELER_PRODUCT_DESCRIPTION,85
+,,,,,1,GoldBar,,,,,,,,,,,
+Necklace,sc/icons.sc,recipe_necklace,TID_NECKLACE,Jeweler,2,SilverBar,180,751,181,87,6,1,120,120,39,TID_JEWELER_PRODUCT_DESCRIPTION,120
+,,,,,1,GoldBar,,,,,,,,,,,
+,,,,,1,PlatinumBar,,,,,,,,,,,
+Diamond Ring,sc/icons.sc,recipe_diamond_ring,TID_DIAMOND_RING,Jeweler,2,GoldBar,240,895,205,98,7,1,136,136,40,TID_JEWELER_PRODUCT_DESCRIPTION,136
+,,,,,2,PlatinumBar,,,,,,,,,,,
+,,,,,1,Diamonds,,,,,,,,,,,
+IronBracelet,sc/icons.sc,recipe_iron_bracelet,TID_IRONBRACELET,Jeweler,2,IronBar,90,681,164,79,5,1,106,106,41,TID_JEWELER_PRODUCT_DESCRIPTION,106
+,,,,,2,CoalBar,,,,,,,,,,,
+,,,,,1,SilverBar,,,,,,,,,,,
+Flower Pendant,sc/icons.sc,recipe_flower_pendant,TID_PRODUCT_FLOWERPENDANT,Jeweler,3,Peony,60,360,346,83,4,1,119,119,98,TID_JEWELER_PRODUCT_DESCRIPTION,119
+,,,,,2,GoldBar,,,,,,,,,,,
+,,,,,1,PlatinumBar,,,,,,,,,,,

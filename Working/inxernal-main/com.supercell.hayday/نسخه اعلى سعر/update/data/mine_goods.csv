@@ -1,0 +1,7 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ExpCollect,UnlockLevel,DumbValue,Probability,DescriptionTID,DiamondPrice,ProcessingBuilding
+String,String,String,String,int,int,int,int,String,int,String
+SilverOre,sc/icons.sc,icon_silver_ore,TID_SILVER_ORE,5,24,1,3,TID_SILVER_ORE_DESCRIPTION,5,Mine
+GoldOre,sc/icons.sc,icon_gold_ore,TID_GOLD_ORE,6,24,1,2,TID_GOLD_ORE_DESCRIPTION,6,Mine
+PlatinumOre,sc/icons.sc,icon_platinum_ore,TID_PLATINUM_ORE,7,24,1,1,TID_PLATINUM_ORE_DESCRIPTION,7,Mine
+CoalOre,sc/icons.sc,icon_coal_ore,TID_COAL_ORE,3,33,1,2,TID_COAL_ORE_DESCRIPTION,3,Mine
+IronOre,sc/icons.sc,icon_iron_ore,TID_IRON_ORE,4,34,1,2,TID_IRON_ORE_DESCRIPTION,4,Mine

@@ -1,0 +1,639 @@
+Name,Type,FileName,ExportName,GiftIconFileName,GiftIconExportName,GoodRewards,GoodIconSlotExportName,GoodAmounts,Probabilities,DiamondThreshold,Price,PriceData,TileWidth,TileHeight,OpenSound,TitleTID,TextTID,Text2TID,Text3TID,OpenGiftMessageTID,UnlockLevel,RepUnlockLevel,WalkGiftAnim,RewardHUDExportName
+String,String,String,String,String,String,String,String,int,int,int,int,String,int,int,String,String,String,String,String,String,int,int,String,String
+SmallPresent,Common,sc/buildings_new.sc,post_package,sc/newspaper.sc,icon_gift_box_01,FreeDiamonds,Prize2,5,20,,10,GiftCards,1,1,TreasureBox,TID_GIFT_S_TITLE,TID_GIFT_S_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkGift,post_package_claim
+,,,,,,Log path,Prize1,1,68,,,,,,,,,,,,,,,
+,,,,,,Axe,,2,23,,,,,,,,,,,,,,,
+,,,,,,Saw,,2,23,,,,,,,,,,,,,,,
+,,,,,,Shovel,,2,23,,,,,,,,,,,,,,,
+,,,,,,Dynamite,,2,23,,,,,,,,,,,,,,,
+,,,,,,Demolition Charge,,2,23,,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,2,23,,,,,,,,,,,,,,,
+,,,,,,Plank,,1,18,,,,,,,,,,,,,,,
+,,,,,,Nail,,1,18,,,,,,,,,,,,,,,
+,,,,,,Bolt,,1,18,,,,,,,,,,,,,,,
+,,,,,,Screw,,1,18,,,,,,,,,,,,,,,
+,,,,,,Duct Tape,,1,18,,,,,,,,,,,,,,,
+,,,,,,Wood Panel,,1,18,,,,,,,,,,,,,,,
+,,,,,,Land Deed,,1,18,,,,,,,,,,,,,,,
+,,,,,,Mallet,,1,18,,,,,,,,,,,,,,,
+,,,,,,Marker Stake,,1,18,,,,,,,,,,,,,,,
+,,,,,,Hammer,,1,5,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,1,5,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,1,5,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,1,5,,,,,,,,,,,,,,,
+,,,,,,Brick,,1,5,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,1,5,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,5,,,,,,,,,,,,,,,
+,,,,,,Voucher1,,1,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher2,,1,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher3,,1,18,,,,,,,,,,,,,,,
+,,,,,,Voucher4,,1,18,,,,,,,,,,,,,,,
+,,,,,,Brown_Sugar,,3,5,15,,,,,,,,,,,,,,
+,,,,,,White Sugar,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Syrup,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Lollipop,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Jelly Beans,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Vanilla Ice Cream,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Popsicle,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Ice Cream,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate Ice Cream,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Apple Jam,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Raspberry Jam,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Blackberry Jam,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Jam,,3,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Jam,,3,5,15,,,,,,,,,,,,,,
+,,,,,,FasterBoats_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv1,,1,1,,,,,,,,,,,,,,,
+MediumPresent,Common,sc/buildings_new.sc,post_package,sc/newspaper.sc,icon_gift_box_02,FreeDiamonds,Prize2,10,20,,20,GiftCards,1,1,TreasureBox,TID_GIFT_M_TITLE,TID_GIFT_M_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkGift,post_package_claim
+,,,,,,Flower path,Prize1,1,68,,,,,,,,,,,,,,,
+,,,,,,Axe,,4,23,,,,,,,,,,,,,,,
+,,,,,,Saw,,4,23,,,,,,,,,,,,,,,
+,,,,,,Shovel,,4,23,,,,,,,,,,,,,,,
+,,,,,,Dynamite,,4,23,,,,,,,,,,,,,,,
+,,,,,,Demolition Charge,,4,23,,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,4,23,,,,,,,,,,,,,,,
+,,,,,,Plank,,2,18,,,,,,,,,,,,,,,
+,,,,,,Nail,,2,18,,,,,,,,,,,,,,,
+,,,,,,Bolt,,2,18,,,,,,,,,,,,,,,
+,,,,,,Screw,,2,18,,,,,,,,,,,,,,,
+,,,,,,Duct Tape,,2,18,,,,,,,,,,,,,,,
+,,,,,,Wood Panel,,2,18,,,,,,,,,,,,,,,
+,,,,,,Land Deed,,2,18,,,,,,,,,,,,,,,
+,,,,,,Mallet,,2,18,,,,,,,,,,,,,,,
+,,,,,,Marker Stake,,2,18,,,,,,,,,,,,,,,
+,,,,,,Hammer,,2,5,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,2,5,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,2,5,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,2,5,,,,,,,,,,,,,,,
+,,,,,,Brick,,2,5,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,2,5,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,5,,,,,,,,,,,,,,,
+,,,,,,Voucher1,,2,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher2,,2,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher3,,2,18,,,,,,,,,,,,,,,
+,,,,,,Voucher4,,2,18,,,,,,,,,,,,,,,
+,,,,,,Brown_Sugar,,6,5,15,,,,,,,,,,,,,,
+,,,,,,White Sugar,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Syrup,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Lollipop,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Jelly Beans,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Vanilla Ice Cream,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Popsicle,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Ice Cream,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate Ice Cream,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Apple Jam,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Raspberry Jam,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Blackberry Jam,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Jam,,6,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Jam,,6,5,15,,,,,,,,,,,,,,
+,,,,,,FasterBoats_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops1_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv2,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv2,,1,1,,,,,,,,,,,,,,,
+BigPresent,Common,sc/buildings_new.sc,post_package,sc/newspaper.sc,icon_gift_box_03,FreeDiamonds,Prize2,15,20,,30,GiftCards,1,1,TreasureBox,TID_GIFT_L_TITLE,TID_GIFT_L_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkGift,post_package_claim
+,,,,,,Flower log path,Prize1,1,68,,,,,,,,,,,,,,,
+,,,,,,Axe,,7,23,,,,,,,,,,,,,,,
+,,,,,,Saw,,7,23,,,,,,,,,,,,,,,
+,,,,,,Shovel,,7,23,,,,,,,,,,,,,,,
+,,,,,,Dynamite,,7,23,,,,,,,,,,,,,,,
+,,,,,,Demolition Charge,,7,23,,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,7,23,,,,,,,,,,,,,,,
+,,,,,,Plank,,4,18,,,,,,,,,,,,,,,
+,,,,,,Nail,,4,18,,,,,,,,,,,,,,,
+,,,,,,Bolt,,4,18,,,,,,,,,,,,,,,
+,,,,,,Screw,,4,18,,,,,,,,,,,,,,,
+,,,,,,Duct Tape,,4,18,,,,,,,,,,,,,,,
+,,,,,,Wood Panel,,4,18,,,,,,,,,,,,,,,
+,,,,,,Land Deed,,4,18,,,,,,,,,,,,,,,
+,,,,,,Mallet,,4,18,,,,,,,,,,,,,,,
+,,,,,,Marker Stake,,4,18,,,,,,,,,,,,,,,
+,,,,,,Hammer,,3,5,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,3,5,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,3,5,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,3,5,,,,,,,,,,,,,,,
+,,,,,,Brick,,3,5,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,3,5,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,2,5,,,,,,,,,,,,,,,
+,,,,,,Voucher1,,3,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher2,,3,18,15,,,,,,,,,,,,,,
+,,,,,,Voucher3,,3,18,,,,,,,,,,,,,,,
+,,,,,,Voucher4,,3,18,,,,,,,,,,,,,,,
+,,,,,,Brown_Sugar,,10,5,15,,,,,,,,,,,,,,
+,,,,,,White Sugar,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Syrup,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Lollipop,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Jelly Beans,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Vanilla Ice Cream,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Popsicle,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Ice Cream,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Chocolate Ice Cream,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Apple Jam,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Raspberry Jam,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Blackberry Jam,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Cherry Jam,,10,5,15,,,,,,,,,,,,,,
+,,,,,,Strawberry Jam,,10,5,15,,,,,,,,,,,,,,
+,,,,,,FasterBoats_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv3,,1,1,,,,,,,,,,,,,,,
+ToolsPackage1,Common,sc/buildings_new.sc,post_package_toolbox,sc/newspaper.sc,icon_tool_box,Demolition Charge,Prize1,4,20,,5,GiftCards,1,1,TreasureBox,TID_GIFT_TOOL_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkToolbox,post_package_toolbox_claim
+,,,,,,Demolition Charge,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Dynamite,,2,10,,,,,,,,,,,,,,,
+,,,,,,Saw,,2,10,,,,,,,,,,,,,,,
+,,,,,,Axe,Prize2,4,20,,,,,,,,,,,,,,,
+,,,,,,Axe,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Shovel,,2,10,,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,2,10,,,,,,,,,,,,,,,
+ToolsPackage2,Common,sc/buildings_new.sc,post_package_toolbox,sc/newspaper.sc,icon_tool_box,Demolition Charge,,2,10,,5,GiftCards,1,1,TreasureBox,TID_GIFT_TOOL_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkToolbox,post_package_toolbox_claim
+,,,,,,Dynamite,Prize2,4,15,,,,,,,,,,,,,,,
+,,,,,,Dynamite,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Saw,,2,15,,,,,,,,,,,,,,,
+,,,,,,Axe,,2,10,,,,,,,,,,,,,,,
+,,,,,,Shovel,Prize1,4,20,,,,,,,,,,,,,,,
+,,,,,,Shovel,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,2,10,,,,,,,,,,,,,,,
+ToolsPackage3,Common,sc/buildings_new.sc,post_package_toolbox,sc/newspaper.sc,icon_tool_box,Demolition Charge,,2,15,,5,GiftCards,1,1,TreasureBox,TID_GIFT_TOOL_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkToolbox,post_package_toolbox_claim
+,,,,,,Dynamite,,2,10,,,,,,,,,,,,,,,
+,,,,,,Saw,Prize1,4,20,,,,,,,,,,,,,,,
+,,,,,,Saw,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Axe,Prize2,4,15,,,,,,,,,,,,,,,
+,,,,,,Axe,,2,15,15,,,,,,,,,,,,,,
+,,,,,,Shovel,,2,10,,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,2,10,,,,,,,,,,,,,,,
+ToolsPackage4,Common,sc/buildings_new.sc,post_package_toolbox,sc/newspaper.sc,icon_tool_box,Demolition Charge,,2,20,,5,GiftCards,1,1,TreasureBox,TID_GIFT_TOOL_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkToolbox,post_package_toolbox_claim
+,,,,,,Dynamite,Prize1,4,25,,,,,,,,,,,,,,,
+,,,,,,Dynamite,,2,10,15,,,,,,,,,,,,,,
+,,,,,,Saw,,2,10,,,,,,,,,,,,,,,
+,,,,,,Axe,,2,10,,,,,,,,,,,,,,,
+,,,,,,Shovel,Prize2,4,15,,,,,,,,,,,,,,,
+,,,,,,Shovel,,2,10,15,,,,,,,,,,,,,,
+,,,,,,Pickaxe,,2,10,,,,,,,,,,,,,,,
+SmallDecoPack1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wheel fence,Prize1,1,10,,25,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,Flowerbed_1,,1,15,15,,,,,,,,,,,,,,
+,,,,,,GardenTorch,,1,10,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,10,15,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,30,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,Prize2,1,10,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,15,,,,,,,,,,,,,,,
+SmallDecoPack1_1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wheel fence,Prize1,1,10,,25,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,Flowerbed_1,,1,15,15,,,,,,,,,,,,,,
+,,,,,,LightLowTile,Prize2,1,10,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,30,15,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,10,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,,1,15,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,10,,,,,,,,,,,,,,,
+SmallDecoPack2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Rainbow flower path,Prize1,1,10,,25,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,25,,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,15,,,,,,,,,,,,,,,
+,,,,,,Lantern,,1,10,,,,,,,,,,,,,,,
+,,,,,,Birdhouse_1,,1,15,,,,,,,,,,,,,,,
+,,,,,,DarkLowTile,Prize2,1,10,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,15,,,,,,,,,,,,,,,
+SmallDecoPack2_1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Rainbow flower path,Prize1,1,10,,25,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,15,,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,25,,,,,,,,,,,,,,,
+,,,,,,DarkGrassTile,Prize2,1,15,,,,,,,,,,,,,,,
+,,,,,,Birdhouse_1,,1,15,,,,,,,,,,,,,,,
+,,,,,,ColorfulHydrangeas,,1,10,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,10,,,,,,,,,,,,,,,
+BigDecoPack1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Trellis fence,Prize1,1,6,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,13,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_1,,1,13,15,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,13,,,,,,,,,,,,,,,
+,,,,,,GardenTorch,,1,13,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,8,15,,,,,,,,,,,,,,
+,,,,,,ColorfulHydrangeas,Prize2,1,9,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,8,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,,1,9,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,8,,,,,,,,,,,,,,,
+BigDecoPack1_1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Trellis fence,Prize1,1,6,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,13,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_1,,1,13,15,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,13,,,,,,,,,,,,,,,
+,,,,,,GardenTorch,Prize2,1,13,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,8,15,,,,,,,,,,,,,,
+,,,,,,Birdhouse_1,,1,9,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,8,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,,1,9,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,8,,,,,,,,,,,,,,,
+BigDecoPack2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Tractor,Prize1,1,6,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,9,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_1,,1,9,15,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,8,,,,,,,,,,,,,,,
+,,,,,,Lantern,,1,8,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,13,15,,,,,,,,,,,,,,
+,,,,,,Birdhouse_1,,1,13,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,13,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,,1,13,,,,,,,,,,,,,,,
+,,,,,,LushFern,Prize2,1,8,,,,,,,,,,,,,,,
+BigDecoPack2_1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Tractor,Prize1,1,6,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,LeafyTree_Small,,1,9,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_1,,1,9,15,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,8,,,,,,,,,,,,,,,
+,,,,,,Lantern,,1,8,,,,,,,,,,,,,,,
+,,,,,,Woodpile,,1,13,15,,,,,,,,,,,,,,
+,,,,,,Birdhouse_1,,1,13,,,,,,,,,,,,,,,
+,,,,,,Flowerbed_2,,1,13,15,,,,,,,,,,,,,,
+,,,,,,BlueHydrangeas,Prize2,1,13,,,,,,,,,,,,,,,
+,,,,,,LushFern,,1,8,,,,,,,TID_GIFT_FISHING_TITLE,,,,,,,,
+MassGift,MassGift,sc/buildings_new.sc,post_package_exclusive_letter,sc/newspaper.sc,icon_gift_box_01,FreeCash,,,100,,0,GiftCards,1,1,TreasureBox,,,,,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkGift,
+GlobalEventPackage,MassGift,sc/buildings_new.sc,post_package_global,sc/newspaper.sc,icon_gift_box_01,FreeCash,,,100,,0,GiftCards,1,1,TreasureBox,,,,,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkGift,
+TownPackage1,Common,sc/buildings_new.sc,post_package_town,sc/newspaper.sc,icon_gift_box_town,Hammer,Prize1,1,20,15,10,GiftCards,1,1,TreasureBox,TID_GIFT_TOWN_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,2,WalkToolboxTown,post_package_toolbox_town_claim
+,,,,,,Hand Drill,Prize2,1,20,15,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Stone Block,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Brick,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Hammer,,3,10,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,3,10,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,3,10,,,,,,,,,,,,,,,
+,,,,,,Brick,,3,10,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,3,10,,,,,,,,,,,,,,,
+TownPackage2,Common,sc/buildings_new.sc,post_package_town,sc/newspaper.sc,icon_gift_box_town,Hammer,,1,20,15,10,GiftCards,1,1,TreasureBox,TID_GIFT_TOWN_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,2,WalkGift,post_package_toolbox_town_claim
+,,,,,,Hand Drill,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,Prize1,1,20,15,,,,,,,,,,,,,,
+,,,,,,Stone Block,Prize2,1,20,15,,,,,,,,,,,,,,
+,,,,,,Brick,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Hammer,,3,10,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,3,10,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,3,10,,,,,,,,,,,,,,,
+,,,,,,Brick,,3,10,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,3,10,,,,,,,,,,,,,,,
+TownPackage3,Common,sc/buildings_new.sc,post_package_town,sc/newspaper.sc,icon_gift_box_town,Hammer,,1,20,15,10,GiftCards,1,1,TreasureBox,TID_GIFT_TOWN_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,2,WalkGift,post_package_toolbox_town_claim
+,,,,,,Hand Drill,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Stone Block,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Brick,Prize1,1,20,15,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,Prize2,1,20,15,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Hammer,,3,10,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,3,10,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,3,10,,,,,,,,,,,,,,,
+,,,,,,Brick,,3,10,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,3,10,,,,,,,,,,,,,,,
+TownPackage4,Common,sc/buildings_new.sc,post_package_town,sc/newspaper.sc,icon_gift_box_town,Hammer,,1,20,15,10,GiftCards,1,1,TreasureBox,TID_GIFT_TOWN_TITLE,TID_GIFT_TOOL_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,2,WalkToolboxTown,post_package_toolbox_town_claim
+,,,,,,Hand Drill,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,Prize2,1,20,15,,,,,,,,,,,,,,
+,,,,,,Stone Block,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Brick,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,Prize1,1,20,15,,,,,,,,,,,,,,
+,,,,,,Map Piece,,1,20,15,,,,,,,,,,,,,,
+,,,,,,Hammer,,3,10,,,,,,,,,,,,,,,
+,,,,,,Hand Drill,,3,10,,,,,,,,,,,,,,,
+,,,,,,Paint Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Stone Block,,3,10,,,,,,,,,,,,,,,
+,,,,,,Brick,,3,10,,,,,,,,,,,,,,,
+,,,,,,Tar Bucket,,3,10,,,,,,,,,,,,,,,
+,,,,,,Map Piece,,3,10,,,,,,,,,,,,,,,
+SmallBoosterPack,Common,sc/buildings_new.sc,booster_package_blue,sc/newspaper.sc,icon_blue_booster_box,FasterBoats_lv1,,1,1,,10,GiftCards,1,1,TreasureBox,TID_GIFT_BOOSTER1_TITLE,TID_GIFT_S_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,35,,WalkGiftBlueBooster,post_booster_blue
+,,,,,,FasterCrops1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv1,Prize1,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv1,Prize2,1,1,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv1,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv1,,1,1,,,,,,,,,,,,,,,
+MediumBoosterPack,Common,sc/buildings_new.sc,booster_package_gold,sc/newspaper.sc,icon_gold_booster_box,FasterBoats_lv2,,1,3,,25,GiftCards,1,1,TreasureBox,TID_GIFT_BOOSTER2_TITLE,TID_GIFT_S_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,35,,WalkGiftGoldBooster,post_booster_gold
+,,,,,,FasterCrops1_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBoats_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops3_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterCrops4_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTom_lv3,Prize1,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings3_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBuildings4_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTrees_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBushes_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeTom_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeRose_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FreeErnest_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,EasierBoats_lv3,Prize2,1,1,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,MoreXP_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv2,,1,3,,,,,,,,,,,,,,,
+,,,,,,FasterBaitMaker_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterNetMaker_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterFishingSpots_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterLobsters_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterDucks_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings1_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterTownBuildings2_lv3,,1,1,,,,,,,,,,,,,,,
+,,,,,,FasterPersonalTrain_lv3,,1,1,,,,,,,,,,,,,,,
+BigDecoPack3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Mediterranean well,Prize1,1,9,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,Balloons,,1,15,,,,,,,,,,,,,,,
+,,,,,,Mediterranean path,Prize2,2,19,,,,,,,,,,,,,,,
+,,,,,,Haycart,,1,11,,,,,,,,,,,,,,,
+,,,,,,Bench_1,,1,11,15,,,,,,,,,,,,,,
+,,,,,,Gardening workspace,,1,7,15,,,,,,,,,,,,,,
+,,,,,,Mediterranean spouter,,2,7,15,,,,,,,,,,,,,,
+,,,,,,Potted fence,,2,7,,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,7,15,,,,,,,,,,,,,,
+,,,,,,LeafyTree_Small,,1,7,15,,,,,,,,,,,,,,
+BigDecoPack4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Train Stop,Prize1,1,9,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,Balloons,,1,15,,,,,,,,,,,,,,,
+,,,,,,Potted fence,Prize2,2,7,,,,,,,,,,,,,,,
+,,,,,,Haycart,,1,11,,,,,,,,,,,,,,,
+,,,,,,Mediterranean watermill,,1,11,15,,,,,,,,,,,,,,
+,,,,,,Mediterranean spa,,1,7,15,,,,,,,,,,,,,,
+,,,,,,Flowerlog,,1,7,15,,,,,,,,,,,,,,
+,,,,,,Mediterranean fountain,,1,19,,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,7,15,,,,,,,,,,,,,,
+,,,,,,LeafyTree_Small,,1,7,15,,,,,,,,,,,,,,
+BigDecoPack5,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Woodcutting Station,Prize1,1,9,,35,GiftCards,1,1,TreasureBox,TID_GIFT_DECO_TITLE,TID_GIFT_DECO_TEXT,TID_GIFT_OR,TID_GIFT_OR,TID_OPEN_CATALOGUE_GIFT_MESSAGE,,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,Balloons,,1,15,,,,,,,,,,,,,,,
+,,,,,,Mediterranean spa,Prize2,1,19,,,,,,,,,,,,,,,
+,,,,,,Haycart,,1,11,,,,,,,,,,,,,,,
+,,,,,,Mediterranean well,,1,11,15,,,,,,,,,,,,,,
+,,,,,,Gardening workspace,,2,7,15,,,,,,,,,,,,,,
+,,,,,,Flowerlog,,1,7,15,,,,,,,,,,,,,,
+,,,,,,Potted fence,,2,7,,,,,,,,,,,,,,,
+,,,,,,PineTree_Small,,1,7,15,,,,,,,,,,,,,,
+,,,,,,LeafyTree_Small,,1,7,15,,,,,,,,,,,,,,
+HolidayGift1_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Figureskater gnome,Prize2,1,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift2_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,3,1,,600,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift3_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift4_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift5_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift6_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift7_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,3,1,,90,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift8_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Mallet,Prize2,3,1,,90,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift9_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Marker Stake,Prize2,3,1,,90,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift10_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,15000,1,,30,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift11_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher1,Prize2,20,1,,180,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift12_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher2,Prize2,10,1,,180,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift13_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher3,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift14_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher4,Prize2,3,1,,144,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift15_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv1,Prize2,1,1,,18,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift16_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MiningMoreOres_lv3,Prize2,1,1,,13,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift17_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Dynamite,Prize2,5,1,,15,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift18_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Demolition Charge,Prize2,5,1,,35,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift19_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Axe,Prize2,5,1,,20,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift20_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Saw,Prize2,5,1,,25,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift21_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Shovel,Prize2,5,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift22_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Pickaxe,Prize2,5,1,,60,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift1_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift2_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift3_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift4_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift5_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift6_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift7_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift8_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,250,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift9_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,25000,1,,40,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift10_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,15000,1,,30,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift11_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Plank,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift12_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Nail,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift13_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bolt,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift14_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Screw,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift15_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Duct Tape,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift16_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wood Panel,Prize2,2,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift17_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher1,Prize2,20,1,,225,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift18_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher2,Prize2,10,1,,225,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift19_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher3,Prize2,5,1,,188,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift20_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher4,Prize2,3,1,,180,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift21_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreCash_lv3,Prize2,1,1,,12,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift22_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreXP_lv3,Prize2,1,1,,15,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift23_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterTom_lv3,Prize2,1,1,,12,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift24_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv2,Prize2,1,1,,30,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift1_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Santa’s gifts,Prize2,1,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift2_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Ornament tower,Prize2,1,1,,1000,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift3_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Tree market,Prize2,1,1,,1000,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift4_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift5_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift6_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift7_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift8_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift9_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift10_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift11_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift12_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift13_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,10000,1,,25,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift14_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Plank,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift15_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Nail,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift16_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bolt,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift17_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Screw,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift18_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Duct Tape,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift19_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wood Panel,Prize2,5,1,,150,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift20_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,5,1,,225,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift21_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Mallet,Prize2,5,1,,225,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift22_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Marker Stake,Prize2,5,1,,225,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift23_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Dynamite,Prize2,8,1,,36,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift24_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Demolition Charge,Prize2,8,1,,84,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift25_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Axe,Prize2,8,1,,48,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift26_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Saw,Prize2,8,1,,60,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift27_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Shovel,Prize2,8,1,,120,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift28_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Pickaxe,Prize2,8,1,,144,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift29_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreCash_lv4,Prize2,1,1,,20,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift30_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreXP_lv4,Prize2,1,1,,24,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift31_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings4_lv4,Prize2,1,1,,23,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,51,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift32_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings1_lv4,Prize2,1,1,,23,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift33_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings2_lv4,Prize2,1,1,,23,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift34_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings3_lv4,Prize2,1,1,,23,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift35_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Hammer,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift36_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Hand Drill,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift37_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Paint Bucket,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift38_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Stone Block,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift39_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Brick,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift40_week3,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Tar Bucket,Prize2,3,1,,72,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift1_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift2_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift3_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift4_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,2,1,,800,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift5_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,2,1,,800,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift6_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift7_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift8_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift9_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift10_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,400,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift11_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,20000,1,,45,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift12_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,25000,1,,50,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift13_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Plank,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift14_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Nail,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift15_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bolt,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift16_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Screw,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift17_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Duct Tape,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift18_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wood Panel,Prize2,5,1,,200,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift19_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,5,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift20_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Mallet,Prize2,5,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift21_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Marker Stake,Prize2,5,1,,300,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift22_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher1,Prize2,30,1,,540,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift23_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher2,Prize2,20,1,,720,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift24_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher3,Prize2,10,1,,600,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift25_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher4,Prize2,6,1,,576,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift26_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MiningMoreOres_lv5,Prize2,1,1,,34,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift27_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreCash_lv5,Prize2,1,1,,32,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift28_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,MoreXP_lv5,Prize2,1,1,,40,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift29_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterTom_lv5,Prize2,1,1,,38,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift30_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings1_lv5,Prize2,1,1,,48,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift31_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings2_lv5,Prize2,1,1,,48,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift32_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings3_lv5,Prize2,1,1,,48,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift33_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterBuildings4_lv5,Prize2,1,1,,48,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,51,,WalkExclusiveGift,post_package_exclusive_item_claim
+HolidayGift34_week4,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv3,Prize2,1,1,,60,Mistletoe,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift1_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Plank,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift2_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Nail,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift3_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bolt,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift4_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift5_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift6_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift7_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,5,1,,225,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift8_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher1,Prize2,30,1,,540,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift9_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv1,Prize2,1,1,,18,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift10_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,15000,1,,30,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift11_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Screw,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift12_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Duct Tape,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift13_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Wood Panel,Prize2,2,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift14_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bunny springer,Prize2,1,1,,200,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,1,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift15_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher2,Prize2,20,1,,720,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift16_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,25000,1,,40,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift17_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Saw,Prize2,5,1,,25,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift18_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Dynamite,Prize2,5,1,,15,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift19_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Demolition Charge,Prize2,5,1,,35,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift20_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,2,1,,800,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift21_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Axe,Prize2,5,1,,20,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift22_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,250,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift23_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Hammer,Prize2,3,1,,72,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,2,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift24_week1,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bunny surprise,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,1,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift1_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Bunny bouncy,Prize2,1,1,,1000,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,1,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift2_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,15000,1,,30,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift3_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift4_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,2,1,,800,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift5_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Blueprint,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,71,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift6_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,5,1,,225,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift7_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher3,Prize2,10,1,,600,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift8_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv1,Prize2,1,1,,18,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift9_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Puzzle Piece 1,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,3,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift10_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeCash,Prize2,25000,1,,40,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift11_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher5,Prize2,1,1,,400,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift12_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher3,Prize2,5,1,,188,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift13_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Expansion Key,Prize2,3,1,,100,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,25,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift14_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Demolition Charge,Prize2,5,1,,35,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift15_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Shovel,Prize2,5,1,,50,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift16_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Voucher4,Prize2,5,1,,500,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,20,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift17_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Pickaxe,Prize2,5,1,,60,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,34,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift18_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Mallet,Prize2,5,1,,150,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift19_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Marker Stake,Prize2,5,1,,150,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift20_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Land Deed,Prize2,5,1,,225,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,22,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift21_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Axe,Prize2,5,1,,20,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,17,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift22_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FasterTom_lv3,Prize2,1,1,,12,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift23_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,FreeTom_lv2,Prize2,1,1,,30,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,35,,WalkExclusiveGift,post_package_exclusive_item_claim
+EasterGift24_week2,Common,sc/buildings_new.sc,post_package_exclusive,sc/newspaper.sc,icon_gift_box_exclusive_01,Easter egg hunt,Prize2,1,1,,1000,Chocobunny,1,1,TreasureBox,TID_HOLIDAY_GIFT_TITLE,TID_GIFT_WILL_CONTAIN,,,TID_OPEN_HOLIDAY_GIFT_MESSAGE,1,,WalkExclusiveGift,post_package_exclusive_item_claim
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

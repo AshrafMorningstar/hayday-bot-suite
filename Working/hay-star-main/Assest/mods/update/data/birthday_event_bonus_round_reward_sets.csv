@@ -1,0 +1,573 @@
+Name,Rewards,RewardAmounts,MinRound,MaxRound,Probabilities,LimitPerRound,Tags,MinXPLevel,MaxXPLevel
+String,String,int,int,int,int,int,String,int,int
+Reward_Set1_9-40,Nail,1,0,1,5,2,silo;expansion,9,40
+,Screw,1,,,5,2,silo;expansion,9,40
+,Wood Panel,1,,,5,2,silo;expansion,9,40
+,Plank,1,,,5,2,barn;expansion,9,40
+,Bolt,1,,,5,2,barn;expansion,9,40
+,Duct Tape,1,,,5,2,barn;expansion,9,40
+,Land Deed,1,,,3,1,land;expansion,9,40
+,Mallet,1,,,3,1,land;expansion,9,40
+,Marker Stake,1,,,3,1,land;expansion,9,40
+,Cream,2,,,7,1,product;dairy,9,40
+,Butter,1,,,7,1,product;dairy,9,40
+,Cheese,1,,,7,1,product;dairy,9,40
+,Goat Cheese,1,,,5,1,product;dairy,9,40
+,Brown_Sugar,2,,,7,1,product;sugar,9,40
+,White Sugar,1,,,7,1,product;sugar,9,40
+,Dynamite,1,,,7,2,tool,9,40
+,Axe,1,,,7,2,tool,9,40
+,Saw,1,,,7,2,tool,9,40
+,Shovel,1,,,7,2,tool,9,40
+,Pickaxe,1,,,7,2,tool,9,40
+,Egg,8,,,5,1,product;animal,9,40
+,Milk,5,,,5,1,product;animal,9,40
+,Bacon,3,,,5,1,product;animal,9,40
+,Wool,3,,,5,1,product;animal,9,40
+,Lamb Meat,3,,,5,1,product;animal,9,40
+,Goat Milk,2,,,5,1,product;animal,9,40
+,Fish Meat,3,,,5,1,product;fishing,9,40
+,Fishburger,1,,,5,1,product;fishing,9,40
+,Fish Pie,1,,,5,1,product;fishing,9,40
+,Cotton Fabrics,1,,,5,1,product;loom,9,40
+,Birthday Cake,1,,,5,1,product;cake,9,40
+,Apple Jam,1,,,5,1,product;jam,9,40
+,Raspberry Jam,1,,,5,1,product;jam,9,40
+,Honey,4,,,5,1,product;honey,9,40
+Reward_Set1_41-70,Nail,1,0,1,5,2,silo;expansion,41,70
+,Screw,1,,,5,2,silo;expansion,41,70
+,Wood Panel,1,,,5,2,silo;expansion,41,70
+,Plank,1,,,5,2,barn;expansion,41,70
+,Bolt,1,,,5,2,barn;expansion,41,70
+,Duct Tape,1,,,5,2,barn;expansion,41,70
+,Land Deed,1,,,3,1,land;expansion,41,70
+,Mallet,1,,,3,1,land;expansion,41,70
+,Marker Stake,1,,,3,1,land;expansion,41,70
+,Cream,3,,,7,1,product;dairy,41,70
+,Butter,2,,,7,1,product;dairy,41,70
+,Cheese,2,,,7,1,product;dairy,41,70
+,Goat Cheese,2,,,5,1,product;dairy,41,70
+,Brown_Sugar,3,,,7,1,product;sugar,41,70
+,White Sugar,2,,,7,1,product;sugar,41,70
+,Dynamite,1,,,7,2,tool,41,70
+,Axe,1,,,7,2,tool,41,70
+,Saw,1,,,7,2,tool,41,70
+,Shovel,1,,,7,2,tool,41,70
+,Pickaxe,1,,,7,2,tool,41,70
+,Egg,8,,,5,1,product;animal,41,70
+,Milk,5,,,5,1,product;animal,41,70
+,Bacon,3,,,5,1,product;animal,41,70
+,Wool,3,,,5,1,product;animal,41,70
+,Lamb Meat,3,,,5,1,product;animal,41,70
+,Goat Milk,2,,,5,1,product;animal,41,70
+,Caramel Apple,1,,,5,1,product;candy,41,70
+,Toffee,1,,,5,1,product;candy,41,70
+,Chocolate,1,,,5,1,product;candy,41,70
+,Lollipop,1,,,5,1,product;candy,41,70
+,Apple Jam,1,,,5,1,product;jam,41,70
+,Raspberry Jam,1,,,5,1,product;jam,41,70
+,Honey,4,,,5,1,product;honey,41,70
+,SoySauce,1,,,5,1,product;sauce,41,70
+,Bean Dip,3,,,5,1,product;sauce,41,70
+Reward_Set1_71,Nail,1,0,1,5,2,silo;expansion,71,9999
+,Screw,1,,,5,2,silo;expansion,71,9999
+,Wood Panel,1,,,5,2,silo;expansion,71,9999
+,Plank,1,,,5,2,barn;expansion,71,9999
+,Bolt,1,,,5,2,barn;expansion,71,9999
+,Duct Tape,1,,,5,2,barn;expansion,71,9999
+,Land Deed,1,,,3,1,land;expansion,71,9999
+,Mallet,1,,,3,1,land;expansion,71,9999
+,Marker Stake,1,,,3,1,land;expansion,71,9999
+,Cream,4,,,7,1,product;dairy,71,9999
+,Butter,3,,,7,1,product;dairy,71,9999
+,Cheese,3,,,7,1,product;dairy,71,9999
+,Goat Cheese,3,,,5,1,product;dairy,71,9999
+,Brown_Sugar,4,,,7,1,product;sugar,71,9999
+,White Sugar,3,,,7,1,product;sugar,71,9999
+,Dynamite,1,,,7,2,tool,71,9999
+,Axe,1,,,7,2,tool,71,9999
+,Saw,1,,,7,2,tool,71,9999
+,Shovel,1,,,7,2,tool,71,9999
+,Pickaxe,1,,,7,2,tool,71,9999
+,Egg,8,,,5,1,product;animal,71,9999
+,Milk,5,,,5,1,product;animal,71,9999
+,Bacon,3,,,5,1,product;animal,71,9999
+,Wool,3,,,5,1,product;animal,71,9999
+,Lamb Meat,3,,,5,1,product;animal,71,9999
+,Goat Milk,2,,,5,1,product;animal,71,9999
+,Caramel Apple,1,,,5,1,product;candy,71,9999
+,Toffee,1,,,5,1,product;candy,71,9999
+,Chocolate,1,,,5,1,product;candy,71,9999
+,Lollipop,1,,,5,1,product;candy,71,9999
+,Apple Jam,1,,,5,1,product;jam,71,9999
+,Raspberry Jam,1,,,5,1,product;jam,71,9999
+,Honey,4,,,5,1,product;honey,71,9999
+,SoySauce,1,,,5,1,product;sauce,71,9999
+,Bean Dip,3,,,5,1,product;sauce,71,9999
+Reward_Set2_9-40,Nail,2,2,3,5,2,silo;expansion,9,40
+,Screw,2,,,5,2,silo;expansion,9,40
+,Wood Panel,2,,,5,2,silo;expansion,9,40
+,Plank,2,,,5,2,barn;expansion,9,40
+,Bolt,2,,,5,2,barn;expansion,9,40
+,Duct Tape,2,,,5,2,barn;expansion,9,40
+,Land Deed,2,,,3,1,land;expansion,9,40
+,Mallet,2,,,3,1,land;expansion,9,40
+,Marker Stake,2,,,3,1,land;expansion,9,40
+,Expansion Key,1,,,10,1,permit;limited2,9,40
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,9,40
+,Cream,5,,,7,1,product;dairy,9,40
+,Butter,3,,,7,1,product;dairy,9,40
+,Cheese,3,,,7,1,product;dairy,9,40
+,Goat Cheese,2,,,5,1,product;dairy,9,40
+,Brown_Sugar,3,,,7,1,product;sugar,9,40
+,White Sugar,3,,,7,1,product;sugar,9,40
+,Syrup,2,,,7,1,product;sugar,9,40
+,Dynamite,2,,,7,2,tool,9,40
+,Demolition Charge,2,,,7,2,tool,9,40
+,Axe,2,,,7,2,tool,9,40
+,Saw,2,,,7,2,tool,9,40
+,Shovel,2,,,7,2,tool,9,40
+,Pickaxe,2,,,7,2,tool,9,40
+,Voucher1,3,,,5,2,voucher,9,40
+,Voucher2,2,,,5,2,voucher,9,40
+,Herbivore Food,2,,,5,1,product;sanctuary,9,40
+,Egg,15,,,5,1,product;animal,9,40
+,Milk,10,,,5,1,product;animal,9,40
+,Bacon,6,,,5,1,product;animal,9,40
+,Wool,5,,,5,1,product;animal,9,40
+,Lamb Meat,6,,,5,1,product;animal,9,40
+,Goat Milk,5,,,5,1,product;animal,9,40
+,Fish Meat,5,,,5,1,product;fishing,9,40
+,Fishburger,2,,,5,1,product;fishing,9,40
+,Fish Pie,2,,,5,1,product;fishing,9,40
+,Cotton Fabrics,3,,,5,1,product;loom,9,40
+,Birthday Cake,2,,,5,1,product;cake,9,40
+,Apple Jam,2,,,5,1,product;jam,9,40
+,Raspberry Jam,2,,,5,1,product;jam,9,40
+,Blackberry Jam,1,,,5,1,product;jam,9,40
+,Cherry Jam,1,,,5,1,product;jam,9,40
+,Honey,8,,,5,1,product;honey,9,40
+Reward_Set2_41-70,Nail,2,2,3,5,2,silo;expansion,41,70
+,Screw,2,,,5,2,silo;expansion,41,70
+,Wood Panel,2,,,5,2,silo;expansion,41,70
+,Plank,2,,,5,2,barn;expansion,41,70
+,Bolt,2,,,5,2,barn;expansion,41,70
+,Duct Tape,2,,,5,2,barn;expansion,41,70
+,Land Deed,2,,,3,1,land;expansion,41,70
+,Mallet,2,,,3,1,land;expansion,41,70
+,Marker Stake,2,,,3,1,land;expansion,41,70
+,Expansion Key,1,,,10,1,permit;limited2,41,70
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,41,70
+,Cream,6,,,7,1,product;dairy,41,70
+,Butter,4,,,7,1,product;dairy,41,70
+,Cheese,4,,,7,1,product;dairy,41,70
+,Goat Cheese,3,,,5,1,product;dairy,41,70
+,Brown_Sugar,4,,,7,1,product;sugar,41,70
+,White Sugar,4,,,7,1,product;sugar,41,70
+,Syrup,3,,,7,1,product;sugar,41,70
+,Dynamite,2,,,7,2,tool,41,70
+,Demolition Charge,2,,,7,2,tool,41,70
+,Axe,2,,,7,2,tool,41,70
+,Saw,2,,,7,2,tool,41,70
+,Shovel,2,,,7,2,tool,41,70
+,Pickaxe,2,,,7,2,tool,41,70
+,Voucher1,3,,,5,2,voucher,41,70
+,Voucher2,2,,,5,2,voucher,41,70
+,Herbivore Food,2,,,5,1,product;sanctuary,41,70
+,Egg,15,,,5,1,product;animal,41,70
+,Milk,10,,,5,1,product;animal,41,70
+,Bacon,6,,,5,1,product;animal,41,70
+,Wool,5,,,5,1,product;animal,41,70
+,Lamb Meat,6,,,5,1,product;animal,41,70
+,Goat Milk,5,,,5,1,product;animal,41,70
+,Caramel Apple,1,,,5,1,product;candy,41,70
+,Toffee,2,,,5,1,product;candy,41,70
+,Chocolate,1,,,5,1,product;candy,41,70
+,Lollipop,1,,,5,1,product;candy,41,70
+,Jelly Beans,1,,,4,1,product;candy,41,70
+,Apple Jam,2,,,5,1,product;jam,41,70
+,Raspberry Jam,2,,,5,1,product;jam,41,70
+,Blackberry Jam,1,,,5,1,product;jam,41,70
+,Cherry Jam,1,,,5,1,product;jam,41,70
+,Strawberry Jam,2,,,5,1,product;jam,41,70
+,Honey,8,,,5,1,product;honey,41,70
+,Beeswax,5,,,5,1,product;honey,41,70
+,SoySauce,2,,,5,1,product;sauce,41,70
+,OliveOil,1,,,5,1,product;sauce,41,70
+,Mayonaise,1,,,4,1,product;sauce,41,70
+,Fried rice,2,,,5,1,product;wok,41,70
+,Lamb Stir Fry,2,,,5,1,product;wok,41,70
+Reward_Set2_71,Nail,2,2,3,5,2,silo;expansion,71,9999
+,Screw,2,,,5,2,silo;expansion,71,9999
+,Wood Panel,2,,,5,2,silo;expansion,71,9999
+,Plank,2,,,5,2,barn;expansion,71,9999
+,Bolt,2,,,5,2,barn;expansion,71,9999
+,Duct Tape,2,,,5,2,barn;expansion,71,9999
+,Land Deed,2,,,3,1,land;expansion,71,9999
+,Mallet,2,,,3,1,land;expansion,71,9999
+,Marker Stake,2,,,3,1,land;expansion,71,9999
+,Expansion Key,1,,,10,1,permit;limited2,71,9999
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,71,9999
+,Cream,7,,,7,1,product;dairy,71,9999
+,Butter,5,,,7,1,product;dairy,71,9999
+,Cheese,5,,,7,1,product;dairy,71,9999
+,Goat Cheese,4,,,5,1,product;dairy,71,9999
+,Brown_Sugar,5,,,7,1,product;sugar,71,9999
+,White Sugar,5,,,7,1,product;sugar,71,9999
+,Syrup,4,,,7,1,product;sugar,71,9999
+,Dynamite,2,,,7,2,tool,71,9999
+,Demolition Charge,2,,,7,2,tool,71,9999
+,Axe,2,,,7,2,tool,71,9999
+,Saw,2,,,7,2,tool,71,9999
+,Shovel,2,,,7,2,tool,71,9999
+,Pickaxe,2,,,7,2,tool,71,9999
+,Voucher1,3,,,5,2,voucher,71,9999
+,Voucher2,2,,,5,2,voucher,71,9999
+,Herbivore Food,2,,,5,1,product;sanctuary,71,9999
+,Egg,15,,,5,1,product;animal,71,9999
+,Milk,10,,,5,1,product;animal,71,9999
+,Bacon,6,,,5,1,product;animal,71,9999
+,Wool,5,,,5,1,product;animal,71,9999
+,Lamb Meat,6,,,5,1,product;animal,71,9999
+,Goat Milk,5,,,5,1,product;animal,71,9999
+,Caramel Apple,1,,,5,1,product;candy,71,9999
+,Toffee,2,,,5,1,product;candy,71,9999
+,Chocolate,1,,,5,1,product;candy,71,9999
+,Lollipop,1,,,5,1,product;candy,71,9999
+,Jelly Beans,1,,,4,1,product;candy,71,9999
+,Apple Jam,2,,,5,1,product;jam,71,9999
+,Raspberry Jam,2,,,5,1,product;jam,71,9999
+,Blackberry Jam,1,,,5,1,product;jam,71,9999
+,Cherry Jam,1,,,5,1,product;jam,71,9999
+,Strawberry Jam,2,,,5,1,product;jam,71,9999
+,Honey,8,,,5,1,product;honey,71,9999
+,Beeswax,5,,,5,1,product;honey,71,9999
+,SoySauce,2,,,5,1,product;sauce,71,9999
+,OliveOil,1,,,5,1,product;sauce,71,9999
+,Mayonaise,1,,,4,1,product;sauce,71,9999
+,Fried rice,2,,,5,1,product;wok,71,9999
+,Lamb Stir Fry,2,,,5,1,product;wok,71,9999
+Reward_Set3_9-40,Nail,1,4,5,5,2,silo;expansion,9,40
+,Screw,1,,,5,2,silo;expansion,9,40
+,Wood Panel,1,,,5,2,silo;expansion,9,40
+,Plank,1,,,5,2,barn;expansion,9,40
+,Bolt,1,,,5,2,barn;expansion,9,40
+,Duct Tape,1,,,5,2,barn;expansion,9,40
+,Land Deed,2,,,3,1,land;expansion,9,40
+,Mallet,2,,,3,1,land;expansion,9,40
+,Marker Stake,2,,,3,1,land;expansion,9,40
+,Expansion Key,1,,,10,1,permit;limited2,9,40
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,9,40
+,Cream,3,,,7,1,product;dairy,9,40
+,Butter,2,,,7,1,product;dairy,9,40
+,Cheese,2,,,7,1,product;dairy,9,40
+,Goat Cheese,2,,,5,1,product;dairy,9,40
+,Brown_Sugar,3,,,7,1,product;sugar,9,40
+,White Sugar,2,,,7,1,product;sugar,9,40
+,Syrup,2,,,7,1,product;sugar,9,40
+,Dynamite,3,,,7,2,tool,9,40
+,Demolition Charge,3,,,7,2,tool,9,40
+,Axe,3,,,7,2,tool,9,40
+,Saw,3,,,7,2,tool,9,40
+,Voucher1,3,,,5,2,voucher,9,40
+,Voucher2,3,,,5,2,voucher,9,40
+,GoldBar,2,,,5,1,jewel;product,9,40
+,PlatinumBar,2,,,5,1,jewel;product,9,40
+,Diamond Ring,2,,,6,1,jewel;product,9,40
+,Herbivore Food,3,,,5,1,product;sanctuary,9,40
+,Egg,20,,,5,1,product;animal,9,40
+,Milk,17,,,5,1,product;animal,9,40
+,Bacon,10,,,5,1,product;animal,9,40
+,Wool,9,,,5,1,product;animal,9,40
+,Lamb Meat,10,,,5,1,product;animal,9,40
+,Goat Milk,8,,,5,1,product;animal,9,40
+,Fish Meat,9,,,5,1,product;fishing,9,40
+,Fishburger,3,,,5,1,product;fishing,9,40
+,Fish Pie,3,,,5,1,product;fishing,9,40
+,Cotton Fabrics,5,,,5,1,product;loom,9,40
+,Birthday Cake,3,,,5,1,product;cake,9,40
+,Apple Jam,3,,,5,1,product;jam,9,40
+,Raspberry Jam,3,,,5,1,product;jam,9,40
+,Blackberry Jam,2,,,5,1,product;jam,9,40
+,Cherry Jam,2,,,5,1,product;jam,9,40
+,Honey,12,,,5,1,product;honey,9,40
+Reward_Set3_41-70,Nail,1,4,5,5,2,silo;expansion,41,70
+,Screw,1,,,5,2,silo;expansion,41,70
+,Wood Panel,1,,,5,2,silo;expansion,41,70
+,Plank,1,,,5,2,barn;expansion,41,70
+,Bolt,1,,,5,2,barn;expansion,41,70
+,Duct Tape,1,,,5,2,barn;expansion,41,70
+,Land Deed,2,,,3,1,land;expansion,41,70
+,Mallet,2,,,3,1,land;expansion,41,70
+,Marker Stake,2,,,3,1,land;expansion,41,70
+,Expansion Key,1,,,10,1,permit;limited2,41,70
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,41,70
+,Cream,4,,,7,1,product;dairy,41,70
+,Butter,3,,,7,1,product;dairy,41,70
+,Cheese,3,,,7,1,product;dairy,41,70
+,Goat Cheese,3,,,5,1,product;dairy,41,70
+,Brown_Sugar,4,,,7,1,product;sugar,41,70
+,White Sugar,3,,,7,1,product;sugar,41,70
+,Syrup,3,,,7,1,product;sugar,41,70
+,Dynamite,3,,,7,2,tool,41,70
+,Demolition Charge,3,,,7,2,tool,41,70
+,Axe,3,,,7,2,tool,41,70
+,Saw,3,,,7,2,tool,41,70
+,Voucher1,3,,,5,2,voucher,41,70
+,Voucher2,3,,,5,2,voucher,41,70
+,GoldBar,2,,,5,1,jewel;product,41,70
+,PlatinumBar,2,,,5,1,jewel;product,41,70
+,Diamond Ring,2,,,6,1,jewel;product,41,70
+,Blanket,2,,,6,1,sewing;product,41,70
+,Herbivore Food,3,,,5,1,product;sanctuary,41,70
+,Egg,20,,,5,1,product;animal,41,70
+,Milk,17,,,5,1,product;animal,41,70
+,Bacon,10,,,5,1,product;animal,41,70
+,Wool,9,,,5,1,product;animal,41,70
+,Lamb Meat,10,,,5,1,product;animal,41,70
+,Goat Milk,8,,,5,1,product;animal,41,70
+,Caramel Apple,2,,,5,1,product;candy,41,70
+,Toffee,3,,,5,1,product;candy,41,70
+,Chocolate,2,,,5,1,product;candy,41,70
+,Lollipop,2,,,5,1,product;candy,41,70
+,Jelly Beans,2,,,4,1,product;candy,41,70
+,CandiedPeanuts,6,,,5,1,product;candy,41,70
+,Apple Jam,3,,,5,1,product;jam,41,70
+,Raspberry Jam,3,,,5,1,product;jam,41,70
+,Blackberry Jam,2,,,5,1,product;jam,41,70
+,Cherry Jam,2,,,5,1,product;jam,41,70
+,Strawberry Jam,3,,,5,1,product;jam,41,70
+,Blueberry Chutney,10,,,5,1,product;jam,41,70
+,Honey,12,,,5,1,product;honey,41,70
+,Beeswax,8,,,5,1,product;honey,41,70
+,SoySauce,4,,,5,1,product;sauce,41,70
+,Bean Dip,10,,,5,1,product;sauce,41,70
+,OliveOil,2,,,5,1,product;sauce,41,70
+,Mayonaise,2,,,4,1,product;sauce,41,70
+,Lemon Curd,2,,,4,1,product;sauce,41,70
+,Olive Dip,2,,,4,1,product;sauce,41,70
+,Tomato Sauce,2,,,5,1,product;sauce,41,70
+,Fried rice,3,,,5,1,product;wok,41,70
+,Lamb Stir Fry,3,,,5,1,product;wok,41,70
+Reward_Set3_71,Nail,1,4,5,5,2,silo;expansion,71,9999
+,Screw,1,,,5,2,silo;expansion,71,9999
+,Wood Panel,1,,,5,2,silo;expansion,71,9999
+,Plank,1,,,5,2,barn;expansion,71,9999
+,Bolt,1,,,5,2,barn;expansion,71,9999
+,Duct Tape,1,,,5,2,barn;expansion,71,9999
+,Land Deed,2,,,3,1,land;expansion,71,9999
+,Mallet,2,,,3,1,land;expansion,71,9999
+,Marker Stake,2,,,3,1,land;expansion,71,9999
+,Expansion Key,1,,,10,1,permit;limited2,71,9999
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,71,9999
+,Cream,5,,,7,1,product;dairy,71,9999
+,Butter,4,,,7,1,product;dairy,71,9999
+,Cheese,4,,,7,1,product;dairy,71,9999
+,Goat Cheese,4,,,5,1,product;dairy,71,9999
+,Brown_Sugar,5,,,7,1,product;sugar,71,9999
+,White Sugar,4,,,7,1,product;sugar,71,9999
+,Syrup,4,,,7,1,product;sugar,71,9999
+,Dynamite,3,,,7,2,tool,71,9999
+,Demolition Charge,3,,,7,2,tool,71,9999
+,Axe,3,,,7,2,tool,71,9999
+,Saw,3,,,7,2,tool,71,9999
+,Voucher1,3,,,5,2,voucher,71,9999
+,Voucher2,3,,,5,2,voucher,71,9999
+,GoldBar,2,,,5,1,jewel;product,71,9999
+,PlatinumBar,2,,,5,1,jewel;product,71,9999
+,Diamond Ring,2,,,6,1,jewel;product,71,9999
+,Blanket,2,,,6,1,sewing;product,71,9999
+,Herbivore Food,3,,,5,1,product;sanctuary,71,9999
+,Egg,20,,,5,1,product;animal,71,9999
+,Milk,17,,,5,1,product;animal,71,9999
+,Bacon,10,,,5,1,product;animal,71,9999
+,Wool,9,,,5,1,product;animal,71,9999
+,Lamb Meat,10,,,5,1,product;animal,71,9999
+,Goat Milk,8,,,5,1,product;animal,71,9999
+,Caramel Apple,2,,,5,1,product;candy,71,9999
+,Toffee,3,,,5,1,product;candy,71,9999
+,Chocolate,2,,,5,1,product;candy,71,9999
+,Lollipop,2,,,5,1,product;candy,71,9999
+,Jelly Beans,2,,,4,1,product;candy,71,9999
+,CandiedPeanuts,6,,,5,1,product;candy,71,9999
+,Cotton Candy,2,,,5,1,product;candy,71,9999
+,Apple Jam,3,,,5,1,product;jam,71,9999
+,Raspberry Jam,3,,,5,1,product;jam,71,9999
+,Blackberry Jam,2,,,5,1,product;jam,71,9999
+,Cherry Jam,2,,,5,1,product;jam,71,9999
+,Strawberry Jam,3,,,5,1,product;jam,71,9999
+,Blueberry Chutney,10,,,5,1,product;jam,71,9999
+,Honey,12,,,5,1,product;honey,71,9999
+,Beeswax,8,,,5,1,product;honey,71,9999
+,SoySauce,4,,,5,1,product;sauce,71,9999
+,Bean Dip,10,,,5,1,product;sauce,71,9999
+,OliveOil,2,,,5,1,product;sauce,71,9999
+,Mayonaise,2,,,4,1,product;sauce,71,9999
+,Lemon Curd,2,,,4,1,product;sauce,71,9999
+,Olive Dip,2,,,4,1,product;sauce,71,9999
+,Tomato Sauce,2,,,5,1,product;sauce,71,9999
+,Fried rice,3,,,5,1,product;wok,71,9999
+,Lamb Stir Fry,3,,,5,1,product;wok,71,9999
+,Spicy fish,2,,,4,1,product;wok,71,9999
+Reward_Set4_9-40,Nail,2,6,7,5,2,silo;expansion,9,40
+,Screw,2,,,5,2,silo;expansion,9,40
+,Wood Panel,2,,,5,2,silo;expansion,9,40
+,Plank,2,,,5,2,barn;expansion,9,40
+,Bolt,2,,,5,2,barn;expansion,9,40
+,Duct Tape,2,,,5,2,barn;expansion,9,40
+,Land Deed,2,,,3,1,land;expansion,9,40
+,Mallet,2,,,3,1,land;expansion,9,40
+,Marker Stake,2,,,3,1,land;expansion,9,40
+,Expansion Key,1,,,10,1,permit;limited2,9,40
+,Puzzle Piece 1,1,,,10,1,puzzle;limited2,9,40
+,Cream,4,,,7,1,product;dairy,9,40
+,Butter,3,,,7,1,product;dairy,9,40
+,Cheese,3,,,7,1,product;dairy,9,40
+,Goat Cheese,3,,,5,1,product;dairy,9,40
+,Brown_Sugar,4,,,7,1,product;sugar,9,40
+,White Sugar,3,,,7,1,product;sugar,9,40
+,Syrup,3,,,7,1,product;sugar,9,40
+,Dynamite,4,,,7,2,tool,9,40
+,Demolition Charge,4,,,7,2,tool,9,40
+,Axe,4,,,7,2,tool,9,40
+,Saw,4,,,7,2,tool,9,40
+,GoldBar,2,,,5,1,jewel;product,9,40
+,PlatinumBar,2,,,5,1,jewel;product,9,40
+,Diamond Ring,2,,,6,1,jewel;product,9,40
+,Herbivore Food,4,,,5,1,product;sanctuary,9,40
+,Egg,25,,,5,1,product;animal,9,40
+,Milk,25,,,5,1,product;animal,9,40
+,Bacon,15,,,5,1,product;animal,9,40
+,Wool,14,,,5,1,product;animal,9,40
+,Lamb Meat,15,,,5,1,product;animal,9,40
+,Goat Milk,12,,,5,1,product;animal,9,40
+,Fish Meat,14,,,5,1,product;fishing,9,40
+,Fishburger,4,,,5,1,product;fishing,9,40
+,Fish Pie,4,,,5,1,product;fishing,9,40
+,Cotton Fabrics,7,,,5,1,product;loom,9,40
+,Birthday Cake,4,,,5,1,product;cake,9,40
+,Apple Jam,5,,,5,1,product;jam,9,40
+,Raspberry Jam,4,,,5,1,product;jam,9,40
+,Blackberry Jam,3,,,5,1,product;jam,9,40
+,Cherry Jam,3,,,5,1,product;jam,9,40
+,Honey,19,,,5,1,product;honey,9,40
+Reward_Set4_41-70,Nail,3,6,7,5,2,silo;expansion,41,70
+,Screw,3,,,5,2,silo;expansion,41,70
+,Wood Panel,3,,,5,2,silo;expansion,41,70
+,Plank,3,,,5,2,barn;expansion,41,70
+,Bolt,3,,,5,2,barn;expansion,41,70
+,Duct Tape,3,,,5,2,barn;expansion,41,70
+,Land Deed,3,,,3,1,land;expansion,41,70
+,Mallet,3,,,3,1,land;expansion,41,70
+,Marker Stake,3,,,3,1,land;expansion,41,70
+,Expansion Key,2,,,10,1,permit;limited2,41,70
+,Puzzle Piece 1,2,,,10,1,puzzle;limited2,41,70
+,Cream,5,,,7,1,product;dairy,41,70
+,Butter,4,,,7,1,product;dairy,41,70
+,Cheese,4,,,7,1,product;dairy,41,70
+,Goat Cheese,4,,,5,1,product;dairy,41,70
+,Brown_Sugar,5,,,7,1,product;sugar,41,70
+,White Sugar,4,,,7,1,product;sugar,41,70
+,Syrup,4,,,7,1,product;sugar,41,70
+,Dynamite,4,,,7,2,tool,41,70
+,Demolition Charge,4,,,7,2,tool,41,70
+,Axe,4,,,7,2,tool,41,70
+,Saw,4,,,7,2,tool,41,70
+,Voucher3,2,,,5,1,voucher,41,70
+,Voucher4,2,,,5,1,voucher,41,70
+,GoldBar,2,,,5,1,jewel;product,41,70
+,PlatinumBar,2,,,5,1,jewel;product,41,70
+,Diamond Ring,2,,,6,1,jewel;product,41,70
+,Blanket,2,,,6,1,sewing;product,41,70
+,Herbivore Food,4,,,5,1,product;sanctuary,41,70
+,Egg,25,,,5,1,product;animal,41,70
+,Milk,25,,,5,1,product;animal,41,70
+,Bacon,15,,,5,1,product;animal,41,70
+,Wool,14,,,5,1,product;animal,41,70
+,Lamb Meat,15,,,5,1,product;animal,41,70
+,Goat Milk,12,,,5,1,product;animal,41,70
+,Caramel Apple,3,,,5,1,product;candy,41,70
+,Toffee,5,,,5,1,product;candy,41,70
+,Chocolate,2,,,5,1,product;candy,41,70
+,Lollipop,2,,,5,1,product;candy,41,70
+,Jelly Beans,2,,,4,1,product;candy,41,70
+,CandiedPeanuts,9,,,5,1,product;candy,41,70
+,Apple Jam,5,,,5,1,product;jam,41,70
+,Raspberry Jam,4,,,5,1,product;jam,41,70
+,Blackberry Jam,3,,,5,1,product;jam,41,70
+,Cherry Jam,3,,,5,1,product;jam,41,70
+,Strawberry Jam,4,,,5,1,product;jam,41,70
+,Blueberry Chutney,15,,,5,1,product;jam,41,70
+,Honey,19,,,5,1,product;honey,41,70
+,Beeswax,12,,,5,1,product;honey,41,70
+,SoySauce,6,,,5,1,product;sauce,41,70
+,Bean Dip,15,,,5,1,product;sauce,41,70
+,OliveOil,3,,,5,1,product;sauce,41,70
+,Mayonaise,2,,,4,1,product;sauce,41,70
+,Lemon Curd,2,,,4,1,product;sauce,41,70
+,Olive Dip,2,,,4,1,product;sauce,41,70
+,Tomato Sauce,4,,,5,1,product;sauce,41,70
+,Fried rice,4,,,5,1,product;wok,41,70
+,Lamb Stir Fry,4,,,5,1,product;wok,41,70
+Reward_Set4_71,Nail,4,6,7,5,2,silo;expansion,71,9999
+,Screw,4,,,5,2,silo;expansion,71,9999
+,Wood Panel,4,,,5,2,silo;expansion,71,9999
+,Plank,4,,,5,2,barn;expansion,71,9999
+,Bolt,4,,,5,2,barn;expansion,71,9999
+,Duct Tape,4,,,5,2,barn;expansion,71,9999
+,Land Deed,4,,,3,1,land;expansion,71,9999
+,Mallet,4,,,3,1,land;expansion,71,9999
+,Marker Stake,4,,,3,1,land;expansion,71,9999
+,Expansion Key,3,,,10,1,permit;limited2,71,9999
+,Puzzle Piece 1,3,,,10,1,puzzle;limited2,71,9999
+,Cream,6,,,7,1,product;dairy,71,9999
+,Butter,5,,,7,1,product;dairy,71,9999
+,Cheese,5,,,7,1,product;dairy,71,9999
+,Goat Cheese,5,,,5,1,product;dairy,71,9999
+,Brown_Sugar,6,,,7,1,product;sugar,71,9999
+,White Sugar,5,,,7,1,product;sugar,71,9999
+,Syrup,5,,,7,1,product;sugar,71,9999
+,Dynamite,4,,,7,2,tool,71,9999
+,Demolition Charge,4,,,7,2,tool,71,9999
+,Axe,4,,,7,2,tool,71,9999
+,Saw,4,,,7,2,tool,71,9999
+,Voucher3,2,,,5,1,voucher,71,9999
+,Voucher4,2,,,5,1,voucher,71,9999
+,GoldBar,2,,,5,1,jewel;product,71,9999
+,PlatinumBar,2,,,5,1,jewel;product,71,9999
+,Diamond Ring,2,,,6,1,jewel;product,71,9999
+,Blanket,2,,,6,1,sewing;product,71,9999
+,Herbivore Food,4,,,5,1,product;sanctuary,71,9999
+,Egg,25,,,5,1,product;animal,71,9999
+,Milk,25,,,5,1,product;animal,71,9999
+,Bacon,15,,,5,1,product;animal,71,9999
+,Wool,14,,,5,1,product;animal,71,9999
+,Lamb Meat,15,,,5,1,product;animal,71,9999
+,Goat Milk,12,,,5,1,product;animal,71,9999
+,Caramel Apple,3,,,5,1,product;candy,71,9999
+,Toffee,5,,,5,1,product;candy,71,9999
+,Chocolate,2,,,5,1,product;candy,71,9999
+,Lollipop,2,,,5,1,product;candy,71,9999
+,Jelly Beans,2,,,4,1,product;candy,71,9999
+,CandiedPeanuts,9,,,5,1,product;candy,71,9999
+,Cotton Candy,4,,,5,1,product;candy,71,9999
+,SesameBrittle,5,,,5,1,product;candy,71,9999
+,Apple Jam,5,,,5,1,product;jam,71,9999
+,Raspberry Jam,4,,,5,1,product;jam,71,9999
+,Blackberry Jam,3,,,5,1,product;jam,71,9999
+,Cherry Jam,3,,,5,1,product;jam,71,9999
+,Strawberry Jam,4,,,5,1,product;jam,71,9999
+,Blueberry Chutney,15,,,5,1,product;jam,71,9999
+,Marmelade,2,,,4,1,product;jam,71,9999
+,Honey,19,,,5,1,product;honey,71,9999
+,Beeswax,12,,,5,1,product;honey,71,9999
+,SoySauce,6,,,5,1,product;sauce,71,9999
+,Bean Dip,15,,,5,1,product;sauce,71,9999
+,OliveOil,3,,,5,1,product;sauce,71,9999
+,Mayonaise,2,,,4,1,product;sauce,71,9999
+,Lemon Curd,2,,,4,1,product;sauce,71,9999
+,Olive Dip,2,,,4,1,product;sauce,71,9999
+,Tomato Sauce,4,,,5,1,product;sauce,71,9999
+,Fried rice,4,,,5,1,product;wok,71,9999
+,Lamb Stir Fry,4,,,5,1,product;wok,71,9999
+,Spicy fish,2,,,4,1,product;wok,71,9999

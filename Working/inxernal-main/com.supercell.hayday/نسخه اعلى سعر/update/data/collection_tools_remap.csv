@@ -1,0 +1,11 @@
+Name,DumbValue,Rarity,Tool1,Tool2,Tool3
+String,int,int,String,String,String
+BarnCommon,75,1,Plank,Duct Tape,Bolt
+BarnUncommon,75,2,Plank,Duct Tape,Bolt
+BarnRare,75,3,Plank,Duct Tape,Bolt
+SiloCommon,75,1,Screw,Nail,Wood Panel
+SiloUncommon,75,2,Screw,Nail,Wood Panel
+SiloRare,75,3,Screw,Nail,Wood Panel
+LandCommon,112,1,Land Deed,Mallet,Marker Stake
+LandUncommon,112,2,Land Deed,Mallet,Marker Stake
+LandRare,112,3,Land Deed,Mallet,Marker Stake

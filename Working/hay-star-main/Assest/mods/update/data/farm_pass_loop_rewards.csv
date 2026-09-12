@@ -1,0 +1,59 @@
+Name,Enabled,ProbabilityWeight,UnlockLevel,SeasonMax,FreeReward,FreeAmount,PaidReward,PaidAmount,DiamondPrice,OriginalDiamondPrice
+String,Boolean,int,int,int,String,int,String,int,int,int
+ExpOrCoins 1,TRUE,25,11,1,Box_ExpOrCoins_1Star,1,Box_ExpOrCoins_3Star,1,49,149
+Gacha Key 2,TRUE,10,11,,GachaCurrency,25,GachaCurrency,500,39,50
+Gacha Key 3,TRUE,5,11,,GachaCurrency,40,GachaCurrency,1000,79,100
+Silo 1,TRUE,25,11,,Nail,1,Box_Silo_1Star,1,19,40
+Silo 2,TRUE,25,11,,Screw,1,Box_Silo_1Star,1,19,40
+Silo 3,TRUE,25,11,,Wood Panel,1,Box_Silo_1Star,1,19,40
+Silo Crate Conversion,TRUE,1000,11,1,Wood Panel,1,Box_Silo_2Star,1,29,80
+Barn Conversion,TRUE,1000,11,1,Screw,2,Box_Barn_2Star,1,29,80
+Product 1,TRUE,1000,11,1,Box_Product_1Star,1,Box_Product_3Star,2,19,50
+Silo Crate (free),TRUE,5,11,1,Box_Silo_1Star,1,Box_Silo_3Star,1,99,160
+Barn 1,TRUE,25,11,,Bolt,1,Box_Barn_1Star,1,29,40
+Barn 2,TRUE,25,11,,Plank,1,Box_Barn_1Star,1,29,40
+Barn 3,TRUE,25,11,,Duct Tape,1,Box_Barn_1Star,1,29,40
+Barn Crate (free),TRUE,5,11,1,Box_Barn_1Star,1,Box_Barn_3Star,1,99,160
+Product 7,TRUE,15,11,,Box_Product_1Star,1,Box_Product_3Star,2,15,40
+Product 2,TRUE,5,11,,Bacon and Eggs,3,Box_Silo_2Star,1,49,80
+Product 3,TRUE,5,11,,Butter,3,Box_Silo_2Star,1,49,80
+Product 5,TRUE,5,11,,Cream,3,Box_Barn_2Star,1,49,80
+Product 6,TRUE,5,11,,Cookie,3,Box_Barn_2Star,1,49,80
+Path 1,TRUE,5,11,,Box_Decos_Paths_1Star,1,Box_Decos_Paths_2Star,2,29,72
+Path 2,TRUE,5,11,,Box_Decos_Paths_1Star,1,Box_Decos_Paths_3Star,2,49,144
+Fence 1,TRUE,5,11,,Box_Decos_Fence_1Star,1,Box_Decos_Fence_2Star,2,29,72
+Fence 2,TRUE,5,11,,Box_Decos_Fence_1Star,1,Box_Decos_Fence_3Star,2,49,144
+Animal Product 2,TRUE,10,11,,Milk,5,Box_Barn_1Star,1,19,40
+Animal Product 3,TRUE,10,11,,Bacon,5,Box_Barn_1Star,1,19,40
+Tool 1,TRUE,25,11,,Axe,1,Box_Tools_3Star,1,9,29
+Tool 2,TRUE,25,11,,Saw,1,Box_Tools_3Star,1,9,29
+Gacha Key 1,TRUE,25,11,,GachaCurrency,25,GachaCurrency,250,19,25
+Product 8,TRUE,10,12,,Cheese,3,Box_Barn_2Star,1,49,80
+Animal Product 4,TRUE,25,16,,Wool,5,BarnRare,10,39,80
+Expansion 1,TRUE,25,22,,Mallet,1,Box_Expansion_2Star,1,49,72
+Expansion 2,TRUE,25,22,,Land Deed,1,Box_Expansion_2Star,1,49,72
+Expansion 3,TRUE,25,22,,Marker Stake,1,Box_Expansion_2Star,1,49,72
+Expansion Crate (free),TRUE,5,22,1,Box_Expansion_1Star,1,Box_Expansion_3Star,1,99,144
+Voucher1,TRUE,25,22,,Voucher1,1,Voucher3,5,15,25
+Voucher2,TRUE,25,22,,Voucher2,1,Voucher4,5,20,40
+Voucher3,TRUE,5,22,,Voucher3,1,Voucher3,10,30,50
+Voucher4,TRUE,5,22,,Voucher4,1,Voucher5,1,50,200
+Animal Product 5,TRUE,25,32,,Goat Milk,5,SiloRare,10,39,80
+Puzzle Piece 2,TRUE,25,34,,Box_TownUpgrade_1Star,1,Puzzle Piece 1,3,99,300
+Town 1,TRUE,10,34,,Brick,2,Box_TownUpgrade_3Star,1,19,120
+Town 2,TRUE,10,34,,Hammer,2,Box_TownUpgrade_3Star,1,19,120
+Town 3,TRUE,10,34,,Hand Drill,2,Box_TownUpgrade_3Star,1,19,120
+Town 4,TRUE,10,34,,Paint Bucket,2,Puzzle Piece 1,2,99,200
+Town 5,TRUE,10,34,,Stone Block,2,Box_TownUpgrade_3Star,1,19,120
+Town 6,TRUE,10,34,,Tar Bucket,2,Box_TownUpgrade_3Star,1,19,120
+Puzzle Piece 1,TRUE,25,35,,Map Piece,3,Puzzle Piece 1,2,99,200
+Fruit 1,TRUE,25,35,,Apple,5,Apple Jam,5,19,145
+Fruit 2,TRUE,25,36,,Raspberry,5,Raspberry Jam,5,19,180
+Fruit 3,TRUE,25,37,,Blackberry,5,Blackberry Jam,5,19,290
+Fruit 4,TRUE,25,38,,Cherry,5,Cherry Jam,5,19,240
+Expansion Scroll 1,TRUE,25,50,,Box_ExpOrCoins_1Star,1,Expansion Key,1,79,130
+Expansion Scroll 2,TRUE,25,50,,Box_ExpOrCoins_1Star,1,Expansion Key,2,149,260
+Fishing 1,TRUE,25,50,,Fish Meat,1,Box_Fishing_3Star,1,39,99
+Fishing 2,TRUE,25,50,,Lobster Meat,1,Box_Fishing_3Star,1,39,99
+Fishing 3,TRUE,25,50,,Duck Down,1,Box_Fishing_3Star,1,39,99
+Fruit 5,TRUE,25,79,,Peach,5,Peach Jam,5,19,305

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🌾 Hay Day Bot Suite — Farm Control Center & Live Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Navigation Header -->
+    <header class="app-header">
+      <div class="brand-group">
+        <div class="brand-icon">🌾</div>
+        <div class="brand-text">
+          <span class="brand-title">Hay Day Bot Suite</span>
+          <span class="brand-tagline">Autonomous Farm Control Center & Watchdog</span>
+        </div>
+      </div>
+
+      <!-- Live Status Badges -->
+      <div class="header-badges">
+        <div class="status-chip" id="emulator-status">
+          <span class="pulse-dot"></span>
+          <span id="emulator-text">Scanning Emulators...</span>
+        </div>
+        <div class="status-chip chip-ai" id="ai-status">
+          <span class="badge-icon">🤖</span>
+          <span>3 Free AI Engines Active</span>
+        </div>
+      </div>
+
+      <!-- Quick Action Buttons -->
+      <div class="header-actions">
+        <button id="btn-start-bot" class="btn btn-primary" title="Launch live bot on active Android emulator">
+          <span>🌾 Start Live Bot</span>
+        </button>
+        <button id="btn-stop-bot" class="btn btn-danger" style="display: none;" title="Stop active bot loop">
+          <span>🛑 Stop Bot</span>
+        </button>
+        <button id="btn-simulate" class="btn btn-action" title="Run 13-subsystem test pass in console">
+          <span>🧪 Terminal Test Mode</span>
+        </button>
+        <button id="btn-setup" class="btn btn-outline" title="1-Click Auto-Fix, repair ADB, and install dependencies">
+          <span>🛠️ 1-Click Auto-Fix</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Layout -->
+    <main class="dashboard-main">
+      <!-- Top Metric Cards -->
+      <section class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-header">
+            <span class="metric-title">TARGET CROP</span>
+            <span class="metric-icon">🌾</span>
+          </div>
+          <div class="metric-value" id="crop-name">Wheat</div>
+          <div class="metric-sub">ID: 400001 • Loop: 120s (±4s jitter)</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-header">
+            <span class="metric-title">ROADSIDE SHOP SELLER</span>
+            <span class="metric-icon">🏪</span>
+          </div>
+          <div class="metric-value">10 / 10 Crates</div>
+          <div class="metric-sub">1 Coin Clearing • Auto-Newspaper Ad</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-header">
+            <span class="metric-title">AI ENGINES (ZERO KEYS)</span>
+            <span class="metric-icon">🤖</span>
+          </div>
+          <div class="metric-value">3 / 3 Active</div>
+          <div class="metric-sub">Vision OCR • Self-Healing ADB • Auto-Fix NLP</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-header">
+            <span class="metric-title">ANTI-DETECTION GUARD</span>
+            <span class="metric-icon">🛡️</span>
+          </div>
+          <div class="metric-value">Samsung S24</div>
+          <div class="metric-sub">Quago Telemetry Blocked • Human Delays</div>
+        </div>
+      </section>
+
+      <!-- Grid: Farm Subsystems + Live Terminal Window -->
+      <div class="dashboard-split">
+        <!-- Left: 13 Subsystems Overview -->
+        <section class="panel-section subsystems-panel">
+          <div class="panel-header">
+            <h2>🌾 Farm Subsystems & Automation Modules</h2>
+            <span class="badge-tag">13 Autonomous Modules</span>
+          </div>
+
+          <div class="subsystems-grid">
+            <div class="module-card">
+              <div class="module-icon">🌾</div>
+              <div class="module-info">
+                <h4>1. Auto-Wheat Farming Loop</h4>
+                <p>High-speed field harvest, replanting, and continuous silo cycling.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">🏪</div>
+              <div class="module-info">
+                <h4>2. Roadside Shop Auto-Sell</h4>
+                <p>10-slot crate batching, -$1/$2 discounts, and newspaper ads.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">📰</div>
+              <div class="module-info">
+                <h4>3. Newspaper Material Sniper</h4>
+                <p>Autonomously buys rare expansion items up to 80/80 daily cap.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">🐔</div>
+              <div class="module-info">
+                <h4>4. Livestock & Feed Mills</h4>
+                <p>Collects eggs & milk, feeds animal pens, and queues feed batches.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">🍞</div>
+              <div class="module-info">
+                <h4>5. Production Machines</h4>
+                <p>Queues recipes for Bakery, Dairy, and Sugar Mill with zero diamonds.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">⛏️</div>
+              <div class="module-info">
+                <h4>6. Mine Operations & TNT</h4>
+                <p>Explodes dynamite and TNT up to safety diamond quota.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">🐟</div>
+              <div class="module-info">
+                <h4>7. Fishing Lake & Nets</h4>
+                <p>Teleports to fishing area, casts red lures, and collects lobster nets.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+
+            <div class="module-card">
+              <div class="module-icon">📦</div>
+              <div class="module-info">
+                <h4>8. Storage Upgrade Heuristics</h4>
+                <p>Monitors Barn & Silo thresholds and auto-upgrades when parts ready.</p>
+              </div>
+              <span class="status-pill status-ready">Active</span>
+            </div>
+          </div>
+        </section>
+
+        <!-- Right: Live Log Console & Diagnostics -->
+        <section class="panel-section console-panel">
+          <div class="panel-header">
+            <h2>🖥️ Live Console & Real-Time Diagnostics</h2>
+            <div class="console-actions">
+              <button id="btn-clear-logs" class="btn btn-xs">Clear</button>
+              <button id="btn-refresh-logs" class="btn btn-xs">Refresh</button>
+            </div>
+          </div>
+
+          <div class="console-box" id="console-output">
+            <div class="console-line line-info">[SYSTEM] Hay Day Bot Suite Control Center Initialized.</div>
+            <div class="console-line line-success">[OK] 3 Free AI Engines Loaded (Vision + Self-Healing + Auto-Fix).</div>
+            <div class="console-line line-notice">[STATUS] Ready to farm! Click 'Start Live Bot' or 'Terminal Test Mode'.</div>
+          </div>
+
+          <!-- Bottom Console Toolbar -->
+          <div class="console-toolbar">
+            <button id="btn-trigger-releases" class="btn btn-sm btn-outline">
+              <span>📦 Sync GitHub Releases</span>
+            </button>
+            <button id="btn-audit-secrets" class="btn btn-sm btn-outline">
+              <span>🔒 Check Privacy & Secrets</span>
+            </button>
+            <span class="legal-badge">© 2016-2026 Ashraf Morningstar</span>
+          </div>
+        </section>
+      </div>
+
+      <!-- Legal Protection Footer -->
+      <footer class="app-footer">
+        <p><strong>Copyright (c) 2016–2026 Ashraf Morningstar.</strong> All Rights Reserved. Licensed under the MIT License.</p>
+        <p class="legal-sub">Disclaimer: <em>Hay Day</em> and <em>Supercell</em> are trademarks of Supercell Oy. This suite is an open-source educational automation and accessibility tool not affiliated with Supercell.</p>
+      </footer>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+Name,Rewards,RewardAmounts,Probabilities,Sequential
+String,String,int,int,Boolean
+PeopleRewardDefaultSet,Plank,1,1,
+,Duct Tape,1,1,
+,Screw,1,1,
+,Bolt,1,1,
+,Wood Panel,1,1,
+,Nail,1,1,

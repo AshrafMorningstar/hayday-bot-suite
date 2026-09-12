@@ -1,0 +1,14 @@
+Name,FileName,ExportName,ExportNameMiddle,ExportNameTop,TileWidth,TileHeight,ShopIconFileName,ShopIconExportName,CollectIconFileName,CollectIconExportName,MasteryButtonIconExportName,EnterX,EnterY,IdleX,IdleY,Nest,NestCount,Price,TID,MaxHabitatsColumnName,BuySound,RandomSounds,TapSound,MasteryGatherCount,MasteryDiamondPrice,ShopDescriptionTID,MasteryDescTID,TooltipTID,ProgressTID,StarGainDescTID,ShopDescTID,ButtonTooltipTID,StarGainedTooltipTID
+String,String,String,String,String,int,int,String,String,String,String,String,int,int,int,int,String,int,int,String,String,String,String,String,int,int,String,String,String,String,String,String,String,String
+BeeHiveTree,sc/buildings_new.sc,bee_tree_lvl1_bottom,bee_tree_lvl1_middle,bee_tree_lvl1_top,2,2,sc/icons.sc,shop_icon_beetree,sc/icons.sc,tool_collect_honey,mastery_bee_1star,,,,,BeeHive,1,4000,TID_BEE_HIVE_TREE,MaxBeeHabitats,Buy,,TapBeeHive,4000,199,TID_BEE_HIVE_TREE_SHOP_DESCRIPTION,TID_GATHERER_MASTERY_INFO_POPUP_DESCRIPTION,TID_GATHERER_MASTERY_INFO_POPUP_TOOLTIP_NEW,TID_GATHERER_MASTERY_INFO_POPUP_PROGRESS,TID_GATHERER_MASTERY_STAR_GAIN_POPUP_DESCRIPTION,TID_GATHERER_SHOP_DESCRIPTION,TID_GATHERER_HABITAT_HUD_BUTTON_TOOLTIP,TID_GATHERER_MASTERY_INFO_POPUP_TOOLTIP
+,,bee_tree_lvl2_bottom,bee_tree_lvl2_middle,bee_tree_lvl2_top,,,,,,,mastery_bee_2stars,,,,,,2,,,,,,,44000,699,,,,,,,,
+,,bee_tree_lvl3_bottom,bee_tree_lvl3_middle,bee_tree_lvl3_top,,,,,,,mastery_bee_3stars,,,,,,3,,,,,,,444000,1499,,,,,,,,
+,,bee_tree_lvl4_bottom,bee_tree_lvl4_middle,bee_tree_lvl4_top,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,
+SquirrelTree,sc/buildings_new.sc,squirrel_tree_lvl1_base,squirrel_house_lvl1_middle,,2,2,sc/icons.sc,shop_icon_squirrelhouse,sc/icons.sc,tool_collect_honey,mastery_squirrel_1star,256,768,680,620,SquirrelHouse,1,45000,TID_SQUIRREL_TREE,MaxSquirrelHabitats,Buy,,TapSquirrelTree,5500,199,TID_SQUIRREL_TREE_SHOP_DESCRIPTION,TID_SQUIRREL_GATHERER_MASTERY_INFO_POPUP_DESCRIPTION,TID_SQUIRREL_GATHERER_MASTERY_INFO_POPUP_TOOLTIP_NEW,TID_SQUIRREL_GATHERER_MASTERY_INFO_POPUP_PROGRESS,TID_SQUIRREL_GATHERER_MASTERY_STAR_GAIN_POPUP_DESCRIPTION,TID_SQUIRREL_GATHERER_SHOP_DESCRIPTION,TID_SQUIRREL_GATHERER_HABITAT_HUD_BUTTON_TOOLTIP,TID_SQUIRREL_GATHERER_MASTERY_INFO_POPUP_TOOLTIP
+,,squirrel_tree_lvl2_base,squirrel_house_lvl2_middle,,,,,,,,mastery_squirrel_2star,896,256,200,128,,2,,,,,,,80000,999,,,,,,,,
+,,squirrel_tree_lvl3_base,squirrel_house_lvl3_middle,,,,,,,,mastery_squirrel_3star,,,-384,-768,,3,,,,,,,350000,4599,,,,,,,,
+,,squirrel_tree_lvl4_base,squirrel_house_lvl4_middle,,,,,,,,,,,120,-376,,4,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,-346,128,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,-768,-484,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,-1280,-1280,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,-1764,-1280,,,,,,,,,,,,,,,,,,

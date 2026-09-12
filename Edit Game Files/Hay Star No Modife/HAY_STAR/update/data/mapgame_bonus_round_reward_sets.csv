@@ -1,0 +1,326 @@
+Name,Rewards,RewardAmounts,MinRound,MaxRound,Probabilities,LimitPerRound,Tags,MinXPLevel,MaxXPLevel
+String,String,int,int,int,int,int,String,int,int
+Reward_Round1_25-40,Dynamite,1,0,0,7,2,tool,25,40
+,Demolition Charge,1,,,7,2,tool,25,40
+,Axe,1,,,7,2,tool,25,40
+,Saw,1,,,7,2,tool,25,40
+,Shovel,1,,,7,2,tool,25,40
+,Pickaxe,1,,,7,2,tool,25,40
+,Voucher1,3,,,18,2,voucher,25,40
+,Voucher2,2,,,18,2,voucher,25,40
+,Plank,1,,,4,2,barn;expansion,25,40
+,Nail,1,,,4,2,silo;expansion,25,40
+,Bolt,1,,,4,2,barn;expansion,25,40
+,Screw,1,,,4,2,silo;expansion,25,40
+,Duct Tape,1,,,4,2,barn;expansion,25,40
+,Wood Panel,1,,,4,2,silo;expansion,25,40
+,Lobster Meat,1,,,7,1,fishing;product,25,40
+,Duck Down,1,,,7,1,fishing;product,25,40
+,GoldBar,1,,,7,2,jewel;product,25,40
+,PlatinumBar,1,,,7,2,jewel;product,25,40
+,Honey,2,,,7,1,bee;product,25,40
+,Beeswax,2,,,7,1,bee;product,25,40
+,Chocolate,1,,,7,1,candy;product,25,40
+,Lollipop,1,,,7,1,candy;product,25,40
+Reward_Round1_41-55,Dynamite,2,0,0,7,2,tool,41,55
+,Demolition Charge,2,,,7,2,tool,41,55
+,Axe,2,,,7,2,tool,41,55
+,Saw,2,,,7,2,tool,41,55
+,Shovel,2,,,7,2,tool,41,55
+,Pickaxe,2,,,7,2,tool,41,55
+,Voucher1,5,,,18,2,voucher,41,55
+,Voucher2,3,,,18,2,voucher,41,55
+,Plank,1,,,4,2,barn;expansion,41,55
+,Nail,1,,,4,2,silo;expansion,41,55
+,Bolt,1,,,4,2,barn;expansion,41,55
+,Screw,1,,,4,2,silo;expansion,41,55
+,Duct Tape,1,,,4,2,barn;expansion,41,55
+,Wood Panel,1,,,4,2,silo;expansion,41,55
+,Lobster Meat,1,,,7,1,fishing;product,41,55
+,Duck Down,1,,,7,1,fishing;product,41,55
+,GoldBar,2,,,7,2,jewel;product,41,55
+,PlatinumBar,2,,,7,2,jewel;product,41,55
+,Honey,3,,,7,1,bee;product,41,55
+,Beeswax,3,,,7,1,bee;product,41,55
+,Chocolate,2,,,7,1,candy;product,41,55
+,Lollipop,2,,,7,1,candy;product,41,55
+Reward_Round1_56-80,Dynamite,2,0,0,7,2,tool,56,80
+,Demolition Charge,2,,,7,2,tool,56,80
+,Axe,2,,,7,2,tool,56,80
+,Saw,2,,,7,2,tool,56,80
+,Shovel,2,,,7,2,tool,56,80
+,Pickaxe,2,,,7,2,tool,56,80
+,Voucher1,7,,,18,2,voucher,56,80
+,Voucher2,5,,,18,2,voucher,56,80
+,Plank,1,,,4,2,barn;expansion,56,80
+,Nail,1,,,4,2,silo;expansion,56,80
+,Bolt,1,,,4,2,barn;expansion,56,80
+,Screw,1,,,4,2,silo;expansion,56,80
+,Duct Tape,1,,,4,2,barn;expansion,56,80
+,Wood Panel,1,,,4,2,silo;expansion,56,80
+,Lobster Meat,2,,,7,1,fishing;product,56,80
+,Duck Down,2,,,7,1,fishing;product,56,80
+,GoldBar,3,,,7,2,jewel;product,56,80
+,PlatinumBar,3,,,7,2,jewel;product,56,80
+,Honey,4,,,7,1,bee;product,56,80
+,Beeswax,4,,,7,1,bee;product,56,80
+,Chocolate,3,,,7,1,candy;product,56,80
+,Lollipop,3,,,7,1,candy;product,56,80
+Reward_Round1_81+,Dynamite,3,0,0,7,2,tool,81,9999
+,Demolition Charge,3,,,7,2,tool,81,9999
+,Axe,3,,,7,2,tool,81,9999
+,Saw,3,,,7,2,tool,81,9999
+,Shovel,3,,,7,2,tool,81,9999
+,Pickaxe,3,,,7,2,tool,81,9999
+,Voucher1,9,,,18,2,voucher,81,9999
+,Voucher2,9,,,18,2,voucher,81,9999
+,Plank,2,,,4,2,barn;expansion,81,9999
+,Nail,2,,,4,2,silo;expansion,81,9999
+,Bolt,2,,,4,2,barn;expansion,81,9999
+,Screw,2,,,4,2,silo;expansion,81,9999
+,Duct Tape,2,,,4,2,barn;expansion,81,9999
+,Wood Panel,2,,,4,2,silo;expansion,81,9999
+,Lobster Meat,3,,,7,1,fishing;product,81,9999
+,Duck Down,3,,,7,1,fishing;product,81,9999
+,GoldBar,5,,,7,2,jewel;product,81,9999
+,PlatinumBar,5,,,7,2,jewel;product,81,9999
+,Honey,5,,,7,1,bee;product,81,9999
+,Beeswax,5,,,7,1,bee;product,81,9999
+,Chocolate,5,,,7,1,candy;product,81,9999
+,Lollipop,5,,,7,1,candy;product,81,9999
+Reward_Round2_25-40,Dynamite,1,1,1,6,2,tool,25,40
+,Demolition Charge,1,,,6,2,tool,25,40
+,Axe,1,,,6,2,tool,25,40
+,Saw,1,,,6,2,tool,25,40
+,Shovel,1,,,6,2,tool,25,40
+,Pickaxe,1,,,8,2,tool,25,40
+,Expansion Key,1,,,8,1,permit;limited2,25,40
+,Puzzle Piece 1,1,,,8,1,puzzle;limited2,25,40
+,Voucher1,3,,,10,1,voucher,25,40
+,Voucher2,2,,,10,1,voucher,25,40
+,Voucher3,1,,,10,1,voucher,25,40
+,Plank,1,,,3,2,barn;expansion,25,40
+,Nail,1,,,3,2,silo;expansion,25,40
+,Bolt,1,,,3,2,barn;expansion,25,40
+,Screw,1,,,3,2,silo;expansion,25,40
+,Duct Tape,1,,,3,2,barn;expansion,25,40
+,Wood Panel,1,,,3,2,silo;expansion,25,40
+,Land Deed,1,,,2,2,land;expansion,25,40
+,Mallet,1,,,2,2,land;expansion,25,40
+,Marker Stake,1,,,2,2,land;expansion,25,40
+,Lobster Meat,1,,,7,1,fishing;product,25,40
+,Duck Down,1,,,7,1,fishing;product,25,40
+,GoldBar,1,,,7,2,jewel;product,25,40
+,PlatinumBar,1,,,7,2,jewel;product,25,40
+,Honey,2,,,7,1,bee;product,25,40
+,Beeswax,2,,,7,1,bee;product,25,40
+,Chocolate,1,,,7,1,candy;product,25,40
+,Lollipop,1,,,7,1,candy;product,25,40
+Reward_Round2_41-55,Dynamite,2,1,1,6,2,tool,41,55
+,Demolition Charge,2,,,6,2,tool,41,55
+,Axe,2,,,6,2,tool,41,55
+,Saw,2,,,6,2,tool,41,55
+,Shovel,2,,,6,2,tool,41,55
+,Pickaxe,2,,,8,2,tool,41,55
+,Expansion Key,1,,,8,1,permit;limited2,41,55
+,Puzzle Piece 1,1,,,8,1,puzzle;limited2,41,55
+,Voucher1,5,,,10,1,voucher,41,55
+,Voucher2,3,,,10,1,voucher,41,55
+,Voucher3,2,,,10,1,voucher,41,55
+,Plank,1,,,3,2,barn;expansion,41,55
+,Nail,1,,,3,2,silo;expansion,41,55
+,Bolt,1,,,3,2,barn;expansion,41,55
+,Screw,1,,,3,2,silo;expansion,41,55
+,Duct Tape,1,,,3,2,barn;expansion,41,55
+,Wood Panel,1,,,3,2,silo;expansion,41,55
+,Land Deed,1,,,2,2,land;expansion,41,55
+,Mallet,1,,,2,2,land;expansion,41,55
+,Marker Stake,1,,,2,2,land;expansion,41,55
+,Lobster Meat,1,,,7,1,fishing;product,41,55
+,Duck Down,1,,,7,1,fishing;product,41,55
+,GoldBar,2,,,7,2,jewel;product,41,55
+,PlatinumBar,2,,,7,2,jewel;product,41,55
+,Honey,3,,,7,1,bee;product,41,55
+,Beeswax,3,,,7,1,bee;product,41,55
+,Chocolate,3,,,7,1,candy;product,41,55
+,Lollipop,3,,,7,1,candy;product,41,55
+Reward_Round2_56-80,Dynamite,2,1,1,6,2,tool,56,80
+,Demolition Charge,2,,,6,2,tool,56,80
+,Axe,2,,,6,2,tool,56,80
+,Saw,2,,,6,2,tool,56,80
+,Shovel,2,,,6,2,tool,56,80
+,Pickaxe,2,,,8,2,tool,56,80
+,Expansion Key,1,,,8,1,permit;limited2,56,80
+,Puzzle Piece 1,1,,,8,1,puzzle;limited2,56,80
+,Voucher1,7,,,10,1,voucher,56,80
+,Voucher2,5,,,10,1,voucher,56,80
+,Voucher3,3,,,10,1,voucher,56,80
+,Plank,1,,,3,2,barn;expansion,56,80
+,Nail,1,,,3,2,silo;expansion,56,80
+,Bolt,1,,,3,2,barn;expansion,56,80
+,Screw,1,,,3,2,silo;expansion,56,80
+,Duct Tape,1,,,3,2,barn;expansion,56,80
+,Wood Panel,1,,,3,2,silo;expansion,56,80
+,Land Deed,1,,,2,2,land;expansion,56,80
+,Mallet,1,,,2,2,land;expansion,56,80
+,Marker Stake,1,,,2,2,land;expansion,56,80
+,Lobster Meat,2,,,7,1,fishing;product,56,80
+,Duck Down,2,,,7,1,fishing;product,56,80
+,GoldBar,3,,,7,2,jewel;product,56,80
+,PlatinumBar,3,,,7,2,jewel;product,56,80
+,Honey,4,,,7,1,bee;product,56,80
+,Beeswax,4,,,7,1,bee;product,56,80
+,Chocolate,3,,,7,1,candy;product,56,80
+,Lollipop,3,,,7,1,candy;product,56,80
+Reward_Round2_81+,Dynamite,3,1,1,6,2,tool,81,9999
+,Demolition Charge,3,,,6,2,tool,81,9999
+,Axe,3,,,6,2,tool,81,9999
+,Saw,3,,,6,2,tool,81,9999
+,Shovel,3,,,6,2,tool,81,9999
+,Pickaxe,3,,,8,2,tool,81,9999
+,Expansion Key,1,,,8,1,permit;limited2,81,9999
+,Puzzle Piece 1,1,,,8,1,puzzle;limited2,81,9999
+,Voucher1,9,,,10,1,voucher,81,9999
+,Voucher2,9,,,10,1,voucher,81,9999
+,Voucher3,5,,,10,1,voucher,81,9999
+,Plank,2,,,3,2,barn;expansion,81,9999
+,Nail,2,,,3,2,silo;expansion,81,9999
+,Bolt,2,,,3,2,barn;expansion,81,9999
+,Screw,2,,,3,2,silo;expansion,81,9999
+,Duct Tape,2,,,3,2,barn;expansion,81,9999
+,Wood Panel,2,,,3,2,silo;expansion,81,9999
+,Land Deed,2,,,2,2,land;expansion,81,9999
+,Mallet,2,,,2,2,land;expansion,81,9999
+,Marker Stake,2,,,2,2,land;expansion,81,9999
+,Lobster Meat,3,,,7,1,fishing;product,81,9999
+,Duck Down,3,,,7,1,fishing;product,81,9999
+,GoldBar,5,,,7,2,jewel;product,81,9999
+,PlatinumBar,5,,,7,2,jewel;product,81,9999
+,Honey,5,,,7,1,bee;product,81,9999
+,Beeswax,5,,,7,1,bee;product,81,9999
+,Chocolate,5,,,7,1,candy;product,81,9999
+,Lollipop,5,,,7,1,candy;product,81,9999
+Reward_Round3_25-40,Dynamite,1,2,99,7,1,tool,25,40
+,Demolition Charge,1,,,7,1,tool,25,40
+,Axe,1,,,7,1,tool,25,40
+,Saw,1,,,7,1,tool,25,40
+,Shovel,1,,,7,1,tool,25,40
+,Pickaxe,1,,,7,1,tool,25,40
+,Expansion Key,1,,,15,2,permit;limited,25,40
+,Puzzle Piece 1,1,,,15,2,puzzle;limited,25,40
+,Voucher1,3,,,10,1,voucher,25,40
+,Voucher2,2,,,10,1,voucher,25,40
+,Voucher3,1,,,10,1,voucher,25,40
+,Voucher4,1,,,10,1,voucher,25,40
+,Plank,1,,,6,2,barn;expansion,25,40
+,Nail,1,,,6,2,silo;expansion,25,40
+,Bolt,1,,,6,2,barn;expansion,25,40
+,Screw,1,,,6,2,silo;expansion,25,40
+,Duct Tape,1,,,6,2,barn;expansion,25,40
+,Wood Panel,1,,,6,2,silo;expansion,25,40
+,Land Deed,1,,,6,2,land;expansion,25,40
+,Mallet,1,,,6,2,land;expansion,25,40
+,Marker Stake,1,,,6,2,land;expansion,25,40
+,Lobster Meat,1,,,3,1,fishing;product,25,40
+,Duck Down,1,,,3,1,fishing;product,25,40
+,GoldBar,1,,,3,1,jewel;product,25,40
+,PlatinumBar,1,,,3,1,jewel;product,25,40
+,Honey,2,,,3,1,bee;product,25,40
+,Diamond Ring,1,,,3,1,jewel;product,25,40
+,Beeswax,2,,,3,1,bee;product,25,40
+,Jelly Beans,1,,,3,1,candy;product,25,40
+,Chocolate,1,,,3,1,candy;product,25,40
+,Lollipop,1,,,3,1,candy;product,25,40
+Reward_Round3_41-55,Dynamite,2,2,99,7,1,tool,41,55
+,Demolition Charge,2,,,7,1,tool,41,55
+,Axe,2,,,7,1,tool,41,55
+,Saw,2,,,7,1,tool,41,55
+,Shovel,2,,,7,1,tool,41,55
+,Pickaxe,2,,,7,1,tool,41,55
+,Expansion Key,1,,,15,2,permit;limited,41,55
+,Puzzle Piece 1,1,,,15,2,puzzle;limited,41,55
+,Voucher1,5,,,10,1,voucher,41,55
+,Voucher2,3,,,10,1,voucher,41,55
+,Voucher3,2,,,10,1,voucher,41,55
+,Voucher4,2,,,10,1,voucher,41,55
+,Plank,1,,,6,2,barn;expansion,41,55
+,Nail,1,,,6,2,silo;expansion,41,55
+,Bolt,1,,,6,2,barn;expansion,41,55
+,Screw,1,,,6,2,silo;expansion,41,55
+,Duct Tape,1,,,6,2,barn;expansion,41,55
+,Wood Panel,1,,,6,2,silo;expansion,41,55
+,Land Deed,1,,,6,2,land;expansion,41,55
+,Mallet,1,,,6,2,land;expansion,41,55
+,Marker Stake,1,,,6,2,land;expansion,41,55
+,Lobster Meat,1,,,3,1,fishing;product,41,55
+,Duck Down,1,,,3,1,fishing;product,41,55
+,GoldBar,2,,,3,1,jewel;product,41,55
+,PlatinumBar,2,,,3,1,jewel;product,41,55
+,Honey,3,,,3,1,bee;product,41,55
+,Diamond Ring,1,,,3,1,jewel;product,41,55
+,Beeswax,3,,,3,1,bee;product,41,55
+,Jelly Beans,3,,,3,1,candy;product,41,55
+,Chocolate,3,,,3,1,candy;product,41,55
+,Lollipop,3,,,3,1,candy;product,41,55
+Reward_Round3_56-80,Dynamite,2,2,99,7,1,tool,56,80
+,Demolition Charge,2,,,7,1,tool,56,80
+,Axe,2,,,7,1,tool,56,80
+,Saw,2,,,7,1,tool,56,80
+,Shovel,2,,,7,1,tool,56,80
+,Pickaxe,2,,,7,1,tool,56,80
+,Expansion Key,1,,,15,2,permit;limited,56,80
+,Puzzle Piece 1,1,,,15,2,puzzle;limited,56,80
+,Voucher1,7,,,10,1,voucher,56,80
+,Voucher2,5,,,10,1,voucher,56,80
+,Voucher3,3,,,10,1,voucher,56,80
+,Voucher4,3,,,10,1,voucher,56,80
+,Plank,1,,,6,2,barn;expansion,56,80
+,Nail,1,,,6,2,silo;expansion,56,80
+,Bolt,1,,,6,2,barn;expansion,56,80
+,Screw,1,,,6,2,silo;expansion,56,80
+,Duct Tape,1,,,6,2,barn;expansion,56,80
+,Wood Panel,1,,,6,2,silo;expansion,56,80
+,Land Deed,1,,,6,2,land;expansion,56,80
+,Mallet,1,,,6,2,land;expansion,56,80
+,Marker Stake,1,,,6,2,land;expansion,56,80
+,Lobster Meat,2,,,3,1,fishing;product,56,80
+,Duck Down,2,,,3,1,fishing;product,56,80
+,GoldBar,3,,,3,1,jewel;product,56,80
+,PlatinumBar,3,,,3,1,jewel;product,56,80
+,Honey,4,,,3,1,bee;product,56,80
+,Diamond Ring,2,,,3,1,jewel;product,56,80
+,Beeswax,4,,,3,1,bee;product,56,80
+,Jelly Beans,3,,,3,1,candy;product,56,80
+,Chocolate,3,,,3,1,candy;product,56,80
+,Lollipop,3,,,3,1,candy;product,56,80
+Reward_Round3_81+,Dynamite,3,2,99,7,1,tool,81,9999
+,Demolition Charge,3,,,7,1,tool,81,9999
+,Axe,3,,,7,1,tool,81,9999
+,Saw,3,,,7,1,tool,81,9999
+,Shovel,3,,,7,1,tool,81,9999
+,Pickaxe,3,,,7,1,tool,81,9999
+,Expansion Key,1,,,15,2,permit;limited,81,9999
+,Puzzle Piece 1,1,,,15,2,puzzle;limited,81,9999
+,Voucher1,9,,,10,1,voucher,81,9999
+,Voucher2,9,,,10,1,voucher,81,9999
+,Voucher3,5,,,10,1,voucher,81,9999
+,Voucher4,5,,,10,1,voucher,81,9999
+,Plank,2,,,6,2,barn;expansion,81,9999
+,Nail,2,,,6,2,silo;expansion,81,9999
+,Bolt,2,,,6,2,barn;expansion,81,9999
+,Screw,2,,,6,2,silo;expansion,81,9999
+,Duct Tape,2,,,6,2,barn;expansion,81,9999
+,Wood Panel,2,,,6,2,silo;expansion,81,9999
+,Land Deed,2,,,6,2,land;expansion,81,9999
+,Mallet,2,,,6,2,land;expansion,81,9999
+,Marker Stake,2,,,6,2,land;expansion,81,9999
+,Lobster Meat,3,,,3,1,fishing;product,81,9999
+,Duck Down,3,,,3,1,fishing;product,81,9999
+,GoldBar,5,,,3,1,jewel;product,81,9999
+,PlatinumBar,5,,,3,1,jewel;product,81,9999
+,Honey,5,,,3,1,bee;product,81,9999
+,Diamond Ring,3,,,3,1,jewel;product,81,9999
+,Beeswax,5,,,3,1,bee;product,81,9999
+,Jelly Beans,5,,,3,1,candy;product,81,9999
+,Chocolate,5,,,3,1,candy;product,81,9999
+,Lollipop,5,,,3,1,candy;product,81,9999

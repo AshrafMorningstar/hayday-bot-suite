@@ -1,0 +1,48 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Pancakes,sc/icons.sc,recipe_pancakes,TID_PANCAKE,Barbecue_Grill,3,Egg,30,56,54,13,3,1,20,23,9,TID_BARBECUE_PRODUCT_DESCRIPTION,23,,20
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+Bacon and Eggs,sc/icons.sc,recipe_bacon_and_eggs,TID_BACON_AND_EGGS,Barbecue_Grill,4,Egg,60,104,100,24,4,1,40,40,11,TID_BARBECUE_PRODUCT_DESCRIPTION,44,,40
+,,,,,2,Bacon,,,,,,,,,,,,,
+Hamburger,sc/icons.sc,recipe_hamburger,TID_HAMBURGER,Barbecue_Grill,2,Bread,120,93,90,22,5,1,33,33,18,TID_BARBECUE_PRODUCT_DESCRIPTION,38,,33
+,,,,,2,Bacon,,,,,,,,,,,,,
+Roasted Tomatoes,sc/icons.sc,recipe_roasted_tomatoes,TID_ROASTED_TOMATOES,Barbecue_Grill,2,Tomato,90,62,59,14,5,1,21,21,30,TID_BARBECUE_PRODUCT_DESCRIPTION,26,,21
+Baked Potato,sc/icons.sc,recipe_baked_potato,TID_BAKED_POTATO,Barbecue_Grill,2,Potato,35,155,149,36,3,1,54,54,35,TID_BARBECUE_PRODUCT_DESCRIPTION,57,,54
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Fishburger,sc/icons.sc,recipe_fishburger,TID_FISHBURGER,Barbecue_Grill,2,Fish Meat,120,116,112,27,5,1,42,42,27,TID_BARBECUE_PRODUCT_DESCRIPTION,47,,42
+,,,,,2,Bread,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+Fish and Chips,sc/icons.sc,recipe_fishandchips,TID_PRODUCT_FISH_AND_CHIPS,Barbecue_Grill,2,Fish Meat,90,126,121,29,5,1,48,48,41,TID_BARBECUE_PRODUCT_DESCRIPTION,53,,48
+,,,,,3,Potato,,,,,,,,,,,,,
+Lobster Skewer,sc/icons.sc,recipe_lobsterskewers,TID_PRODUCT_LOBSTERSKEWERS,Barbecue_Grill,1,Lobster Meat,40,216,208,50,3,1,39,47,48,TID_BARBECUE_PRODUCT_DESCRIPTION,42,,39
+,,,,,1,Honey,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+Grilled Onion,sc/icons.sc,recipe_grilled_onion,TID_PRODUCT_GRILLEDONION,Barbecue_Grill,2,Onion,60,99,95,23,4,1,35,35,68,TID_BARBECUE_PRODUCT_DESCRIPTION,39,,35
+,,,,,1,Butter,,,,,,,,,,,,,
+BananaPancakes,sc/icons.sc,recipe_banana_pancakes,TID_BANANA_PANCAKES,Barbecue_Grill,1,Banana,60,182,175,42,4,1,64,64,94,TID_BARBECUE_PRODUCT_DESCRIPTION,68,,64
+,,,,,2,Blackberry,,,,,,,,,,,,,
+,,,,,3,Wheat,,,,,,,,,,,,,
+,,,,,1,Cream,,,,,,,,,,,,,
+Grilled Eggplant,sc/icons.sc,recipe_grilled_eggplant,TID_GRILLED_EGGPLANT,Barbecue_Grill,3,Eggplant,40,167,161,39,3,1,60,60,90,TID_BARBECUE_PRODUCT_DESCRIPTION,63,,60
+,,,,,1,Salsa,,,,,,,,,,,,,
+FishSkewer,sc/icons.sc,recipe_fish_skewer,TID_FISH_SKEWERS,Barbecue_Grill,1,Fish Meat,30,91,88,21,3,1,34,34,96,TID_BARBECUE_PRODUCT_DESCRIPTION,37,,34
+,,,,,3,Mushroom,,,,,,,,,,,,,
+,,,,,2,Sesame,,,,,,,,,,,,,
+,,,,,1,Ginger,,,,,,,,,,,,,
+Roast veggies,sc/icons.sc,recipe_roasted_veg,TID_PRODUCT_ROASTED_VEG,Barbecue_Grill,2,Beetroot,25,103,99,24,3,1,39,39,72,TID_BARBECUE_PRODUCT_DESCRIPTION,42,,39
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,2,Potato,,,,,,,,,,,,,
+,,,,,2,Pumpkin,,,,,,,,,,,,,
+Garlic bread,sc/icons.sc,recipe_garlic_bread,TID_PRODUCT_GARLIC_BREAD,Barbecue_Grill,2,Bread,15,103,99,24,2,1,37,37,60,TID_BARBECUE_PRODUCT_DESCRIPTION,39,,37
+,,,,,1,Butter,,,,,,,,,,,,,
+,,,,,4,Garlic,,,,,,,,,,,,,
+Stuffed Bellpeppers,sc/icons.sc,recipe_stuffed_bellpeppers,TID_PRODUCT_STUFFEDPEPPER,Barbecue_Grill,3,Bellpepper,20,182,175,42,2,1,64,64,80,TID_BARBECUE_PRODUCT_DESCRIPTION,66,,64
+,,,,,3,Rice,,,,,,,,,,,,,
+,,,,,1,Bacon,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Grilled Asparagus,sc/icons.sc,recipe_grilled_asparagus,TID_PRODUCT_GRILLED_ASPARAGUS,Barbecue_Grill,5,Asparagus,75,250,240,58,4,1,92,92,67,TID_BARBECUE_PRODUCT_DESCRIPTION,96,,92
+,,,,,3,Bacon,,,,,,,,,,,,,
+,,,,,1,Lemon,,,,,,,,,,,,,
+Grilled Lamb Skewer,sc/icons.sc,recipe_grilled_lamb_skewer,TID_GRILLED_LAMB_SKEWER,Barbecue_Grill,2,Lamb Meat,20,46,44,11,2,1,16,16,25,TID_BARBECUE_PRODUCT_DESCRIPTION,18,,12

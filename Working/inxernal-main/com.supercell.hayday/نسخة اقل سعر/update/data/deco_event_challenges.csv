@@ -1,0 +1,11 @@
+Name,Tooltip,IconFileName,IconExportName,TooltipAction
+String,String,String,String,int
+PlaceDecoration,TID_DECO_CHALLENGE_PLACE_DECO,sc/hud_deco_event.sc,icon_deco_event_place_deco,0
+RemoveObstacle,TID_DECO_CHALLENGE_REMOVE_OBST,sc/hud_deco_event.sc,icon_deco_event_remove_obstacles,1
+Submit,TID_DECO_CHALLENGE_SUBMIT,sc/hud_deco_event.sc,icon_deco_event_submit,2
+SendVote,TID_DECO_CHALLENGE_SEND_VOTE,sc/hud_deco_event.sc,icon_deco_event_get_vote,3
+ReceiveVote,TID_DECO_CHALLENGE_GET_VOTE,sc/hud_deco_event.sc,icon_deco_event_vote,4
+PlaceFenceOrPath,TID_DECO_CHALLENGE_PLACE_FENCE_OR_PATH,sc/hud_deco_event.sc,icon_deco_event_place_path_and_fence,5
+UnusedDeprecatedIgnore,TID_DECO_CHALLENGE_PLACE_PATH,sc/hud_deco_event.sc,icon_deco_event_place_path,6
+PlaceNature,TID_DECO_CHALLENGE_PLACE_NATURE,sc/decos01_generic.sc,flowerpot_2,7
+PlaceSanctuary,TID_DECO_CHALLENGE_PLACE_SANCTUARY,sc/decos03_features.sc,barrel_cactus,8

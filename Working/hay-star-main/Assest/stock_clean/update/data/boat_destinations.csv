@@ -1,0 +1,15 @@
+Name,Difficulty,FileName,ExportName,TID,PreviewSound,PendingRelease
+String,String,String,String,String,String,boolean
+Destination1,Easy,sc/hud_ship_orders.sc,destination_easy_01,TID_BOAT_DESTINATION_EASY_1,BoatDestination1,
+Destination2,Easy,sc/hud_ship_orders.sc,destination_easy_02,TID_BOAT_DESTINATION_EASY_2,BoatDestination2,
+Destination3,Easy,sc/hud_ship_orders.sc,destination_easy_03,TID_BOAT_DESTINATION_EASY_3,BoatDestination3,
+Destination4,Medium,sc/hud_ship_orders.sc,destination_medium_01,TID_BOAT_DESTINATION_MEDIUM_1,BoatDestination4,
+Destination5,Medium,sc/hud_ship_orders.sc,destination_medium_02,TID_BOAT_DESTINATION_MEDIUM_2,BoatDestination5,
+Destination6,Medium,sc/hud_ship_orders.sc,destination_medium_03,TID_BOAT_DESTINATION_MEDIUM_3,BoatDestination6,
+Destination7,Hard,sc/hud_ship_orders.sc,destination_hard_01,TID_BOAT_DESTINATION_HARD_1,BoatDestination7,
+Destination8,Hard,sc/hud_ship_orders.sc,destination_hard_02,TID_BOAT_DESTINATION_HARD_2,BoatDestination8,
+Destination9,Hard,sc/hud_ship_orders.sc,destination_hard_03,TID_BOAT_DESTINATION_HARD_3,BoatDestination9,
+Destination10,Hard,sc/hud_ship_orders.sc,destination_hard_03,TID_BOAT_DESTINATION_HARD_3,BoatDestination9,TRUE
+Destination11,Hard,sc/hud_ship_orders.sc,destination_hard_03,TID_BOAT_DESTINATION_HARD_3,BoatDestination9,TRUE
+Destination12,Hard,sc/hud_ship_orders.sc,destination_hard_03,TID_BOAT_DESTINATION_HARD_3,BoatDestination9,TRUE
+Destination13,Hard,sc/hud_ship_orders.sc,destination_hard_03,TID_BOAT_DESTINATION_HARD_3,BoatDestination9,TRUE

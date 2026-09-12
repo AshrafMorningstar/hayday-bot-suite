@@ -1,0 +1,6 @@
+Name,Type,Enabled,UnlockLevel,MaxPerSeason,Param1String,Param1,Param2,Param3,TID,DescriptionTID,IconFileName,IconExportName,ParamTID,ParamDescriptionTID,ParamIconFileName,ParamIconExportName,Priority,HiddenInFarmPass
+String,String,Boolean,int,int,String,int,int,int,String,String,String,String,String,String,String,String,int,Boolean
+BonusProductOutputAnySmall,BonusProductOutput,TRUE,,,,5,0,,TID_NH_OBJECT_PRODUCT_PERK_NAME_1,TID_NH_OBJECT_PRODUCT_PERK_DESC_1,sc/hud_nh_object.sc,icon_perk,,,,,,
+BonusProductOutputAnyMedium,BonusProductOutput,TRUE,,,,10,1,,TID_NH_OBJECT_PRODUCT_PERK_NAME_2,TID_NH_OBJECT_PRODUCT_PERK_DESC_2,sc/hud_nh_object.sc,icon_perk,,,,,,
+BonusProductOutputAnyLarge,BonusProductOutput,TRUE,,,,15,2,,TID_NH_OBJECT_PRODUCT_PERK_NAME_3,TID_NH_OBJECT_PRODUCT_PERK_DESC_3,sc/hud_nh_object.sc,icon_perk,,,,,,
+BonusProductOutputAnyExtra,BonusProductOutput,TRUE,,,,20,3,,TID_NH_OBJECT_PRODUCT_PERK_NAME_4,TID_NH_OBJECT_PRODUCT_PERK_DESC_4,sc/hud_nh_object.sc,icon_perk,,,,,,

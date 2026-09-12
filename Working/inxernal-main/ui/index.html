@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>INXERNAL / HDX 2.5.194</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top Application Header -->
+  <header class="app-header">
+    <div class="brand-section">
+      <span class="brand-title">hdx 2.5.194</span>
+      <nav class="main-tabs">
+        <button class="main-tab-btn" data-tab="emulators">Emulators</button>
+        <button class="main-tab-btn" data-tab="accounts">Accounts</button>
+        <button class="main-tab-btn" data-tab="farm-config">Farm Config</button>
+        <button class="main-tab-btn active" data-tab="manual">Manual</button>
+      </nav>
+    </div>
+    <div class="header-meta">
+      <span class="license-badge" id="licenseStatus">22d 11h | @m0nesy619</span>
+    </div>
+  </header>
+
+  <!-- Sub-Header Control Bar -->
+  <div class="control-bar">
+    <div class="device-control-group">
+      <label for="deviceSelect">Device</label>
+      <select id="deviceSelect" class="styled-select">
+        <option value="emulator-5554">emulator-5554</option>
+      </select>
+      <button class="btn btn-green" id="btnStartEngine">Start engine</button>
+      <button class="btn btn-red" id="btnStopEngine">Stop engine</button>
+    </div>
+
+    <div class="launch-control-group" style="display: flex; align-items: center; gap: 6px; margin-left: 12px; border-left: 1px solid var(--border-color); padding-left: 12px;">
+      <label for="launchModeSelect" style="color: var(--text-muted); font-size: 11px;">Assets:</label>
+      <button class="btn btn-neutral" style="font-size: 11px; padding: 2px 8px;" onclick="uploadModdedAssets()" title="Upload custom update assets from com.supercell.hayday to device">Apply Assets</button>
+      <button class="btn btn-neutral" style="font-size: 11px; padding: 2px 8px;" onclick="cleanGameAssets()" title="Remove modded update assets for a clean vanilla launch">Remove Assets</button>
+      <button class="btn btn-neutral" style="font-size: 11px; padding: 2px 8px;" onclick="restartGameTest()" title="Restart Hay Day on LDPlayer to test live modified assets">Restart Game</button>
+      <button class="btn btn-neutral" style="font-size: 11px; padding: 2px 8px;" onclick="openAssetEditor()" title="Launch interactive Asset Editor window">Live Editor</button>
+      <span id="assetStatusBadge" style="font-size: 11px; padding: 2px 6px; border-radius: 3px; background: rgba(76,175,80,0.15); color: var(--accent-green);">Assets: Ready</span>
+    </div>
+
+    <div class="nav-travel-group">
+      <span>go:</span>
+      <button class="btn btn-neutral" onclick="travelTo('home')">Home</button>
+      <button class="btn btn-neutral" onclick="travelTo('fishing')">Fishing</button>
+      <button class="btn btn-neutral" onclick="travelTo('town')">Town</button>
+      <button class="btn btn-neutral" onclick="travelTo('greg')">Greg</button>
+      <button class="btn btn-neutral" onclick="travelTo('aitown')">AI Town</button>
+      <span>visit #</span>
+      <input type="text" id="visitIdInput" class="styled-select" style="width: 55px;" placeholder="">
+      <button class="btn btn-neutral" onclick="visitPlayer()">Visit</button>
+    </div>
+  </div>
+
+  <!-- Main Workspace -->
+  <main class="workspace">
+
+    <!-- TAB 1: EMULATORS -->
+    <div class="tab-content" id="tab-emulators">
+      <div style="padding: 14px; display: flex; flex-direction: column; gap: 12px;">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral" onclick="refreshEmulators()">Refresh Devices</button>
+          <button class="btn btn-neutral" onclick="testADB()">Test ADB Link</button>
+        </div>
+        <div class="table-container">
+          <table class="data-table" id="emulatorsTable">
+            <thead>
+              <tr>
+                <th>Index</th>
+                <th>Device Serial</th>
+                <th>State</th>
+                <th>Resolution</th>
+                <th>Engine State</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0</td>
+                <td>emulator-5554</td>
+                <td><span style="color: var(--accent-green);">online</span></td>
+                <td>640x480</td>
+                <td>Resident / Injected</td>
+                <td>
+                  <button class="btn btn-neutral" style="padding: 2px 8px;" onclick="selectDevice('emulator-5554')">Select</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 2: ACCOUNTS -->
+    <div class="tab-content" id="tab-accounts">
+      <div class="accounts-layout">
+        <!-- Sidebar Controls -->
+        <div class="accounts-sidebar">
+          <div class="accounts-sidebar-section">
+            <span class="section-label">Category</span>
+            <button class="btn btn-neutral">New...</button>
+            <button class="btn btn-neutral">Rename...</button>
+            <button class="btn btn-red">Delete</button>
+          </div>
+          <div class="accounts-sidebar-section">
+            <span class="section-label">Game</span>
+            <button class="btn btn-green" onclick="launchGame()">Launch</button>
+            <button class="btn btn-neutral" onclick="stopGame()">Stop</button>
+            <button class="btn btn-neutral" onclick="uploadModdedAssets()">Upload Assets</button>
+            <button class="btn btn-neutral" onclick="cleanGameAssets()">Clean Assets</button>
+            <button class="btn btn-red" onclick="clearGameData()">Clear data</button>
+          </div>
+          <div class="accounts-sidebar-section">
+            <span class="section-label">Account</span>
+            <button class="btn btn-green">Grab</button>
+            <button class="btn btn-neutral">Apply</button>
+            <button class="btn btn-neutral">Rename...</button>
+            <button class="btn btn-red">Delete</button>
+            <button class="btn btn-neutral">Import/Export</button>
+            <button class="btn btn-neutral">Group organizer</button>
+            <button class="btn btn-neutral">Multi-Configs...</button>
+          </div>
+        </div>
+
+        <!-- Account List Tree -->
+        <div class="accounts-tree-panel">
+          <div class="tree-folder">▾ 10k farms [2]</div>
+          <div class="tree-item">BS 1 10k</div>
+          <div class="tree-item">BS 2 10k</div>
+
+          <div class="tree-folder">▾ 15k [1]</div>
+          <div class="tree-item">15k 130</div>
+
+          <div class="tree-folder">▸ C farms [13]</div>
+          <div class="tree-folder">▸ G farms [17]</div>
+          <div class="tree-folder">▸ HM Lager [10]</div>
+          <div class="tree-folder">▸ coins [2]</div>
+
+          <div class="tree-folder">▾ farm 68 [3]</div>
+          <div class="tree-item">storage 01</div>
+          <div class="tree-item">storage 02</div>
+          <div class="tree-item">storage 03</div>
+
+          <div class="tree-folder">▸ farming bot [4]</div>
+
+          <div class="tree-folder">▾ main [5]</div>
+          <div class="tree-item">121</div>
+          <div class="tree-item selected">3k barn lvl 13</div>
+          <div class="tree-item">56 hvr</div>
+          <div class="tree-item">MINI 61</div>
+          <div class="tree-item">tikitaka</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 3: FARM CONFIG -->
+    <div class="tab-content" id="tab-farm-config">
+      <div style="padding: 10px 14px; background: var(--bg-panel); border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 14px;">
+        <span>Name: <b style="color: #fff;">ABDALLAH</b></span>
+        <span>Single Mode interval: <input type="number" class="styled-select" value="122" style="width: 60px;"> s</span>
+        <label><input type="checkbox" checked> Sync to free newspaper</label>
+        <button class="btn btn-green" style="margin-left: auto;">Save</button>
+      </div>
+
+      <div class="farm-config-layout">
+        <!-- Checklist Categories -->
+        <div class="config-categories">
+          <div class="config-cat-item active" onclick="switchConfigPanel('production')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Production</b>
+              <p style="color: var(--text-dim); font-size: 11px;">Plain Waffles: target 10 owned...</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('fields')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Fields</b>
+              <p style="color: var(--text-dim); font-size: 11px;">Harvest ready fields; plant: Wheat</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('truck')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Truck Orders</b>
+              <p style="color: var(--text-dim); font-size: 11px;">any reward; use current stock</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('shop')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Roadside Shop</b>
+              <p style="color: var(--text-dim); font-size: 11px;">Collect sales; sell Wheat, Corn</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('sniper')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Newspaper Sniper</b>
+              <p style="color: var(--text-dim); font-size: 11px;">Buy Saw, Shovel, +301 more...</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('visitors')">
+            <input type="checkbox">
+            <div>
+              <b>Visitors</b>
+              <p style="color: var(--text-dim); font-size: 11px;">sell only Wheat - send the rest</p>
+            </div>
+          </div>
+          <div class="config-cat-item" onclick="switchConfigPanel('trees')">
+            <input type="checkbox" checked>
+            <div>
+              <b>Trees & Honey</b>
+              <p style="color: var(--text-dim); font-size: 11px;">Chop trees/bushes; collect ready nests</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Side Inspector -->
+        <div class="config-inspector">
+          <div style="font-size: 11px; color: var(--text-dim); border-bottom: 1px solid var(--border); padding-bottom: 6px;">
+            Drag a row, or type a position in the # column. The order is priority when a pass runs out of queue room. Ticking a product puts it last.
+          </div>
+
+          <div class="table-container" style="max-height: 250px;">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th style="width: 30px;">#</th>
+                  <th>Product</th>
+                  <th style="width: 150px;">Target owned + queued</th>
+                  <th style="width: 140px;">Queue at most / pass</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td>1</td><td>🥞 Plain Waffles</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>2</td><td>🧇 Berry Waffles</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>3</td><td>🥯 Veggie Bagel</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>4</td><td>🥪 BLToast</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>5</td><td>🥪 Egg Sandwich</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>6</td><td>🍯 Honey Toast</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>7</td><td>🥪 PBJ Sandwich</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+                <tr><td>8</td><td>🥪 Cucumber Sandwich</td><td><input type="number" class="styled-select" value="10" style="width: 60px;"></td><td><input type="number" class="styled-select" value="3" style="width: 50px;"></td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <label><input type="checkbox" checked> Collect finished machine output</label>
+            <button class="btn btn-neutral">New / Clone</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 4: MANUAL CONTROLS -->
+    <div class="tab-content active" id="tab-manual">
+      <!-- 15 Sub-Tabs Navigation -->
+      <nav class="subtabs-bar">
+        <button class="subtab-btn active" data-subtab="farm">Farm</button>
+        <button class="subtab-btn" data-subtab="map">Map</button>
+        <button class="subtab-btn" data-subtab="inventory">Inventory</button>
+        <button class="subtab-btn" data-subtab="market">Market</button>
+        <button class="subtab-btn" data-subtab="tom">Tom</button>
+        <button class="subtab-btn" data-subtab="ops">Ops</button>
+        <button class="subtab-btn" data-subtab="social">Social</button>
+        <button class="subtab-btn" data-subtab="newspaper">Newspaper</button>
+        <button class="subtab-btn" data-subtab="truck">Truck</button>
+        <button class="subtab-btn" data-subtab="machines">Machines</button>
+        <button class="subtab-btn" data-subtab="mine">Mine</button>
+        <button class="subtab-btn" data-subtab="animals">Animals</button>
+        <button class="subtab-btn" data-subtab="trees">Trees</button>
+        <button class="subtab-btn" data-subtab="fishing">Fishing</button>
+        <button class="subtab-btn" data-subtab="info">Info</button>
+      </nav>
+
+      <!-- SUBPANEL: FARM -->
+      <div class="manual-panel active" id="panel-farm">
+        <div class="toolbar-row">
+          <button class="btn btn-green" onclick="harvestFields()">Harvest All Ready</button>
+          <button class="btn btn-green" onclick="plantFields()">Plant Empty Fields</button>
+          <div style="display: flex; align-items: center; gap: 6px;">
+            <span>Crop:</span>
+            <input type="text" id="farmCropSearch" class="search-input-box" placeholder="Search any crop (e.g. wheat, corn)..." style="width: 200px;" value="Wheat">
+          </div>
+          <span>Fields to sow:</span>
+          <input type="number" id="farmFieldsToSow" class="styled-select" value="68" style="width: 60px;">
+          <button class="btn btn-neutral" onclick="inspectFields()">Inspect Fields</button>
+          <button class="btn btn-neutral" id="btnAutoFarm" onclick="toggleAutoFarm()">Auto Farm Loop (Off)</button>
+        </div>
+
+        <div class="table-container">
+          <table class="data-table" id="fieldsTable">
+            <thead>
+              <tr>
+                <th onclick="sortTable('fieldsTable', 0)">Field ID</th>
+                <th onclick="sortTable('fieldsTable', 1)">Current Crop</th>
+                <th onclick="sortTable('fieldsTable', 2)">Crop ID</th>
+                <th onclick="sortTable('fieldsTable', 3)">State</th>
+                <th onclick="sortTable('fieldsTable', 4)">Growth Remaining</th>
+              </tr>
+            </thead>
+            <tbody id="fieldsTableBody">
+              <tr><td>400000</td><td>Wheat</td><td>400001</td><td>Ready</td><td>0s</td></tr>
+              <tr><td>400001</td><td>Wheat</td><td>400001</td><td>Ready</td><td>0s</td></tr>
+              <tr><td>400002</td><td>Wheat</td><td>400001</td><td>Growing</td><td>42s</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SUBPANEL: MARKET (ROADSIDE SHOP) -->
+      <div class="manual-panel" id="panel-market">
+        <div class="toolbar-row">
+          <span>Slot:</span>
+          <select id="marketSlot" class="styled-select">
+            <option value="0">Slot 0</option><option value="1">Slot 1</option>
+            <option value="2">Slot 2</option><option value="3">Slot 3</option>
+            <option value="4">Slot 4</option><option value="5">Slot 5</option>
+            <option value="6">Slot 6</option><option value="7">Slot 7</option>
+            <option value="8">Slot 8</option><option value="9">Slot 9</option>
+          </select>
+          <span>Item:</span>
+          <input type="text" id="marketItemSearch" class="search-input-box" placeholder="Type ANY part of item name..." style="width: 220px;" value="Wheat">
+          <span>Count:</span>
+          <input type="number" id="marketCount" class="styled-select" value="10" style="width: 55px;">
+          <span>Price:</span>
+          <input type="number" id="marketPrice" class="styled-select" value="1" style="width: 55px;">
+          <label><input type="checkbox" id="marketAd" checked> Advertise</label>
+          <button class="btn btn-green" onclick="sellItem()">Put for Sale</button>
+          <button class="btn btn-neutral" onclick="openShopScreen()">Open Shop Screen</button>
+        </div>
+        <div class="table-container">
+          <table class="data-table">
+            <thead>
+              <tr><th>Slot</th><th>Item Name</th><th>Global ID</th><th>Count</th><th>Price</th><th>Advertised</th><th>Sold</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>0</td><td>Wheat</td><td>400001</td><td>10</td><td>1 coin</td><td>Yes</td><td>No</td></tr>
+              <tr><td>1</td><td>Corn</td><td>400002</td><td>10</td><td>20 coin</td><td>No</td><td>Yes (Ready to collect)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SUBPANEL: TREES & HONEY -->
+      <div class="manual-panel" id="panel-trees">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral" onclick="refreshTrees()">Refresh</button>
+          <button class="btn btn-green" onclick="collectReadyTrees()">Collect Ready</button>
+          <button class="btn btn-neutral" onclick="requestTreeHelp()">Request Help</button>
+          <button class="btn btn-neutral" onclick="collectReadyNests()">Collect ready nests (honey, peanuts)</button>
+          <button class="btn btn-orange" onclick="chopSelectedTree()">Chop Selected</button>
+          <button class="btn btn-red" onclick="chopAllTrees()">Chop All</button>
+        </div>
+        <div class="table-container">
+          <table class="data-table" id="treesTable">
+            <thead>
+              <tr>
+                <th onclick="sortTable('treesTable', 0)">Id</th>
+                <th onclick="sortTable('treesTable', 1)">Tree</th>
+                <th onclick="sortTable('treesTable', 2)">Product</th>
+                <th onclick="sortTable('treesTable', 3)">Ready</th>
+                <th onclick="sortTable('treesTable', 4)">Used</th>
+                <th onclick="sortTable('treesTable', 5)">Growth</th>
+              </tr>
+            </thead>
+            <tbody id="treesTableBody">
+              <tr><td>6200000</td><td>CacaoTree</td><td>Cacao</td><td>0</td><td>4</td><td>100</td></tr>
+              <tr><td>6200001</td><td>CacaoTree</td><td>Cacao</td><td>0</td><td>4</td><td>100</td></tr>
+              <tr><td>6200002</td><td>AppleTree</td><td>Apple</td><td>1</td><td>1</td><td>100</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SUBPANEL: FISHING -->
+      <div class="manual-panel" id="panel-fishing">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral" onclick="refreshFishing()">Refresh</button>
+          <button class="btn btn-green" onclick="catchReadyFish()">Catch Ready</button>
+          <button class="btn btn-neutral">Lobster Pool</button>
+          <button class="btn btn-neutral">Lobster Sea</button>
+          <button class="btn btn-neutral">Collect Nets</button>
+          <button class="btn btn-neutral">Collect Lures</button>
+          <span style="color: var(--text-dim);">fishing: 15 spot(s) (0 idle), 0 catch-ready, 3 live fish</span>
+        </div>
+
+        <div class="toolbar-row">
+          <span>spot</span>
+          <select class="styled-select"><option>Spot 9600000 | locked</option><option>Spot 9600001</option></select>
+          <span>lure</span>
+          <select class="styled-select"><option>BaitRed [9800000] x19</option><option>BaitGreen x5</option></select>
+          <span>selected fish: <b style="color: #fff;">Fish_1 [9700000]</b></span>
+          <button class="btn btn-neutral">Hook / Catch selected</button>
+        </div>
+
+        <input type="text" class="search-input-box" placeholder="Filter this list...">
+        <div class="table-container" style="max-height: 180px;">
+          <table class="data-table">
+            <thead>
+              <tr><th>spot id</th><th>state</th><th>catch</th><th>cast</th><th>fish</th><th>lure</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>9600000</td><td>locked</td><td>no</td><td>no</td><td>-</td><td>-</td></tr>
+              <tr><td>9600001</td><td>idle</td><td>ready</td><td>yes</td><td>Fish_1</td><td>BaitRed</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <span style="font-size: 11px; color: var(--text-dim);">Live fish - select a row, then hook/catch it at the selected spot</span>
+        <div class="table-container" style="max-height: 140px;">
+          <table class="data-table">
+            <thead>
+              <tr><th>gid</th><th>name</th><th>x</th><th>y</th><th>state0</th><th>state1</th><th>state2</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>9700000</td><td>Fish_1</td><td>5632</td><td>2560</td><td>0</td><td>0</td><td>1</td></tr>
+              <tr><td>9700001</td><td>Fish_7</td><td>6144</td><td>4096</td><td>0</td><td>0</td><td>5</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SUBPANEL: MINE -->
+      <div class="manual-panel" id="panel-mine">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral" onclick="blastMine('dynamite')">Use Dynamite</button>
+          <button class="btn btn-neutral" onclick="blastMine('tnt')">Use TNT</button>
+          <button class="btn btn-neutral" onclick="blastMine('shovel')">Use Shovel</button>
+          <button class="btn btn-neutral" onclick="blastMine('pickaxe')">Use Pickaxe</button>
+          <button class="btn btn-green" onclick="collectOre()">Collect in Adaptive Batches</button>
+        </div>
+        <p style="color: var(--text-dim); font-size: 12px; margin-top: 10px;">
+          Mining automatically executes tool blasts and gathers Silver, Gold, Platinum, Iron, and Diamonds in growing batches, stopping automatically upon the first refusal.
+        </p>
+      </div>
+
+      <!-- SUBPANEL: INVENTORY -->
+      <div class="manual-panel" id="panel-inventory">
+        <div class="toolbar-row">
+          <input type="text" id="invSearchInput" class="search-input-box" placeholder="Search Barn or Silo items..." oninput="filterInventory()">
+          <button class="btn btn-neutral" onclick="refreshInventory()">Refresh</button>
+          <span style="margin-left: auto;">Barn: <b>3778 / 4050</b> | Silo: <b>2850 / 3500</b></span>
+        </div>
+        <div class="table-container">
+          <table class="data-table" id="invTable">
+            <thead>
+              <tr><th>Item</th><th>Category</th><th>Count</th><th>Max Sell Price</th><th>Global ID</th></tr>
+            </thead>
+            <tbody id="invTableBody">
+              <tr><td>Wheat</td><td>Crops</td><td>480</td><td>36</td><td>400001</td></tr>
+              <tr><td>Corn</td><td>Crops</td><td>350</td><td>72</td><td>400002</td></tr>
+              <tr><td>Duct Tape</td><td>Barn Upgrades</td><td>15</td><td>270</td><td>2700001</td></tr>
+              <tr><td>Plank</td><td>Barn Upgrades</td><td>18</td><td>270</td><td>2700000</td></tr>
+              <tr><td>Bolt</td><td>Barn Upgrades</td><td>22</td><td>270</td><td>2700002</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SUBPANEL: MACHINES, TRUCK, ANIMALS, INFO (STUBS/WIRED) -->
+      <div class="manual-panel" id="panel-machines">
+        <div class="toolbar-row">
+          <button class="btn btn-green">Collect Finished Output</button>
+          <input type="text" class="search-input-box" placeholder="Search machine recipe...">
+        </div>
+        <p style="color: var(--text-dim); font-size: 12px; margin-top: 8px;">62 Production buildings tracked. Queue recipes, adjust queue size per pass, and gather finished products.</p>
+      </div>
+
+      <div class="manual-panel" id="panel-animals">
+        <div class="toolbar-row">
+          <button class="btn btn-green">Feed All Hungry Animals</button>
+          <button class="btn btn-green">Collect Animal Goods (Eggs, Milk, Bacon)</button>
+        </div>
+      </div>
+
+      <div class="manual-panel" id="panel-truck">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral">Refresh Orders</button>
+          <button class="btn btn-green">Dispatch Feasible Orders</button>
+          <button class="btn btn-red">Trash Inefficient Orders</button>
+        </div>
+      </div>
+
+      <div class="manual-panel" id="panel-map">
+        <div class="toolbar-row">
+          <input type="text" class="search-input-box" placeholder="Search map object picker...">
+          <button class="btn btn-neutral">Place Selected</button>
+        </div>
+      </div>
+
+      <div class="manual-panel" id="panel-newspaper">
+        <div class="toolbar-row">
+          <button class="btn btn-neutral">Open Newspaper</button>
+          <button class="btn btn-green">Run Sniper Cycle</button>
+        </div>
+      </div>
+
+      <div class="manual-panel" id="panel-tom">
+        <div class="toolbar-row"><button class="btn btn-neutral">Check Tom State</button></div>
+      </div>
+      <div class="manual-panel" id="panel-ops">
+        <div class="toolbar-row"><button class="btn btn-neutral">Reload hook.js</button><button class="btn btn-neutral">Ping Mailbox</button></div>
+      </div>
+      <div class="manual-panel" id="panel-social">
+        <div class="toolbar-row"><button class="btn btn-neutral">Refresh Friends</button></div>
+      </div>
+      <div class="manual-panel" id="panel-info">
+        <div style="padding: 10px; color: var(--text-dim); font-size: 12px;">
+          INXERNAL Native Hay Day Bot & Engine | Reverse Engineered Architecture Class 4/6/12/14
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Bottom Operation Log -->
+  <footer class="log-panel">
+    <div class="log-header">
+      <span class="log-title">Operation log</span>
+      <div class="log-actions">
+        <label><input type="checkbox" id="logAutoScroll" checked> Auto-scroll</label>
+        <button class="btn btn-neutral" style="padding: 2px 8px;" onclick="copyLogs()">Copy</button>
+        <button class="btn btn-neutral" style="padding: 2px 8px;" onclick="clearLogs()">Clear</button>
+      </div>
+    </div>
+    <div class="log-content" id="logContent">
+      <div class="log-entry"><span class="log-time">00:00:00.000</span><span class="log-msg info">INXERNAL UI initialized. Ready for operations.</span></div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

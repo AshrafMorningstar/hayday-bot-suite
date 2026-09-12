@@ -1,0 +1,16 @@
+Name,ToolIconFileName,ToolIconExportName,TID,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,ProcessingBuilding,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,int,String,int,int,int,int,int,int,int,int,String,int,string,int,Boolean,int
+Apple Jam,sc/icons.sc,recipe_apple_jam,TID_APPLE_JAM,3,Apple,0,113,109,26,0,1,29,29,Jam_Maker,35,TID_JAM_MAKER_PRODUCT_DESCRIPTION,37,,29
+Raspberry Jam,sc/icons.sc,recipe_raspberry_jam,TID_RASPBERRY_JAM,3,Raspberry,0,129,124,30,0,1,36,36,Jam_Maker,36,TID_JAM_MAKER_PRODUCT_DESCRIPTION,45,,36
+Blackberry Jam,sc/icons.sc,recipe_blackberry_jam,TID_BLUEBERRY_JAM,3,Blackberry,0,201,194,46,0,1,58,58,Jam_Maker,37,TID_JAM_MAKER_PRODUCT_DESCRIPTION,68,,58
+Cherry Jam,sc/icons.sc,recipe_cherry_jam,TID_CHERRY_JAM,3,Cherry,0,173,167,40,0,1,48,48,Jam_Maker,38,TID_JAM_MAKER_PRODUCT_DESCRIPTION,57,,48
+Strawberry Jam,sc/icons.sc,recipe_strawberry_jam,TID_STRAWBERRY_JAM,3,Strawberry,0,140,134,32,0,1,39,39,Jam_Maker,50,TID_JAM_MAKER_PRODUCT_DESCRIPTION,48,,39
+Marmelade,sc/icons.sc,recipe_marmelade,TID_PRODUCT_MARMELADE,3,Orange,0,236,227,54,0,1,64,64,Jam_Maker,74,TID_JAM_MAKER_PRODUCT_DESCRIPTION,74,,64
+Peach Jam,sc/icons.sc,recipe_peach_jam,TID_PRODUCT_PEACHJAM,3,Peach,0,239,230,55,0,1,61,61,Jam_Maker,79,TID_JAM_MAKER_PRODUCT_DESCRIPTION,71,,61
+Grape Jam,sc/icons.sc,recipe_grape_jam,TID_GRAPE_JAM,3,Grapes,0,83,80,19,0,1,27,27,Jam_Maker,85,TID_JAM_MAKER_PRODUCT_DESCRIPTION,36,,27
+PlumJam,sc/icons.sc,recipe_plum_jam,TID_PRODUCT_PLUMJAM,3,Plum,0,199,191,46,0,1,56,56,Jam_Maker,94,TID_JAM_MAKER_PRODUCT_DESCRIPTION,64,,56
+Passion Fruit Jam,sc/icons.sc,recipe_passionfruit_jam,TID_PRODUCT_PASSION_FRUIT_JAM,3,PassionFruit,0,61,59,14,0,1,20,20,Jam_Maker,96,TID_JAM_MAKER_PRODUCT_DESCRIPTION,28,,20
+Blueberry Chutney,sc/icons.sc,recipe_blueberry_chutney,TID_PRODUCT_BLUEBERRY_CHUTNEY,3,Blueberry,0,300,288,69,0,1,86,89,Jam_Maker,70,TID_JAM_MAKER_PRODUCT_DESCRIPTION,93,,86
+,,,,1,Onion,,,,,,,,,,,,,,
+,,,,1,Lemon,,,,,,,,,,,,,,
+,,,,1,Brown_Sugar,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Dried Fruit,sc/icons.sc,recipe_dried_fruit,TID_PRODUCT_DRIED_FRUIT,Preservation_Station,1,Strawberry,0,138,133,32,0,1,49,49,102,TID_PRESERVATION_STATION_PRODUCT_DESCRIPTION,55,,49
+,,,,,1,Grapes,,,,,,,,,,,,,
+,,,,,1,Raspberry,,,,,,,,,,,,,
+,,,,,1,Orange,,,,,,,,,,,,,
+Pickles,sc/icons.sc,recipe_pickles,TID_PRODUCT_PICKELS,Preservation_Station,3,Cucumber,0,139,133,32,0,1,50,50,91,TID_PRESERVATION_STATION_PRODUCT_DESCRIPTION,57,,50
+,,,,,2,Onion,,,,,,,,,,,,,
+,,,,,1,Lemon,,,,,,,,,,,,,
+Canned Fish,sc/icons.sc,recipe_canned_fish,TID_PRODUCT_CANNED_FISH,Preservation_Station,2,Fish Meat,0,244,235,56,0,1,90,90,95,TID_PRESERVATION_STATION_PRODUCT_DESCRIPTION,97,,90
+,,,,,1,OliveOil,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+Kimchi,sc/icons.sc,recipe_kimchi,TID_PRODUCT_KIMCHI,Preservation_Station,5,Cabbage,0,114,110,26,0,1,39,39,98,TID_PRESERVATION_STATION_PRODUCT_DESCRIPTION,47,,39
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,1,Ginger,,,,,,,,,,,,,
+,,,,,1,Garlic,,,,,,,,,,,,,
+Guava Compote,sc/icons.sc,recipe_guava_compote,TID_PRODUCT_GUAVA_COMPOTE,Preservation_Station,2,Guava,0,218,209,50,0,1,72,77,104,TID_PRESERVATION_STATION_PRODUCT_DESCRIPTION,79,,72
+,,,,,1,Lemon,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,

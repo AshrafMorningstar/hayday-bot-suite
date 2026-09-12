@@ -1,0 +1,3 @@
+Name,MinSpawnTime,MaxSpawnTime
+String,int,int
+PhotographerSpawner,1,1

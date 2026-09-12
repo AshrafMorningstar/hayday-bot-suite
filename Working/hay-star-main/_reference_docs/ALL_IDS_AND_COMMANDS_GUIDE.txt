@@ -1,0 +1,378 @@
+================================================================================
+           HAY DAY BOT - COMPLETE ID CODES, COMMANDS & BEGINNER GUIDE
+================================================================================
+Author: AshrafMorningstar
+Version: 2.0 (Universal Memory Gate & Graphical Interface)
+Supported Game: Hay Day (Supercell) on Android / LDPlayer
+
+Welcome! This simple guide explains EVERYTHING you need to know about how to
+run the bot, how to find and use any ID code in the game, and how to execute
+any custom command you want in easy, plain language.
+
+================================================================================
+ TABLE OF CONTENTS
+================================================================================
+  1. QUICK START: HOW TO OPEN AND USE THE BOT (1-CLICK)
+  2. HOW TO STOP COMMANDS AT ANY TIME
+  3. WHAT ARE "GLOBAL ID CODES" AND HOW DO THEY WORK?
+  4. MASTER LIST OF ALL ID CODES:
+     - 4.1. CROPS & SEEDS (Wheat, Corn, Carrot, etc.)
+     - 4.2. ANIMAL FEEDS (Chicken Feed, Cow Feed, etc.)
+     - 4.3. PRODUCTION BUILDINGS & MACHINES (Bakery, Dairy, etc.)
+     - 4.4. MANUFACTURED GOODS & RECIPES (Bread, Butter, Cheese, etc.)
+     - 4.5. TOOLS & EXPANSION ITEMS (Axe, Saw, Bolts, Planks, Nails, etc.)
+     - 4.6. FARM ANIMALS (Chickens, Cows, Pigs, Sheep, Goats)
+  5. HOW TO RUN ANY COMMAND IN GAME (COPY & PASTE EXAMPLES)
+  6. HOW TO FIND ANY NEW ID USING THE BUILT-IN TOOLS
+  7. HOW TO SEND SCREENSHOTS TO ADD NEW FEATURES
+
+================================================================================
+ 1. QUICK START: HOW TO OPEN AND USE THE BOT (1-CLICK)
+================================================================================
+You have a full Graphical User Interface (GUI) with buttons and live controls!
+
+TO LAUNCH THE GUI:
+  Simply double-click:
+    start_gui.bat
+
+WHEN THE GUI OPENS:
+  1. Click "Connect / Start Backend".
+     -> The bot connects to Hay Day and waits in STANDBY mode.
+     -> It will NOT touch your farm until YOU tell it to!
+  2. Under "Step 1: Choose What You Want To Do", check or uncheck boxes:
+     [X] Harvest & Replant Crops
+     [X] Collect Animal Goods
+     [X] Feed Livestock
+     [X] Collect Finished Machine Items
+     [X] Queue Production Recipes
+     [X] Harvest Orchard Trees & Bushes
+     [ ] Auto-Sell Surplus in Roadside Shop
+  3. Click "START AUTOMATION LOOP" (Green button).
+     -> The bot will automatically farm ONLY the things you checked!
+
+================================================================================
+ 2. HOW TO STOP COMMANDS AT ANY TIME
+================================================================================
+You are always in 100% control:
+  - Inside the GUI: Click the big RED button:
+      "STOP ALL COMMANDS" (or "STOP ALL" in the top bar).
+  - In the Live Terminal: Type:
+      stop
+    and press Enter.
+  - In the command prompt console: Press:
+      Ctrl + C
+All background farming and waiting cycles will halt immediately.
+
+================================================================================
+ 3. WHAT ARE "GLOBAL ID CODES" AND HOW DO THEY WORK?
+================================================================================
+Inside Hay Day's computer code, every single item, building, plant, and animal
+has a 7-digit ID number called a "Global ID".
+
+The rule is very simple:
+  The FIRST 1 or 2 digits tell the game WHAT TYPE of object it is (Class ID):
+    - Class  4  (starts with 400...)  = Field Crops & Plants
+    - Class  6  (starts with 600...)  = Animal Feeds
+    - Class 11  (starts with 1100...) = Food Recipes, Dairy, Bread, Harvests
+    - Class 13  (starts with 1300...) = Buildings, Machines, Pens, Trees, Bushes
+    - Class 18  (starts with 1800...) = Tools (Axes, Saws) & Upgrade Materials
+    - Class 23  (starts with 2300...) = Live Animals (Chickens, Cows, Pigs)
+
+  The LAST digits tell the game WHICH item it is in that list.
+
+================================================================================
+ 4. MASTER LIST OF ALL ID CODES
+================================================================================
+
+--------------------------------------------------------------------------------
+ 4.1. CROPS & SEEDS (Class 4)
+--------------------------------------------------------------------------------
+Use these numbers when planting crops in fields or selling in the shop:
+
+  ID CODE    CROP NAME
+  ---------  -------------------------
+  400001     Wheat
+  400002     Corn
+  400003     Soybean
+  400004     Sugarcane
+  400005     Carrot
+  400006     Indigo
+  400007     Pumpkin
+  400008     Cotton
+  400009     Chili Pepper
+  400010     Tomato
+  400011     Strawberry
+  400012     Potato
+  400013     Rice
+  400014     Lettuce
+  400015     Lavender
+  400016     Tea Leaf
+  400017     Onion
+  400018     Cucumber
+  400019     Bell Pepper
+  400020     Broccoli
+  400021     Mint
+  400022     Ginger
+  400023     Garlic
+  400024     Watermelon
+  400025     Clay
+
+--------------------------------------------------------------------------------
+ 4.2. ANIMAL FEEDS (Class 6)
+--------------------------------------------------------------------------------
+Use these numbers when feeding animals:
+
+  ID CODE    FEED TYPE                 FEED TO WHICH ANIMAL
+  ---------  ------------------------  -----------------------------------------
+  600002     Chicken Feed              Chickens (in Chicken Coops)
+  600003     Cow Feed                  Cows (in Cow Pastures)
+  600004     Pig Feed                  Pigs (in Pig Pens)
+  600005     Sheep Feed                Sheep (in Sheep Pastures)
+  600006     Goat Feed                 Goats (in Goat Pens)
+
+--------------------------------------------------------------------------------
+ 4.3. PRODUCTION BUILDINGS & MACHINES (Class 13)
+--------------------------------------------------------------------------------
+Use these numbers as Machine IDs when queueing recipes or collecting products:
+
+  ID CODE    BUILDING / MACHINE NAME
+  ---------  -------------------------------------------------------------
+  1300001    Barn (Main Storage for tools, animal products, machine goods)
+  1300002    Silo (Storage for crops and fruits) / Starter Chicken Coop #1
+  1300003    Roadside Shop
+  1300004    Cow Pasture #1
+  1300005    Dairy
+  1300006    Chicken Coop #2
+  1300007    Pig Pen #1
+  1300008    Sheep Pasture #1
+  1300009    Feed Mill #1
+  1300010    Feed Mill #2
+  1300011    Chicken Coop #3
+  1300012    Cow Pasture #2
+  1300013    Pig Pen #2
+  1300014    Sheep Pasture #2
+  1300015    Goat Pen #1
+  1300016    Goat Pen #2
+  1300025    Sugar Mill
+  1300067    Pie Oven
+  1300069    Grill / BBQ Grill
+  1300076    Popcorn Pot
+  1300080    Loom
+  1300082    Bakery
+  1300085    Sewing Machine
+  1300090    Cake Oven
+  1300095    Smelter
+  1300105    Juice Press
+  1300110    Ice Cream Maker
+  1300115    Jam Maker
+  1300120    Coffee Kiosk
+  1300125    Soup Kitchen
+  1300130    Candle Maker
+  1300135    Flower Shop
+  1300140    Sauce Maker
+  1300145    Sushi Bar
+  1300150    Salad Bar
+  1300155    Sandwich Bar
+  1300160    Smoothie Mixer
+  1300165    Pasta Kitchen
+  1300170    Wok Kitchen
+  1300175    Hat Maker
+  1300180    Tea Stand
+  1300190    Taco Kitchen
+  1300200    Donut Maker
+  1300205    Waffle Maker
+  1300215    Yogurt Maker
+
+  NOTE ON TREES & BUSHES:
+  All Apple Trees, Cherry Trees, Berry Bushes, and Cacao Trees planted on your
+  farm also have IDs in the 1300000 series (from 1300020 to 1300300).
+
+--------------------------------------------------------------------------------
+ 4.4. MANUFACTURED GOODS & RECIPES (Class 11)
+--------------------------------------------------------------------------------
+Use these numbers as Recipe IDs when baking, cooking, or producing:
+
+  ID CODE    PRODUCT / RECIPE NAME     PRODUCED IN (MACHINE)
+  ---------  ------------------------  -----------------------------------------
+  1100015    Bread                     Bakery (1300082)
+  1100016    Corn Bread                Bakery (1300082)
+  1100017    Cookie                    Bakery (1300082)
+  1100019    Pizza                     Bakery (1300082)
+  1100021    Potato Bread              Bakery (1300082)
+  1100000    Cream                     Dairy (1300005)
+  1100001    Butter                    Dairy (1300005)
+  1100002    Cheese                    Dairy (1300005)
+  1100003    Goat Cheese               Dairy (1300005)
+  1100013    Brown Sugar               Sugar Mill (1300025)
+  1100014    White Sugar               Sugar Mill (1300025)
+  1100018    Syrup                     Sugar Mill (1300025)
+  1100024    Pancake                   Grill (1300069)
+  1100025    Bacon and Eggs            Grill (1300069)
+  1100026    Hamburger                 Grill (1300069)
+  1100027    Fish Burger               Grill (1300069)
+  1100028    Roasted Tomatoes          Grill (1300069)
+  1100031    Popcorn                   Popcorn Pot (1300076)
+  1100032    Buttered Popcorn          Popcorn Pot (1300076)
+  1100033    Chili Popcorn             Popcorn Pot (1300076)
+  1100040    Carrot Pie                Pie Oven (1300067)
+  1100041    Pumpkin Pie               Pie Oven (1300067)
+  1100042    Bacon Pie                 Pie Oven (1300067)
+  1100043    Apple Pie                 Pie Oven (1300067)
+  1100044    Fish Pie                  Pie Oven (1300067)
+  1100050    Sweater                   Loom (1300080)
+  1100051    Cotton Fabric             Loom (1300080)
+  1100052    Blue Woolly Hat           Loom (1300080)
+  1100056    Cotton Shirt              Sewing Machine (1300085)
+  1100057    Wooly Chaps               Sewing Machine (1300085)
+  1100058    Violet Dress              Sewing Machine (1300085)
+  1100070    Soy Sauce                 Sauce Maker (1300140)
+  1100071    Olive Oil                 Sauce Maker (1300140)
+  1100072    Mayonnaise                Sauce Maker (1300140)
+  1100080    Carrot Juice              Juice Press (1300105)
+  1100081    Apple Juice               Juice Press (1300105)
+  1100082    Cherry Juice              Juice Press (1300105)
+  1100084    Berry Juice               Juice Press (1300105)
+  1100090    Apple Jam                 Jam Maker (1300115)
+  1100091    Raspberry Jam             Jam Maker (1300115)
+  1100092    Blackberry Jam            Jam Maker (1300115)
+  1100093    Cherry Jam                Jam Maker (1300115)
+
+  ANIMAL HARVEST YIELDS:
+  1100100    Egg                       Collected from Chickens
+  1100101    Cow Milk                  Collected from Cows
+  1100102    Bacon                     Collected from Pigs
+  1100103    Sheep Wool                Collected from Sheep
+  1100104    Goat Milk                 Collected from Goats
+
+  ORCHARD FRUITS:
+  1100120    Apple                     Collected from Apple Trees
+  1100121    Cherry                    Collected from Cherry Trees
+  1100122    Berry / Raspberry         Collected from Raspberry Bushes
+  1100123    Blackberry                Collected from Blackberry Bushes
+  1100124    Cacao                     Collected from Cacao Trees
+  1100125    Coffee Bean               Collected from Coffee Bushes
+
+--------------------------------------------------------------------------------
+ 4.5. TOOLS & EXPANSION ITEMS (Class 18)
+--------------------------------------------------------------------------------
+Use these numbers when selling or moving upgrade tools:
+
+  ID CODE    TOOL / MATERIAL NAME      PRIMARY USE
+  ---------  ------------------------  -----------------------------------------
+  1800000    Axe                       Clearing dead fruit trees
+  1800001    Saw                       Clearing dead berry bushes
+  1800002    Shovel                    Clearing swamps & rocks
+  1800003    Dynamite                  Mining ore in the mine
+  1800004    TNT Barrel                Mining ore in the mine
+  1800005    Pickaxe                   Mining ore in the mine
+  1800010    Bolt                      Upgrading Barn capacity
+  1800011    Plank                     Upgrading Barn capacity
+  1800012    Duct Tape                 Upgrading Barn capacity
+  1800020    Box of Nails              Upgrading Silo capacity
+  1800021    Screw                     Upgrading Silo capacity
+  1800022    Wood Panel                Upgrading Silo capacity
+  1800030    Land Deed                 Expanding farm and town land
+  1800031    Mallet                    Expanding farm and town land
+  1800032    Marker Stake              Expanding farm and town land
+
+--------------------------------------------------------------------------------
+ 4.6. FARM ANIMALS (Class 23)
+--------------------------------------------------------------------------------
+These are the individual live animals living on your farm:
+
+  ID RANGE               ANIMAL TYPE   DETAILS
+  ---------------------  ------------  -----------------------------------------
+  2300000 - 2300017      Chickens      Up to 18 chickens (6 in each coop)
+  2300018 - 2300032      Cows          Up to 15 cows (5 in each pasture)
+  2300036 - 2300050      Pigs          Up to 15 pigs (5 in each pen)
+  2300054 - 2300068      Sheep         Up to 15 sheep (5 in each pasture)
+  2300072 - 2300083      Goats         Up to 12 goats (4 in each pen)
+
+================================================================================
+ 5. HOW TO RUN ANY COMMAND IN GAME (COPY & PASTE EXAMPLES)
+================================================================================
+You can trigger any action in real-time using `exec_cmd` in the GUI's Live
+Terminal or in the Command Builder tab:
+
+  SYNTAX:
+    exec_cmd <vtable_hex> <targetId> [param2]
+
+  CORE VTABLES (What type of action):
+    0x014aae28 = Feed Animals
+    0x014a63f8 = Collect from Building or Machine
+    0x014a7d88 = Collect from Animal Habitat
+    0x014a9cc8 = Queue Recipe in Machine
+
+  COPY & PASTE EXAMPLES:
+
+  1. Bake Bread in Bakery:
+     exec_cmd 0x14a9cc8 1100015 1300082
+     (Recipe: 1100015 Bread, Machine: 1300082 Bakery)
+
+  2. Make Cream in Dairy:
+     exec_cmd 0x14a9cc8 1100000 1300005
+     (Recipe: 1100000 Cream, Machine: 1300005 Dairy)
+
+  3. Make Brown Sugar in Sugar Mill:
+     exec_cmd 0x14a9cc8 1100013 1300025
+     (Recipe: 1100013 Brown Sugar, Machine: 1300025 Sugar Mill)
+
+  4. Feed Chicken #1 with Chicken Feed:
+     exec_cmd 0x14aae28 2300000 600002
+     (Animal: 2300000 Chicken, Feed: 600002 Chicken Feed)
+
+  5. Feed Cow #1 with Cow Feed:
+     exec_cmd 0x14aae28 2300018 600003
+     (Animal: 2300018 Cow, Feed: 600003 Cow Feed)
+
+  6. Collect Finished Products from Bakery:
+     exec_cmd 0x14a63f8 1300082 0
+
+  7. Collect Finished Products from Dairy:
+     exec_cmd 0x14a63f8 1300005 0
+
+  8. Collect Eggs from Chicken Coop:
+     exec_cmd 0x14a7d88 1300002 0
+
+================================================================================
+ 6. HOW TO FIND ANY NEW ID USING THE BUILT-IN TOOLS
+================================================================================
+
+TOOL A: In the GUI (Instant Search Tab)
+  1. Open `start_gui.bat`.
+  2. Click the tab "ID Code Finder".
+  3. Type any word (like "pie", "sugar", "axe", "milk").
+  4. Click "Send to Command Builder" to immediately load it!
+
+TOOL B: In the Command Line (game_ids.py)
+  You can run:
+    python game_ids.py bread
+    python game_ids.py feed
+    python game_ids.py 1300082
+  It will instantly display the ID number, English name, and category.
+
+TOOL C: Live Game Action Capture
+  If you have a special item or building and want to know its exact ID:
+  1. In the terminal, type:
+       capture 60
+  2. Switch to LDPlayer and tap on the building or animal.
+  3. Look at the output:
+       vtbl+0x014aXXXX  +24=<TARGET_ID>  +28=<PARAM2>
+     The number next to `+24=` is your target's ID!
+
+================================================================================
+ 7. HOW TO SEND SCREENSHOTS TO ADD NEW FEATURES
+================================================================================
+You can customize this bot simply by sending pictures!
+
+HOW TO DO IT:
+  1. Take a screenshot of what you want (your game, farm layout, or button ideas).
+  2. Save the image into this folder as:
+       user_screenshot.png
+     (OR click "Select Screenshot" in the GUI's "Screenshot & Features" tab).
+  3. Tell me in the chat:
+       "I saved my screenshot as user_screenshot.png, please add the features shown in it."
+
+The assistant will read the picture, detect the game objects and buttons, and
+write the exact code to add them to your bot!
+================================================================================

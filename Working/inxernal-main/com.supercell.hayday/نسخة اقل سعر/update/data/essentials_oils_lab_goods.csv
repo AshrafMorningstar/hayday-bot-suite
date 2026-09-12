@@ -1,0 +1,6 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Lemon essential oil,sc/icons.sc,recipe_essential_oil_lemon,TID_PRODUCT_ESSENTIAL_OIL_LEMON,Essentials_Oil_Lab,3,Lemon,0,149,143,34,0,1,56,56,68,TID_ESSENTIALS_OIL_LAB_PRODUCT_DESCRIPTION,58,,56
+Mint essential oil,sc/icons.sc,recipe_essential_oil_mint,TID_PRODUCT_ESSENTIAL_OIL_MINT,Essentials_Oil_Lab,5,Mint,0,89,85,20,0,1,32,32,85,TID_ESSENTIALS_OIL_LAB_PRODUCT_DESCRIPTION,34,,32
+Ginger essential oil,sc/icons.sc,recipe_essential_oil_ginger,TID_PRODUCT_ESSENTIAL_OIL_GINGER,Essentials_Oil_Lab,5,Ginger,0,83,80,19,0,1,32,32,80,TID_ESSENTIALS_OIL_LAB_PRODUCT_DESCRIPTION,34,,32
+Chamomile essential oil,sc/icons.sc,recipe_essential_oil_chamomile,TID_PRODUCT_ESSENTIAL_OIL_CHAMOMILE,Essentials_Oil_Lab,5,Chamomile,0,37,35,8,0,1,12,12,74,TID_ESSENTIALS_OIL_LAB_PRODUCT_DESCRIPTION,14,,12

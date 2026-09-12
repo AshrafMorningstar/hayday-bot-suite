@@ -1,0 +1,431 @@
+# 🌾 HAY STAR — MASTER GAME FEATURES & ASSET DATA CATALOG
+Comprehensive feature mapping of all 375 data files from install_time_asset_pack/assets/data/ to Hay Star autonomous commands.
+
+## 📋 Systems Overview
+
+### Crop & Field Agriculture (4 Data Definitions)
+- **fields.csv**: Name, FileName, ExportName, ToolIconFileName, ToolIconExportName, Value (+27 more)
+- **forests.csv**: Name, ExportName, FileName, TileWidth, TileHeight, TimeMin (+9 more)
+- **fruit_trees.csv**: Name, ExportName, IsFruit, DeadExportName, FileName, TileWidth (+21 more)
+- **fruits.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, OrderPrice (+10 more)
+
+### Livestock, Feed Mills & Pets (15 Data Definitions)
+- **ambient_animal_spawners.csv**: Name, UnlockLevel, EdgeSpawnTileX, EdgeSpawnTileY, BirdExtraTiles
+- **ambient_animals.csv**: "Name", "FileName", "ExportName", "UnlockLevel", "Behavior", "TapSound" (+1 more)
+- **animal_accessories.csv**: Name, FileName, ExportName, TID, DescriptionTID, IconFileName (+2 more)
+- **animal_feed.csv**: Name, ToolIconFileName, ToolIconExportName, RequirementAmount, Requirement, TimeMin (+12 more)
+- **animal_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, TimeMin, TimeSec (+12 more)
+- **animal_habitat_pieces.csv**: Name, FileName, ExportName, TileWidth, TileHeight, Fence
+- **animal_habitats.csv**: Name, FileName, ExportName, TimeMin, TimeSec, TileWidth (+20 more)
+- **animals.csv**: Name, UnlockLevel, FileName, ShopIconFileName, ShopIconExportName, ShopIconAnimScale (+30 more)
+- **baby_pets.csv**: Name, UnlockLevel, HappyDurationMinutes, FedDurationMinutes, Habitat, FileName (+87 more)
+- **circus_animals.csv**: Name, FileName, StateIdleExportName, StateIdleMinMS, StateIdleMaxMS, Feed (+6 more)
+- **passenger_animal_bonus.csv**: Event, GoodReward, GoodAmount, WeightAnimals1, WeightAnimals2, WeightAnimals3 (+1 more)
+- **pet_habitats.csv**: Name, FileName, ExportName, ShopIconFileName, ShopIconExportName, Feed (+18 more)
+- **pets.csv**: Name, UnlockLevel, HappyDurationMinutes, FedDurationMinutes, Habitat, FileName (+43 more)
+- **sanctuary_animal_habitats.csv**: Name, FileName, ExportName, ShopIconFileName, ShopIconExportName, ShopIconAnimScale (+22 more)
+- **sanctuary_animals.csv**: Name, ParentName, UnlockLevel, HappyDurationMinutes, FedDurationMinutes, Habitat (+60 more)
+
+### Sanctuary Wildlife Reserve (5 Data Definitions)
+- **sanctuary_animal_habitats.csv**: Name, FileName, ExportName, ShopIconFileName, ShopIconExportName, ShopIconAnimScale (+22 more)
+- **sanctuary_animals.csv**: Name, ParentName, UnlockLevel, HappyDurationMinutes, FedDurationMinutes, Habitat (+60 more)
+- **sanctuary_bookstands.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+6 more)
+- **sanctuary_collection_area.csv**: Name, FileName, ExportName, TileWidth, TileHeight, CollectSound (+1 more)
+- **sanctuary_events.csv**: Name, SanctuaryAnimal, SanctuaryAnimalWeight
+
+### Production Machines & Recipes (43 Data Definitions)
+- **animal_habitat_pieces.csv**: Name, FileName, ExportName, TileWidth, TileHeight, Fence
+- **bakery_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **barbecue_grill_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **bath_kiosk_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **cafe_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **cake_oven_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **candle_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **candy_machine_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **cupcake_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **dairy_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **deep_fryer_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **doner_kebab_stand_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **donut_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **essentials_oils_lab_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **fondue_pot_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **fudge_shop_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **hat_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **honey_extractor_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+13 more)
+- **hotdog_stand_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **ice_cream_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **jam_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **juice_press_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **loom_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+13 more)
+- **pasta_kitchen_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **pasta_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **pie_oven_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **popcorn_pot_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **porridge_bar_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **pottery_studio_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **preservation_station_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **puzzle_pieces.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, UnlockLevel (+3 more)
+- **salad_bar_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **sandwich_bar_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **sauce_mixer_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **sewing_machine_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **smelter_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+12 more)
+- **smoothie_mixer_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **soup_kitchen_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **sugar_mill_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **sushi_bar_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **tea_stand_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, RequirementAmount, Requirement (+14 more)
+- **wok_kitchen_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **yoghurt_maker_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+
+### Roadside Shop & Trading (16 Data Definitions)
+- **ai_roadside_shop.csv**: Name, MinLevel, Good, MinAmount, MaxAmount, Probability (+2 more)
+- **boy.csv**: Name, FileName, ExportName, Speed, TapSound, HireDays (+23 more)
+- **boy_box.csv**: "Name", "FileName", "ExportName", "TileWidth", "TileHeight", "CollectSound" (+1 more)
+- **cash_packages.csv**: Name, ExportName, CurrencyInUSD, DiamondCost, TID, Enabled (+2 more)
+- **catalogue_gifts.csv**: Name, Gifts, TimeLimited, IntervalHours, CooldownExpiredHours, CooldownPurchasedHours (+1 more)
+- **catalogue_layout.csv**: Name, PageA1, PageB1, PageA2, PageB2, PageA3 (+9 more)
+- **decision_box.csv**: Name, TID, MinLevel, FrontIconFileName, FrontIconExportName, TargetIconFileName (+17 more)
+- **diamond_packages.csv**: Name, ExportName, CurrencyInUSD, Diamonds, TID, Enabled (+19 more)
+- **farm_pass_diamond_skip.csv**: Name, MaxPoints, DiamondCost
+- **fudge_shop_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ProcessingBuilding, RequirementAmount (+14 more)
+- **mapgame_shop_rewards.csv**: Name, Tier, Reward, Amount, Probability, IconFileName (+7 more)
+- **modular_decoration_prices.csv**: Name, Tag, Resource1, Amount1, Resource2, Amount2 (+2 more)
+- **pricepoints.csv**: Name, BillingPackage, Tier
+- **roadside_shop.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+9 more)
+- **seasonal_catalogue_gifts.csv**: Name, Gifts, TimeLimited, IntervalHours, CooldownExpiredHours, CooldownPurchasedHours (+5 more)
+- **seasonal_catalogue_layout.csv**: Name, PageA1, PageB1, PageA2, PageB2, PageA3 (+156 more)
+
+### Fishing Lake & Marine Life (19 Data Definitions)
+- **bait_maker.csv**: Name, ShopIconFileName, ShopIconExportName, UnlockLevel, TimeMin, TimeSec (+25 more)
+- **baits.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, Colour (+12 more)
+- **duck_salon.csv**: Name, UnlockLevel, FileName, ExportName, Capacity, NumIdleAnimation (+19 more)
+- **ducks.csv**: Name, FileName, ToolIconFileName, ToolIconExportName, TID, DescriptionTID (+13 more)
+- **fish_config.csv**: Name, IntValue, StringValue, BooleanValue
+- **fishes.csv**: Name, FileName, ExportName, ExportNameOld, AssetPrefix, TID (+23 more)
+- **fishing_0.csv**: TileMap
+- **fishing_boat.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+6 more)
+- **fishing_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, OrderPrice, OrderExp (+10 more)
+- **fishing_hut.csv**: Name, FileName, ExportName, TileWidth, TileHeight, CollectSound (+1 more)
+- **fishing_spots.csv**: Name, FileName, ExportName, AdjacentSpots, TileWidth, TileHeight (+11 more)
+- **lobster_pool.csv**: Name, UnlockLevel, FileName, ExportName, Capacity, NumIdleAnimation (+19 more)
+- **lobsters.csv**: Name, FileName, ToolIconFileName, ToolIconExportName, TID, DescriptionTID (+13 more)
+- **mollusc_beds.csv**: Name, FileName, ExportName, LockedExportName, TID, UnlockAllLocations (+7 more)
+- **mollusc_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ExpCollect, UnlockLevel (+8 more)
+- **molluscs.csv**: Name, ExportName, GrowingExportName, FileName, GrowTime, Good (+4 more)
+- **net_maker.csv**: Name, ShopIconFileName, ShopIconExportName, UnlockLevel, TimeMin, TimeSec (+26 more)
+- **nets.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, NetType (+26 more)
+- **tackle_box.csv**: Name, FileName, ExportName, TileWidth, TileHeight, Capacity (+10 more)
+
+### Mining & Resources (12 Data Definitions)
+- **collection_tools.csv**: Name, ToolIconFileName, ToolIconExportName, UnlockLevel, TID, DumbValue (+5 more)
+- **collection_tools_remap.csv**: Name, DumbValue, Rarity, Tool1, Tool2, Tool3
+- **deco_sticker_book_collections.csv**: Name, TID, SubtitleString, FileName, ExportName, AmbianceExportName (+25 more)
+- **gatherer_mine_resources.csv**: Name, TID, TimeMin, TimeSec, DescriptionTID, UnlockLevel
+- **gatherer_mines.csv**: Name, ExportName, IsFruit, DeadExportName, FileName, TileWidth (+28 more)
+- **helper_collection_area.csv**: Name, FileName, ExportName, TileWidth, TileHeight, CollectSound (+1 more)
+- **limited_collection_tools.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, UnlockLevel (+3 more)
+- **mine_goods.csv**: Name, ToolIconFileName, ToolIconExportName, TID, ExpCollect, UnlockLevel (+5 more)
+- **mines.csv**: Name, ExportName, FileName, TileWidth, TileHeight, TapSound (+12 more)
+- **pop_collection_tools.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, UnlockLevel (+4 more)
+- **sanctuary_collection_area.csv**: Name, FileName, ExportName, TileWidth, TileHeight, CollectSound (+1 more)
+- **tools.csv**: Name, ToolIconFileName, ToolIconExportName, UnlockLevel, TID, DumbValue (+6 more)
+
+### Town, Railway & Visitors (31 Data Definitions)
+- **calendar_events_town.csv**: Name, StartDate, StartHour, EndDate, EndHour, EventType (+14 more)
+- **circus_train_parts.csv**: Name, FileName, ExportName, TileWidth, TileHeight, AccurateWidth (+1 more)
+- **circus_trains.csv**: Name, FileName, ExportName, IconFileName, IconExportName, TID (+17 more)
+- **drasine.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+9 more)
+- **passenger.csv**: Name, FileName, ExportName, IconExportName, BodyIconExportName, TID (+27 more)
+- **passenger_animal_bonus.csv**: Event, GoodReward, GoodAmount, WeightAnimals1, WeightAnimals2, WeightAnimals3 (+1 more)
+- **passenger_bonus.csv**: Event, GoodReward, GoodAmount, Weight
+- **passenger_bonus_sets.csv**: Name, Rewards, RewardAmounts, Probabilities, Sequential
+- **passenger_spawners.csv**: Name, UnlockLevel, MinSpawnTime, MaxSpawnTime, MaxAIPassengers, MaxIdleAIPassengers (+1 more)
+- **people.csv**: Name, TID, FileName, ExportName, PopupExportName, WalkSpeed (+17 more)
+- **people_friendship.csv**: Name, FriendshipTrackName, LevelNumber, PointsRequired, Reward, RewardCount (+2 more)
+- **people_quest_archetypes.csv**: Name, Disabled, DistributionCount, EffortBucketVeryLow, EffortBucketLow, EffortBucketMedium (+7 more)
+- **people_quest_product_groups.csv**: Name, Products
+- **people_quests.csv**: Name, Disabled, Archetype, People, Treasured, MinFriendshipLevel (+20 more)
+- **people_reward_sets.csv**: Name, Rewards, RewardAmounts, Probabilities, Sequential
+- **people_spawners.csv**: Name, UnlockLevel, MinTutorialPeopleToSpawnBeforeUnlock, MinSpawnTime, MaxSpawnTime, MinSpawnTimeForDailyGift (+23 more)
+- **people_spawners_order_excludes.csv**: DataSet, ExcludeCsvName, ExcludeGoodName
+- **people_spawners_rewards.csv**: XpLevel, ConstantExp, GiftsPerDay, Remark
+- **personal_train.csv**: Name, FileName, ExportName, Carts, RepairPrice, TimeMin (+33 more)
+- **service_buildings.csv**: Name, FileName, ExportName, Goods, ServiceTimeMin, ServiceTimeSec (+40 more)
+- **town_halls.csv**: Name, FileName, ExportName, TileWidth, TileHeight, BrokenPartCount (+15 more)
+- **town_request_board.csv**: "Name", "FileName", "ExportName", "TileWidth", "TileHeight", "TapSound"
+- **townhall_settings.csv**: Name, TID, MinLevel, DefaultValue, UserConfigDisabled, Group (+1 more)
+- **train.csv**: Name, FileName, ExportName, IconFileName, IconExportName, TID (+16 more)
+- **train_config.csv**: Name, IntValue, StringValue, BooleanValue
+- **train_crossings.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound
+- **train_expansions.csv**: Name, CollectionTool, CollectionToolAmount, TapSound, LimitedCollectionTool, LimitedCollectionToolAmount (+3 more)
+- **train_parts.csv**: Name, FileName, ExportName, TileWidth, TileHeight, AccurateWidth (+1 more)
+- **train_station_0.csv**: TileMap
+- **train_stations.csv**: Name, TID, FileName, ExportName, ExportNamePlatform, ExportNameWaterTank (+23 more)
+- **tutorial_people_orders.csv**: Name, Good, GoodAmount, PeopleName, SpawnAtHouse
+
+### Valley Map Game (20 Data Definitions)
+- **mapgame_bonus_round_config.csv**: Name, TotalCardCount, BombCount, RewardsToAdvance, AllowBombOnFirst, DiamondContinuePrice
+- **mapgame_bonus_round_reward_rules.csv**: Name, MaxRewards
+- **mapgame_bonus_round_reward_sets.csv**: Name, Rewards, RewardAmounts, MinRound, MaxRound, Probabilities (+4 more)
+- **mapgame_coins.csv**: Name, CoinType, Tier2RewardCoin, ToolIconFileName, ToolIconExportName, ToolBigIconFileName (+4 more)
+- **mapgame_config.csv**: Name, IntValue, StringValue, BooleanValue
+- **mapgame_daily_quests_progression.csv**: Name, NumberOfQuests, MysteryBoxPrizeType, BonusRound, Hidden
+- **mapgame_decorations.csv**: Name, FileName, ExportName, Scale, TileWidth, TileHeight
+- **mapgame_emojis.csv**: Name, FileName, ExportName, Seconds, HideWhenNotCovered, XOffset (+2 more)
+- **mapgame_maps.csv**: Name, OldName, FileName, MapType, TID
+- **mapgame_nodes.csv**: Name, FileName, ExportName, ExportNameCanFlip, GardenFileName, GardenFrontExportName (+6 more)
+- **mapgame_notifications.csv**: Name, Enabled, TID, DelayMinutes, Sound, NotificationIconFileName (+2 more)
+- **mapgame_quests.csv**: Name, QuestType, Param1, Param1String, Probability, TID (+3 more)
+- **mapgame_reward_sets.csv**: Name, Rewards, RewardAmounts, Probabilities, Sequential
+- **mapgame_shop_rewards.csv**: Name, Tier, Reward, Amount, Probability, IconFileName (+7 more)
+- **mapgame_stand.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+4 more)
+- **mapgame_sunpoints_progression.csv**: Name, Level, RequiredSunPointsToFillBar
+- **mapgame_sunpoints_tasks.csv**: Name, TaskType, SunPoints, Good, Amount, Probability (+7 more)
+- **mapgame_sunpoints_tasks_spawning_rules.csv**: Name, Tag, MaxTasks
+- **mapgame_tasks.csv**: Name, TaskType, TID, DescriptionTID, IconTooltipTID, FileName (+29 more)
+- **mapgame_tiles.csv**: Name, FileName, ExportName, Probability
+
+### Farm Pass, Derby & Neighborhood (28 Data Definitions)
+- **derby.csv**: Name, ExportName, BrokenExportName, EffectFileName, EffectExportName, LockedExportName (+59 more)
+- **derby_bingo_rewards.csv**: League, MemberCount, BingoLine1RewardPoints, BingoLine2RewardPoints, BingoLine3RewardPoints, MinBingoTasks (+2 more)
+- **derby_leagues.csv**: Name, TID, MaxAvailableTasks, MaxDerbyTasksPerPlayer, MaxDailyDerbyTasksPerPlayer, MatchmakingEnabled (+96 more)
+- **derby_rewards.csv**: Name, Rewards, RewardAmounts, Probabilities
+- **derby_thresholds.csv**: League, MemberCount, BunnyDerbyTaskCount, Threshold1, Threshold2, Threshold3 (+19 more)
+- **farm_pass_building.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+6 more)
+- **farm_pass_diamond_skip.csv**: Name, MaxPoints, DiamondCost
+- **farm_pass_loop_rewards.csv**: Name, Enabled, ProbabilityWeight, UnlockLevel, SeasonMax, FreeReward (+5 more)
+- **farm_pass_notifications.csv**: Name, Enabled, TID, DelayMinutes, Sound, NotificationIconFileName (+1 more)
+- **farm_pass_perks.csv**: Name, Type, Enabled, UnlockLevel, MaxPerSeason, Param1String (+13 more)
+- **farm_pass_road.csv**: Name, RoadDecoration
+- **farm_pass_road_decorations.csv**: Name, FileName, ExportName, EndSection
+- **farm_pass_tasks.csv**: Name, Category, TaskType, FarmPoints, Good, Amount (+9 more)
+- **farm_pass_tasks_daily_spawning_rules.csv**: Name, Tag, MaxTasks
+- **farm_pass_tasks_weekly_spawning_rules.csv**: Name, Tag, MaxTasks
+- **neighborhood_badges.csv**: Name, Type, FileName, ExportName
+- **neighborhood_buildings.csv**: Name, ExportName, FileName, TileWidth, TileHeight, TapSound (+8 more)
+- **neighborhood_donations_area.csv**: Name, FileName, ExportName, BrokenExportName, EffectFileName, EffectExportName (+7 more)
+- **neighborhood_eventboard.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+3 more)
+- **neighborhood_join_delays.csv**: Level, JoinDelayMinutes, LevelStayTimeMinutes
+- **neighborhood_member_rights.csv**: Name, Right, TID, DescriptionTID
+- **neighborhood_object_perks.csv**: Name, Type, Enabled, UnlockLevel, MaxPerSeason, Param1String (+13 more)
+- **neighborhood_object_tasks.csv**: Name, Index, TaskGroup, TaskType, Good, FarmPoints (+6 more)
+- **neighborhood_objects.csv**: Name, ExportName, FileName, UpgradeAnimFrameStart, UpgradeAnimFrameEnd, TileWidth (+14 more)
+- **neighborhood_request_board.csv**: Name, FileName, ExportName, BrokenExportName, EffectFileName, EffectExportName (+8 more)
+- **neighborhood_tags.csv**: Name, TID, Excludes, TagOrder
+- **neighborhood_tasks.csv**: Name, TaskType, SubTaskType, TID, DescriptionTID, IconTooltipTID (+26 more)
+- **streak_tasks.csv**: Name, Category, TaskType, FarmPoints, Good, Amount (+10 more)
+
+### Events & Mystery Rewards (28 Data Definitions)
+- **birthday_event_bonus_round.csv**: Name, TID, RewardAmount, FileName, ExportName
+- **birthday_event_bonus_round_config.csv**: Name, TotalCardCount, BombCount, RewardsToAdvance, AllowBombOnFirst, DiamondContinuePrice
+- **birthday_event_bonus_round_reward_rules.csv**: Name, MaxRewards
+- **birthday_event_bonus_round_reward_sets.csv**: Name, Rewards, RewardAmounts, MinRound, MaxRound, Probabilities (+4 more)
+- **birthday_event_tasks.csv**: Name, TaskType, FarmPoints, Good, Amount, Probability (+11 more)
+- **birthday_event_tasks_spawning_rules.csv**: Name, Tag, MaxTasks
+- **calendar_event_gift_box.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound
+- **calendar_event_rewards.csv**: Name, Rewards, RewardAmounts, Probabilities
+- **calendar_events.csv**: Name, _
+- **calendar_events_town.csv**: Name, StartDate, StartHour, EndDate, EndHour, EventType (+14 more)
+- **catalogue_gifts.csv**: Name, Gifts, TimeLimited, IntervalHours, CooldownExpiredHours, CooldownPurchasedHours (+1 more)
+- **deco_event_borders.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, UnlockLevel, RepUnlockLevel (+42 more)
+- **deco_event_building.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound
+- **deco_event_challenges.csv**: Name, Tooltip, IconFileName, IconExportName, TooltipAction
+- **decoration_event_canvases.csv**: Name, FileName, East, North, South, West (+3 more)
+- **easter_egg_spawners.csv**: Name, UnlockLevel, SpawnTimeMinSeconds, SpawnTimeMaxSeconds, SpawnUpdateIntervalSeconds, SpawnLocationFishingWaterX (+1 more)
+- **easter_eggs.csv**: Name, Probability, UnlockLevel, FileName, ExportName, OpenDurationMillis (+14 more)
+- **eventboard.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+4 more)
+- **events.csv**: Event, GoodReward, GoodAmount, Group1, Group2, Group3 (+24 more)
+- **giftmailbox.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+2 more)
+- **gifts.csv**: Name, Type, FileName, ExportName, GiftIconFileName, GiftIconExportName (+19 more)
+- **mystery_box_spawners.csv**: Name, UnlockLevel, MinSpawnTimeOpened, MaxSpawnTimeOpened, MinSpawnTimeClosed, MaxSpawnTimeClosed (+8 more)
+- **mystery_boxes.csv**: Name, FileName, ExportName, UnlockLevel, ReputationUnlockLevel, GoodReward (+17 more)
+- **neighborhood_eventboard.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound (+3 more)
+- **sanctuary_events.csv**: Name, SanctuaryAnimal, SanctuaryAnimalWeight
+- **seasonal_catalogue_gifts.csv**: Name, Gifts, TimeLimited, IntervalHours, CooldownExpiredHours, CooldownPurchasedHours (+5 more)
+- **tracking_events.csv**: Label, Type, Product, ProductDetail, Enabled, IsEvent
+- **wheel_cars.csv**: Name, FileName, ExportName, RequiredLevel, StoppedExportName, TileWidth (+23 more)
+
+### Customization & Aesthetics (30 Data Definitions)
+- **colors.csv**: Name, MulColorR, MulColorG, MulColorB, AddColorR, AddColorG (+2 more)
+- **customization_house.csv**: Name, TID, GameObject, Part, FileName, ExportName (+16 more)
+- **customization_rss.csv**: Name, TID, GameObject, Part, FileName, ExportName (+18 more)
+- **customization_styleguide.csv**: Name, PartName, DiamondPrice, TID
+- **customization_truck.csv**: Name, TID, GameObject, Part, FileName, ExportName (+16 more)
+- **deco_ditches.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, UnlockLevel, RepUnlockLevel (+44 more)
+- **deco_ditches_wip.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, UnlockLevel, RepUnlockLevel (+44 more)
+- **deco_event_borders.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, UnlockLevel, RepUnlockLevel (+42 more)
+- **deco_event_building.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound
+- **deco_event_challenges.csv**: Name, Tooltip, IconFileName, IconExportName, TooltipAction
+- **deco_fences.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, ShopIconClipped, UnlockLevel (+36 more)
+- **deco_fences_wip.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, ShopIconClipped, UnlockLevel (+36 more)
+- **deco_sticker_book_collections.csv**: Name, TID, SubtitleString, FileName, ExportName, AmbianceExportName (+25 more)
+- **deco_sticker_book_stand.csv**: Name, FileName, ExportName, TileWidth, TileHeight, TapSound
+- **decoration_event_canvases.csv**: Name, FileName, East, North, South, West (+3 more)
+- **decorations.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, ShopIconClipped, UnlockLevel (+38 more)
+- **decorations_wip.csv**: Name, ShopIconFileName, ShopIconExportName, ShopIconAnimScale, ShopIconClipped, UnlockLevel (+38 more)
+- **farm_pass_road_decorations.csv**: Name, FileName, ExportName, EndSection
+- **level_deco.csv**: TileMap
+- **level_deco_beach.csv**: TileMap
+- **mapgame_decorations.csv**: Name, FileName, ExportName, Scale, TileWidth, TileHeight
+- **modular_decoration_prices.csv**: Name, Tag, Resource1, Amount1, Resource2, Amount2 (+2 more)
+- **modular_decorations.csv**: Name, ShopIconFileName, ShopIconExportName, MaxRank, UnlockLevel, RepUnlockLevel (+32 more)
+- **modular_options.csv**: Name, DecoName, RequireOption, Hidden, AutoOption, Level (+9 more)
+- **themes.csv**: Name, LevelLimit, ExportNamePostfix, Enabled, SnowFileName, SnowExportNames (+1 more)
+- **wonders.csv**: "Name", "_"
+- **workbench.csv**: Name, TID, ExportName, FileName, TileWidth, TileHeight (+12 more)
+- **workbench_buildings.csv**: Name, BuildingEnabled, Level, LevelWorkbenchRequired, LevelUpCash, ProductsRequired (+18 more)
+- **workbench_materials.csv**: Name, ToolIconFileName, ToolIconExportName, TID, DescriptionTID, UnlockLevel (+2 more)
+- **workbench_perks.csv**: Name, Icon, TutorialExportName, TID, DescriptionTID, BonusTID (+1 more)
+
+### System, Audio, Localization & Teleportation (19 Data Definitions)
+- **achievements.csv**: Name, Level, TID, DescriptionTID, Action, ActionCount (+17 more)
+- **deeplinks.csv**: Name, ParameterType, ParameterName, Description, Public, Mode
+- **exp_levels.csv**: Level, ExpToNextLevel, GoodReward1, GoodAmount1, GoodReward2, GoodAmount2 (+100 more)
+- **exp_levels_threshold_rewards.csv**: Name, Rewards, RewardAmounts, Probabilities
+- **farm_pass_notifications.csv**: Name, Enabled, TID, DelayMinutes, Sound, NotificationIconFileName (+1 more)
+- **features.csv**: Name, Enabled, UnlockLevel, ReputationUnlockLevel, AchievementUnlockPoints, LevelUpFeatureTID (+2 more)
+- **features_unlock.csv**: Name, FeatureThresholdLevelBack, FeatureThresholdLevelForward, RemoveWhenMovedForward, CompensationForRemovalGood, CompensationForRemovalAmount (+16 more)
+- **fonts.csv**: Name, FileName, MarginTop, MarginRight, MarginBottom, MarginLeft (+1 more)
+- **game_config.csv**: Name, IntValue, StringValue, BooleanValue
+- **mapgame_notifications.csv**: Name, Enabled, TID, DelayMinutes, Sound, NotificationIconFileName (+2 more)
+- **notifications.csv**: Name, Enabled, TID, DelayMinutes, Sound, MinLevel (+3 more)
+- **notifications_android_channels.csv**: Name, NameTID, DescriptionTID
+- **notifications_settings.csv**: Name, TID, MinLevel, DefaultValue, UserConfigDisabled, Group (+2 more)
+- **sounds.csv**: Name, FileNames, Event, Bank, MinVolume, MaxVolume (+8 more)
+- **text_styles.csv**: Name, TextColor, OutlineColor, ShadowColor
+- **tutorial_config.csv**: Name, IntValue, StringValue
+- **tutorial_groups.csv**: Name, DisableBuildingPainting, StartingChickens, ChickenBuilding, UnlockTruckFromTutorial, UnlockButtonsFromTutorial (+2 more)
+- **tutorial_people_orders.csv**: Name, Good, GoodAmount, PeopleName, SpawnAtHouse
+- **tutorials.csv**: Name, Mode, MinExpLevel10, MaxExpLevel10, MinRepLevel, Priority (+59 more)
+
+### Additional Game Systems (129 Definitions)
+- **about_layout.csv**
+- **advance_settings.csv**
+- **ai_names.csv**
+- **angus.csv**
+- **asset_load_list.csv**
+- **balloons.csv**
+- **barn_pricing.csv**
+- **blacklists.csv**
+- **boat_daily_modifiers.csv**
+- **boat_destinations.csv**
+- **boat_difficulties.csv**
+- **boat_order_modifiers.csv**
+- **boat_order_reward_sets.csv**
+- **boats.csv**
+- **boombox.csv**
+- **boosters.csv**
+- **builder_spawners.csv**
+- **builders.csv**
+- **car_order_reward_sets.csv**
+- **cars.csv**
+- **chick_stand.csv**
+- **construction_buildings.csv**
+- **countyfair_bonus_round_config.csv**
+- **countyfair_bonus_round_reward_rules.csv**
+- **countyfair_bonus_round_reward_sets.csv**
+- **countyfair_dummy_goods.csv**
+- **countyfair_reward_sets.csv**
+- **creature_definitions.csv**
+- **creature_movement_behaviors.csv**
+- **creature_rewards.csv**
+- **creature_spawn_rules.csv**
+- **credits.csv**
+- **docks.csv**
+- **emoji.csv**
+- **emotes.csv**
+- **expansion_fences.csv**
+- **expansions.csv**
+- **facebook_errors.csv**
+- **fake_rewards.csv**
+- **faqs.csv**
+- **faqs_layout.csv**
+- **farm_bridge.csv**
+- **flowershop_goods.csv**
+- **fresh_beat_bucket_groups.csv**
+- **fresh_beat_buckets.csv**
+- **gatherer_habitats.csv**
+- **gatherer_nest_goods.csv**
+- **gatherer_nests.csv**
+- **gatherers.csv**
+- **help_gps_config.csv**
+- **helper_characters.csv**
+- **helper_house.csv**
+- **helpers.csv**
+- **houses.csv**
+- **jeweler_goods.csv**
+- **languages.csv**
+- **level_0.csv**
+- **loading_screen_hints.csv**
+- **lumberjack.csv**
+- **mailboxes.csv**
+- **milkshake_bar_goods.csv**
+- **mini_pass_categories.csv**
+- **mini_pass_props.csv**
+- **mini_pass_tasks.csv**
+- **mini_passes.csv**
+- **money.csv**
+- **movie_tickets.csv**
+- **names.csv**
+- **newspaper_bot_categories.csv**
+- **newspaper_bot_config.csv**
+- **newspaper_layout.csv**
+- **newspaper_stories.csv**
+- **offers.csv**
+- **omelet_maker_goods.csv**
+- **open_graph_objects.csv**
+- **order_item_filters.csv**
+- **order_tables.csv**
+- **order_track_configs.csv**
+- **order_track_groups.csv**
+- **order_tracks.csv**
+- **orders.csv**
+- **parachutes.csv**
+- **perfumerie_goods.csv**
+- **photographer.csv**
+- **photographer_spawners.csv**
+- **placeholder_goods.csv**
+- **pop_reward_sets.csv**
+- **pop_stand.csv**
+- **postman.csv**
+- **predefined_boat_orders.csv**
+- **predefined_orders.csv**
+- **pricing_country_tiers.csv**
+- **processing_buildings.csv**
+- **processing_buildings_wip.csv**
+- **production_buildings_goods.csv**
+- **progression_modifiers.csv**
+- **reengagement_config.csv**
+- **reengagement_rewards.csv**
+- **regions.csv**
+- **renovator_stand.csv**
+- **reputation_levels.csv**
+- **reward_fallbacks.csv**
+- **reward_limits.csv**
+- **rules.csv**
+- **scarecrows.csv**
+- **scid_popups.csv**
+- **scid_reminder_config.csv**
+- **score_boards.csv**
+- **seasonal_currencies.csv**
+- **seasonal_goods.csv**
+- **shacks.csv**
+- **silo_pricing.csv**
+- **silos.csv**
+- **simulation_config.csv**
+- **special_boat_rewards.csv**
+- **special_orders.csv**
+- **squirrel_nest_goods.csv**
+- **starter_packages.csv**
+- **stew_pot_goods.csv**
+- **taco_kitchen_goods.csv**
+- **targeted_offers.csv**
+- **tiles.csv**
+- **tool_offers.csv**
+- **truck_difficulties.csv**
+- **visit_hud_config.csv**
+- **vouchers.csv**
+- **waffle_maker_goods.csv**
+- **warehouses.csv**
+- **weighted_reward_groups.csv**

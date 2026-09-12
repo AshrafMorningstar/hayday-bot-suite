@@ -1,0 +1,3 @@
+Name,ExportName,FileName,TileWidth,TileHeight,TID,TapSound,CollectIconOffsetX,CollectIconOffsetY,CollectIconScale
+String,String,String,int,int,String,String,int,int,int
+OrderTable,orderboard_01,sc/buildings_new.sc,2,2,TID_ORDER_TABLE_TITLE,MenuBleep,260,55,80

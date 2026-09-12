@@ -1,0 +1,375 @@
+Name,Rewards,RewardAmounts,Probabilities
+String,String,int,int
+RS1,Plank,1,10
+,Nail,1,10
+,Bolt,1,10
+,Screw,1,10
+,Duct Tape,1,10
+,Wood Panel,1,10
+RS2,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+RS3,Voucher3,1,20
+,Voucher4,1,10
+RS4,Plank,1,20
+,Nail,1,20
+,Bolt,1,20
+,Screw,1,20
+,Duct Tape,1,20
+,Wood Panel,1,20
+,Axe,1,40
+,Saw,1,40
+,Shovel,1,40
+,Dynamite,1,40
+,Demolition Charge,1,40
+,FasterBoats_lv1,1,2
+,FasterCrops3_lv2,1,2
+,FreeTom_lv2,1,2
+,FasterBuildings2_lv1,1,2
+,FasterCrops2_lv1,1,2
+,FasterTrees_lv1,1,2
+,FreeErnest_lv1,1,2
+,FasterBuildings1_lv2,1,2
+RS5,Voucher1,1,20
+,Voucher2,1,20
+,Voucher3,1,10
+,Voucher4,1,10
+,FreeDiamonds,3,5
+RS6,Plank,1,20
+,Nail,1,20
+,Bolt,1,20
+,Screw,1,20
+,Duct Tape,1,20
+,Wood Panel,1,20
+,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+RS7,Hammer,1,20
+,Hand Drill,1,20
+,Paint Bucket,1,20
+,Stone Block,1,20
+,Brick,1,20
+,Tar Bucket,1,20
+,Land Deed,1,30
+,Mallet,1,30
+,Marker Stake,1,30
+,Pickaxe,1,20
+,FasterCrops1_lv2,1,2
+,FasterCrops4_lv1,1,2
+,FasterTom_lv1,1,2
+,FasterBuildings3_lv2,1,2
+,FasterTrees_lv2,1,2
+,FreeRose_lv1,1,2
+,EasierBoats_lv2,1,2
+,FasterBuildings4_lv1,1,2
+RS8,Plank,2,10
+,Nail,2,10
+,Bolt,2,10
+,Screw,2,10
+,Duct Tape,2,10
+,Wood Panel,2,10
+,Axe,2,10
+,Saw,2,10
+,Shovel,2,10
+,Dynamite,2,10
+,Demolition Charge,2,10
+,Pickaxe,2,10
+RS9,Voucher1,2,80
+,Voucher2,2,80
+,Voucher3,1,40
+,Voucher4,1,40
+,FasterBushes_lv2,1,2
+,FreeTom_lv1,1,2
+,FasterCrops3_lv1,1,2
+,FasterCrops2_lv2,1,2
+,FasterBuildings3_lv1,1,2
+,FasterBuildings1_lv1,1,2
+,FasterBuildings4_lv2,1,2
+,EasierBoats_lv1,1,2
+RS10,Plank,3,10
+,Nail,3,10
+,Bolt,3,10
+,Screw,3,10
+,Duct Tape,3,10
+,Wood Panel,3,10
+,Hammer,3,10
+,Hand Drill,3,10
+,Paint Bucket,3,10
+,Stone Block,3,10
+,Brick,3,10
+,Tar Bucket,3,10
+,Land Deed,3,10
+,Mallet,3,10
+,Marker Stake,3,10
+,Voucher1,2,10
+,Voucher2,2,10
+,Voucher3,2,10
+,Voucher4,2,10
+,FreeDiamonds,5,5
+,FasterBushes_lv1,1,2
+,FasterTom_lv2,1,2
+,FasterCrops1_lv1,1,2
+,FasterBoats_lv2,1,2
+,FasterCrops4_lv2,1,2
+,FreeErnest_lv2,1,2
+,FreeRose_lv2,1,2
+,FasterBuildings2_lv2,1,2
+RS11,Plank,5,10
+,Nail,5,10
+,Bolt,5,10
+,Screw,5,10
+,Duct Tape,5,10
+,Wood Panel,5,10
+,Hammer,5,10
+,Hand Drill,5,10
+,Paint Bucket,5,10
+,Stone Block,5,10
+,Brick,5,10
+,Tar Bucket,5,10
+,Land Deed,5,10
+,Mallet,5,10
+,Marker Stake,5,10
+,Voucher1,3,10
+,Voucher2,3,10
+,Voucher3,3,10
+,Voucher4,3,10
+,FreeDiamonds,5,10
+,Axe,5,10
+,Saw,5,10
+,Shovel,5,10
+,Dynamite,5,10
+,Demolition Charge,5,10
+,Pickaxe,5,10
+,FasterBoats_lv3,1,2
+,FreeRose_lv3,1,2
+,FasterTom_lv3,1,2
+,FasterCrops3_lv3,1,2
+,FasterCrops4_lv3,1,2
+,FasterBuildings1_lv3,1,2
+,FasterBuildings4_lv3,1,2
+,FreeErnest_lv3,1,2
+RS12,Plank,5,10
+,Nail,5,10
+,Bolt,5,10
+,Screw,5,10
+,Duct Tape,5,10
+,Wood Panel,5,10
+,Hammer,5,10
+,Hand Drill,5,10
+,Paint Bucket,5,10
+,Stone Block,5,10
+,Brick,5,10
+,Tar Bucket,5,10
+,Land Deed,5,10
+,Mallet,5,10
+,Marker Stake,5,10
+,Voucher1,3,10
+,Voucher2,3,10
+,Voucher3,3,10
+,Voucher4,3,10
+,FreeDiamonds,5,10
+,Axe,5,10
+,Saw,5,10
+,Shovel,5,10
+,Dynamite,5,10
+,Demolition Charge,5,10
+,Pickaxe,5,10
+,EasierBoats_lv3,1,2
+,FasterCrops2_lv3,1,2
+,FasterCrops1_lv3,1,2
+,FreeTom_lv3,1,2
+,FasterBuildings2_lv3,1,2
+,FasterBuildings3_lv3,1,2
+,FasterTrees_lv3,1,2
+,FasterBushes_lv3,1,2
+RSNail_1,Nail,1,1
+RSScrew_1,Screw,1,1
+RSWoodPanel_1,Wood Panel,1,1
+RSBolt_1,Bolt,1,1
+RSDuctTape_1,Duct Tape,1,1
+RSPlank_1,Plank,1,1
+RSNail_2,Nail,2,1
+RSScrew_2,Screw,2,1
+RSWoodPanel_2,Wood Panel,2,1
+RSBolt_2,Bolt,2,1
+RSDuctTape_2,Duct Tape,2,1
+RSPlank_2,Plank,2,1
+RSNail_3,Nail,3,1
+RSScrew_3,Screw,3,1
+RSWoodPanel_3,Wood Panel,3,1
+RSBolt_3,Bolt,3,1
+RSDuctTape_3,Duct Tape,3,1
+RSPlank_3,Plank,3,1
+RSNail_4,Nail,4,1
+RSScrew_4,Screw,4,1
+RSWoodPanel_4,Wood Panel,4,1
+RSBolt_4,Bolt,4,1
+RSDuctTape_4,Duct Tape,4,1
+RSPlank_4,Plank,4,1
+RSNail_5,Nail,5,1
+RSScrew_5,Screw,5,1
+RSWoodPanel_5,Wood Panel,5,1
+RSBolt_5,Bolt,5,1
+RSDuctTape_5,Duct Tape,5,1
+RSPlank_5,Plank,5,1
+RSNail_6,Nail,6,1
+RSScrew_6,Screw,6,1
+RSWoodPanel_6,Wood Panel,6,1
+RSBolt_6,Bolt,6,1
+RSDuctTape_6,Duct Tape,6,1
+RSPlank_6,Plank,6,1
+RSNail_7,Nail,7,1
+RSScrew_7,Screw,7,1
+RSWoodPanel_7,Wood Panel,7,1
+RSBolt_7,Bolt,7,1
+RSDuctTape_7,Duct Tape,7,1
+RSPlank_7,Plank,7,1
+RSNail_8,Nail,8,1
+RSScrew_8,Screw,8,1
+RSWoodPanel_8,Wood Panel,8,1
+RSBolt_8,Bolt,8,1
+RSDuctTape_8,Duct Tape,8,1
+RSPlank_8,Plank,8,1
+RSNail_9,Nail,9,1
+RSScrew_9,Screw,9,1
+RSWoodPanel_9,Wood Panel,9,1
+RSBolt_9,Bolt,9,1
+RSDuctTape_9,Duct Tape,9,1
+RSPlank_9,Plank,9,1
+RSNail_10,Nail,10,1
+RSScrew_10,Screw,10,1
+RSWoodPanel_10,Wood Panel,10,1
+RSBolt_10,Bolt,10,1
+RSDuctTape_10,Duct Tape,10,1
+RSPlank_10,Plank,10,1
+RSNail_11,Nail,11,1
+RSScrew_11,Screw,11,1
+RSWoodPanel_11,Wood Panel,11,1
+RSBolt_11,Bolt,11,1
+RSDuctTape_11,Duct Tape,11,1
+RSPlank_11,Plank,11,1
+RSNail_12,Nail,12,1
+RSScrew_12,Screw,12,1
+RSWoodPanel_12,Wood Panel,12,1
+RSBolt_12,Bolt,12,1
+RSDuctTape_12,Duct Tape,12,1
+RSPlank_12,Plank,12,1
+RSNail_13,Nail,13,1
+RSScrew_13,Screw,13,1
+RSWoodPanel_13,Wood Panel,13,1
+RSBolt_13,Bolt,13,1
+RSDuctTape_13,Duct Tape,13,1
+RSPlank_13,Plank,13,1
+RSNail_14,Nail,14,1
+RSScrew_14,Screw,14,1
+RSWoodPanel_14,Wood Panel,14,1
+RSBolt_14,Bolt,14,1
+RSDuctTape_14,Duct Tape,14,1
+RSPlank_14,Plank,14,1
+RSNail_15,Nail,15,1
+RSScrew_15,Screw,15,1
+RSWoodPanel_15,Wood Panel,15,1
+RSBolt_15,Bolt,15,1
+RSDuctTape_15,Duct Tape,15,1
+RSPlank_15,Plank,15,1
+RSNail_16,Nail,16,1
+RSScrew_16,Screw,16,1
+RSWoodPanel_16,Wood Panel,16,1
+RSBolt_16,Bolt,16,1
+RSDuctTape_16,Duct Tape,16,1
+RSPlank_16,Plank,16,1
+RSNail_17,Nail,17,1
+RSScrew_17,Screw,17,1
+RSWoodPanel_17,Wood Panel,17,1
+RSBolt_17,Bolt,17,1
+RSDuctTape_17,Duct Tape,17,1
+RSPlank_17,Plank,17,1
+RSNail_18,Nail,18,1
+RSScrew_18,Screw,18,1
+RSWoodPanel_18,Wood Panel,18,1
+RSBolt_18,Bolt,18,1
+RSDuctTape_18,Duct Tape,18,1
+RSPlank_18,Plank,18,1
+RSNail_19,Nail,19,1
+RSScrew_19,Screw,19,1
+RSWoodPanel_19,Wood Panel,19,1
+RSBolt_19,Bolt,19,1
+RSDuctTape_19,Duct Tape,19,1
+RSPlank_19,Plank,19,1
+RSNail_20,Nail,20,1
+RSScrew_20,Screw,20,1
+RSWoodPanel_20,Wood Panel,20,1
+RSBolt_20,Bolt,20,1
+RSDuctTape_20,Duct Tape,20,1
+RSPlank_20,Plank,20,1
+RSNail_21,Nail,21,1
+RSScrew_21,Screw,21,1
+RSWoodPanel_21,Wood Panel,21,1
+RSBolt_21,Bolt,21,1
+RSDuctTape_21,Duct Tape,21,1
+RSPlank_21,Plank,21,1
+RSNail_22,Nail,22,1
+RSScrew_22,Screw,22,1
+RSWoodPanel_22,Wood Panel,22,1
+RSBolt_22,Bolt,22,1
+RSDuctTape_22,Duct Tape,22,1
+RSPlank_22,Plank,22,1
+RSNail_23,Nail,23,1
+RSScrew_23,Screw,23,1
+RSWoodPanel_23,Wood Panel,23,1
+RSBolt_23,Bolt,23,1
+RSDuctTape_23,Duct Tape,23,1
+RSPlank_23,Plank,23,1
+RSNail_24,Nail,24,1
+RSScrew_24,Screw,24,1
+RSWoodPanel_24,Wood Panel,24,1
+RSBolt_24,Bolt,24,1
+RSDuctTape_24,Duct Tape,24,1
+RSPlank_24,Plank,24,1
+RSNail_25,Nail,25,1
+RSScrew_25,Screw,25,1
+RSWoodPanel_25,Wood Panel,25,1
+RSBolt_25,Bolt,25,1
+RSDuctTape_25,Duct Tape,25,1
+RSPlank_25,Plank,25,1
+RSNail_26,Nail,26,1
+RSScrew_26,Screw,26,1
+RSWoodPanel_26,Wood Panel,26,1
+RSBolt_26,Bolt,26,1
+RSDuctTape_26,Duct Tape,26,1
+RSPlank_26,Plank,26,1
+RSNail_27,Nail,27,1
+RSScrew_27,Screw,27,1
+RSWoodPanel_27,Wood Panel,27,1
+RSBolt_27,Bolt,27,1
+RSDuctTape_27,Duct Tape,27,1
+RSPlank_27,Plank,27,1
+RSNail_28,Nail,28,1
+RSScrew_28,Screw,28,1
+RSWoodPanel_28,Wood Panel,28,1
+RSBolt_28,Bolt,28,1
+RSDuctTape_28,Duct Tape,28,1
+RSPlank_28,Plank,28,1
+RSNail_29,Nail,29,1
+RSScrew_29,Screw,29,1
+RSWoodPanel_29,Wood Panel,29,1
+RSBolt_29,Bolt,29,1
+RSDuctTape_29,Duct Tape,29,1
+RSPlank_29,Plank,29,1
+RSNail_30,Nail,30,1
+RSScrew_30,Screw,30,1
+RSWoodPanel_30,Wood Panel,30,1
+RSBolt_30,Bolt,30,1
+RSDuctTape_30,Duct Tape,30,1
+RSPlank_30,Plank,30,1
+RSBeatsCrops_lv3,CropsBeats_lv3,1,1
+RSBeatsAnimals_lv3,AnimalsBeats_lv3,1,1
+RSBeatsProduction_lv3,ProductionBeats_lv3,1,1
+RSBeatsCrops_lv4,CropsBeats_lv4,1,1
+RSBeatsAnimals_lv4,AnimalsBeats_lv4,1,1
+RSBeatsProduction_lv4,ProductionBeats_lv4,1,1

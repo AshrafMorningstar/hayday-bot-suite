@@ -1,0 +1,5837 @@
+{
+  "automation": {
+    "animals": {
+      "animals": [
+        {
+          "animal": 1300000,
+          "max_owned": 0
+        },
+        {
+          "animal": 1300001,
+          "max_owned": 0
+        },
+        {
+          "animal": 1300002,
+          "max_owned": 0
+        },
+        {
+          "animal": 1300003,
+          "max_owned": 0
+        },
+        {
+          "animal": 1300004,
+          "max_owned": 0
+        },
+        {
+          "animal": 1300005,
+          "max_owned": 0
+        }
+      ],
+      "enabled": true,
+      "feed_stock_target": 0,
+      "produce_missing_feed": true
+    },
+    "expansion": {
+      "enabled": true,
+      "max_placements_per_pass": 1,
+      "placeables": [
+        300424,
+        300470,
+        300555,
+        300500,
+        300450,
+        300262,
+        300048,
+        300252,
+        300041,
+        300029,
+        300042,
+        300676,
+        301251,
+        300046,
+        300258,
+        300448,
+        300240,
+        300906,
+        301015,
+        300047,
+        300761,
+        300027,
+        300043,
+        300044,
+        300228,
+        300077,
+        300074,
+        300045,
+        300030,
+        300618,
+        300412,
+        300352,
+        300589,
+        300040,
+        300050,
+        300049,
+        300159,
+        300254,
+        300067,
+        300815,
+        300410,
+        300753,
+        300256,
+        300362,
+        300557,
+        300422,
+        301293,
+        300517,
+        300199,
+        300260,
+        300189,
+        300250,
+        300003,
+        300000,
+        300001,
+        300009,
+        300007,
+        300005,
+        300025,
+        300002,
+        300024,
+        300147,
+        300008,
+        300014,
+        300122,
+        300004,
+        300006,
+        300015,
+        300150,
+        300017,
+        300124,
+        6200009,
+        300107,
+        300064,
+        300743,
+        300740,
+        300738,
+        300739,
+        300742,
+        300744,
+        300741,
+        300745,
+        300061,
+        300020,
+        300022,
+        300039,
+        300068,
+        300065,
+        300069,
+        300070,
+        300071,
+        300222,
+        7900009,
+        6200000,
+        6200010,
+        300094,
+        300095,
+        300161,
+        7900008,
+        6200003,
+        6200016,
+        7900004,
+        6200004,
+        7900000,
+        6200001,
+        6200013,
+        6200005,
+        7900001,
+        7900003,
+        300213,
+        6200014,
+        7900007,
+        7900002,
+        300218,
+        7900005,
+        6200007,
+        6200012,
+        6200006,
+        6200008,
+        6200011,
+        6200015,
+        7900006,
+        6200002,
+        300216,
+        300220,
+        300090,
+        300212,
+        600052,
+        600057,
+        600061,
+        600045,
+        600050,
+        600056,
+        600043,
+        600048,
+        600054,
+        600059,
+        600053,
+        600058,
+        600000,
+        600001,
+        600003,
+        600004,
+        600002,
+        600008,
+        600005,
+        600006,
+        600022,
+        600007,
+        600011,
+        600009,
+        600012,
+        600060,
+        600010,
+        600013,
+        600023,
+        600014,
+        600016,
+        600024,
+        600031,
+        600015,
+        600017,
+        600018,
+        600019,
+        600020,
+        600021,
+        600026,
+        600051,
+        600032,
+        600025,
+        600028,
+        600027,
+        600036,
+        600046,
+        600029,
+        600030,
+        600033,
+        600035,
+        600034,
+        600037,
+        600038,
+        600039,
+        600040,
+        600041,
+        600042,
+        600055,
+        600044,
+        600047,
+        600049,
+        4800042,
+        4800041,
+        4800009,
+        4800000,
+        4800002,
+        4800001,
+        4800013,
+        4800003,
+        4800022,
+        4800004,
+        4800005,
+        4800006,
+        4800018,
+        4800014,
+        4800019,
+        4800010,
+        4800015,
+        4800020,
+        4800011,
+        4800016,
+        4800012,
+        4800017,
+        13400005,
+        13400003,
+        14600000,
+        14800000,
+        13400002,
+        13400006,
+        13400000,
+        13400001,
+        14800001,
+        13400004,
+        14600001,
+        1100000,
+        1100001,
+        1100004,
+        1100005,
+        1100002,
+        1100003,
+        400000
+      ]
+    },
+    "fields": {
+      "crop": 400001,
+      "crop_limits": [
+        {
+          "crop": 400002,
+          "max_stock": 1000
+        },
+        {
+          "crop": 400001,
+          "max_stock": 1000
+        }
+      ],
+      "enabled": true,
+      "fill_mode": 1
+    },
+    "fishing": {
+      "catch_fish": true,
+      "catch_mode": 1,
+      "collect_attempts": 5,
+      "collect_lobster_pool": true,
+      "collect_lobster_sea": true,
+      "collect_lures": true,
+      "collect_nets": true,
+      "enabled": true,
+      "lures": [
+        9800000
+      ]
+    },
+    "limits": {
+      "max_actions_per_pass": 4096,
+      "max_machine_jobs_per_pass": 32768
+    },
+    "maintenance": {
+      "action_ids": [
+        "collect_mail",
+        "mystery_box_claim_cycle",
+        "spin_wheel_cycle",
+        "event_curtain_open_all",
+        "event_basket_open_all",
+        "event_floater_collect",
+        "farm_pass_claim_direct",
+        "achievement_claim_all",
+        "build_claim_all",
+        "tutorial_skip_all",
+        "storage_upgrade_barn",
+        "storage_upgrade_silo"
+      ],
+      "enabled": true
+    },
+    "market": {
+      "advertise": true,
+      "collect_sales": true,
+      "enabled": true,
+      "items": [
+        {
+          "count": 10,
+          "item": 400001,
+          "price": 36,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400002,
+          "price": 72,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400003,
+          "price": 108,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400004,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400005,
+          "price": 72,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400006,
+          "price": 252,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400007,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400014,
+          "price": 288,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400040,
+          "price": 72,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400008,
+          "price": 360,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400009,
+          "price": 432,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400010,
+          "price": 504,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400011,
+          "price": 360,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400039,
+          "price": 108,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400037,
+          "price": 432,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400029,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400024,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400030,
+          "price": 216,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400012,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400013,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400032,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400018,
+          "price": 216,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400033,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400015,
+          "price": 396,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400023,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400031,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400020,
+          "price": 360,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400028,
+          "price": 288,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400016,
+          "price": 432,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400019,
+          "price": 360,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400026,
+          "price": 216,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400017,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400021,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400036,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400027,
+          "price": 108,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400025,
+          "price": 144,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400022,
+          "price": 396,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400034,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400035,
+          "price": 180,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 400038,
+          "price": 72,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100000,
+          "price": 396,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100002,
+          "price": 468,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100001,
+          "price": 684,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100003,
+          "price": 828,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100016,
+          "price": 828,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100004,
+          "price": 864,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100005,
+          "price": 648,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100006,
+          "price": 828,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100007,
+          "price": 936,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100008,
+          "price": 972,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100009,
+          "price": 1008,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100010,
+          "price": 1044,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100011,
+          "price": 828,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100012,
+          "price": 1008,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100013,
+          "price": 1080,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100014,
+          "price": 1116,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6100015,
+          "price": 1116,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400000,
+          "price": 216,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400002,
+          "price": 720,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400001,
+          "price": 1044,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400005,
+          "price": 1404,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400006,
+          "price": 2268,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400013,
+          "price": 2304,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400003,
+          "price": 1908,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400004,
+          "price": 2268,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400007,
+          "price": 2844,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400008,
+          "price": 4032,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400010,
+          "price": 2736,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400009,
+          "price": 4248,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400011,
+          "price": 4212,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2400012,
+          "price": 2844,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2700000,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2700001,
+          "price": 504,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2700002,
+          "price": 900,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900000,
+          "price": 324,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900001,
+          "price": 1260,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900002,
+          "price": 1224,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900004,
+          "price": 3600,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900003,
+          "price": 2484,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2900005,
+          "price": 3096,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000000,
+          "price": 1080,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000001,
+          "price": 2016,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000002,
+          "price": 1800,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000016,
+          "price": 900,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000005,
+          "price": 2268,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000003,
+          "price": 1188,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000004,
+          "price": 2988,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000006,
+          "price": 2448,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000007,
+          "price": 4176,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000013,
+          "price": 1980,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000015,
+          "price": 4860,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000008,
+          "price": 1908,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000012,
+          "price": 1980,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000014,
+          "price": 3528,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000010,
+          "price": 3240,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000009,
+          "price": 3528,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 3000011,
+          "price": 1764,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600000,
+          "price": 828,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600002,
+          "price": 1584,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600001,
+          "price": 2196,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600003,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600007,
+          "price": 2268,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600004,
+          "price": 2232,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600005,
+          "price": 3672,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600006,
+          "price": 2808,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600014,
+          "price": 3024,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600011,
+          "price": 5148,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600008,
+          "price": 4464,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600009,
+          "price": 4356,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600013,
+          "price": 1116,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600012,
+          "price": 1620,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2600010,
+          "price": 4428,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800000,
+          "price": 1512,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800004,
+          "price": 1080,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800001,
+          "price": 1116,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800002,
+          "price": 2088,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800003,
+          "price": 2880,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2800005,
+          "price": 2952,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500000,
+          "price": 2412,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500001,
+          "price": 3096,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500002,
+          "price": 3276,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500005,
+          "price": 3240,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500003,
+          "price": 6768,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 14500004,
+          "price": 10980,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500001,
+          "price": 1656,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500005,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500002,
+          "price": 2196,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500000,
+          "price": 2844,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500014,
+          "price": 5004,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500004,
+          "price": 3168,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500003,
+          "price": 3204,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500006,
+          "price": 3096,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500008,
+          "price": 4824,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500011,
+          "price": 4500,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500010,
+          "price": 2592,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500007,
+          "price": 8964,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500009,
+          "price": 4500,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500012,
+          "price": 6048,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 2500013,
+          "price": 3168,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000000,
+          "price": 468,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000002,
+          "price": 1296,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000003,
+          "price": 2160,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000004,
+          "price": 2052,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000001,
+          "price": 1620,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000008,
+          "price": 684,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000005,
+          "price": 2340,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000006,
+          "price": 1044,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000009,
+          "price": 648,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000007,
+          "price": 1080,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000010,
+          "price": 2304,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6000011,
+          "price": 2520,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 33400000,
+          "price": 1728,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 33400001,
+          "price": 4716,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 33400002,
+          "price": 3564,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900000,
+          "price": 1728,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900001,
+          "price": 3528,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900002,
+          "price": 3312,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900003,
+          "price": 3420,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900008,
+          "price": 1764,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900009,
+          "price": 6192,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900010,
+          "price": 4356,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900004,
+          "price": 3996,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900005,
+          "price": 4500,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900007,
+          "price": 2880,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900006,
+          "price": 4032,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900011,
+          "price": 3204,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6900012,
+          "price": 5184,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600000,
+          "price": 2196,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600001,
+          "price": 2520,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600002,
+          "price": 3888,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600003,
+          "price": 3348,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600004,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600010,
+          "price": 5796,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600005,
+          "price": 4572,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600006,
+          "price": 4644,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600007,
+          "price": 1620,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600008,
+          "price": 3852,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 6600009,
+          "price": 1188,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200000,
+          "price": 2484,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200001,
+          "price": 2196,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200002,
+          "price": 2916,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200003,
+          "price": 2592,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200004,
+          "price": 3168,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200006,
+          "price": 3456,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8200005,
+          "price": 2772,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900012,
+          "price": 1800,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900000,
+          "price": 6120,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900001,
+          "price": 4788,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900003,
+          "price": 3924,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900011,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900002,
+          "price": 2988,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900010,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900005,
+          "price": 3276,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900004,
+          "price": 4320,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900006,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900007,
+          "price": 4392,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900008,
+          "price": 2376,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 10900009,
+          "price": 1764,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 15300000,
+          "price": 3708,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 15300001,
+          "price": 3600,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 15300002,
+          "price": 4572,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 15300004,
+          "price": 3240,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 15300003,
+          "price": 4428,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200000,
+          "price": 2088,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200001,
+          "price": 3384,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200004,
+          "price": 5004,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200003,
+          "price": 5544,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200006,
+          "price": 3492,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200002,
+          "price": 2988,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 20200005,
+          "price": 3528,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400000,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400001,
+          "price": 1764,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400002,
+          "price": 4608,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400003,
+          "price": 3420,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400004,
+          "price": 6840,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400006,
+          "price": 4680,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400007,
+          "price": 2268,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 8400005,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900009,
+          "price": 1260,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900000,
+          "price": 1548,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900001,
+          "price": 2772,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900002,
+          "price": 3672,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900003,
+          "price": 3780,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900006,
+          "price": 4680,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900004,
+          "price": 2304,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900005,
+          "price": 2520,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900008,
+          "price": 2772,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11900007,
+          "price": 2880,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11700000,
+          "price": 4896,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11700001,
+          "price": 6372,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11700002,
+          "price": 5508,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11700003,
+          "price": 6480,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11700004,
+          "price": 4644,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800012,
+          "price": 1692,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800000,
+          "price": 7452,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800001,
+          "price": 7236,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800002,
+          "price": 7632,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800003,
+          "price": 7596,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800007,
+          "price": 2664,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800010,
+          "price": 4680,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800009,
+          "price": 2340,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800006,
+          "price": 3168,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800004,
+          "price": 5976,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800005,
+          "price": 5544,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800008,
+          "price": 2160,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 11800011,
+          "price": 5580,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100001,
+          "price": 5328,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100000,
+          "price": 6480,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100002,
+          "price": 5832,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100003,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100007,
+          "price": 6012,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100006,
+          "price": 4644,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100005,
+          "price": 4176,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100004,
+          "price": 3024,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12100008,
+          "price": 3744,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24700000,
+          "price": 2340,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900001,
+          "price": 5472,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900000,
+          "price": 3204,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900006,
+          "price": 2664,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900002,
+          "price": 3492,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900003,
+          "price": 5040,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900007,
+          "price": 3132,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900004,
+          "price": 5112,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900005,
+          "price": 5220,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 12900008,
+          "price": 4752,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16800000,
+          "price": 432,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16800001,
+          "price": 1008,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 28600000,
+          "price": 2880,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 28600003,
+          "price": 720,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 28600002,
+          "price": 1620,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 28600001,
+          "price": 1728,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 23800000,
+          "price": 2052,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 23800004,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 23800002,
+          "price": 5436,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 23800003,
+          "price": 5976,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 23800001,
+          "price": 3060,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16600000,
+          "price": 4680,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16600001,
+          "price": 6192,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16600002,
+          "price": 5580,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16600003,
+          "price": 3312,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900000,
+          "price": 4752,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900001,
+          "price": 5328,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900002,
+          "price": 6372,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900005,
+          "price": 3456,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900003,
+          "price": 4104,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900004,
+          "price": 5760,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16900006,
+          "price": 2808,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16700000,
+          "price": 3708,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16700001,
+          "price": 3672,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16700002,
+          "price": 5292,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 16700003,
+          "price": 3060,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800000,
+          "price": 1296,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800005,
+          "price": 3132,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800004,
+          "price": 5940,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800001,
+          "price": 2304,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800002,
+          "price": 3888,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 24800003,
+          "price": 4032,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 27800000,
+          "price": 1368,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 27800001,
+          "price": 2304,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 27800003,
+          "price": 4644,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 27800002,
+          "price": 5724,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 27800004,
+          "price": 2700,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17600004,
+          "price": 4536,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17600000,
+          "price": 3960,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17600001,
+          "price": 3924,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17600002,
+          "price": 2412,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17600003,
+          "price": 4320,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700000,
+          "price": 2412,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700001,
+          "price": 1908,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700002,
+          "price": 3132,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700003,
+          "price": 2412,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700007,
+          "price": 1692,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700004,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700005,
+          "price": 2520,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700006,
+          "price": 2556,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700009,
+          "price": 1440,
+          "reserve_stock": 20
+        },
+        {
+          "count": 10,
+          "item": 17700008,
+          "price": 3132,
+          "reserve_stock": 20
+        }
+      ],
+      "max_listings_per_pass": 256,
+      "min_box_stack": 10
+    },
+    "mine": {
+      "collect_ore": true,
+      "daily_diamond_target": 10,
+      "enabled": true,
+      "max_tools_per_pass": 40,
+      "tools": [
+        2200001,
+        2200004,
+        2200000,
+        2200005
+      ]
+    },
+    "production": {
+      "collect_ready": true,
+      "enabled": true,
+      "targets": [
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 1600004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400013,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2400012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2300000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2300001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2300002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2300003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2700000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2700001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2700002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000016,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000013,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000015,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000014,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 3000011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600014,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600013,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2600010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2800005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 14500004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500014,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 2500013,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6500000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6500001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6500002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6500003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6500004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6900012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6000011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 6600009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 33400000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 33400001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 33400002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 7500000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 7500001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 7500003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15200000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15200001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8200005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 10900009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15300000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15300001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15300002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15300004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 15300003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 20200005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 8400005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11900007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11700000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11700001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11700002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11700003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11700004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800012,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800010,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 11800011,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12100008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 12900008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27800004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28100000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28100001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28100002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23800004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16900006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16700000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16700001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16700002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 16700003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17600004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17600000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17600001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17600002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17600003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700007,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700006,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700009,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 17700008,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 23900003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24100002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24100003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24100000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24100001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24100004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 24000005,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26100001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26100002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26100003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26100000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26100004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26200000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26200001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26200002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26300004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26300000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26300001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26300002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26300003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26700000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26700001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26700002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26700003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26900000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26900002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26900001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26800003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26800000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26800001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 26800002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 29400000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 29400001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 29400002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27400002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27400000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27400003,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27400004,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 27400001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28000000,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28000001,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 28000002,
+          "target_stock": 10
+        },
+        {
+          "max_queue_per_pass": 3,
+          "product": 7500004,
+          "target_stock": 10
+        }
+      ]
+    },
+    "sniper": {
+      "allow_paid_refresh": false,
+      "enabled": true,
+      "items": [
+        {
+          "item": 3800000,
+          "max_owned": 0
+        },
+        {
+          "item": 2200002,
+          "max_owned": 0
+        },
+        {
+          "item": 3800006,
+          "max_owned": 0
+        },
+        {
+          "item": 3800007,
+          "max_owned": 0
+        },
+        {
+          "item": 3800001,
+          "max_owned": 0
+        },
+        {
+          "item": 3800005,
+          "max_owned": 0
+        },
+        {
+          "item": 2400000,
+          "max_owned": 0
+        },
+        {
+          "item": 2400002,
+          "max_owned": 0
+        },
+        {
+          "item": 2400001,
+          "max_owned": 0
+        },
+        {
+          "item": 2400005,
+          "max_owned": 0
+        },
+        {
+          "item": 2400006,
+          "max_owned": 0
+        },
+        {
+          "item": 2400013,
+          "max_owned": 0
+        },
+        {
+          "item": 2400003,
+          "max_owned": 0
+        },
+        {
+          "item": 2400004,
+          "max_owned": 0
+        },
+        {
+          "item": 2400007,
+          "max_owned": 0
+        },
+        {
+          "item": 2400008,
+          "max_owned": 0
+        },
+        {
+          "item": 2400010,
+          "max_owned": 0
+        },
+        {
+          "item": 2400009,
+          "max_owned": 0
+        },
+        {
+          "item": 2400011,
+          "max_owned": 0
+        },
+        {
+          "item": 2400012,
+          "max_owned": 0
+        },
+        {
+          "item": 2300000,
+          "max_owned": 0
+        },
+        {
+          "item": 2300001,
+          "max_owned": 0
+        },
+        {
+          "item": 2300002,
+          "max_owned": 0
+        },
+        {
+          "item": 2300003,
+          "max_owned": 0
+        },
+        {
+          "item": 2700000,
+          "max_owned": 0
+        },
+        {
+          "item": 2700001,
+          "max_owned": 0
+        },
+        {
+          "item": 2700002,
+          "max_owned": 0
+        },
+        {
+          "item": 2900000,
+          "max_owned": 0
+        },
+        {
+          "item": 2900001,
+          "max_owned": 0
+        },
+        {
+          "item": 2900002,
+          "max_owned": 0
+        },
+        {
+          "item": 2900004,
+          "max_owned": 0
+        },
+        {
+          "item": 2900003,
+          "max_owned": 0
+        },
+        {
+          "item": 2900005,
+          "max_owned": 0
+        },
+        {
+          "item": 2600000,
+          "max_owned": 0
+        },
+        {
+          "item": 2600002,
+          "max_owned": 0
+        },
+        {
+          "item": 2600001,
+          "max_owned": 0
+        },
+        {
+          "item": 2600003,
+          "max_owned": 0
+        },
+        {
+          "item": 2600007,
+          "max_owned": 0
+        },
+        {
+          "item": 2600004,
+          "max_owned": 0
+        },
+        {
+          "item": 2600005,
+          "max_owned": 0
+        },
+        {
+          "item": 2600006,
+          "max_owned": 0
+        },
+        {
+          "item": 2600014,
+          "max_owned": 0
+        },
+        {
+          "item": 2600011,
+          "max_owned": 0
+        },
+        {
+          "item": 2600008,
+          "max_owned": 0
+        },
+        {
+          "item": 2600009,
+          "max_owned": 0
+        },
+        {
+          "item": 2600013,
+          "max_owned": 0
+        },
+        {
+          "item": 2600012,
+          "max_owned": 0
+        },
+        {
+          "item": 2600010,
+          "max_owned": 0
+        },
+        {
+          "item": 3000000,
+          "max_owned": 0
+        },
+        {
+          "item": 3000001,
+          "max_owned": 0
+        },
+        {
+          "item": 3000002,
+          "max_owned": 0
+        },
+        {
+          "item": 3000016,
+          "max_owned": 0
+        },
+        {
+          "item": 3000005,
+          "max_owned": 0
+        },
+        {
+          "item": 3000003,
+          "max_owned": 0
+        },
+        {
+          "item": 3000004,
+          "max_owned": 0
+        },
+        {
+          "item": 3000006,
+          "max_owned": 0
+        },
+        {
+          "item": 3000007,
+          "max_owned": 0
+        },
+        {
+          "item": 3000013,
+          "max_owned": 0
+        },
+        {
+          "item": 3000015,
+          "max_owned": 0
+        },
+        {
+          "item": 3000008,
+          "max_owned": 0
+        },
+        {
+          "item": 3000012,
+          "max_owned": 0
+        },
+        {
+          "item": 3000014,
+          "max_owned": 0
+        },
+        {
+          "item": 3000010,
+          "max_owned": 0
+        },
+        {
+          "item": 3000009,
+          "max_owned": 0
+        },
+        {
+          "item": 3000011,
+          "max_owned": 0
+        },
+        {
+          "item": 3800002,
+          "max_owned": 0
+        },
+        {
+          "item": 3800004,
+          "max_owned": 0
+        },
+        {
+          "item": 3800003,
+          "max_owned": 0
+        },
+        {
+          "item": 2200001,
+          "max_owned": 0
+        },
+        {
+          "item": 2200000,
+          "max_owned": 0
+        },
+        {
+          "item": 2200003,
+          "max_owned": 0
+        },
+        {
+          "item": 2200004,
+          "max_owned": 0
+        },
+        {
+          "item": 3800008,
+          "max_owned": 0
+        },
+        {
+          "item": 3800013,
+          "max_owned": 0
+        },
+        {
+          "item": 3800009,
+          "max_owned": 0
+        },
+        {
+          "item": 3800010,
+          "max_owned": 0
+        },
+        {
+          "item": 3800015,
+          "max_owned": 0
+        },
+        {
+          "item": 3800011,
+          "max_owned": 0
+        },
+        {
+          "item": 2200005,
+          "max_owned": 0
+        },
+        {
+          "item": 3800012,
+          "max_owned": 0
+        },
+        {
+          "item": 3800014,
+          "max_owned": 0
+        },
+        {
+          "item": 1600000,
+          "max_owned": 0
+        },
+        {
+          "item": 1600001,
+          "max_owned": 0
+        },
+        {
+          "item": 1600006,
+          "max_owned": 0
+        },
+        {
+          "item": 1600002,
+          "max_owned": 0
+        },
+        {
+          "item": 1600005,
+          "max_owned": 0
+        },
+        {
+          "item": 1600003,
+          "max_owned": 0
+        },
+        {
+          "item": 1600007,
+          "max_owned": 0
+        },
+        {
+          "item": 1600004,
+          "max_owned": 0
+        },
+        {
+          "item": 6100000,
+          "max_owned": 0
+        },
+        {
+          "item": 6100002,
+          "max_owned": 0
+        },
+        {
+          "item": 6100001,
+          "max_owned": 0
+        },
+        {
+          "item": 6100003,
+          "max_owned": 0
+        },
+        {
+          "item": 6100016,
+          "max_owned": 0
+        },
+        {
+          "item": 6100004,
+          "max_owned": 0
+        },
+        {
+          "item": 6100005,
+          "max_owned": 0
+        },
+        {
+          "item": 6100006,
+          "max_owned": 0
+        },
+        {
+          "item": 6100007,
+          "max_owned": 0
+        },
+        {
+          "item": 6100008,
+          "max_owned": 0
+        },
+        {
+          "item": 6100009,
+          "max_owned": 0
+        },
+        {
+          "item": 6100010,
+          "max_owned": 0
+        },
+        {
+          "item": 6100011,
+          "max_owned": 0
+        },
+        {
+          "item": 6100012,
+          "max_owned": 0
+        },
+        {
+          "item": 6100013,
+          "max_owned": 0
+        },
+        {
+          "item": 6100014,
+          "max_owned": 0
+        },
+        {
+          "item": 6100015,
+          "max_owned": 0
+        },
+        {
+          "item": 2800000,
+          "max_owned": 0
+        },
+        {
+          "item": 2800004,
+          "max_owned": 0
+        },
+        {
+          "item": 2800001,
+          "max_owned": 0
+        },
+        {
+          "item": 2800002,
+          "max_owned": 0
+        },
+        {
+          "item": 2800003,
+          "max_owned": 0
+        },
+        {
+          "item": 2800005,
+          "max_owned": 0
+        },
+        {
+          "item": 14500000,
+          "max_owned": 0
+        },
+        {
+          "item": 14500001,
+          "max_owned": 0
+        },
+        {
+          "item": 14500002,
+          "max_owned": 0
+        },
+        {
+          "item": 14500005,
+          "max_owned": 0
+        },
+        {
+          "item": 14500003,
+          "max_owned": 0
+        },
+        {
+          "item": 14500004,
+          "max_owned": 0
+        },
+        {
+          "item": 6400001,
+          "max_owned": 0
+        },
+        {
+          "item": 6400002,
+          "max_owned": 0
+        },
+        {
+          "item": 6400000,
+          "max_owned": 0
+        },
+        {
+          "item": 6400003,
+          "max_owned": 0
+        },
+        {
+          "item": 6400004,
+          "max_owned": 0
+        },
+        {
+          "item": 2500001,
+          "max_owned": 0
+        },
+        {
+          "item": 2500005,
+          "max_owned": 0
+        },
+        {
+          "item": 2500002,
+          "max_owned": 0
+        },
+        {
+          "item": 2500000,
+          "max_owned": 0
+        },
+        {
+          "item": 2500014,
+          "max_owned": 0
+        },
+        {
+          "item": 2500004,
+          "max_owned": 0
+        },
+        {
+          "item": 2500003,
+          "max_owned": 0
+        },
+        {
+          "item": 2500006,
+          "max_owned": 0
+        },
+        {
+          "item": 2500008,
+          "max_owned": 0
+        },
+        {
+          "item": 2500011,
+          "max_owned": 0
+        },
+        {
+          "item": 2500010,
+          "max_owned": 0
+        },
+        {
+          "item": 2500007,
+          "max_owned": 0
+        },
+        {
+          "item": 2500009,
+          "max_owned": 0
+        },
+        {
+          "item": 2500012,
+          "max_owned": 0
+        },
+        {
+          "item": 2500013,
+          "max_owned": 0
+        },
+        {
+          "item": 6500000,
+          "max_owned": 0
+        },
+        {
+          "item": 6500001,
+          "max_owned": 0
+        },
+        {
+          "item": 6500002,
+          "max_owned": 0
+        },
+        {
+          "item": 6500003,
+          "max_owned": 0
+        },
+        {
+          "item": 6500004,
+          "max_owned": 0
+        },
+        {
+          "item": 6000000,
+          "max_owned": 0
+        },
+        {
+          "item": 6000002,
+          "max_owned": 0
+        },
+        {
+          "item": 6000003,
+          "max_owned": 0
+        },
+        {
+          "item": 6000004,
+          "max_owned": 0
+        },
+        {
+          "item": 6000001,
+          "max_owned": 0
+        },
+        {
+          "item": 6000008,
+          "max_owned": 0
+        },
+        {
+          "item": 6000005,
+          "max_owned": 0
+        },
+        {
+          "item": 6000006,
+          "max_owned": 0
+        },
+        {
+          "item": 6000009,
+          "max_owned": 0
+        },
+        {
+          "item": 6000007,
+          "max_owned": 0
+        },
+        {
+          "item": 6000010,
+          "max_owned": 0
+        },
+        {
+          "item": 6000011,
+          "max_owned": 0
+        },
+        {
+          "item": 10100000,
+          "max_owned": 0
+        },
+        {
+          "item": 10100001,
+          "max_owned": 0
+        },
+        {
+          "item": 10100002,
+          "max_owned": 0
+        },
+        {
+          "item": 6900000,
+          "max_owned": 0
+        },
+        {
+          "item": 6900001,
+          "max_owned": 0
+        },
+        {
+          "item": 6900002,
+          "max_owned": 0
+        },
+        {
+          "item": 6900003,
+          "max_owned": 0
+        },
+        {
+          "item": 6900008,
+          "max_owned": 0
+        },
+        {
+          "item": 6900009,
+          "max_owned": 0
+        },
+        {
+          "item": 6900010,
+          "max_owned": 0
+        },
+        {
+          "item": 6900004,
+          "max_owned": 0
+        },
+        {
+          "item": 6900005,
+          "max_owned": 0
+        },
+        {
+          "item": 6900007,
+          "max_owned": 0
+        },
+        {
+          "item": 6900006,
+          "max_owned": 0
+        },
+        {
+          "item": 6900011,
+          "max_owned": 0
+        },
+        {
+          "item": 6900012,
+          "max_owned": 0
+        },
+        {
+          "item": 33400000,
+          "max_owned": 0
+        },
+        {
+          "item": 33400001,
+          "max_owned": 0
+        },
+        {
+          "item": 33400002,
+          "max_owned": 0
+        },
+        {
+          "item": 6600000,
+          "max_owned": 0
+        },
+        {
+          "item": 6600001,
+          "max_owned": 0
+        },
+        {
+          "item": 6600002,
+          "max_owned": 0
+        },
+        {
+          "item": 6600003,
+          "max_owned": 0
+        },
+        {
+          "item": 6600004,
+          "max_owned": 0
+        },
+        {
+          "item": 6600010,
+          "max_owned": 0
+        },
+        {
+          "item": 6600005,
+          "max_owned": 0
+        },
+        {
+          "item": 6600006,
+          "max_owned": 0
+        },
+        {
+          "item": 6600007,
+          "max_owned": 0
+        },
+        {
+          "item": 6600008,
+          "max_owned": 0
+        },
+        {
+          "item": 6600009,
+          "max_owned": 0
+        },
+        {
+          "item": 7500000,
+          "max_owned": 0
+        },
+        {
+          "item": 7500001,
+          "max_owned": 0
+        },
+        {
+          "item": 7500002,
+          "max_owned": 0
+        },
+        {
+          "item": 7500003,
+          "max_owned": 0
+        },
+        {
+          "item": 7500004,
+          "max_owned": 0
+        },
+        {
+          "item": 15200000,
+          "max_owned": 0
+        },
+        {
+          "item": 15200001,
+          "max_owned": 0
+        },
+        {
+          "item": 15000000,
+          "max_owned": 0
+        },
+        {
+          "item": 8200000,
+          "max_owned": 0
+        },
+        {
+          "item": 8200001,
+          "max_owned": 0
+        },
+        {
+          "item": 8200002,
+          "max_owned": 0
+        },
+        {
+          "item": 8200003,
+          "max_owned": 0
+        },
+        {
+          "item": 8200004,
+          "max_owned": 0
+        },
+        {
+          "item": 8200006,
+          "max_owned": 0
+        },
+        {
+          "item": 8200005,
+          "max_owned": 0
+        },
+        {
+          "item": 10900012,
+          "max_owned": 0
+        },
+        {
+          "item": 10900000,
+          "max_owned": 0
+        },
+        {
+          "item": 10900001,
+          "max_owned": 0
+        },
+        {
+          "item": 10900003,
+          "max_owned": 0
+        },
+        {
+          "item": 10900011,
+          "max_owned": 0
+        },
+        {
+          "item": 10900002,
+          "max_owned": 0
+        },
+        {
+          "item": 10900010,
+          "max_owned": 0
+        },
+        {
+          "item": 10900005,
+          "max_owned": 0
+        },
+        {
+          "item": 10900004,
+          "max_owned": 0
+        },
+        {
+          "item": 10900006,
+          "max_owned": 0
+        },
+        {
+          "item": 10900007,
+          "max_owned": 0
+        },
+        {
+          "item": 10900008,
+          "max_owned": 0
+        },
+        {
+          "item": 10900009,
+          "max_owned": 0
+        },
+        {
+          "item": 15300000,
+          "max_owned": 0
+        },
+        {
+          "item": 15300001,
+          "max_owned": 0
+        },
+        {
+          "item": 15300002,
+          "max_owned": 0
+        },
+        {
+          "item": 15300004,
+          "max_owned": 0
+        },
+        {
+          "item": 15300003,
+          "max_owned": 0
+        },
+        {
+          "item": 20200000,
+          "max_owned": 0
+        },
+        {
+          "item": 20200001,
+          "max_owned": 0
+        },
+        {
+          "item": 20200004,
+          "max_owned": 0
+        },
+        {
+          "item": 20200003,
+          "max_owned": 0
+        },
+        {
+          "item": 20200006,
+          "max_owned": 0
+        },
+        {
+          "item": 20200002,
+          "max_owned": 0
+        },
+        {
+          "item": 20200005,
+          "max_owned": 0
+        },
+        {
+          "item": 8400000,
+          "max_owned": 0
+        },
+        {
+          "item": 8400001,
+          "max_owned": 0
+        },
+        {
+          "item": 8400002,
+          "max_owned": 0
+        },
+        {
+          "item": 8400003,
+          "max_owned": 0
+        },
+        {
+          "item": 8400004,
+          "max_owned": 0
+        },
+        {
+          "item": 8400006,
+          "max_owned": 0
+        },
+        {
+          "item": 8400007,
+          "max_owned": 0
+        },
+        {
+          "item": 8400005,
+          "max_owned": 0
+        },
+        {
+          "item": 11900009,
+          "max_owned": 0
+        },
+        {
+          "item": 11900000,
+          "max_owned": 0
+        },
+        {
+          "item": 11900001,
+          "max_owned": 0
+        },
+        {
+          "item": 11900002,
+          "max_owned": 0
+        },
+        {
+          "item": 11900003,
+          "max_owned": 0
+        },
+        {
+          "item": 11900006,
+          "max_owned": 0
+        },
+        {
+          "item": 11900004,
+          "max_owned": 0
+        },
+        {
+          "item": 11900005,
+          "max_owned": 0
+        },
+        {
+          "item": 11900008,
+          "max_owned": 0
+        },
+        {
+          "item": 11900007,
+          "max_owned": 0
+        },
+        {
+          "item": 11700000,
+          "max_owned": 0
+        },
+        {
+          "item": 11700001,
+          "max_owned": 0
+        },
+        {
+          "item": 11700002,
+          "max_owned": 0
+        },
+        {
+          "item": 11700003,
+          "max_owned": 0
+        },
+        {
+          "item": 11700004,
+          "max_owned": 0
+        },
+        {
+          "item": 11800012,
+          "max_owned": 0
+        },
+        {
+          "item": 11800000,
+          "max_owned": 0
+        },
+        {
+          "item": 11800001,
+          "max_owned": 0
+        },
+        {
+          "item": 11800002,
+          "max_owned": 0
+        },
+        {
+          "item": 11800003,
+          "max_owned": 0
+        },
+        {
+          "item": 11800007,
+          "max_owned": 0
+        },
+        {
+          "item": 11800010,
+          "max_owned": 0
+        },
+        {
+          "item": 11800009,
+          "max_owned": 0
+        },
+        {
+          "item": 11800006,
+          "max_owned": 0
+        },
+        {
+          "item": 11800004,
+          "max_owned": 0
+        },
+        {
+          "item": 11800005,
+          "max_owned": 0
+        },
+        {
+          "item": 11800008,
+          "max_owned": 0
+        },
+        {
+          "item": 11800011,
+          "max_owned": 0
+        },
+        {
+          "item": 12100001,
+          "max_owned": 0
+        },
+        {
+          "item": 12100000,
+          "max_owned": 0
+        },
+        {
+          "item": 12100002,
+          "max_owned": 0
+        },
+        {
+          "item": 12100003,
+          "max_owned": 0
+        },
+        {
+          "item": 12100007,
+          "max_owned": 0
+        },
+        {
+          "item": 12100006,
+          "max_owned": 0
+        },
+        {
+          "item": 12100005,
+          "max_owned": 0
+        },
+        {
+          "item": 12100004,
+          "max_owned": 0
+        },
+        {
+          "item": 12100008,
+          "max_owned": 0
+        },
+        {
+          "item": 24700000,
+          "max_owned": 0
+        },
+        {
+          "item": 12900001,
+          "max_owned": 0
+        },
+        {
+          "item": 12900000,
+          "max_owned": 0
+        },
+        {
+          "item": 12900006,
+          "max_owned": 0
+        },
+        {
+          "item": 12900002,
+          "max_owned": 0
+        },
+        {
+          "item": 12900003,
+          "max_owned": 0
+        },
+        {
+          "item": 12900007,
+          "max_owned": 0
+        },
+        {
+          "item": 12900004,
+          "max_owned": 0
+        },
+        {
+          "item": 12900005,
+          "max_owned": 0
+        },
+        {
+          "item": 12900008,
+          "max_owned": 0
+        },
+        {
+          "item": 16800000,
+          "max_owned": 0
+        },
+        {
+          "item": 16800001,
+          "max_owned": 0
+        },
+        {
+          "item": 28600000,
+          "max_owned": 0
+        },
+        {
+          "item": 28600003,
+          "max_owned": 0
+        },
+        {
+          "item": 28600002,
+          "max_owned": 0
+        },
+        {
+          "item": 28600001,
+          "max_owned": 0
+        },
+        {
+          "item": 23800000,
+          "max_owned": 0
+        },
+        {
+          "item": 23800004,
+          "max_owned": 0
+        },
+        {
+          "item": 23800002,
+          "max_owned": 0
+        },
+        {
+          "item": 23800003,
+          "max_owned": 0
+        },
+        {
+          "item": 23800001,
+          "max_owned": 0
+        },
+        {
+          "item": 16600000,
+          "max_owned": 0
+        },
+        {
+          "item": 16600001,
+          "max_owned": 0
+        },
+        {
+          "item": 16600002,
+          "max_owned": 0
+        },
+        {
+          "item": 16600003,
+          "max_owned": 0
+        },
+        {
+          "item": 16700000,
+          "max_owned": 0
+        },
+        {
+          "item": 16700001,
+          "max_owned": 0
+        },
+        {
+          "item": 16700002,
+          "max_owned": 0
+        },
+        {
+          "item": 16700003,
+          "max_owned": 0
+        },
+        {
+          "item": 16900000,
+          "max_owned": 0
+        },
+        {
+          "item": 16900001,
+          "max_owned": 0
+        },
+        {
+          "item": 16900002,
+          "max_owned": 0
+        },
+        {
+          "item": 16900005,
+          "max_owned": 0
+        },
+        {
+          "item": 16900003,
+          "max_owned": 0
+        },
+        {
+          "item": 16900004,
+          "max_owned": 0
+        },
+        {
+          "item": 16900006,
+          "max_owned": 0
+        },
+        {
+          "item": 24800000,
+          "max_owned": 0
+        },
+        {
+          "item": 24800005,
+          "max_owned": 0
+        },
+        {
+          "item": 24800004,
+          "max_owned": 0
+        },
+        {
+          "item": 24800001,
+          "max_owned": 0
+        },
+        {
+          "item": 24800002,
+          "max_owned": 0
+        },
+        {
+          "item": 24800003,
+          "max_owned": 0
+        },
+        {
+          "item": 27800000,
+          "max_owned": 0
+        },
+        {
+          "item": 27800001,
+          "max_owned": 0
+        },
+        {
+          "item": 27800003,
+          "max_owned": 0
+        },
+        {
+          "item": 27800002,
+          "max_owned": 0
+        },
+        {
+          "item": 27800004,
+          "max_owned": 0
+        },
+        {
+          "item": 17600004,
+          "max_owned": 0
+        },
+        {
+          "item": 17600000,
+          "max_owned": 0
+        },
+        {
+          "item": 17600001,
+          "max_owned": 0
+        },
+        {
+          "item": 17600002,
+          "max_owned": 0
+        },
+        {
+          "item": 17600003,
+          "max_owned": 0
+        },
+        {
+          "item": 26200000,
+          "max_owned": 0
+        },
+        {
+          "item": 26200001,
+          "max_owned": 0
+        },
+        {
+          "item": 26200002,
+          "max_owned": 0
+        },
+        {
+          "item": 26100001,
+          "max_owned": 0
+        },
+        {
+          "item": 26100002,
+          "max_owned": 0
+        },
+        {
+          "item": 26100003,
+          "max_owned": 0
+        },
+        {
+          "item": 26100000,
+          "max_owned": 0
+        },
+        {
+          "item": 26100004,
+          "max_owned": 0
+        },
+        {
+          "item": 24000000,
+          "max_owned": 0
+        },
+        {
+          "item": 24000002,
+          "max_owned": 0
+        },
+        {
+          "item": 24000004,
+          "max_owned": 0
+        },
+        {
+          "item": 24000001,
+          "max_owned": 0
+        },
+        {
+          "item": 24000003,
+          "max_owned": 0
+        },
+        {
+          "item": 24000005,
+          "max_owned": 0
+        },
+        {
+          "item": 24100002,
+          "max_owned": 0
+        },
+        {
+          "item": 24100003,
+          "max_owned": 0
+        },
+        {
+          "item": 24100000,
+          "max_owned": 0
+        },
+        {
+          "item": 24100001,
+          "max_owned": 0
+        },
+        {
+          "item": 24100004,
+          "max_owned": 0
+        },
+        {
+          "item": 23900002,
+          "max_owned": 0
+        },
+        {
+          "item": 23900001,
+          "max_owned": 0
+        },
+        {
+          "item": 23900000,
+          "max_owned": 0
+        },
+        {
+          "item": 23900003,
+          "max_owned": 0
+        },
+        {
+          "item": 17700000,
+          "max_owned": 0
+        },
+        {
+          "item": 17700001,
+          "max_owned": 0
+        },
+        {
+          "item": 17700002,
+          "max_owned": 0
+        },
+        {
+          "item": 17700003,
+          "max_owned": 0
+        },
+        {
+          "item": 17700007,
+          "max_owned": 0
+        },
+        {
+          "item": 17700004,
+          "max_owned": 0
+        },
+        {
+          "item": 17700005,
+          "max_owned": 0
+        },
+        {
+          "item": 17700006,
+          "max_owned": 0
+        },
+        {
+          "item": 17700009,
+          "max_owned": 0
+        },
+        {
+          "item": 17700008,
+          "max_owned": 0
+        },
+        {
+          "item": 28100000,
+          "max_owned": 0
+        },
+        {
+          "item": 28100001,
+          "max_owned": 0
+        },
+        {
+          "item": 28100002,
+          "max_owned": 0
+        },
+        {
+          "item": 28000000,
+          "max_owned": 0
+        },
+        {
+          "item": 28000001,
+          "max_owned": 0
+        },
+        {
+          "item": 28000002,
+          "max_owned": 0
+        },
+        {
+          "item": 27400002,
+          "max_owned": 0
+        },
+        {
+          "item": 27400000,
+          "max_owned": 0
+        },
+        {
+          "item": 27400003,
+          "max_owned": 0
+        },
+        {
+          "item": 27400004,
+          "max_owned": 0
+        },
+        {
+          "item": 27400001,
+          "max_owned": 0
+        },
+        {
+          "item": 29400000,
+          "max_owned": 0
+        },
+        {
+          "item": 29400001,
+          "max_owned": 0
+        },
+        {
+          "item": 29400002,
+          "max_owned": 0
+        },
+        {
+          "item": 26800003,
+          "max_owned": 0
+        },
+        {
+          "item": 26800000,
+          "max_owned": 0
+        },
+        {
+          "item": 26800001,
+          "max_owned": 0
+        },
+        {
+          "item": 26800002,
+          "max_owned": 0
+        },
+        {
+          "item": 26900000,
+          "max_owned": 0
+        },
+        {
+          "item": 26900002,
+          "max_owned": 0
+        },
+        {
+          "item": 26900001,
+          "max_owned": 0
+        },
+        {
+          "item": 26700000,
+          "max_owned": 0
+        },
+        {
+          "item": 26700001,
+          "max_owned": 0
+        },
+        {
+          "item": 26700002,
+          "max_owned": 0
+        },
+        {
+          "item": 26700003,
+          "max_owned": 0
+        },
+        {
+          "item": 26300004,
+          "max_owned": 0
+        },
+        {
+          "item": 26300000,
+          "max_owned": 0
+        },
+        {
+          "item": 26300001,
+          "max_owned": 0
+        },
+        {
+          "item": 26300002,
+          "max_owned": 0
+        },
+        {
+          "item": 26300003,
+          "max_owned": 0
+        }
+      ],
+      "max_purchases_per_pass": 512,
+      "max_sellers_per_pass": 60,
+      "scan_other_ads": true
+    },
+    "trees": {
+      "collect_honey": true,
+      "collect_trees": true,
+      "enabled": true,
+      "request_help": true
+    },
+    "trucks": {
+      "auto_help_voucher": true,
+      "auto_send_ready": true,
+      "clear": 2,
+      "enabled": true,
+      "fill_source": 0,
+      "item_filter_items": [],
+      "item_filter_mode": 0,
+      "max_items_per_order": 0,
+      "reward_filter": 0
+    },
+    "visitors": {
+      "enabled": true,
+      "items": [
+        6400001,
+        6400002,
+        6400000,
+        6400003,
+        6400004,
+        6500000,
+        6500001,
+        6500002,
+        6500003,
+        6500004,
+        3800002,
+        3800004,
+        3800001,
+        3800000,
+        3800003,
+        3800005,
+        2200002,
+        2200001,
+        2200000,
+        2200003,
+        2200004,
+        3800006,
+        3800007,
+        3800008,
+        3800013,
+        3800009,
+        3800010,
+        3800015,
+        3800011,
+        2200005,
+        3800012,
+        3800014,
+        1600000,
+        1600001,
+        1600006,
+        1600002,
+        1600005,
+        1600003,
+        1600007,
+        1600004,
+        1500000,
+        1500001,
+        1500003,
+        1500002,
+        1500005,
+        1500004,
+        400001,
+        400002,
+        400003,
+        400004,
+        400005,
+        400006,
+        400007,
+        400014,
+        400040,
+        400008,
+        400009,
+        400010,
+        400011,
+        400039,
+        400037,
+        400029,
+        400024,
+        400030,
+        400012,
+        400013,
+        400032,
+        400018,
+        400033,
+        400015,
+        400023,
+        400031,
+        400020,
+        400028,
+        400016,
+        400019,
+        400026,
+        400017,
+        400021,
+        400036,
+        400027,
+        400025,
+        400022,
+        400034,
+        400035,
+        400038,
+        2400000,
+        2400002,
+        2400001,
+        2400005,
+        2400006,
+        2400013,
+        2400003,
+        2400004,
+        2400007,
+        2400008,
+        2400010,
+        2400009,
+        2400011,
+        2400012,
+        2300000,
+        2300001,
+        2300002,
+        2300003,
+        2700000,
+        2700001,
+        2700002,
+        2900000,
+        2900001,
+        2900002,
+        2900004,
+        2900003,
+        2900005,
+        3000000,
+        3000001,
+        3000002,
+        3000016,
+        3000005,
+        3000003,
+        3000004,
+        3000006,
+        3000007,
+        3000013,
+        3000015,
+        3000008,
+        3000012,
+        3000014,
+        3000010,
+        3000009,
+        3000011,
+        6100000,
+        6100002,
+        6100001,
+        6100003,
+        6100016,
+        6100004,
+        6100005,
+        6100006,
+        6100007,
+        6100008,
+        6100009,
+        6100010,
+        6100011,
+        6100012,
+        6100013,
+        6100014,
+        6100015,
+        2600000,
+        2600002,
+        2600001,
+        2600003,
+        2600007,
+        2600004,
+        2600005,
+        2600006,
+        2600014,
+        2600011,
+        2600008,
+        2600009,
+        2600013,
+        2600012,
+        2600010,
+        2800000,
+        2800004,
+        2800001,
+        2800002,
+        2800003,
+        2800005,
+        14500000,
+        14500001,
+        14500002,
+        14500005,
+        14500003,
+        14500004,
+        2500001,
+        2500005,
+        2500002,
+        2500000,
+        2500014,
+        2500004,
+        2500003,
+        2500006,
+        2500008,
+        2500011,
+        2500010,
+        2500007,
+        2500009,
+        2500012,
+        2500013,
+        10100000,
+        10100001,
+        10100002,
+        6000000,
+        6000002,
+        6000003,
+        6000004,
+        6000001,
+        6000008,
+        6000005,
+        6000006,
+        6000009,
+        6000007,
+        6000010,
+        6000011,
+        6900000,
+        6900001,
+        6900002,
+        6900003,
+        6900008,
+        6900009,
+        6900010,
+        6900004,
+        6900005,
+        6900007,
+        6900006,
+        6900011,
+        6900012,
+        33400000,
+        33400001,
+        33400002,
+        6600000,
+        6600001,
+        6600002,
+        6600003,
+        6600004,
+        6600010,
+        6600005,
+        6600006,
+        6600007,
+        6600008,
+        6600009,
+        7500000,
+        7500001,
+        7500002,
+        7500003,
+        7500004,
+        15200000,
+        15200001,
+        15000000,
+        8200000,
+        8200001,
+        8200002,
+        8200003,
+        8200004,
+        8200006,
+        8200005,
+        10900012,
+        10900000,
+        10900001,
+        10900003,
+        10900011,
+        10900002,
+        10900010,
+        10900005,
+        10900004,
+        10900006,
+        10900007,
+        10900008,
+        10900009,
+        15300000,
+        15300001,
+        15300002,
+        15300004,
+        15300003,
+        20200000,
+        20200001,
+        20200004,
+        20200003,
+        20200006,
+        20200002,
+        20200005,
+        8400000,
+        8400001,
+        8400002,
+        8400003,
+        8400004,
+        8400006,
+        8400007,
+        8400005,
+        11700000,
+        11700001,
+        11700002,
+        11700003,
+        11700004,
+        11900009,
+        11900000,
+        11900001,
+        11900002,
+        11900003,
+        11900006,
+        11900004,
+        11900005,
+        11900008,
+        11900007,
+        11800012,
+        11800000,
+        11800001,
+        11800002,
+        11800003,
+        11800007,
+        11800010,
+        11800009,
+        11800006,
+        11800004,
+        11800005,
+        11800008,
+        11800011,
+        24700000,
+        12100001,
+        12100000,
+        12100002,
+        12100003,
+        12100007,
+        12100006,
+        12100005,
+        12100004,
+        12100008,
+        12900001,
+        12900000,
+        12900006,
+        12900002,
+        12900003,
+        12900007,
+        12900004,
+        12900005,
+        12900008,
+        16800000,
+        16800001,
+        28600000,
+        28600003,
+        28600002,
+        28600001,
+        23800000,
+        23800004,
+        23800002,
+        23800003,
+        23800001
+      ],
+      "send_away_others": true
+    }
+  },
+  "cycle_on_newspaper": true,
+  "interval_s": 300,
+  "name": "loll",
+  "note": "",
+  "schema_version": 23
+}

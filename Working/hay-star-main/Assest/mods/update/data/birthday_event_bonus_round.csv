@@ -1,0 +1,3 @@
+Name,TID,RewardAmount,FileName,ExportName
+String,String,int,String,String
+BonusRound,TID_BIRTHDAY_BONUS_ROUND,1,sc/hud_task_event.sc,icon_lucky_bonus_big

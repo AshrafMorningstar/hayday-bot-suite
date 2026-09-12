@@ -1,0 +1,17 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Taco,sc/icons.sc,recipe_taco,TID_PRODUCT_TACO,Taco_Kitchen,1,Corn Bread,45,205,197,47,3,1,74,74,77,TID_TACO_KITCHEN_PRODUCT_DESCRIPTION,77,,74
+,,,,,1,Bacon,,,,,,,,,,,,,
+,,,,,1,Salsa,,,,,,,,,,,,,
+Fish Taco,sc/icons.sc,recipe_fish_taco,TID_PRODUCT_FISHTACO,Taco_Kitchen,2,Corn Bread,90,202,195,47,5,1,74,74,79,TID_TACO_KITCHEN_PRODUCT_DESCRIPTION,79,,74
+,,,,,1,Fish Meat,,,,,,,,,,,,,
+,,,,,2,Chili,,,,,,,,,,,,,
+,,,,,1,Lemon,,,,,,,,,,,,,
+Quesadilla,sc/icons.sc,recipe_quesadilla,TID_PRODUCT_QUESADILLA,Taco_Kitchen,4,Wheat,60,124,119,29,4,1,44,44,82,TID_TACO_KITCHEN_PRODUCT_DESCRIPTION,48,,44
+,,,,,1,Cheese,,,,,,,,,,,,,
+,,,,,2,Chili,,,,,,,,,,,,,
+Nachos,sc/icons.sc,recipe_nachos,TID_PRODUCT_NACHOS,Taco_Kitchen,4,Corn,75,224,215,52,4,1,78,78,87,TID_TACO_KITCHEN_PRODUCT_DESCRIPTION,82,,78
+,,,,,1,Salsa,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Spicy Bean Taco,sc/icons.sc,recipe_spicy_bean_taco,TID_PRODUCT_SPICY_BEAN_TACO,Taco_Kitchen,1,Taco,120,234,225,54,5,1,83,83,77,TID_TACO_KITCHEN_PRODUCT_DESCRIPTION,88,,83
+,,,,,2,BlackBean,,,,,,,,,,,,,

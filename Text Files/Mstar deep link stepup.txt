@@ -1,0 +1,131 @@
+Here is the complete, step-by-step breakdown of how the Instant Screen Jump / Teleport mechanism was discovered, designed, and implemented.
+
+Step 1: Discovering the Game's Internal Deep-Link System
+When investigating Hay Day’s internal files, we found 
+
+deeplinks.csv
+ inside com.supercell.hayday/نسخه اعلى سعر/update/data/.
+
+Looking at the contents of this file revealed the internal actions the game engine listens to:
+
+csv
+Name,ParameterType,ParameterName,Description,Public,Mode
+OpenDiamondShop,,,Open the shop.,true,
+OpenShopDeco,Decoration,deco,Open the shop and show the building,true,
+OpenClanSearch,,,Open the clan search screen.,true,
+OpenEventBoard,,,Open the Event Board UI,true,
+VisitFishing,,,Open own fishing area,true,
+VisitTown,,,Open own town area,true,
+VisitGregFarm,,,Open Greg's farm,true,
+VisitGregTown,,,Open Greg's town,true,
+OpenSCID,String,p,Open SCID UI. Optional p = player scid,true,
+Supercell designed these deep links so that:
+
+Marketing notifications or website links (link.haydaygame.com) can direct players straight to an in-game area.
+In-game popups and tutorials can navigate between worlds (e.g. traveling between Farm, Fishing, and Town).
+Step 2: Finding How Android Routes URLs to Hay Day
+To see how the Android system passes these URLs into the Hay Day APK, we queried the Android Package Manager on LDPlayer:
+
+powershell
+adb shell "dumpsys package com.supercell.hayday | grep -A 10 'android.intent.action.VIEW'"
+What the system returned:
+
+text
+hayday:
+  com.supercell.hayday/.GameApp filter 565d1d3
+    Action: "android.intent.action.VIEW"
+    Category: "android.intent.category.DEFAULT"
+    Category: "android.intent.category.BROWSABLE"
+    Scheme: "hayday"
+This confirmed that:
+
+Hay Day registers the custom URL scheme hayday://.
+Any Android Intent targeting hayday:// is directly handled by com.supercell.hayday.GameApp.
+Step 3: Verifying the Native Bridge in logcat
+We tested sending a test intent through ADB:
+
+powershell
+adb shell "am start -a android.intent.action.VIEW -d 'hayday://?action=VisitFishing'"
+Then we checked the Android system logs (logcat):
+
+text
+I ActivityManager: START u0 {act=android.intent.action.VIEW dat=hayday://?action=VisitFishing cmp=com.supercell.hayday/.GameApp}
+V libnb: enter native_bridge2_getTrampoline Java_com_supercell_titan_GameApp_handleDeeplinkURL
+This showed the exact pipeline:
+
+Android OS receives android.intent.action.VIEW.
+Java calls GameApp.handleDeeplinkURL(url).
+The Supercell Titan game engine (libg.so) parses action=VisitFishing.
+The game camera immediately switches to the target world/view without requiring you to tap boats, train tracks, or UI icons.
+Step 4: Writing the Python Engine Method
+In 
+
+asset_editor.py
+, we implemented send_deeplink(self, action: str) inside the AssetEditor class:
+
+python
+def send_deeplink(self, action: str):
+    """Trigger an in-game screen/area navigation via deep link."""
+    if not self.is_device_online():
+        return False, f"LDPlayer ({self.device}) is offline or not running."
+    # Map friendly names to the game's exact action strings
+    action_map = {
+        "fishing": "VisitFishing",
+        "shop": "OpenDiamondShop",
+        "town": "VisitTown",
+        "greg": "VisitGregFarm",
+        "gregtown": "VisitGregTown",
+        "events": "OpenEventBoard",
+        "clans": "OpenClanSearch",
+    }
+    act = action_map.get(action.lower(), action)
+    
+    # Construct the Android Activity Manager command
+    cmd = f"am start -a android.intent.action.VIEW -d 'hayday://?action={act}'"
+    try:
+        res = subprocess.run(
+            [self.adb, "-s", self.device, "shell", cmd],
+            capture_output=True,
+            text=True,
+            timeout=5
+        )
+        if res.returncode == 0:
+            return True, f"Navigated to '{act}' on {self.device}"
+        return False, f"Navigation failed: {res.stderr or res.stdout}"
+    except Exception as e:
+        return False, str(e)
+Step 5: Adding the CLI Flag & Interactive Menu
+To make it effortless to call either from commands or from the terminal menu:
+
+1. Added CLI argument --goto in main():
+python
+if "--goto" in sys.argv:
+    idx = sys.argv.index("--goto")
+    dest = sys.argv[idx + 1] if idx + 1 < len(sys.argv) else "fishing"
+    ed = AssetEditor()
+    ok, msg = ed.send_deeplink(dest)
+    print(f"[{'+' if ok else '!'}] {msg}")
+    return 0 if ok else 1
+2. Added Menu Option [8] in interactive_cli():
+python
+elif choice == "8":
+    print("\n Instant Screen Jump / Teleport Destinations:")
+    print("   [1] Fishing Area (VisitFishing)")
+    print("   [2] Diamond / Roadside Shop (OpenDiamondShop)")
+    print("   [3] Town Area (VisitTown)")
+    print("   [4] Greg's Farm (VisitGregFarm)")
+    print("   [5] Greg's Town (VisitGregTown)")
+    print("   [6] Event Board (OpenEventBoard)")
+    print("   [7] Clan / Neighborhood Search (OpenClanSearch)")
+    tc = input(" Choose destination [1-7]: ").strip()
+    ...
+Summary of What Makes It Work
+Table Analysis: Found Supercell's valid actions in 
+
+deeplinks.csv
+.
+Intent Scheme: Verified hayday:// URI scheme via Android package manager dumpsys.
+OS Dispatch: Used adb shell am start -a android.intent.action.VIEW -d "hayday://?action=<ACTION>" to push the event directly into the running game process.
+Tool Integration: Wrapped it in Python so you can trigger instant jumps with a single command like python asset_editor.py --goto fishing.
+
+"./this file was created by Sonnet 46"

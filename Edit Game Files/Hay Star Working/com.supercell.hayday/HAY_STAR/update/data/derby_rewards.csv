@@ -1,0 +1,9381 @@
+Name,Rewards,RewardAmounts,Probabilities
+String,String,int,int
+DerbyRewardSet1_18_rookie,Axe,1,6
+,Saw,1,6
+,Shovel,1,6
+,Dynamite,1,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Brown_Sugar,3,4
+,White Sugar,3,4
+,Vanilla Ice Cream,1,4
+,Apple Jam,1,4
+,Raspberry,5,4
+,Cherry,5,4
+,Blackberry,5,4
+,Apple,5,4
+,Honey,3,4
+,Cream,3,4
+,Butter,3,4
+,Cheese,3,4
+,Goat Cheese,3,4
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet2_18_rookie,Axe,1,8
+,Saw,1,8
+,Shovel,1,8
+,Dynamite,1,8
+,Demolition Charge,1,8
+,Pickaxe,1,8
+,Land Deed,1,14
+,Mallet,1,14
+,Marker Stake,1,14
+,White Sugar,3,4
+,Syrup,3,4
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Raspberry,5,4
+,Cherry,5,4
+,Blackberry,5,4
+,Apple,5,4
+,Honey,3,4
+,Cream,3,4
+,Butter,3,4
+,Cheese,3,4
+,Goat Cheese,3,4
+,GnomeFisherman,1,5
+,GnomeFlowergirl,1,5
+DerbyRewardSet3_18_rookie,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,8
+,Nail,1,8
+,Bolt,1,8
+,Screw,1,8
+,Duct Tape,1,8
+,Wood Panel,1,8
+,Land Deed,1,8
+,Mallet,1,8
+,Marker Stake,1,8
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Syrup,5,6
+,Strawberry Ice Cream,2,6
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,6
+,Cherry Jam,2,6
+,GnomeMusician,1,6
+,HorseShoeStatue,1,6
+,Puzzle Piece 1,1,175
+DerbyRewardSet4_18_rookie,Axe,2,12
+,Saw,2,12
+,Shovel,2,12
+,Dynamite,2,12
+,Demolition Charge,2,12
+,Pickaxe,1,12
+,Plank,1,18
+,Nail,1,18
+,Bolt,1,18
+,Screw,1,18
+,Duct Tape,1,18
+,Wood Panel,1,18
+,Land Deed,1,18
+,Mallet,1,18
+,Marker Stake,1,18
+,Hammer,1,6
+,Hand Drill,1,6
+,Paint Bucket,1,6
+,Stone Block,1,6
+,Brick,1,6
+,Tar Bucket,1,6
+,Map Piece,1,3
+,Voucher1,1,6
+,Expansion Key,1,20
+DerbyRewardSet5_18_rookie,FreeDiamonds,2,2
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Horse balloon,1,1
+,GnomePainter,1,1
+,GnomeFisherman,1,1
+DerbyRewardSetBronze_18_rookie,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,Voucher3,1,2
+DerbyRewardSetSilver_18_rookie,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,3,4
+,Nail,3,4
+,Bolt,3,4
+,Screw,3,4
+,Duct Tape,3,4
+,Wood Panel,3,4
+,Land Deed,3,3
+,Mallet,3,3
+,Marker Stake,3,3
+,Hammer,3,1
+,Hand Drill,3,1
+,Paint Bucket,3,1
+,Stone Block,3,1
+,Brick,3,1
+,Tar Bucket,3,1
+,Voucher3,2,2
+,Voucher4,1,2
+DerbyRewardSetGold_18_rookie,Axe,5,6
+,Pickaxe,5,6
+,Plank,4,4
+,Nail,4,4
+,Bolt,4,4
+,Screw,4,4
+,Duct Tape,4,4
+,Wood Panel,4,4
+,Land Deed,4,3
+,Mallet,4,3
+,Marker Stake,4,3
+,Hammer,4,1
+,Hand Drill,4,1
+,Paint Bucket,4,1
+,Stone Block,4,1
+,Brick,4,1
+,Tar Bucket,4,1
+,Voucher3,3,3
+,Voucher4,2,3
+DerbyRewardSet1_41_rookie,Axe,1,6
+,Saw,1,6
+,Shovel,1,6
+,Dynamite,1,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Brown_Sugar,3,3
+,White Sugar,3,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,3
+,Raspberry,5,3
+,Cherry,5,3
+,Blackberry,5,3
+,Apple,5,3
+,Honey,3,3
+,Cream,3,3
+,Butter,3,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+,Bracelet,1,3
+,SoySauce,1,3
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet2_41_rookie,Axe,3,3
+,Saw,3,3
+,Shovel,2,3
+,Dynamite,2,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,White Sugar,5,1
+,Syrup,5,1
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,9,1
+,Cherry,9,1
+,Blackberry,9,1
+,Apple,9,1
+,Honey,5,1
+,Cream,5,1
+,Butter,5,1
+,Cheese,3,1
+,Goat Cheese,3,1
+,Lobster Meat,3,1
+,Duck Down,3,1
+,GnomeFisherman,1,2
+,GnomeFlowergirl,1,2
+DerbyRewardSet3_41_rookie,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Brown_Sugar,5,2
+,White Sugar,5,3
+,Syrup,5,3
+,Strawberry Ice Cream,2,3
+,Chocolate Ice Cream,2,3
+,Blackberry Jam,2,3
+,Cherry Jam,2,3
+,Lobster Meat,2,4
+,Duck Down,2,4
+,GnomeMusician,1,4
+,HorseShoeStatue,1,4
+,Puzzle Piece 1,1,121
+DerbyRewardSet4_41_rookie,Axe,2,12
+,Saw,2,12
+,Shovel,2,12
+,Dynamite,2,12
+,Demolition Charge,2,12
+,Pickaxe,1,12
+,Plank,1,18
+,Nail,1,18
+,Bolt,1,18
+,Screw,1,18
+,Duct Tape,1,18
+,Wood Panel,1,18
+,Land Deed,1,18
+,Mallet,1,18
+,Marker Stake,1,18
+,Hammer,1,6
+,Hand Drill,1,6
+,Paint Bucket,1,6
+,Stone Block,1,6
+,Brick,1,6
+,Tar Bucket,1,6
+,Map Piece,1,2
+,Voucher1,1,6
+,Expansion Key,1,20
+DerbyRewardSet5_41_rookie,FreeDiamonds,2,2
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Horse balloon,1,1
+,GnomePainter,1,1
+,GnomeFisherman,1,1
+DerbyRewardSetBronze_41_rookie,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,Voucher3,1,2
+DerbyRewardSetSilver_41_rookie,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,3,4
+,Nail,3,4
+,Bolt,3,4
+,Screw,3,4
+,Duct Tape,3,4
+,Wood Panel,3,4
+,Land Deed,3,3
+,Mallet,3,3
+,Marker Stake,3,3
+,Hammer,3,1
+,Hand Drill,3,1
+,Paint Bucket,3,1
+,Stone Block,3,1
+,Brick,3,1
+,Tar Bucket,3,1
+,Voucher3,2,2
+,Voucher4,1,2
+DerbyRewardSetGold_41_rookie,Axe,5,6
+,Pickaxe,5,6
+,Plank,4,4
+,Nail,4,4
+,Bolt,4,4
+,Screw,4,4
+,Duct Tape,4,4
+,Wood Panel,4,4
+,Land Deed,4,3
+,Mallet,4,3
+,Marker Stake,4,3
+,Hammer,4,1
+,Hand Drill,4,1
+,Paint Bucket,4,1
+,Stone Block,4,1
+,Brick,4,1
+,Tar Bucket,4,1
+,Voucher3,3,3
+,Voucher4,2,3
+DerbyRewardSet1_18_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,3
+,Raspberry,9,3
+,Cherry,9,3
+,Blackberry,9,3
+,Apple,9,3
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet2_18_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,10
+,Mallet,1,10
+,Marker Stake,1,10
+,White Sugar,3,2
+,Syrup,3,2
+,Cherry Popsicle,1,2
+,Raspberry Jam,1,2
+,Blackberry Jam,1,2
+,Raspberry,9,2
+,Cherry,9,2
+,Blackberry,9,2
+,Apple,9,2
+,Honey,3,2
+,Cream,3,2
+,Butter,3,2
+,Cheese,3,2
+,Goat Cheese,3,2
+,GnomeFisherman,1,2
+,GnomeFlowergirl,1,2
+,Horse lounge,1,2
+DerbyRewardSet3_18_novice,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,2
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Syrup,5,6
+,Strawberry Ice Cream,2,6
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,6
+,Cherry Jam,2,6
+,GnomeMusician,1,5
+,HorseShoeStatue,1,5
+,GnomePolice,1,5
+,Puzzle Piece 1,1,231
+DerbyRewardSet4_18_novice,FreeDiamonds,2,4
+,Axe,2,7
+,Saw,2,7
+,Shovel,2,7
+,Dynamite,2,7
+,Demolition Charge,2,7
+,Pickaxe,2,7
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,1
+,Voucher1,2,4
+,Voucher2,2,4
+,Expansion Key,1,20
+DerbyRewardSet5_18_novice,FreeDiamonds,2,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_18_novice,FreeDiamonds,2,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Hammer,2,6
+,Hand Drill,2,6
+,Paint Bucket,2,6
+,Stone Block,2,6
+,Brick,2,6
+,Tar Bucket,2,6
+,Map Piece,2,1
+,Voucher3,1,9
+,Horse lounge,1,5
+,GnomePolice,1,5
+,Puzzle Piece 1,1,225
+DerbyRewardSetBronze_18_novice,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,Voucher3,1,2
+,Voucher4,1,2
+DerbyRewardSetSilver_18_novice,Axe,4,6
+,Saw,4,6
+,Shovel,3,6
+,Dynamite,3,6
+,Demolition Charge,3,6
+,Pickaxe,3,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,Voucher3,2,7
+,Voucher4,1,7
+DerbyRewardSetGold_18_novice,Axe,5,6
+,Saw,5,6
+,Shovel,4,6
+,Dynamite,4,6
+,Demolition Charge,4,6
+,Pickaxe,4,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,Voucher3,2,7
+,Voucher4,2,7
+DerbyRewardSet1_41_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,9,2
+,Cherry,9,2
+,Blackberry,9,2
+,Apple,9,2
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,2,2
+,Duck Down,2,2
+,Bracelet,1,2
+,SoySauce,1,2
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet2_41_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,10
+,Mallet,1,10
+,Marker Stake,1,10
+,White Sugar,3,2
+,Syrup,3,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,9,2
+,Cherry,9,2
+,Blackberry,9,2
+,Apple,9,2
+,Honey,3,2
+,Cream,3,2
+,Butter,3,2
+,Cheese,3,2
+,Goat Cheese,3,2
+,Lollipop,1,1
+,Lobster Meat,2,1
+,Duck Down,2,1
+,GnomeFisherman,1,2
+,GnomeFlowergirl,1,2
+,Horse lounge,1,2
+DerbyRewardSet3_41_novice,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,2
+,Brown_Sugar,5,4
+,White Sugar,5,4
+,Syrup,5,4
+,Strawberry Ice Cream,2,4
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,4
+,Cherry Jam,2,4
+,Lobster Meat,2,6
+,Duck Down,2,6
+,GnomeMusician,1,5
+,HorseShoeStatue,1,5
+,GnomePolice,1,5
+,Puzzle Piece 1,1,231
+DerbyRewardSet4_41_novice,FreeDiamonds,2,4
+,Axe,2,7
+,Saw,2,7
+,Shovel,2,7
+,Dynamite,2,7
+,Demolition Charge,2,7
+,Pickaxe,2,7
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,1
+,Voucher1,2,4
+,Voucher2,2,4
+,Expansion Key,1,20
+DerbyRewardSet5_41_novice,FreeDiamonds,2,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_41_novice,FreeDiamonds,2,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Hammer,2,6
+,Hand Drill,2,6
+,Paint Bucket,2,6
+,Stone Block,2,6
+,Brick,2,6
+,Tar Bucket,2,6
+,Map Piece,2,1
+,Voucher3,1,9
+,Horse lounge,1,5
+,GnomePolice,1,5
+,Puzzle Piece 1,1,225
+DerbyRewardSetBronze_41_novice,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,Voucher3,1,2
+,Voucher4,1,2
+DerbyRewardSetSilver_41_novice,Axe,5,6
+,Saw,5,6
+,Shovel,3,6
+,Dynamite,3,6
+,Demolition Charge,3,6
+,Pickaxe,3,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,Voucher3,2,7
+,Voucher4,1,7
+DerbyRewardSetGold_41_novice,Axe,6,6
+,Saw,6,6
+,Shovel,4,6
+,Dynamite,4,6
+,Demolition Charge,4,6
+,Pickaxe,4,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,Voucher3,2,7
+,Voucher4,2,7
+DerbyRewardSet1_18_pro,Axe,2,16
+,Saw,2,16
+,Shovel,1,16
+,Dynamite,2,16
+,Demolition Charge,1,16
+,Pickaxe,1,16
+,Brown_Sugar,5,9
+,White Sugar,5,9
+,Vanilla Ice Cream,1,9
+,Apple Jam,1,9
+,Honey,5,9
+,Cream,5,9
+,Butter,5,9
+,Cheese,3,9
+,Goat Cheese,3,9
+,Flagged fence,1,4
+,GnomePainter,1,4
+,GnomeElf,1,4
+DerbyRewardSet2_18_pro,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Land Deed,1,20
+,Mallet,1,20
+,Marker Stake,1,20
+,Voucher1,1,8
+,White Sugar,5,6
+,Syrup,4,6
+,Cherry Popsicle,1,6
+,Raspberry Jam,1,6
+,Blackberry Jam,1,6
+,Honey,5,6
+,Cream,5,6
+,Butter,5,6
+,Cheese,3,6
+,Goat Cheese,3,6
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_18_pro,FreeDiamonds,2,4
+,Axe,2,5
+,Saw,2,5
+,Shovel,2,5
+,Dynamite,2,5
+,Demolition Charge,2,5
+,Pickaxe,2,5
+,Plank,1,9
+,Nail,1,9
+,Bolt,1,9
+,Screw,1,9
+,Duct Tape,1,9
+,Wood Panel,1,9
+,Land Deed,1,9
+,Mallet,1,9
+,Marker Stake,1,9
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,3
+,Voucher2,1,3
+,Brown_Sugar,5,4
+,White Sugar,5,4
+,Syrup,5,4
+,Strawberry Ice Cream,2,4
+,Chocolate Ice Cream,2,4
+,Blackberry Jam,2,4
+,Cherry Jam,2,4
+,GnomeMusician,1,4
+,HorseShoeStatue,1,4
+,GnomePolice,1,4
+,Puzzle Piece 1,1,180
+DerbyRewardSet4_18_pro,FreeDiamonds,2,6
+,Axe,2,9
+,Saw,2,9
+,Shovel,2,9
+,Dynamite,2,9
+,Demolition Charge,2,9
+,Pickaxe,2,9
+,Plank,1,18
+,Nail,1,18
+,Bolt,1,18
+,Screw,1,18
+,Duct Tape,1,18
+,Wood Panel,1,18
+,Land Deed,1,18
+,Mallet,1,18
+,Marker Stake,1,18
+,Hammer,1,5
+,Hand Drill,1,5
+,Paint Bucket,1,5
+,Stone Block,1,5
+,Brick,1,5
+,Tar Bucket,1,5
+,Map Piece,1,1
+,Voucher1,2,6
+,Voucher2,2,6
+,Voucher3,1,6
+,Expansion Key,1,40
+DerbyRewardSet5_18_pro,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,1,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_18_pro,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,2,1
+,Voucher3,2,4
+,Voucher4,1,4
+,Horse lounge,1,4
+,GnomePolice,1,4
+,Puzzle Piece 1,1,155
+DerbyRewardSet7_18_pro,FreeDiamonds,3,2
+,Plank,2,6
+,Nail,2,6
+,Bolt,2,6
+,Screw,2,6
+,Duct Tape,2,6
+,Wood Panel,2,6
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,2,3
+,Voucher4,1,3
+,GnomeElf,1,2
+,Covered stand,1,2
+,Expansion Key,1,10
+DerbyRewardSetBronze_18_pro,Axe,5,3
+,Saw,5,3
+,Shovel,3,3
+,Dynamite,3,3
+,Demolition Charge,3,3
+,Pickaxe,3,3
+,Plank,2,8
+,Nail,2,8
+,Bolt,2,8
+,Screw,2,8
+,Duct Tape,2,8
+,Wood Panel,2,8
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,1,6
+,Voucher4,1,6
+,BronzePlaque,1,4
+,Voucher3,2,4
+DerbyRewardSetSilver_18_pro,Axe,6,4
+,Saw,6,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,1,5
+,SilverPlaque,1,5
+,Voucher3,3,5
+DerbyRewardSetGold_18_pro,Axe,7,4
+,Saw,7,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,2,5
+,GoldPlaque,1,5
+,Voucher3,3,5
+DerbyRewardSet1_41_pro,Axe,2,7
+,Saw,2,7
+,Shovel,1,7
+,Dynamite,2,7
+,Demolition Charge,1,7
+,Pickaxe,1,7
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,2
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,2,3
+,Duck Down,2,3
+,Bracelet,1,2
+,SoySauce,1,2
+,Flagged fence,1,2
+,GnomePainter,1,2
+,GnomeElf,1,2
+DerbyRewardSet2_41_pro,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Land Deed,1,20
+,Mallet,1,20
+,Marker Stake,1,20
+,Voucher1,1,8
+,White Sugar,5,4
+,Syrup,4,4
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,6
+,Blackberry Jam,1,6
+,Honey,5,4
+,Cream,5,4
+,Butter,5,4
+,Cheese,3,6
+,Goat Cheese,3,6
+,Lollipop,1,4
+,Lobster Meat,2,4
+,Duck Down,2,4
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_41_pro,FreeDiamonds,2,4
+,Axe,2,5
+,Saw,2,5
+,Shovel,2,5
+,Dynamite,2,5
+,Demolition Charge,2,5
+,Pickaxe,2,5
+,Plank,1,9
+,Nail,1,9
+,Bolt,1,9
+,Screw,1,9
+,Duct Tape,1,9
+,Wood Panel,1,9
+,Land Deed,1,9
+,Mallet,1,9
+,Marker Stake,1,9
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,3
+,Voucher2,1,3
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Syrup,5,3
+,Strawberry Ice Cream,2,3
+,Chocolate Ice Cream,2,3
+,Blackberry Jam,2,3
+,Cherry Jam,2,3
+,Lobster Meat,2,3
+,Duck Down,2,3
+,GnomeMusician,1,4
+,HorseShoeStatue,1,4
+,GnomePolice,1,4
+,Puzzle Piece 1,1,179
+DerbyRewardSet4_41_pro,FreeDiamonds,2,6
+,Axe,2,9
+,Saw,2,9
+,Shovel,2,9
+,Dynamite,2,9
+,Demolition Charge,2,9
+,Pickaxe,2,9
+,Plank,1,18
+,Nail,1,18
+,Bolt,1,18
+,Screw,1,18
+,Duct Tape,1,18
+,Wood Panel,1,18
+,Land Deed,1,18
+,Mallet,1,18
+,Marker Stake,1,18
+,Hammer,1,5
+,Hand Drill,1,5
+,Paint Bucket,1,5
+,Stone Block,1,5
+,Brick,1,5
+,Tar Bucket,1,5
+,Map Piece,1,1
+,Voucher1,2,6
+,Voucher2,2,6
+,Voucher3,1,6
+,Expansion Key,1,40
+DerbyRewardSet5_41_pro,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,1,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_41_pro,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,2,1
+,Voucher3,2,4
+,Voucher4,1,4
+,Horse lounge,1,4
+,GnomePolice,1,4
+,Puzzle Piece 1,1,155
+DerbyRewardSet7_41_pro,FreeDiamonds,3,2
+,Plank,2,6
+,Nail,2,6
+,Bolt,2,6
+,Screw,2,6
+,Duct Tape,2,6
+,Wood Panel,2,6
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,2,3
+,Voucher4,1,3
+,GnomeElf,1,2
+,Covered stand,1,2
+,Expansion Key,1,10
+DerbyRewardSetBronze_41_pro,Axe,6,3
+,Saw,6,3
+,Shovel,4,3
+,Dynamite,4,3
+,Demolition Charge,4,3
+,Pickaxe,4,3
+,Plank,2,8
+,Nail,2,8
+,Bolt,2,8
+,Screw,2,8
+,Duct Tape,2,8
+,Wood Panel,2,8
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,1,6
+,Voucher4,1,6
+,BronzePlaque,1,2
+,Voucher3,2,2
+DerbyRewardSetSilver_41_pro,Axe,7,4
+,Saw,7,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,1,5
+,SilverPlaque,1,2
+,Voucher3,3,2
+DerbyRewardSetGold_41_pro,Axe,8,4
+,Saw,8,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,2,5
+,GoldPlaque,1,2
+,Voucher3,3,2
+DerbyRewardSet1_18_expert,Axe,2,30
+,Saw,2,30
+,Shovel,1,30
+,Dynamite,2,30
+,Demolition Charge,1,30
+,Pickaxe,1,30
+,Brown_Sugar,5,17
+,White Sugar,5,17
+,Vanilla Ice Cream,1,17
+,Apple Jam,1,17
+,Honey,5,17
+,Cream,5,17
+,Butter,5,17
+,Cheese,5,17
+,Goat Cheese,5,17
+,Flagged fence,1,6
+,GnomePainter,1,6
+,GnomeElf,1,6
+,GnomeFirefighter,1,6
+DerbyRewardSet2_18_expert,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,2,10
+,Demolition Charge,2,10
+,Pickaxe,1,10
+,Land Deed,2,20
+,Mallet,2,20
+,Marker Stake,2,20
+,Voucher1,2,8
+,White Sugar,6,4
+,Syrup,5,4
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Honey,6,4
+,Cream,6,4
+,Butter,6,4
+,Cheese,4,4
+,Goat Cheese,4,4
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_18_expert,FreeDiamonds,2,7
+,Axe,2,11
+,Saw,2,11
+,Shovel,2,11
+,Dynamite,2,11
+,Demolition Charge,2,11
+,Pickaxe,2,11
+,Plank,1,22
+,Nail,1,22
+,Bolt,1,22
+,Screw,1,22
+,Duct Tape,1,22
+,Wood Panel,1,22
+,Land Deed,1,22
+,Mallet,1,22
+,Marker Stake,1,22
+,Hammer,1,5
+,Hand Drill,1,5
+,Paint Bucket,1,5
+,Stone Block,1,5
+,Brick,1,5
+,Tar Bucket,1,5
+,Map Piece,1,2
+,Voucher1,1,7
+,Voucher2,1,7
+,GnomeMusician,1,5
+,HorseShoeStatue,1,5
+,GnomePolice,1,5
+,Horse feeder,1,5
+,Puzzle Piece 1,1,337
+DerbyRewardSet4_18_expert,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher2,2,4
+,Voucher3,1,4
+,Expansion Key,1,30
+DerbyRewardSet5_18_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_18_expert,FreeDiamonds,3,6
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Horse lounge,1,9
+,GnomePolice,1,9
+,Puzzle Piece 1,1,312
+DerbyRewardSet7_18_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Voucher3,2,6
+,Voucher4,2,6
+,GnomeElf,1,4
+,Covered stand,1,4
+,Expansion Key,1,25
+DerbyRewardSet8_18_expert,FreeDiamonds,3,1
+,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeFirefighter,1,2
+,Referee shed,1,2
+DerbyRewardSetBronze_18_expert,Axe,6,4
+,Saw,6,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,Voucher3,3,3
+,BronzePlaque,1,3
+,Voucher4,3,3
+DerbyRewardSetSilver_18_expert,Axe,7,4
+,Saw,7,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,SilverPlaque,1,3
+,Voucher4,3,3
+DerbyRewardSetGold_18_expert,Axe,8,4
+,Saw,8,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,GoldPlaque,1,3
+,Voucher4,3,3
+DerbyRewardSet1_41_expert,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Vanilla Ice Cream,1,6
+,Apple Jam,1,6
+,Honey,5,5
+,Cream,5,5
+,Butter,5,6
+,Cheese,5,6
+,Goat Cheese,5,6
+,Lobster Meat,2,5
+,Duck Down,2,5
+,Bracelet,1,5
+,SoySauce,1,5
+,Flagged fence,1,3
+,GnomePainter,1,3
+,GnomeElf,1,3
+,GnomeFirefighter,1,3
+DerbyRewardSet2_41_expert,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,2,10
+,Demolition Charge,2,10
+,Pickaxe,1,10
+,Land Deed,2,20
+,Mallet,2,20
+,Marker Stake,2,20
+,Voucher1,2,8
+,White Sugar,6,2
+,Syrup,5,2
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Honey,6,2
+,Cream,6,2
+,Butter,6,2
+,Cheese,4,4
+,Goat Cheese,4,4
+,Lollipop,1,2
+,Lobster Meat,2,4
+,Duck Down,2,4
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_41_expert,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,4
+,Voucher2,1,4
+,GnomeMusician,1,3
+,HorseShoeStatue,1,3
+,GnomePolice,1,3
+,Horse feeder,1,3
+,Puzzle Piece 1,1,187
+DerbyRewardSet4_41_expert,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher2,2,4
+,Voucher3,1,4
+,Expansion Key,1,30
+DerbyRewardSet5_41_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_41_expert,FreeDiamonds,3,6
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Horse lounge,1,9
+,GnomePolice,1,9
+,Puzzle Piece 1,1,312
+DerbyRewardSet7_41_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Voucher3,2,6
+,Voucher4,2,6
+,GnomeElf,1,4
+,Covered stand,1,4
+,Expansion Key,1,25
+DerbyRewardSet8_41_expert,FreeDiamonds,3,1
+,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeFirefighter,1,2
+,Referee shed,1,2
+DerbyRewardSetBronze_41_expert,Axe,6,4
+,Saw,6,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,Voucher3,3,1
+,BronzePlaque,1,1
+,Voucher4,3,1
+DerbyRewardSetSilver_41_expert,Axe,7,4
+,Saw,7,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,1
+,SilverPlaque,1,1
+,Voucher4,3,1
+DerbyRewardSetGold_41_expert,Axe,8,4
+,Saw,8,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,1
+,GoldPlaque,1,1
+,Voucher4,3,1
+DerbyRewardSet1_18_champion,Axe,2,30
+,Saw,2,30
+,Shovel,1,30
+,Dynamite,2,30
+,Demolition Charge,1,30
+,Pickaxe,1,30
+,White Sugar,5,17
+,Vanilla Ice Cream,1,17
+,Apple Jam,1,17
+,Honey,5,17
+,Butter,5,17
+,Cheese,5,17
+,Goat Cheese,5,17
+,Flagged fence,1,5
+,GnomePainter,1,5
+,GnomeElf,1,5
+,GnomeFirefighter,1,5
+DerbyRewardSet2_18_champion,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,2,10
+,Demolition Charge,2,10
+,Pickaxe,1,10
+,Land Deed,2,20
+,Mallet,2,20
+,Marker Stake,2,20
+,Voucher1,2,8
+,White Sugar,6,4
+,Syrup,5,4
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Honey,6,4
+,Butter,6,4
+,Cheese,4,4
+,Goat Cheese,4,4
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_18_champion,FreeDiamonds,2,12
+,Axe,2,18
+,Saw,2,18
+,Shovel,2,18
+,Dynamite,2,18
+,Demolition Charge,2,18
+,Pickaxe,2,18
+,Plank,1,36
+,Nail,1,36
+,Bolt,1,36
+,Screw,1,36
+,Duct Tape,1,36
+,Wood Panel,1,36
+,Land Deed,1,36
+,Mallet,1,36
+,Marker Stake,1,36
+,Hammer,1,9
+,Hand Drill,1,9
+,Paint Bucket,1,9
+,Stone Block,1,9
+,Brick,1,9
+,Tar Bucket,1,9
+,Map Piece,1,3
+,Voucher1,1,12
+,Voucher2,1,12
+,GnomeMusician,1,7
+,HorseShoeStatue,1,7
+,GnomePolice,1,7
+,Horse feeder,1,7
+,GnomeSkier,1,7
+,Puzzle Piece 1,1,560
+DerbyRewardSet4_18_champion,FreeDiamonds,3,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher2,2,4
+,Voucher3,1,4
+,Expansion Key,1,40
+DerbyRewardSet5_18_champion,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_18_champion,FreeDiamonds,3,6
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Horse lounge,1,9
+,GnomePolice,1,9
+,Puzzle Piece 1,1,312
+DerbyRewardSet7_18_champion,FreeDiamonds,3,2
+,Plank,2,6
+,Nail,2,6
+,Bolt,2,6
+,Screw,2,6
+,Duct Tape,2,6
+,Wood Panel,2,6
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeElf,1,2
+,Covered stand,1,2
+,Expansion Key,1,15
+DerbyRewardSet8_18_champion,FreeDiamonds,3,1
+,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeFirefighter,1,2
+,Referee shed,1,2
+DerbyRewardSet9_18_champion,FreeDiamonds,3,1
+,Plank,4,6
+,Nail,4,6
+,Bolt,4,6
+,Screw,4,6
+,Duct Tape,4,6
+,Wood Panel,4,6
+,Land Deed,4,6
+,Mallet,4,6
+,Marker Stake,4,6
+,Voucher3,3,3
+,Voucher4,3,3
+,GnomeSkier,1,2
+DerbyRewardSetBronze_18_champion,Axe,3,4
+,Saw,3,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,Voucher3,3,3
+,BronzePlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSetSilver_18_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,SilverPlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSetGold_18_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,GoldPlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSet1_41_champion,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Vanilla Ice Cream,1,6
+,Apple Jam,1,6
+,Honey,5,5
+,Cream,5,5
+,Butter,5,6
+,Cheese,5,6
+,Goat Cheese,5,6
+,Lobster Meat,2,5
+,Duck Down,2,5
+,Bracelet,1,5
+,SoySauce,1,5
+,Flagged fence,1,3
+,GnomePainter,1,3
+,GnomeElf,1,3
+,GnomeFirefighter,1,3
+DerbyRewardSet2_41_champion,Axe,2,10
+,Saw,2,10
+,Shovel,1,10
+,Dynamite,2,10
+,Demolition Charge,2,10
+,Pickaxe,1,10
+,Land Deed,2,20
+,Mallet,2,20
+,Marker Stake,2,20
+,Voucher1,2,8
+,White Sugar,6,2
+,Syrup,5,2
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Honey,6,2
+,Cream,6,2
+,Butter,6,2
+,Cheese,4,4
+,Goat Cheese,4,4
+,Lollipop,1,2
+,Lobster Meat,2,4
+,Duck Down,2,4
+,GnomeFisherman,1,3
+,GnomeFlowergirl,1,3
+,Horse lounge,1,3
+,Covered stand,1,3
+DerbyRewardSet3_41_champion,FreeDiamonds,2,8
+,Axe,2,12
+,Saw,2,12
+,Shovel,2,12
+,Dynamite,2,12
+,Demolition Charge,2,12
+,Pickaxe,2,12
+,Plank,1,24
+,Nail,1,24
+,Bolt,1,24
+,Screw,1,24
+,Duct Tape,1,24
+,Wood Panel,1,24
+,Land Deed,1,24
+,Mallet,1,24
+,Marker Stake,1,24
+,Hammer,1,6
+,Hand Drill,1,6
+,Paint Bucket,1,6
+,Stone Block,1,6
+,Brick,1,6
+,Tar Bucket,1,6
+,Map Piece,1,2
+,Voucher1,1,8
+,Voucher2,1,8
+,GnomeMusician,1,5
+,HorseShoeStatue,1,5
+,GnomePolice,1,5
+,Horse feeder,1,5
+,GnomeSkier,1,5
+,Puzzle Piece 1,1,375
+DerbyRewardSet4_41_champion,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher2,2,4
+,Voucher3,1,4
+,Expansion Key,1,40
+DerbyRewardSet5_41_champion,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeFisherman,1,2
+DerbyRewardSet6_41_champion,FreeDiamonds,3,6
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Horse lounge,1,9
+,GnomePolice,1,9
+,Puzzle Piece 1,1,312
+DerbyRewardSet7_41_champion,FreeDiamonds,3,2
+,Plank,2,6
+,Nail,2,6
+,Bolt,2,6
+,Screw,2,6
+,Duct Tape,2,6
+,Wood Panel,2,6
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeElf,1,2
+,Covered stand,1,2
+,Expansion Key,1,15
+DerbyRewardSet8_41_champion,FreeDiamonds,3,1
+,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeFirefighter,1,2
+,Referee shed,1,2
+DerbyRewardSet9_41_champion,FreeDiamonds,3,1
+,Plank,4,6
+,Nail,4,6
+,Bolt,4,6
+,Screw,4,6
+,Duct Tape,4,6
+,Wood Panel,4,6
+,Land Deed,4,6
+,Mallet,4,6
+,Marker Stake,4,6
+,Voucher3,2,3
+,Voucher4,2,3
+,GnomeSkier,1,2
+DerbyRewardSetBronze_41_champion,Axe,3,4
+,Saw,3,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,Voucher3,3,3
+,BronzePlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSetSilver_41_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,SilverPlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSetGold_41_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,Voucher3,3,3
+,GoldPlaque,1,3
+,Voucher4,3,3
+,HorseShoeStatue,1,3
+DerbyRewardSet5_35_rookie,FasterBoats_lv1,1,10
+,FasterCrops1_lv1,1,10
+,FasterCrops2_lv1,1,10
+,FasterCrops3_lv1,1,10
+,FasterCrops4_lv1,1,10
+,FasterTom_lv1,1,10
+,FasterBuildings1_lv1,1,10
+,FasterBuildings2_lv1,1,10
+,FasterBuildings3_lv1,1,10
+,FasterBuildings4_lv1,1,10
+,FasterTrees_lv1,1,10
+,FasterBushes_lv1,1,10
+,FreeTom_lv1,1,3
+,FreeRose_lv1,1,10
+,FreeErnest_lv1,1,10
+,EasierBoats_lv1,1,10
+,FasterBoats_lv2,1,1
+,FasterCrops1_lv2,1,1
+,FasterCrops2_lv2,1,1
+,FasterCrops3_lv2,1,1
+,FasterCrops4_lv2,1,1
+,FasterTom_lv2,1,1
+,FasterBuildings1_lv2,1,1
+,FasterBuildings2_lv2,1,1
+,FasterBuildings3_lv2,1,1
+,FasterBuildings4_lv2,1,1
+,FasterTrees_lv2,1,1
+,FasterBushes_lv2,1,1
+,EasierBoats_lv2,1,1
+DerbyRewardSet5_35_novice,FasterBoats_lv1,1,40
+,FasterCrops1_lv1,1,40
+,FasterCrops2_lv1,1,40
+,FasterCrops3_lv1,1,40
+,FasterCrops4_lv1,1,40
+,FasterTom_lv1,1,15
+,FasterBuildings1_lv1,1,40
+,FasterBuildings2_lv1,1,40
+,FasterBuildings3_lv1,1,40
+,FasterBuildings4_lv1,1,40
+,FasterTrees_lv1,1,40
+,FasterBushes_lv1,1,40
+,FreeTom_lv1,1,40
+,FreeRose_lv1,1,40
+,FreeErnest_lv1,1,40
+,EasierBoats_lv1,1,40
+,FasterBoats_lv2,1,30
+,FasterCrops1_lv2,1,30
+,FasterCrops2_lv2,1,30
+,FasterCrops3_lv2,1,30
+,FasterCrops4_lv2,1,30
+,FasterTom_lv2,1,10
+,FasterBuildings1_lv2,1,30
+,FasterBuildings2_lv2,1,30
+,FasterBuildings3_lv2,1,30
+,FasterBuildings4_lv2,1,30
+,FasterTrees_lv2,1,30
+,FasterBushes_lv2,1,30
+,FreeTom_lv2,1,30
+,FreeRose_lv2,1,30
+,FreeErnest_lv2,1,30
+,EasierBoats_lv2,1,30
+,FasterBoats_lv3,1,4
+,FasterCrops1_lv3,1,4
+,FasterCrops2_lv3,1,4
+,FasterCrops3_lv3,1,4
+,FasterCrops4_lv3,1,4
+,FasterTom_lv3,1,4
+,FasterBuildings1_lv3,1,4
+,FasterBuildings2_lv3,1,4
+,FasterBuildings3_lv3,1,4
+,FasterBuildings4_lv3,1,4
+,FasterTrees_lv3,1,4
+,FasterBushes_lv3,1,4
+DerbyRewardSet5_35_pro,FasterBoats_lv2,1,40
+,FasterCrops1_lv2,1,40
+,FasterCrops2_lv2,1,40
+,FasterCrops3_lv2,1,40
+,FasterCrops4_lv2,1,40
+,FasterTom_lv2,1,40
+,FasterBuildings1_lv2,1,40
+,FasterBuildings2_lv2,1,40
+,FasterBuildings3_lv2,1,40
+,FasterBuildings4_lv2,1,40
+,FasterTrees_lv2,1,40
+,FasterBushes_lv2,1,40
+,FreeTom_lv2,1,40
+,FreeRose_lv2,1,40
+,FreeErnest_lv2,1,40
+,EasierBoats_lv2,1,40
+,FasterBoats_lv3,1,80
+,FasterCrops1_lv3,1,80
+,FasterCrops2_lv3,1,80
+,FasterCrops3_lv3,1,80
+,FasterCrops4_lv3,1,80
+,FasterTom_lv3,1,80
+,FasterBuildings1_lv3,1,80
+,FasterBuildings2_lv3,1,80
+,FasterBuildings3_lv3,1,80
+,FasterBuildings4_lv3,1,80
+,FasterTrees_lv3,1,80
+,FasterBushes_lv3,1,80
+,FreeTom_lv3,1,60
+,FreeRose_lv3,1,80
+,FreeErnest_lv3,1,80
+,EasierBoats_lv3,1,80
+,FasterBoats_lv4,1,6
+,FasterCrops1_lv4,1,6
+,FasterCrops2_lv4,1,6
+,FasterCrops3_lv4,1,6
+,FasterCrops4_lv4,1,6
+,FasterTom_lv4,1,6
+,FasterBuildings1_lv4,1,6
+,FasterBuildings2_lv4,1,6
+,FasterBuildings3_lv4,1,6
+,FasterBuildings4_lv4,1,6
+,FasterTrees_lv4,1,6
+,FasterBushes_lv4,1,6
+,FreeTom_lv4,1,6
+,FreeRose_lv4,1,6
+,FreeErnest_lv4,1,6
+,EasierBoats_lv4,1,6
+DerbyRewardSet5_35_expert,FasterBoats_lv3,1,15
+,FasterCrops1_lv3,1,15
+,FasterCrops2_lv3,1,15
+,FasterCrops3_lv3,1,15
+,FasterCrops4_lv3,1,15
+,FasterTom_lv3,1,15
+,FasterBuildings1_lv3,1,15
+,FasterBuildings2_lv3,1,15
+,FasterBuildings3_lv3,1,15
+,FasterBuildings4_lv3,1,15
+,FasterTrees_lv3,1,15
+,FasterBushes_lv3,1,15
+,FreeTom_lv3,1,15
+,FreeRose_lv3,1,15
+,FreeErnest_lv3,1,15
+,EasierBoats_lv3,1,15
+,FasterBoats_lv4,1,30
+,FasterCrops1_lv4,1,30
+,FasterCrops2_lv4,1,30
+,FasterCrops3_lv4,1,30
+,FasterCrops4_lv4,1,30
+,FasterTom_lv4,1,30
+,FasterBuildings1_lv4,1,30
+,FasterBuildings2_lv4,1,30
+,FasterBuildings3_lv4,1,30
+,FasterBuildings4_lv4,1,30
+,FasterTrees_lv4,1,30
+,FasterBushes_lv4,1,30
+,FreeTom_lv4,1,30
+,FreeRose_lv4,1,30
+,FreeErnest_lv4,1,30
+,EasierBoats_lv4,1,30
+,FasterBoats_lv5,1,2
+,FasterCrops1_lv5,1,2
+,FasterCrops2_lv5,1,2
+,FasterCrops3_lv5,1,2
+,FasterCrops4_lv5,1,2
+,FasterTom_lv5,1,2
+,FasterBuildings1_lv5,1,2
+,FasterBuildings2_lv5,1,2
+,FasterBuildings3_lv5,1,2
+,FasterBuildings4_lv5,1,2
+,FasterTrees_lv5,1,2
+,FasterBushes_lv5,1,2
+,FreeTom_lv5,1,2
+,FreeRose_lv5,1,2
+,FreeErnest_lv5,1,2
+,EasierBoats_lv5,1,2
+DerbyRewardSet5_35_champions,FasterBoats_lv4,1,20
+,FasterCrops1_lv4,1,20
+,FasterCrops2_lv4,1,20
+,FasterCrops3_lv4,1,20
+,FasterCrops4_lv4,1,20
+,FasterTom_lv4,1,20
+,FasterBuildings1_lv4,1,20
+,FasterBuildings2_lv4,1,20
+,FasterBuildings3_lv4,1,20
+,FasterBuildings4_lv4,1,20
+,FasterTrees_lv4,1,20
+,FasterBushes_lv4,1,20
+,FreeTom_lv4,1,20
+,FreeRose_lv4,1,20
+,FreeErnest_lv4,1,20
+,EasierBoats_lv4,1,20
+,FasterBoats_lv5,1,3
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv5,1,1
+,FasterCrops4_lv5,1,1
+,FasterTom_lv5,1,1
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv5,1,1
+,FasterBuildings4_lv5,1,1
+,FasterTrees_lv5,1,1
+,FasterBushes_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+DerbyRewardSet8_35_expert,FasterBoats_lv3,1,15
+,FasterCrops1_lv3,1,15
+,FasterCrops2_lv3,1,15
+,FasterCrops3_lv3,1,15
+,FasterCrops4_lv3,1,15
+,FasterTom_lv3,1,15
+,FasterBuildings1_lv3,1,15
+,FasterBuildings2_lv3,1,15
+,FasterBuildings3_lv3,1,15
+,FasterBuildings4_lv3,1,15
+,FasterTrees_lv3,1,15
+,FasterBushes_lv3,1,15
+,FreeTom_lv3,1,15
+,FreeRose_lv3,1,15
+,FreeErnest_lv3,1,15
+,EasierBoats_lv3,1,15
+,FasterBoats_lv4,1,30
+,FasterCrops1_lv4,1,30
+,FasterCrops2_lv4,1,30
+,FasterCrops3_lv4,1,30
+,FasterCrops4_lv4,1,30
+,FasterTom_lv4,1,30
+,FasterBuildings1_lv4,1,30
+,FasterBuildings2_lv4,1,30
+,FasterBuildings3_lv4,1,30
+,FasterBuildings4_lv4,1,30
+,FasterTrees_lv4,1,30
+,FasterBushes_lv4,1,30
+,FreeTom_lv4,1,30
+,FreeRose_lv4,1,30
+,FreeErnest_lv4,1,30
+,EasierBoats_lv4,1,30
+,FasterBoats_lv5,1,3
+,FasterCrops1_lv5,1,3
+,FasterCrops2_lv5,1,3
+,FasterCrops3_lv5,1,3
+,FasterCrops4_lv5,1,3
+,FasterTom_lv5,1,3
+,FasterBuildings1_lv5,1,3
+,FasterBuildings2_lv5,1,3
+,FasterBuildings3_lv5,1,3
+,FasterBuildings4_lv5,1,3
+,FasterTrees_lv5,1,3
+,FasterBushes_lv5,1,3
+,FreeTom_lv5,1,3
+,FreeRose_lv5,1,3
+,FreeErnest_lv5,1,3
+,EasierBoats_lv5,1,3
+DerbyRewardSet8_35_champions,FasterBoats_lv4,1,30
+,FasterCrops1_lv4,1,30
+,FasterCrops2_lv4,1,30
+,FasterCrops3_lv4,1,30
+,FasterCrops4_lv4,1,30
+,FasterTom_lv4,1,30
+,FasterBuildings1_lv4,1,30
+,FasterBuildings2_lv4,1,30
+,FasterBuildings3_lv4,1,30
+,FasterBuildings4_lv4,1,30
+,FasterTrees_lv4,1,30
+,FasterBushes_lv4,1,30
+,FreeTom_lv4,1,30
+,FreeRose_lv4,1,30
+,FreeErnest_lv4,1,30
+,EasierBoats_lv4,1,30
+,FasterBoats_lv5,1,2
+,FasterCrops1_lv5,1,2
+,FasterCrops2_lv5,1,2
+,FasterCrops3_lv5,1,2
+,FasterCrops4_lv5,1,2
+,FasterTom_lv5,1,2
+,FasterBuildings1_lv5,1,2
+,FasterBuildings2_lv5,1,2
+,FasterBuildings3_lv5,1,2
+,FasterBuildings4_lv5,1,2
+,FasterTrees_lv5,1,2
+,FasterBushes_lv5,1,2
+,FreeTom_lv5,1,2
+,FreeRose_lv5,1,2
+,FreeErnest_lv5,1,2
+,EasierBoats_lv5,1,2
+BINGODerbyRewardSet_1_rookie,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Voucher1,1,1
+,Voucher2,1,1
+,Voucher3,1,1
+,Voucher4,1,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_1_novice,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Voucher1,1,1
+,Voucher2,1,1
+,Voucher3,1,1
+,Voucher4,1,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_1_professional,Plank,2,2
+,Nail,2,2
+,Bolt,2,2
+,Screw,2,2
+,Duct Tape,2,2
+,Wood Panel,2,2
+,Land Deed,2,2
+,Mallet,2,2
+,Marker Stake,2,2
+,Voucher1,2,1
+,Voucher2,2,1
+,Voucher3,2,1
+,Voucher4,2,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_1_expert,Plank,2,6
+,Nail,2,6
+,Bolt,2,6
+,Screw,2,6
+,Duct Tape,2,6
+,Wood Panel,2,6
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher1,2,3
+,Voucher2,2,3
+,Voucher3,2,3
+,Voucher4,2,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,2
+,FreeTom_lv4,1,2
+,FreeRose_lv4,1,2
+,FreeErnest_lv4,1,2
+,EasierBoats_lv4,1,2
+,FasterTom_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+BINGODerbyRewardSet_1_champions,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher1,3,3
+,Voucher2,3,3
+,Voucher3,3,3
+,Voucher4,3,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+,FasterTom_lv5,1,2
+,FreeTom_lv5,1,2
+,FreeRose_lv5,1,2
+,FreeErnest_lv5,1,2
+,EasierBoats_lv5,1,2
+BINGODerbyRewardSet_2_rookie,Plank,2,2
+,Nail,2,2
+,Bolt,2,2
+,Screw,2,2
+,Duct Tape,2,2
+,Wood Panel,2,2
+,Land Deed,2,2
+,Mallet,2,2
+,Marker Stake,2,2
+,Voucher1,2,1
+,Voucher2,2,1
+,Voucher3,2,1
+,Voucher4,2,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_2_novice,Plank,2,2
+,Nail,2,2
+,Bolt,2,2
+,Screw,2,2
+,Duct Tape,2,2
+,Wood Panel,2,2
+,Land Deed,2,2
+,Mallet,2,2
+,Marker Stake,2,2
+,Voucher1,2,1
+,Voucher2,2,1
+,Voucher3,2,1
+,Voucher4,2,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_2_professional,Plank,3,2
+,Nail,3,2
+,Bolt,3,2
+,Screw,3,2
+,Duct Tape,3,2
+,Wood Panel,3,2
+,Land Deed,3,2
+,Mallet,3,2
+,Marker Stake,3,2
+,Voucher1,3,1
+,Voucher2,3,1
+,Voucher3,3,1
+,Voucher4,3,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_2_expert,Plank,3,6
+,Nail,3,6
+,Bolt,3,6
+,Screw,3,6
+,Duct Tape,3,6
+,Wood Panel,3,6
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher1,3,3
+,Voucher2,3,3
+,Voucher3,3,3
+,Voucher4,3,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,2
+,FreeTom_lv4,1,2
+,FreeRose_lv4,1,2
+,FreeErnest_lv4,1,2
+,EasierBoats_lv4,1,2
+,FasterTom_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+BINGODerbyRewardSet_2_champions,Plank,4,6
+,Nail,4,6
+,Bolt,4,6
+,Screw,4,6
+,Duct Tape,4,6
+,Wood Panel,4,6
+,Land Deed,4,6
+,Mallet,4,6
+,Marker Stake,4,6
+,Voucher1,4,3
+,Voucher2,4,3
+,Voucher3,4,3
+,Voucher4,4,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+,FasterTom_lv5,1,2
+,FreeTom_lv5,1,2
+,FreeRose_lv5,1,2
+,FreeErnest_lv5,1,2
+,EasierBoats_lv5,1,2
+BINGODerbyRewardSet_3_rookie,Plank,3,2
+,Nail,3,2
+,Bolt,3,2
+,Screw,3,2
+,Duct Tape,3,2
+,Wood Panel,3,2
+,Land Deed,3,2
+,Mallet,3,2
+,Marker Stake,3,2
+,Voucher1,3,1
+,Voucher2,3,1
+,Voucher3,3,1
+,Voucher4,3,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_3_novice,Plank,3,2
+,Nail,3,2
+,Bolt,3,2
+,Screw,3,2
+,Duct Tape,3,2
+,Wood Panel,3,2
+,Land Deed,3,2
+,Mallet,3,2
+,Marker Stake,3,2
+,Voucher1,3,1
+,Voucher2,3,1
+,Voucher3,3,1
+,Voucher4,3,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_3_professional,Plank,4,2
+,Nail,4,2
+,Bolt,4,2
+,Screw,4,2
+,Duct Tape,4,2
+,Wood Panel,4,2
+,Land Deed,4,2
+,Mallet,4,2
+,Marker Stake,4,2
+,Voucher1,4,1
+,Voucher2,4,1
+,Voucher3,4,1
+,Voucher4,4,1
+,FreeDiamonds,5,1
+,Puzzle Piece 1,1,5
+,Expansion Key,1,4
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+BINGODerbyRewardSet_3_expert,Plank,4,6
+,Nail,4,6
+,Bolt,4,6
+,Screw,4,6
+,Duct Tape,4,6
+,Wood Panel,4,6
+,Land Deed,4,6
+,Mallet,4,6
+,Marker Stake,4,6
+,Voucher1,4,3
+,Voucher2,4,3
+,Voucher3,4,3
+,Voucher4,4,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,2
+,FreeTom_lv4,1,2
+,FreeRose_lv4,1,2
+,FreeErnest_lv4,1,2
+,EasierBoats_lv4,1,2
+,FasterTom_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+BINGODerbyRewardSet_3_champions,Plank,5,6
+,Nail,5,6
+,Bolt,5,6
+,Screw,5,6
+,Duct Tape,5,6
+,Wood Panel,5,6
+,Land Deed,5,6
+,Mallet,5,6
+,Marker Stake,5,6
+,Voucher1,5,3
+,Voucher2,5,3
+,Voucher3,5,3
+,Voucher4,5,3
+,FreeDiamonds,5,2
+,Puzzle Piece 1,1,15
+,Expansion Key,1,12
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+,FasterTom_lv5,1,2
+,FreeTom_lv5,1,2
+,FreeRose_lv5,1,2
+,FreeErnest_lv5,1,2
+,EasierBoats_lv5,1,2
+DerbyRewardSet2_18_2017_rookie,Axe,1,18
+,Saw,1,18
+,Shovel,1,18
+,Dynamite,1,18
+,Demolition Charge,1,18
+,Pickaxe,1,18
+,Land Deed,1,32
+,Mallet,1,32
+,Marker Stake,1,32
+,White Sugar,3,10
+,Syrup,3,10
+,Cherry Popsicle,1,10
+,Raspberry Jam,1,10
+,Blackberry Jam,1,10
+,Raspberry,5,10
+,Cherry,5,10
+,Blackberry,5,10
+,Apple,5,10
+,Honey,3,10
+,Cream,3,10
+,Butter,3,10
+,Cheese,3,10
+,Goat Cheese,3,10
+,GnomeFisherman,1,12
+,GnomeFlowergirl,1,12
+,FasterCrops1_lv1,1,3
+,FasterCrops2_lv1,1,3
+,FasterCrops3_lv1,1,3
+,FasterTrees_lv1,1,3
+,FasterBushes_lv1,1,3
+,FasterBaitMaker_lv1,1,3
+,FasterNetMaker_lv1,1,3
+,MoreCash_lv1,1,3
+,HeavierFish_lv1,1,3
+,MiningMoreOres_lv1,1,3
+DerbyRewardSet2_18_2017_novice,Axe,1,45
+,Saw,1,45
+,Shovel,1,45
+,Dynamite,1,45
+,Demolition Charge,1,45
+,Pickaxe,1,45
+,Land Deed,1,90
+,Mallet,1,90
+,Marker Stake,1,90
+,White Sugar,3,18
+,Syrup,3,18
+,Cherry Popsicle,1,18
+,Raspberry Jam,1,18
+,Blackberry Jam,1,18
+,Raspberry,9,18
+,Cherry,9,18
+,Blackberry,9,18
+,Apple,9,18
+,Honey,3,18
+,Cream,3,18
+,Butter,3,18
+,Cheese,3,18
+,Goat Cheese,3,18
+,GnomeFisherman,1,18
+,GnomeFlowergirl,1,18
+,Horse lounge,1,18
+,FasterCrops1_lv1,1,2
+,FasterCrops1_lv2,1,5
+,FasterCrops2_lv1,1,2
+,FasterCrops2_lv2,1,5
+,FasterCrops3_lv1,1,3
+,FasterCrops3_lv2,1,5
+,FasterTrees_lv1,1,2
+,FasterTrees_lv2,1,5
+,FasterBushes_lv1,1,2
+,FasterBushes_lv2,1,5
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,2
+,FasterBaitMaker_lv2,1,5
+,FasterNetMaker_lv2,1,5
+,MoreCash_lv1,1,2
+,HeavierFish_lv1,1,2
+,MiningMoreOres_lv1,1,2
+,MoreCash_lv2,1,5
+,HeavierFish_lv2,1,5
+DerbyRewardSet2_18_2017_professional,Axe,2,45
+,Saw,2,45
+,Shovel,1,45
+,Dynamite,1,45
+,Demolition Charge,1,45
+,Pickaxe,1,45
+,Land Deed,1,90
+,Mallet,1,90
+,Marker Stake,1,90
+,Voucher1,1,36
+,White Sugar,5,27
+,Syrup,4,27
+,Cherry Popsicle,1,27
+,Raspberry Jam,1,27
+,Blackberry Jam,1,27
+,Honey,5,27
+,Cream,5,27
+,Butter,5,27
+,Cheese,3,27
+,Goat Cheese,3,27
+,GnomeFisherman,1,15
+,GnomeFlowergirl,1,15
+,Horse lounge,1,15
+,Covered stand,1,15
+,FasterCrops1_lv2,1,2
+,FasterCrops1_lv3,1,5
+,FasterCrops2_lv2,1,2
+,FasterCrops2_lv3,1,5
+,FasterCrops3_lv2,1,2
+,FasterCrops3_lv3,1,5
+,FasterTrees_lv2,1,2
+,FasterTrees_lv3,1,5
+,FasterBushes_lv2,1,2
+,FasterBushes_lv3,1,5
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterBaitMaker_lv3,1,5
+,FasterNetMaker_lv3,1,5
+,MoreCash_lv2,1,2
+,MoreCash_lv3,1,5
+,HeavierFish_lv2,1,2
+,HeavierFish_lv3,1,5
+,MiningMoreOres_lv3,1,5
+DerbyRewardSet2_18_2017_expert,Axe,2,45
+,Saw,2,45
+,Shovel,1,45
+,Dynamite,2,45
+,Demolition Charge,2,45
+,Pickaxe,1,45
+,Land Deed,2,90
+,Mallet,2,90
+,Marker Stake,2,90
+,Voucher1,2,36
+,White Sugar,6,18
+,Syrup,5,18
+,Cherry Popsicle,1,18
+,Raspberry Jam,1,18
+,Blackberry Jam,1,18
+,Honey,6,18
+,Cream,6,18
+,Butter,6,18
+,Cheese,4,18
+,Goat Cheese,4,18
+,GnomeFisherman,1,15
+,GnomeFlowergirl,1,15
+,Horse lounge,1,15
+,Covered stand,1,15
+,FasterCrops1_lv3,1,2
+,FasterCrops1_lv4,1,5
+,FasterCrops2_lv3,1,2
+,FasterCrops2_lv4,1,5
+,FasterCrops3_lv3,1,2
+,FasterCrops3_lv4,1,5
+,FasterTrees_lv3,1,2
+,FasterTrees_lv4,1,5
+,FasterBushes_lv3,1,2
+,FasterBushes_lv4,1,5
+,FasterBaitMaker_lv3,1,2
+,FasterNetMaker_lv3,1,2
+,FasterBaitMaker_lv4,1,5
+,FasterNetMaker_lv4,1,5
+,MoreCash_lv3,1,2
+,MoreCash_lv4,1,5
+,HeavierFish_lv3,1,2
+,HeavierFish_lv4,1,5
+,MiningMoreOres_lv3,1,2
+DerbyRewardSet2_18_2017_champions,Axe,2,60
+,Saw,2,60
+,Shovel,1,60
+,Dynamite,2,60
+,Demolition Charge,2,60
+,Pickaxe,1,60
+,Land Deed,2,120
+,Mallet,2,120
+,Marker Stake,2,120
+,Voucher1,2,48
+,White Sugar,6,24
+,Syrup,5,24
+,Cherry Popsicle,1,24
+,Raspberry Jam,1,24
+,Blackberry Jam,1,24
+,Honey,6,24
+,Butter,6,24
+,Cheese,4,24
+,Goat Cheese,4,24
+,GnomeFisherman,1,20
+,GnomeFlowergirl,1,20
+,Horse lounge,1,20
+,Covered stand,1,20
+,FasterCrops1_lv4,1,7
+,FasterCrops1_lv5,1,3
+,FasterCrops2_lv4,1,7
+,FasterCrops2_lv5,1,3
+,FasterCrops3_lv4,1,7
+,FasterCrops3_lv5,1,3
+,FasterTrees_lv4,1,7
+,FasterTrees_lv5,1,3
+,FasterBushes_lv4,1,7
+,FasterBushes_lv5,1,3
+,FasterBaitMaker_lv4,1,7
+,FasterNetMaker_lv4,1,7
+,FasterBaitMaker_lv5,1,3
+,FasterNetMaker_lv5,1,3
+,MoreCash_lv4,1,7
+,MoreCash_lv5,1,3
+,HeavierFish_lv4,1,7
+,HeavierFish_lv5,1,3
+,MiningMoreOres_lv5,1,3
+DerbyRewardSet2_41_2017_rookie,Axe,3,24
+,Saw,3,24
+,Shovel,2,24
+,Dynamite,2,24
+,Demolition Charge,1,24
+,Pickaxe,1,24
+,Land Deed,1,48
+,Mallet,1,48
+,Marker Stake,1,48
+,White Sugar,5,8
+,Syrup,5,8
+,Cherry Popsicle,1,8
+,Raspberry Jam,1,8
+,Blackberry Jam,1,8
+,Raspberry,9,8
+,Cherry,9,8
+,Blackberry,9,8
+,Apple,9,8
+,Honey,5,8
+,Cream,5,8
+,Butter,5,8
+,Cheese,3,8
+,Goat Cheese,3,8
+,Lobster Meat,3,8
+,Duck Down,3,8
+,GnomeFisherman,1,16
+,GnomeFlowergirl,1,16
+,FasterCrops1_lv1,1,3
+,FasterCrops2_lv1,1,3
+,FasterCrops3_lv1,1,3
+,FasterCrops4_lv1,1,3
+,FasterTrees_lv1,1,3
+,FasterBushes_lv1,1,3
+,FasterBaitMaker_lv1,1,3
+,FasterNetMaker_lv1,1,3
+,MoreCash_lv1,1,3
+,HeavierFish_lv1,1,3
+,MiningMoreOres_lv1,1,3
+DerbyRewardSet2_41_2017_novice,Axe,1,60
+,Saw,1,60
+,Shovel,1,60
+,Dynamite,1,60
+,Demolition Charge,1,60
+,Pickaxe,1,60
+,Land Deed,1,117
+,Mallet,1,117
+,Marker Stake,1,117
+,White Sugar,3,24
+,Syrup,3,24
+,Cherry Popsicle,1,12
+,Raspberry Jam,1,12
+,Blackberry Jam,1,12
+,Raspberry,9,24
+,Cherry,9,24
+,Blackberry,9,24
+,Apple,9,24
+,Honey,3,24
+,Cream,3,24
+,Butter,3,24
+,Cheese,3,24
+,Goat Cheese,3,24
+,Lollipop,1,12
+,Lobster Meat,2,12
+,Duck Down,2,12
+,GnomeFisherman,1,24
+,GnomeFlowergirl,1,24
+,Horse lounge,1,24
+,FasterCrops1_lv1,1,2
+,FasterCrops1_lv2,1,5
+,FasterCrops2_lv1,1,2
+,FasterCrops2_lv2,1,5
+,FasterCrops3_lv1,1,2
+,FasterCrops3_lv2,1,5
+,FasterCrops4_lv1,1,2
+,FasterCrops4_lv2,1,5
+,FasterTrees_lv1,1,2
+,FasterTrees_lv2,1,5
+,FasterBushes_lv1,1,2
+,FasterBushes_lv2,1,5
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,2
+,FasterBaitMaker_lv2,1,5
+,FasterNetMaker_lv2,1,5
+,MoreCash_lv1,1,2
+,MoreCash_lv2,1,5
+,HeavierFish_lv1,1,2
+,HeavierFish_lv2,1,5
+,MiningMoreOres_lv1,1,2
+DerbyRewardSet2_41_2017_professional,Axe,2,108
+,Saw,2,108
+,Shovel,1,108
+,Dynamite,1,108
+,Demolition Charge,1,108
+,Pickaxe,1,108
+,Land Deed,1,216
+,Mallet,1,216
+,Marker Stake,1,216
+,Voucher1,1,87
+,White Sugar,5,45
+,Syrup,4,45
+,Cherry Popsicle,1,45
+,Raspberry Jam,1,66
+,Blackberry Jam,1,66
+,Honey,5,45
+,Cream,5,45
+,Butter,5,45
+,Cheese,3,66
+,Goat Cheese,3,66
+,Lollipop,1,45
+,Lobster Meat,2,45
+,Duck Down,2,45
+,GnomeFisherman,1,33
+,GnomeFlowergirl,1,33
+,Horse lounge,1,33
+,Covered stand,1,33
+,FasterCrops1_lv2,1,4
+,FasterCrops1_lv3,1,10
+,FasterCrops2_lv2,1,4
+,FasterCrops2_lv3,1,10
+,FasterCrops3_lv2,1,4
+,FasterCrops3_lv3,1,10
+,FasterCrops4_lv2,1,4
+,FasterCrops4_lv3,1,10
+,FasterTrees_lv2,1,4
+,FasterTrees_lv3,1,10
+,FasterBushes_lv2,1,4
+,FasterBushes_lv3,1,10
+,FasterBaitMaker_lv2,1,4
+,FasterNetMaker_lv2,1,4
+,FasterBaitMaker_lv3,1,10
+,FasterNetMaker_lv3,1,10
+,MoreCash_lv2,1,4
+,MoreCash_lv3,1,10
+,HeavierFish_lv2,1,4
+,HeavierFish_lv3,1,10
+,MiningMoreOres_lv3,1,10
+DerbyRewardSet2_41_2017_expert,Axe,2,84
+,Saw,2,84
+,Shovel,1,84
+,Dynamite,2,84
+,Demolition Charge,2,84
+,Pickaxe,1,84
+,Land Deed,2,168
+,Mallet,2,168
+,Marker Stake,2,168
+,Voucher1,2,68
+,White Sugar,6,18
+,Syrup,5,18
+,Cherry Popsicle,1,34
+,Raspberry Jam,1,34
+,Blackberry Jam,1,34
+,Honey,6,18
+,Cream,6,18
+,Butter,6,18
+,Cheese,4,34
+,Goat Cheese,4,34
+,Lollipop,1,18
+,Lobster Meat,2,34
+,Duck Down,2,34
+,GnomeFisherman,1,26
+,GnomeFlowergirl,1,26
+,Horse lounge,1,26
+,Covered stand,1,26
+,FasterCrops1_lv3,1,3
+,FasterCrops1_lv4,1,7
+,FasterCrops2_lv3,1,3
+,FasterCrops2_lv4,1,7
+,FasterCrops3_lv3,1,3
+,FasterCrops3_lv4,1,7
+,FasterCrops4_lv3,1,3
+,FasterCrops4_lv4,1,7
+,FasterTrees_lv3,1,3
+,FasterTrees_lv4,1,7
+,FasterBushes_lv3,1,3
+,FasterBushes_lv4,1,7
+,FasterBaitMaker_lv3,1,3
+,FasterNetMaker_lv3,1,3
+,FasterBaitMaker_lv4,1,7
+,FasterNetMaker_lv4,1,7
+,MoreCash_lv3,1,3
+,MoreCash_lv4,1,7
+,HeavierFish_lv3,1,3
+,HeavierFish_lv4,1,7
+,MiningMoreOres_lv3,1,3
+DerbyRewardSet2_41_2017_champions,Axe,2,126
+,Saw,2,126
+,Shovel,1,126
+,Dynamite,2,126
+,Demolition Charge,2,126
+,Pickaxe,1,126
+,Land Deed,2,252
+,Mallet,2,252
+,Marker Stake,2,252
+,Voucher1,2,102
+,White Sugar,6,27
+,Syrup,5,27
+,Cherry Popsicle,1,51
+,Raspberry Jam,1,51
+,Blackberry Jam,1,51
+,Honey,6,27
+,Cream,6,27
+,Butter,6,27
+,Cheese,4,51
+,Goat Cheese,4,51
+,Lollipop,1,27
+,Lobster Meat,2,51
+,Duck Down,2,51
+,GnomeFisherman,1,39
+,GnomeFlowergirl,1,39
+,Horse lounge,1,39
+,Covered stand,1,39
+,FasterCrops1_lv4,1,10
+,FasterCrops1_lv5,1,4
+,FasterCrops2_lv4,1,10
+,FasterCrops2_lv5,1,4
+,FasterCrops3_lv4,1,10
+,FasterCrops3_lv5,1,4
+,FasterCrops4_lv4,1,10
+,FasterCrops4_lv5,1,4
+,FasterTrees_lv4,1,10
+,FasterTrees_lv5,1,4
+,FasterBushes_lv4,1,10
+,FasterBushes_lv5,1,4
+,FasterBaitMaker_lv4,1,10
+,FasterNetMaker_lv4,1,10
+,FasterBaitMaker_lv5,1,4
+,FasterNetMaker_lv5,1,4
+,MoreCash_lv4,1,10
+,MoreCash_lv5,1,4
+,HeavierFish_lv4,1,10
+,HeavierFish_lv5,1,4
+,MiningMoreOres_lv5,1,4
+DerbyRewardSet4_18_2017_rookie,Axe,2,220
+,Saw,2,220
+,Shovel,2,220
+,Dynamite,2,220
+,Demolition Charge,2,220
+,Pickaxe,1,220
+,Plank,1,330
+,Nail,1,330
+,Bolt,1,330
+,Screw,1,330
+,Duct Tape,1,330
+,Wood Panel,1,330
+,Land Deed,1,330
+,Mallet,1,330
+,Marker Stake,1,330
+,Hammer,1,110
+,Hand Drill,1,110
+,Paint Bucket,1,110
+,Stone Block,1,110
+,Brick,1,110
+,Tar Bucket,1,110
+,Map Piece,1,50
+,Voucher1,1,80
+,Expansion Key,1,370
+,FasterCrops1_lv1,1,19
+,FasterCrops1_lv2,1,9
+,FasterCrops2_lv1,1,19
+,FasterCrops2_lv2,1,9
+,FasterCrops3_lv1,1,19
+,FasterCrops3_lv2,1,9
+,FasterTrees_lv1,1,19
+,FasterTrees_lv2,1,9
+,FasterBushes_lv1,1,19
+,FasterBushes_lv2,1,9
+,FasterBuildings1_lv1,1,19
+,FasterBuildings2_lv1,1,19
+,FasterBuildings3_lv1,1,19
+,MoreXP_lv1,1,19
+,FasterBoats_lv1,1,19
+,FasterBaitMaker_lv1,1,19
+,FasterNetMaker_lv1,1,19
+,FasterFishingSpots_lv1,1,19
+,FasterTownBuildings1_lv1,1,19
+,FasterTownBuildings2_lv1,1,19
+,FasterPersonalTrain_lv1,1,19
+,FasterBaitMaker_lv2,1,9
+,FasterNetMaker_lv2,1,9
+,FasterFishingSpots_lv2,1,9
+,FasterTownBuildings1_lv2,1,9
+,FasterTownBuildings2_lv2,1,9
+,FasterPersonalTrain_lv2,1,9
+,MoreCash_lv1,1,19
+,MoreCash_lv2,1,9
+,HeavierFish_lv1,1,19
+,HeavierFish_lv2,1,9
+,MiningMoreOres_lv1,1,19
+,Haybale Round,1,300
+DerbyRewardSet4_18_2017_novice,FreeDiamonds,2,60
+,Axe,2,105
+,Saw,2,105
+,Shovel,2,105
+,Dynamite,2,105
+,Demolition Charge,2,105
+,Pickaxe,2,105
+,Plank,1,175
+,Nail,1,175
+,Bolt,1,175
+,Screw,1,175
+,Duct Tape,1,175
+,Wood Panel,1,175
+,Land Deed,1,175
+,Mallet,1,175
+,Marker Stake,1,175
+,Hammer,1,60
+,Hand Drill,1,60
+,Paint Bucket,1,60
+,Stone Block,1,60
+,Brick,1,60
+,Tar Bucket,1,60
+,Map Piece,1,20
+,Voucher1,2,60
+,Voucher2,2,60
+,Expansion Key,1,290
+,FasterCrops1_lv2,1,9
+,FasterCrops1_lv3,1,4
+,FasterCrops2_lv2,1,9
+,FasterCrops2_lv3,1,4
+,FasterCrops3_lv2,1,9
+,FasterCrops3_lv3,1,4
+,FasterTrees_lv2,1,9
+,FasterTrees_lv3,1,4
+,FasterBushes_lv2,1,9
+,FasterBushes_lv3,1,4
+,FasterBuildings1_lv2,1,9
+,FasterBuildings1_lv1,1,4
+,FasterBuildings2_lv2,1,9
+,FasterBuildings2_lv1,1,4
+,FasterBuildings3_lv2,1,9
+,FasterBuildings3_lv1,1,4
+,MoreXP_lv2,1,9
+,MoreXP_lv1,1,4
+,FasterBoats_lv2,1,9
+,FasterBoats_lv1,1,4
+,FasterBaitMaker_lv1,1,4
+,FasterNetMaker_lv1,1,4
+,FasterFishingSpots_lv1,1,4
+,FasterTownBuildings1_lv1,1,4
+,FasterTownBuildings2_lv1,1,4
+,FasterPersonalTrain_lv1,1,4
+,FasterBaitMaker_lv2,1,9
+,FasterNetMaker_lv2,1,9
+,FasterFishingSpots_lv2,1,9
+,FasterTownBuildings1_lv2,1,9
+,FasterTownBuildings2_lv2,1,9
+,FasterPersonalTrain_lv2,1,9
+,MoreCash_lv1,1,4
+,MoreCash_lv2,1,9
+,HeavierFish_lv1,1,4
+,HeavierFish_lv2,1,9
+,MiningMoreOres_lv1,1,4
+,Haybale Round,1,150
+DerbyRewardSet4_18_2017_professional,FreeDiamonds,2,45
+,Axe,2,66
+,Saw,2,66
+,Shovel,2,66
+,Dynamite,2,66
+,Demolition Charge,2,66
+,Pickaxe,2,66
+,Plank,1,132
+,Nail,1,132
+,Bolt,1,132
+,Screw,1,132
+,Duct Tape,1,132
+,Wood Panel,1,132
+,Land Deed,1,132
+,Mallet,1,132
+,Marker Stake,1,132
+,Hammer,1,36
+,Hand Drill,1,36
+,Paint Bucket,1,36
+,Stone Block,1,36
+,Brick,1,36
+,Tar Bucket,1,36
+,Map Piece,1,9
+,Voucher1,2,45
+,Voucher2,2,45
+,Voucher3,1,45
+,Expansion Key,1,288
+,FasterCrops1_lv3,1,8
+,FasterCrops1_lv4,1,2
+,FasterCrops2_lv3,1,8
+,FasterCrops2_lv4,1,2
+,FasterCrops3_lv3,1,8
+,FasterCrops3_lv4,1,2
+,FasterTrees_lv3,1,8
+,FasterTrees_lv4,1,2
+,FasterBushes_lv3,1,8
+,FasterBushes_lv4,1,2
+,FasterBuildings1_lv3,1,8
+,FasterBuildings1_lv2,1,2
+,FasterBuildings2_lv3,1,8
+,FasterBuildings2_lv2,1,2
+,FasterBuildings3_lv3,1,8
+,FasterBuildings3_lv2,1,2
+,MoreXP_lv3,1,8
+,MoreXP_lv2,1,2
+,FasterBoats_lv3,1,8
+,FasterBoats_lv2,1,2
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterBaitMaker_lv3,1,8
+,FasterNetMaker_lv3,1,8
+,FasterFishingSpots_lv3,1,8
+,FasterTownBuildings1_lv3,1,8
+,FasterTownBuildings2_lv3,1,8
+,FasterPersonalTrain_lv3,1,8
+,MoreCash_lv2,1,2
+,MoreCash_lv3,1,8
+,HeavierFish_lv2,1,2
+,HeavierFish_lv3,1,8
+,MiningMoreOres_lv3,1,8
+,Haybale Round,1,60
+,Wooden Post,1,60
+DerbyRewardSet4_18_2017_expert,FreeDiamonds,2,60
+,Axe,2,85
+,Saw,2,85
+,Shovel,2,85
+,Dynamite,2,85
+,Demolition Charge,2,85
+,Pickaxe,2,85
+,Plank,1,170
+,Nail,1,170
+,Bolt,1,170
+,Screw,1,170
+,Duct Tape,1,170
+,Wood Panel,1,170
+,Land Deed,1,170
+,Mallet,1,170
+,Marker Stake,1,170
+,Hammer,1,45
+,Hand Drill,1,45
+,Paint Bucket,1,45
+,Stone Block,1,45
+,Brick,1,45
+,Tar Bucket,1,45
+,Map Piece,1,15
+,Voucher2,2,60
+,Voucher3,1,60
+,Expansion Key,1,420
+,FasterCrops1_lv4,1,9
+,FasterCrops1_lv5,1,4
+,FasterCrops2_lv4,1,9
+,FasterCrops2_lv5,1,4
+,FasterCrops3_lv4,1,9
+,FasterCrops3_lv5,1,4
+,FasterTrees_lv4,1,9
+,FasterTrees_lv5,1,4
+,FasterBushes_lv4,1,9
+,FasterBushes_lv5,1,4
+,FasterBuildings1_lv4,1,9
+,FasterBuildings1_lv3,1,4
+,FasterBuildings2_lv4,1,9
+,FasterBuildings2_lv3,1,4
+,FasterBuildings3_lv4,1,9
+,FasterBuildings3_lv3,1,4
+,MoreXP_lv4,1,9
+,MoreXP_lv3,1,4
+,FasterBoats_lv4,1,9
+,FasterBoats_lv3,1,4
+,FasterBaitMaker_lv3,1,4
+,FasterNetMaker_lv3,1,4
+,FasterFishingSpots_lv3,1,4
+,FasterTownBuildings1_lv3,1,4
+,FasterTownBuildings2_lv3,1,4
+,FasterPersonalTrain_lv3,1,4
+,FasterBaitMaker_lv4,1,9
+,FasterNetMaker_lv4,1,9
+,FasterFishingSpots_lv4,1,9
+,FasterTownBuildings1_lv4,1,9
+,FasterTownBuildings2_lv4,1,9
+,FasterPersonalTrain_lv4,1,9
+,MoreCash_lv3,1,4
+,MoreCash_lv4,1,9
+,HeavierFish_lv3,1,4
+,HeavierFish_lv4,1,9
+,MiningMoreOres_lv3,1,4
+,Haybale Round,1,75
+,Wooden Post,1,75
+DerbyRewardSet4_18_2017_champions,FreeDiamonds,3,60
+,Axe,2,90
+,Saw,2,90
+,Shovel,2,90
+,Dynamite,2,90
+,Demolition Charge,2,90
+,Pickaxe,2,90
+,Plank,1,180
+,Nail,1,180
+,Bolt,1,180
+,Screw,1,180
+,Duct Tape,1,180
+,Wood Panel,1,180
+,Land Deed,1,180
+,Mallet,1,180
+,Marker Stake,1,180
+,Hammer,1,45
+,Hand Drill,1,45
+,Paint Bucket,1,45
+,Stone Block,1,45
+,Brick,1,45
+,Tar Bucket,1,45
+,Map Piece,1,15
+,Voucher2,2,60
+,Voucher3,1,60
+,Expansion Key,1,600
+,FasterCrops1_lv4,1,9
+,FasterCrops1_lv5,1,4
+,FasterCrops2_lv4,1,9
+,FasterCrops2_lv5,1,4
+,FasterCrops3_lv4,1,9
+,FasterCrops3_lv5,1,4
+,FasterTrees_lv4,1,9
+,FasterTrees_lv5,1,4
+,FasterBushes_lv4,1,9
+,FasterBushes_lv5,1,4
+,FasterBuildings1_lv4,1,9
+,FasterBuildings1_lv5,1,4
+,FasterBuildings2_lv4,1,9
+,FasterBuildings2_lv5,1,4
+,FasterBuildings3_lv4,1,9
+,FasterBuildings3_lv5,1,4
+,MoreXP_lv4,1,9
+,MoreXP_lv5,1,4
+,FasterBoats_lv4,1,9
+,FasterBoats_lv5,1,4
+,FasterBaitMaker_lv4,1,9
+,FasterNetMaker_lv4,1,9
+,FasterFishingSpots_lv4,1,9
+,FasterTownBuildings1_lv4,1,9
+,FasterTownBuildings2_lv4,1,9
+,FasterPersonalTrain_lv4,1,9
+,FasterBaitMaker_lv5,1,4
+,FasterNetMaker_lv5,1,4
+,FasterFishingSpots_lv5,1,4
+,FasterTownBuildings1_lv5,1,4
+,FasterTownBuildings2_lv5,1,4
+,FasterPersonalTrain_lv5,1,4
+,MoreCash_lv4,1,9
+,MoreCash_lv5,1,4
+,HeavierFish_lv4,1,9
+,HeavierFish_lv5,1,4
+,MiningMoreOres_lv5,1,4
+,Haybale Round,1,80
+,Wooden Post,1,80
+DerbyRewardSet4_41_2017_rookie,Axe,2,116
+,Saw,2,116
+,Shovel,2,116
+,Dynamite,2,116
+,Demolition Charge,2,116
+,Pickaxe,1,116
+,Plank,1,174
+,Nail,1,174
+,Bolt,1,174
+,Screw,1,174
+,Duct Tape,1,174
+,Wood Panel,1,174
+,Land Deed,1,174
+,Mallet,1,174
+,Marker Stake,1,174
+,Hammer,1,58
+,Hand Drill,1,58
+,Paint Bucket,1,58
+,Stone Block,1,58
+,Brick,1,58
+,Tar Bucket,1,58
+,Map Piece,1,20
+,Voucher1,1,58
+,Expansion Key,1,192
+,FasterCrops1_lv1,1,7
+,FasterCrops1_lv2,1,3
+,FasterCrops2_lv1,1,7
+,FasterCrops2_lv2,1,3
+,FasterCrops3_lv1,1,7
+,FasterCrops3_lv2,1,3
+,FasterCrops4_lv1,1,7
+,FasterCrops4_lv2,1,3
+,FasterTrees_lv1,1,7
+,FasterTrees_lv2,1,3
+,FasterBushes_lv1,1,7
+,FasterBushes_lv2,1,3
+,FasterBuildings1_lv1,1,7
+,FasterBuildings2_lv1,1,7
+,FasterBuildings3_lv1,1,7
+,FasterBuildings4_lv1,1,7
+,MoreXP_lv1,1,7
+,FasterBoats_lv1,1,7
+,FasterBaitMaker_lv1,1,7
+,FasterNetMaker_lv1,1,7
+,FasterFishingSpots_lv1,1,7
+,FasterTownBuildings1_lv1,1,7
+,FasterTownBuildings2_lv1,1,7
+,FasterPersonalTrain_lv1,1,7
+,FasterLobsters_lv1,1,7
+,FasterDucks_lv1,1,7
+,FasterBaitMaker_lv2,1,3
+,FasterNetMaker_lv2,1,3
+,FasterFishingSpots_lv2,1,3
+,FasterTownBuildings1_lv2,1,3
+,FasterTownBuildings2_lv2,1,3
+,FasterPersonalTrain_lv2,1,3
+,FasterLobsters_lv2,1,3
+,FasterDucks_lv2,1,3
+,MoreCash_lv1,1,7
+,MoreCash_lv2,1,3
+,HeavierFish_lv1,1,7
+,HeavierFish_lv2,1,3
+,MiningMoreOres_lv1,1,7
+,Haybale Round,1,150
+DerbyRewardSet4_41_2017_novice,FreeDiamonds,2,90
+,Axe,2,156
+,Saw,2,156
+,Shovel,2,156
+,Dynamite,2,156
+,Demolition Charge,2,156
+,Pickaxe,2,156
+,Plank,1,264
+,Nail,1,264
+,Bolt,1,264
+,Screw,1,264
+,Duct Tape,1,264
+,Wood Panel,1,264
+,Land Deed,1,264
+,Mallet,1,264
+,Marker Stake,1,264
+,Hammer,1,90
+,Hand Drill,1,90
+,Paint Bucket,1,90
+,Stone Block,1,90
+,Brick,1,90
+,Tar Bucket,1,90
+,Map Piece,1,24
+,Voucher1,2,90
+,Voucher2,2,90
+,Expansion Key,1,432
+,FasterCrops1_lv2,1,11
+,FasterCrops1_lv3,1,5
+,FasterCrops2_lv2,1,11
+,FasterCrops2_lv3,1,5
+,FasterCrops3_lv2,1,11
+,FasterCrops3_lv3,1,5
+,FasterCrops4_lv2,1,11
+,FasterCrops4_lv3,1,5
+,FasterTrees_lv2,1,11
+,FasterTrees_lv3,1,5
+,FasterBushes_lv2,1,11
+,FasterBushes_lv3,1,5
+,FasterBuildings1_lv2,1,11
+,FasterBuildings1_lv1,1,5
+,FasterBuildings2_lv2,1,11
+,FasterBuildings2_lv1,1,5
+,FasterBuildings3_lv2,1,11
+,FasterBuildings3_lv1,1,5
+,FasterBuildings4_lv2,1,11
+,FasterBuildings4_lv1,1,5
+,MoreXP_lv2,1,11
+,MoreXP_lv1,1,5
+,FasterBoats_lv2,1,11
+,FasterBoats_lv1,1,5
+,FasterBaitMaker_lv1,1,5
+,FasterNetMaker_lv1,1,5
+,FasterFishingSpots_lv1,1,5
+,FasterTownBuildings1_lv1,1,5
+,FasterTownBuildings2_lv1,1,5
+,FasterPersonalTrain_lv1,1,5
+,FasterLobsters_lv1,1,5
+,FasterDucks_lv1,1,5
+,FasterBaitMaker_lv2,1,11
+,FasterNetMaker_lv2,1,11
+,FasterFishingSpots_lv2,1,11
+,FasterTownBuildings1_lv2,1,11
+,FasterTownBuildings2_lv2,1,11
+,FasterPersonalTrain_lv2,1,11
+,FasterLobsters_lv2,1,11
+,FasterDucks_lv2,1,11
+,MoreCash_lv1,1,5
+,MoreCash_lv2,1,11
+,HeavierFish_lv1,1,5
+,HeavierFish_lv2,1,11
+,MiningMoreOres_lv1,1,5
+,Haybale Round,1,240
+DerbyRewardSet4_41_2017_professional,FreeDiamonds,2,99
+,Axe,2,147
+,Saw,2,147
+,Shovel,2,147
+,Dynamite,2,147
+,Demolition Charge,2,147
+,Pickaxe,2,147
+,Plank,1,294
+,Nail,1,294
+,Bolt,1,294
+,Screw,1,294
+,Duct Tape,1,294
+,Wood Panel,1,294
+,Land Deed,1,294
+,Mallet,1,294
+,Marker Stake,1,294
+,Hammer,1,81
+,Hand Drill,1,81
+,Paint Bucket,1,81
+,Stone Block,1,81
+,Brick,1,81
+,Tar Bucket,1,81
+,Map Piece,1,18
+,Voucher1,2,99
+,Voucher2,2,99
+,Voucher3,1,99
+,Expansion Key,1,648
+,FasterCrops1_lv3,1,11
+,FasterCrops1_lv4,1,5
+,FasterCrops2_lv3,1,11
+,FasterCrops2_lv4,1,5
+,FasterCrops3_lv3,1,11
+,FasterCrops3_lv4,1,5
+,FasterCrops4_lv3,1,11
+,FasterCrops4_lv4,1,5
+,FasterTrees_lv3,1,11
+,FasterTrees_lv4,1,5
+,FasterBushes_lv3,1,11
+,FasterBushes_lv4,1,5
+,FasterBuildings1_lv3,1,11
+,FasterBuildings1_lv2,1,5
+,FasterBuildings2_lv3,1,11
+,FasterBuildings2_lv2,1,5
+,FasterBuildings3_lv3,1,11
+,FasterBuildings3_lv2,1,5
+,FasterBuildings4_lv3,1,11
+,FasterBuildings4_lv2,1,5
+,MoreXP_lv3,1,11
+,MoreXP_lv2,1,5
+,FasterBoats_lv3,1,11
+,FasterBoats_lv2,1,5
+,FasterBaitMaker_lv2,1,5
+,FasterNetMaker_lv2,1,5
+,FasterFishingSpots_lv2,1,5
+,FasterTownBuildings1_lv2,1,5
+,FasterTownBuildings2_lv2,1,5
+,FasterPersonalTrain_lv2,1,5
+,FasterLobsters_lv2,1,5
+,FasterDucks_lv2,1,5
+,FasterBaitMaker_lv3,1,11
+,FasterNetMaker_lv3,1,11
+,FasterFishingSpots_lv3,1,11
+,FasterTownBuildings1_lv3,1,11
+,FasterTownBuildings2_lv3,1,11
+,FasterPersonalTrain_lv3,1,11
+,FasterLobsters_lv3,1,11
+,FasterDucks_lv3,1,11
+,MoreCash_lv2,1,5
+,MoreCash_lv3,1,11
+,HeavierFish_lv2,1,5
+,HeavierFish_lv3,1,11
+,MiningMoreOres_lv3,1,11
+,Haybale Round,1,130
+,Wooden Post,1,130
+DerbyRewardSet4_41_2017_expert,FreeDiamonds,2,90
+,Axe,2,132
+,Saw,2,132
+,Shovel,2,132
+,Dynamite,2,132
+,Demolition Charge,2,132
+,Pickaxe,2,132
+,Plank,1,264
+,Nail,1,264
+,Bolt,1,264
+,Screw,1,264
+,Duct Tape,1,264
+,Wood Panel,1,264
+,Land Deed,1,264
+,Mallet,1,264
+,Marker Stake,1,264
+,Hammer,1,66
+,Hand Drill,1,66
+,Paint Bucket,1,66
+,Stone Block,1,66
+,Brick,1,66
+,Tar Bucket,1,66
+,Map Piece,1,24
+,Voucher2,2,90
+,Voucher3,1,90
+,Expansion Key,1,648
+,FasterCrops1_lv4,1,11
+,FasterCrops1_lv5,1,5
+,FasterCrops2_lv4,1,11
+,FasterCrops2_lv5,1,5
+,FasterCrops3_lv4,1,11
+,FasterCrops3_lv5,1,5
+,FasterCrops4_lv4,1,11
+,FasterCrops4_lv5,1,5
+,FasterTrees_lv4,1,11
+,FasterTrees_lv5,1,5
+,FasterBushes_lv4,1,11
+,FasterBushes_lv5,1,5
+,FasterBuildings1_lv4,1,11
+,FasterBuildings1_lv3,1,5
+,FasterBuildings2_lv4,1,11
+,FasterBuildings2_lv3,1,5
+,FasterBuildings3_lv4,1,11
+,FasterBuildings3_lv3,1,5
+,FasterBuildings4_lv4,1,11
+,FasterBuildings4_lv3,1,5
+,MoreXP_lv4,1,11
+,MoreXP_lv3,1,5
+,FasterBoats_lv4,1,11
+,FasterBoats_lv3,1,5
+,FasterBaitMaker_lv3,1,5
+,FasterNetMaker_lv3,1,5
+,FasterFishingSpots_lv3,1,5
+,FasterTownBuildings1_lv3,1,5
+,FasterTownBuildings2_lv3,1,5
+,FasterPersonalTrain_lv3,1,5
+,FasterLobsters_lv3,1,5
+,FasterDucks_lv3,1,5
+,FasterBaitMaker_lv4,1,11
+,FasterNetMaker_lv4,1,11
+,FasterFishingSpots_lv4,1,11
+,FasterTownBuildings1_lv4,1,11
+,FasterTownBuildings2_lv4,1,11
+,FasterPersonalTrain_lv4,1,11
+,FasterLobsters_lv4,1,11
+,FasterDucks_lv4,1,11
+,MoreCash_lv3,1,5
+,MoreCash_lv4,1,11
+,HeavierFish_lv3,1,5
+,HeavierFish_lv4,1,11
+,MiningMoreOres_lv3,1,5
+,Haybale Round,1,115
+,Wooden Post,1,115
+DerbyRewardSet4_41_2017_champions,FreeDiamonds,2,30
+,Axe,2,44
+,Saw,2,44
+,Shovel,2,44
+,Dynamite,2,44
+,Demolition Charge,2,44
+,Pickaxe,2,44
+,Plank,1,88
+,Nail,1,88
+,Bolt,1,88
+,Screw,1,88
+,Duct Tape,1,88
+,Wood Panel,1,88
+,Land Deed,1,88
+,Mallet,1,88
+,Marker Stake,1,88
+,Hammer,1,22
+,Hand Drill,1,22
+,Paint Bucket,1,22
+,Stone Block,1,22
+,Brick,1,22
+,Tar Bucket,1,22
+,Map Piece,1,8
+,Voucher2,2,30
+,Voucher3,1,30
+,Expansion Key,1,216
+,FasterCrops1_lv4,1,3
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,3
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,3
+,FasterCrops3_lv5,1,1
+,FasterCrops4_lv4,1,3
+,FasterCrops4_lv5,1,1
+,FasterTrees_lv4,1,3
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,3
+,FasterBushes_lv5,1,1
+,FasterBuildings1_lv4,1,3
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv4,1,3
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv4,1,3
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv4,1,3
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv4,1,3
+,MoreXP_lv3,1,1
+,FasterBoats_lv4,1,3
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterLobsters_lv3,1,1
+,FasterDucks_lv3,1,1
+,FasterBaitMaker_lv4,1,3
+,FasterNetMaker_lv4,1,3
+,FasterFishingSpots_lv4,1,3
+,FasterTownBuildings1_lv4,1,3
+,FasterTownBuildings2_lv4,1,3
+,FasterPersonalTrain_lv4,1,3
+,FasterLobsters_lv4,1,3
+,FasterDucks_lv4,1,3
+,MoreCash_lv3,1,1
+,MoreCash_lv4,1,3
+,HeavierFish_lv3,1,1
+,HeavierFish_lv4,1,3
+,MiningMoreOres_lv3,1,1
+,Haybale Round,1,40
+,Wooden Post,1,40
+DerbyRewardSet5_18_2017_rookie,FreeDiamonds,2,2
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Sun Dial,1,3
+DerbyRewardSet5_18_2017_novice,FreeDiamonds,2,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Sun Dial,1,3
+,Horseshoe Game,1,3
+DerbyRewardSet5_18_2017_professional,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,1,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+DerbyRewardSet5_18_2017_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+DerbyRewardSet5_18_2017_champions,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+DerbyRewardSet5_41_2017_rookie,FreeDiamonds,2,2
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Sun Dial,1,3
+,Blueprint,1,5000
+DerbyRewardSet5_41_2017_novice,FreeDiamonds,2,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Sun Dial,1,3
+,Horseshoe Game,1,3
+,Blueprint,1,5000
+DerbyRewardSet5_41_2017_professional,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,4
+,Hand Drill,2,4
+,Paint Bucket,2,4
+,Stone Block,2,4
+,Brick,2,4
+,Tar Bucket,2,4
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,1,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+,Blueprint,1,5000
+DerbyRewardSet5_41_2017_expert,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+,Blueprint,1,5000
+DerbyRewardSet5_41_2017_champions,FreeDiamonds,3,3
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,12
+,Mallet,2,12
+,Marker Stake,2,12
+,Hammer,2,3
+,Hand Drill,2,3
+,Paint Bucket,2,3
+,Stone Block,2,3
+,Brick,2,3
+,Tar Bucket,2,3
+,Map Piece,1,1
+,Voucher3,2,6
+,Voucher4,2,6
+,Sun Dial,1,2
+,Horseshoe Game,1,2
+,Haybale Guitar,1,2
+,Blueprint,1,5000
+DerbyRewardSet6_18_2017_novice,FreeDiamonds,2,50
+,Plank,2,130
+,Nail,2,130
+,Bolt,2,130
+,Screw,2,130
+,Duct Tape,2,130
+,Wood Panel,2,130
+,Land Deed,2,130
+,Mallet,2,130
+,Marker Stake,2,130
+,Hammer,2,45
+,Hand Drill,2,45
+,Paint Bucket,2,45
+,Stone Block,2,45
+,Brick,2,45
+,Tar Bucket,2,45
+,Map Piece,2,10
+,Voucher3,1,65
+,Horse lounge,1,35
+,GnomePolice,1,35
+,Puzzle Piece 1,1,1575
+,FasterBuildings1_lv2,1,9
+,FasterBuildings1_lv3,1,4
+,FasterBuildings2_lv2,1,9
+,FasterBuildings2_lv3,1,4
+,FasterBuildings3_lv2,1,9
+,FasterBuildings3_lv3,1,4
+,MoreXP_lv2,1,9
+,MoreXP_lv3,1,4
+,FasterBoats_lv2,1,9
+,FasterBoats_lv3,1,4
+,FasterTom_lv1,1,4
+,FasterTom_lv2,1,9
+,FreeTom_lv1,1,4
+,FreeTom_lv2,1,9
+,FreeRose_lv1,1,4
+,FreeRose_lv2,1,9
+,FreeErnest_lv1,1,4
+,FreeErnest_lv2,1,9
+,EasierBoats_lv1,1,4
+,EasierBoats_lv2,1,9
+,FasterFishingSpots_lv1,1,4
+,FasterTownBuildings1_lv1,1,4
+,FasterTownBuildings2_lv1,1,4
+,FasterPersonalTrain_lv1,1,4
+,FasterFishingSpots_lv2,1,9
+,FasterTownBuildings1_lv2,1,9
+,FasterTownBuildings2_lv2,1,9
+,FasterPersonalTrain_lv2,1,9
+,MoreCash_lv1,1,4
+,MoreCash_lv2,1,9
+,HeavierFish_lv1,1,4
+,HeavierFish_lv2,1,9
+,MiningMoreOres_lv1,1,4
+DerbyRewardSet6_18_2017_professional,FreeDiamonds,3,51
+,Plank,2,102
+,Nail,2,102
+,Bolt,2,102
+,Screw,2,102
+,Duct Tape,2,102
+,Wood Panel,2,102
+,Land Deed,2,102
+,Mallet,2,102
+,Marker Stake,2,102
+,Hammer,2,36
+,Hand Drill,2,36
+,Paint Bucket,2,36
+,Stone Block,2,36
+,Brick,2,36
+,Tar Bucket,2,36
+,Map Piece,2,9
+,Voucher3,2,36
+,Voucher4,1,36
+,Horse lounge,1,36
+,GnomePolice,1,36
+,Puzzle Piece 1,1,1302
+,FasterBuildings1_lv3,1,8
+,FasterBuildings1_lv4,1,2
+,FasterBuildings2_lv3,1,8
+,FasterBuildings2_lv4,1,2
+,FasterBuildings3_lv3,1,8
+,FasterBuildings3_lv4,1,2
+,MoreXP_lv3,1,8
+,MoreXP_lv4,1,2
+,FasterBoats_lv3,1,8
+,FasterBoats_lv4,1,2
+,FasterTom_lv2,1,2
+,FasterTom_lv3,1,8
+,FreeTom_lv2,1,2
+,FreeTom_lv3,1,8
+,FreeRose_lv2,1,2
+,FreeRose_lv3,1,8
+,FreeErnest_lv2,1,2
+,FreeErnest_lv3,1,8
+,EasierBoats_lv2,1,2
+,EasierBoats_lv3,1,8
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterFishingSpots_lv3,1,8
+,FasterTownBuildings1_lv3,1,8
+,FasterTownBuildings2_lv3,1,8
+,FasterPersonalTrain_lv3,1,8
+,MoreCash_lv2,1,2
+,MoreCash_lv3,1,8
+,HeavierFish_lv2,1,2
+,HeavierFish_lv3,1,8
+,MiningMoreOres_lv3,1,8
+DerbyRewardSet6_18_2017_expert,FreeDiamonds,3,68
+,Plank,2,136
+,Nail,2,136
+,Bolt,2,136
+,Screw,2,136
+,Duct Tape,2,136
+,Wood Panel,2,136
+,Land Deed,2,136
+,Mallet,2,136
+,Marker Stake,2,136
+,Hammer,2,48
+,Hand Drill,2,48
+,Paint Bucket,2,48
+,Stone Block,2,48
+,Brick,2,48
+,Tar Bucket,2,48
+,Map Piece,2,8
+,Voucher3,2,52
+,Voucher4,2,48
+,Horse lounge,1,52
+,GnomePolice,1,52
+,Puzzle Piece 1,1,1748
+,FasterBuildings1_lv4,1,11
+,FasterBuildings1_lv5,1,3
+,FasterBuildings2_lv4,1,11
+,FasterBuildings2_lv5,1,3
+,FasterBuildings3_lv4,1,11
+,FasterBuildings3_lv5,1,3
+,MoreXP_lv4,1,11
+,MoreXP_lv5,1,3
+,FasterBoats_lv4,1,11
+,FasterBoats_lv5,1,3
+,FasterTom_lv3,1,3
+,FasterTom_lv4,1,11
+,FreeTom_lv3,1,3
+,FreeTom_lv4,1,11
+,FreeRose_lv3,1,3
+,FreeRose_lv4,1,11
+,FreeErnest_lv3,1,3
+,FreeErnest_lv4,1,11
+,EasierBoats_lv3,1,3
+,EasierBoats_lv4,1,11
+,FasterFishingSpots_lv3,1,3
+,FasterTownBuildings1_lv3,1,3
+,FasterTownBuildings2_lv3,1,3
+,FasterPersonalTrain_lv3,1,3
+,FasterFishingSpots_lv4,1,11
+,FasterTownBuildings1_lv4,1,11
+,FasterTownBuildings2_lv4,1,11
+,FasterPersonalTrain_lv4,1,11
+,MoreCash_lv3,1,3
+,MoreCash_lv4,1,11
+,HeavierFish_lv3,1,3
+,HeavierFish_lv4,1,11
+,MiningMoreOres_lv3,1,3
+DerbyRewardSet6_18_2017_champions,FreeDiamonds,3,68
+,Plank,2,136
+,Nail,2,136
+,Bolt,2,136
+,Screw,2,136
+,Duct Tape,2,136
+,Wood Panel,2,136
+,Land Deed,2,136
+,Mallet,2,136
+,Marker Stake,2,136
+,Hammer,2,48
+,Hand Drill,2,48
+,Paint Bucket,2,48
+,Stone Block,2,48
+,Brick,2,48
+,Tar Bucket,2,48
+,Map Piece,2,8
+,Voucher3,2,52
+,Voucher4,2,48
+,Horse lounge,1,52
+,GnomePolice,1,52
+,Puzzle Piece 1,1,1748
+,FasterBuildings1_lv4,1,11
+,FasterBuildings1_lv5,1,3
+,FasterBuildings2_lv4,1,11
+,FasterBuildings2_lv5,1,3
+,FasterBuildings3_lv4,1,11
+,FasterBuildings3_lv5,1,3
+,MoreXP_lv4,1,11
+,MoreXP_lv5,1,3
+,FasterBoats_lv4,1,11
+,FasterBoats_lv5,1,3
+,FasterTom_lv4,1,11
+,FasterTom_lv5,1,3
+,FreeTom_lv4,1,11
+,FreeTom_lv5,1,3
+,FreeRose_lv4,1,11
+,FreeRose_lv5,1,3
+,FreeErnest_lv4,1,11
+,FreeErnest_lv5,1,3
+,EasierBoats_lv4,1,11
+,EasierBoats_lv5,1,3
+,FasterFishingSpots_lv4,1,11
+,FasterTownBuildings1_lv4,1,11
+,FasterTownBuildings2_lv4,1,11
+,FasterPersonalTrain_lv4,1,11
+,FasterFishingSpots_lv5,1,3
+,FasterTownBuildings1_lv5,1,3
+,FasterTownBuildings2_lv5,1,3
+,FasterPersonalTrain_lv5,1,3
+,MoreCash_lv4,1,11
+,MoreCash_lv5,1,3
+,HeavierFish_lv4,1,11
+,HeavierFish_lv5,1,3
+,MiningMoreOres_lv5,1,3
+DerbyRewardSet6_41_2017_novice,FreeDiamonds,2,40
+,Plank,2,104
+,Nail,2,104
+,Bolt,2,104
+,Screw,2,104
+,Duct Tape,2,104
+,Wood Panel,2,104
+,Land Deed,2,104
+,Mallet,2,104
+,Marker Stake,2,104
+,Hammer,2,36
+,Hand Drill,2,36
+,Paint Bucket,2,36
+,Stone Block,2,36
+,Brick,2,36
+,Tar Bucket,2,36
+,Map Piece,2,8
+,Voucher3,1,52
+,Horse lounge,1,28
+,GnomePolice,1,28
+,Puzzle Piece 1,1,1260
+,FasterBuildings1_lv2,1,7
+,FasterBuildings1_lv3,1,3
+,FasterBuildings2_lv2,1,7
+,FasterBuildings2_lv3,1,3
+,FasterBuildings3_lv2,1,7
+,FasterBuildings3_lv3,1,3
+,FasterBuildings4_lv2,1,7
+,FasterBuildings4_lv3,1,3
+,MoreXP_lv2,1,7
+,MoreXP_lv3,1,3
+,FasterBoats_lv2,1,7
+,FasterBoats_lv3,1,3
+,FasterTom_lv1,1,3
+,FasterTom_lv2,1,7
+,FreeTom_lv1,1,3
+,FreeTom_lv2,1,7
+,FreeRose_lv1,1,3
+,FreeRose_lv2,1,7
+,FreeErnest_lv1,1,3
+,FreeErnest_lv2,1,7
+,EasierBoats_lv1,1,3
+,EasierBoats_lv2,1,7
+,FasterFishingSpots_lv1,1,3
+,FasterTownBuildings1_lv1,1,3
+,FasterTownBuildings2_lv1,1,3
+,FasterPersonalTrain_lv1,1,3
+,FasterFishingSpots_lv2,1,7
+,FasterTownBuildings1_lv2,1,7
+,FasterTownBuildings2_lv2,1,7
+,FasterPersonalTrain_lv2,1,7
+,MoreCash_lv1,1,3
+,MoreCash_lv2,1,7
+,HeavierFish_lv1,1,3
+,HeavierFish_lv2,1,7
+,MiningMoreOres_lv1,1,3
+DerbyRewardSet6_41_2017_professional,FreeDiamonds,3,52
+,Plank,2,102
+,Nail,2,102
+,Bolt,2,102
+,Screw,2,102
+,Duct Tape,2,102
+,Wood Panel,2,102
+,Land Deed,2,102
+,Mallet,2,102
+,Marker Stake,2,102
+,Hammer,2,34
+,Hand Drill,2,34
+,Paint Bucket,2,34
+,Stone Block,2,34
+,Brick,2,34
+,Tar Bucket,2,34
+,Map Piece,2,10
+,Voucher3,2,34
+,Voucher4,1,34
+,Horse lounge,1,34
+,GnomePolice,1,34
+,Puzzle Piece 1,1,1302
+,FasterBuildings1_lv3,1,7
+,FasterBuildings1_lv4,1,3
+,FasterBuildings2_lv3,1,7
+,FasterBuildings2_lv4,1,3
+,FasterBuildings3_lv3,1,7
+,FasterBuildings3_lv4,1,3
+,FasterBuildings4_lv3,1,7
+,FasterBuildings4_lv4,1,3
+,MoreXP_lv3,1,7
+,MoreXP_lv4,1,3
+,FasterBoats_lv3,1,7
+,FasterBoats_lv4,1,3
+,FasterTom_lv2,1,3
+,FasterTom_lv3,1,7
+,FreeTom_lv2,1,3
+,FreeTom_lv3,1,7
+,FreeRose_lv2,1,3
+,FreeRose_lv3,1,7
+,FreeErnest_lv2,1,3
+,FreeErnest_lv3,1,7
+,EasierBoats_lv2,1,3
+,EasierBoats_lv3,1,7
+,FasterFishingSpots_lv2,1,3
+,FasterTownBuildings1_lv2,1,3
+,FasterTownBuildings2_lv2,1,3
+,FasterPersonalTrain_lv2,1,3
+,FasterFishingSpots_lv3,1,7
+,FasterTownBuildings1_lv3,1,7
+,FasterTownBuildings2_lv3,1,7
+,FasterPersonalTrain_lv3,1,7
+,HeavierFish_lv2,1,3
+,HeavierFish_lv3,1,7
+,MoreCash_lv2,1,3
+,MoreCash_lv3,1,7
+,MiningMoreOres_lv3,1,7
+DerbyRewardSet6_41_2017_expert,FreeDiamonds,3,60
+,Plank,2,120
+,Nail,2,120
+,Bolt,2,120
+,Screw,2,120
+,Duct Tape,2,120
+,Wood Panel,2,120
+,Land Deed,2,120
+,Mallet,2,120
+,Marker Stake,2,120
+,Hammer,2,40
+,Hand Drill,2,40
+,Paint Bucket,2,40
+,Stone Block,2,40
+,Brick,2,40
+,Tar Bucket,2,40
+,Map Piece,2,5
+,Voucher3,2,45
+,Voucher4,2,40
+,Horse lounge,1,45
+,GnomePolice,1,45
+,Puzzle Piece 1,1,1560
+,FasterBuildings1_lv4,1,9
+,FasterBuildings1_lv5,1,4
+,FasterBuildings2_lv4,1,9
+,FasterBuildings2_lv5,1,4
+,FasterBuildings3_lv4,1,9
+,FasterBuildings3_lv5,1,4
+,FasterBuildings4_lv4,1,9
+,FasterBuildings4_lv5,1,4
+,MoreXP_lv4,1,9
+,MoreXP_lv5,1,4
+,FasterBoats_lv4,1,9
+,FasterBoats_lv5,1,4
+,FasterTom_lv3,1,4
+,FasterTom_lv4,1,9
+,FreeTom_lv3,1,4
+,FreeTom_lv4,1,9
+,FreeRose_lv3,1,4
+,FreeRose_lv4,1,9
+,FreeErnest_lv3,1,4
+,FreeErnest_lv4,1,9
+,EasierBoats_lv3,1,4
+,EasierBoats_lv4,1,9
+,FasterFishingSpots_lv3,1,4
+,FasterTownBuildings1_lv3,1,4
+,FasterTownBuildings2_lv3,1,4
+,FasterPersonalTrain_lv3,1,4
+,FasterFishingSpots_lv4,1,9
+,FasterTownBuildings1_lv4,1,9
+,FasterTownBuildings2_lv4,1,9
+,FasterPersonalTrain_lv4,1,9
+,MoreCash_lv3,1,4
+,MoreCash_lv4,1,9
+,HeavierFish_lv3,1,4
+,HeavierFish_lv4,1,9
+,MiningMoreOres_lv3,1,4
+DerbyRewardSet6_41_2017_champions,FreeDiamonds,3,60
+,Plank,2,120
+,Nail,2,120
+,Bolt,2,120
+,Screw,2,120
+,Duct Tape,2,120
+,Wood Panel,2,120
+,Land Deed,2,120
+,Mallet,2,120
+,Marker Stake,2,120
+,Hammer,2,40
+,Hand Drill,2,40
+,Paint Bucket,2,40
+,Stone Block,2,40
+,Brick,2,40
+,Tar Bucket,2,40
+,Map Piece,2,5
+,Voucher3,2,45
+,Voucher4,2,40
+,Horse lounge,1,45
+,GnomePolice,1,45
+,Puzzle Piece 1,1,1560
+,FasterBuildings1_lv4,1,9
+,FasterBuildings1_lv5,1,4
+,FasterBuildings2_lv4,1,9
+,FasterBuildings2_lv5,1,4
+,FasterBuildings3_lv4,1,9
+,FasterBuildings3_lv5,1,4
+,FasterBuildings4_lv4,1,9
+,FasterBuildings4_lv5,1,4
+,MoreXP_lv4,1,9
+,MoreXP_lv5,1,4
+,FasterBoats_lv4,1,9
+,FasterBoats_lv5,1,4
+,FasterTom_lv4,1,9
+,FasterTom_lv5,1,4
+,FreeTom_lv4,1,9
+,FreeTom_lv5,1,4
+,FreeRose_lv4,1,9
+,FreeRose_lv5,1,4
+,FreeErnest_lv4,1,9
+,FreeErnest_lv5,1,4
+,EasierBoats_lv4,1,9
+,EasierBoats_lv5,1,4
+,FasterFishingSpots_lv4,1,9
+,FasterTownBuildings1_lv4,1,9
+,FasterTownBuildings2_lv4,1,9
+,FasterPersonalTrain_lv4,1,9
+,FasterFishingSpots_lv5,1,4
+,FasterTownBuildings1_lv5,1,4
+,FasterTownBuildings2_lv5,1,4
+,FasterPersonalTrain_lv5,1,4
+,MoreCash_lv4,1,9
+,MoreCash_lv5,1,4
+,HeavierFish_lv4,1,9
+,HeavierFish_lv5,1,4
+,MiningMoreOres_lv5,1,4
+DerbyRewardSet8_18_2017_expert,FreeDiamonds,3,18
+,Plank,3,72
+,Nail,3,72
+,Bolt,3,72
+,Screw,3,72
+,Duct Tape,3,72
+,Wood Panel,3,72
+,Land Deed,3,72
+,Mallet,3,72
+,Marker Stake,3,72
+,Voucher3,2,36
+,Voucher4,2,36
+,MoreXP_lv4,1,5
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,5
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,5
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,5
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,5
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,5
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,5
+,EasierBoats_lv5,1,1
+,MoreCash_lv4,1,5
+,MoreCash_lv5,1,1
+,HeavierFish_lv4,1,5
+,HeavierFish_lv5,1,1
+,MiningMoreOres_lv5,1,1
+DerbyRewardSet8_18_2017_champions,FreeDiamonds,3,30
+,Plank,3,144
+,Nail,3,144
+,Bolt,3,144
+,Screw,3,144
+,Duct Tape,3,144
+,Wood Panel,3,144
+,Land Deed,3,144
+,Mallet,3,144
+,Marker Stake,3,144
+,Voucher3,2,72
+,Voucher4,2,72
+,MoreXP_lv4,1,10
+,MoreXP_lv5,1,2
+,FasterBoats_lv4,1,10
+,FasterBoats_lv5,1,2
+,FasterTom_lv4,1,10
+,FasterTom_lv5,1,2
+,FreeTom_lv4,1,10
+,FreeTom_lv5,1,2
+,FreeRose_lv4,1,10
+,FreeRose_lv5,1,2
+,FreeErnest_lv4,1,10
+,FreeErnest_lv5,1,2
+,EasierBoats_lv4,1,10
+,EasierBoats_lv5,1,2
+,MoreCash_lv4,1,10
+,MoreCash_lv5,1,2
+,HeavierFish_lv4,1,10
+,HeavierFish_lv5,1,2
+,MiningMoreOres_lv5,1,2
+DerbyRewardSet8_41_2017_expert,FreeDiamonds,3,60
+,Plank,3,300
+,Nail,3,300
+,Bolt,3,300
+,Screw,3,300
+,Duct Tape,3,300
+,Wood Panel,3,300
+,Land Deed,3,300
+,Mallet,3,300
+,Marker Stake,3,300
+,Voucher3,2,150
+,Voucher4,2,150
+,MoreXP_lv4,1,17
+,MoreXP_lv5,1,7
+,FasterBoats_lv4,1,17
+,FasterBoats_lv5,1,7
+,FasterTom_lv4,1,17
+,FasterTom_lv5,1,7
+,FreeTom_lv4,1,17
+,FreeTom_lv5,1,7
+,FreeRose_lv4,1,17
+,FreeRose_lv5,1,7
+,FreeErnest_lv4,1,17
+,FreeErnest_lv5,1,7
+,EasierBoats_lv4,1,17
+,EasierBoats_lv5,1,7
+,MoreCash_lv4,1,17
+,MoreCash_lv5,1,7
+,HeavierFish_lv4,1,17
+,HeavierFish_lv5,1,7
+,MiningMoreOres_lv5,1,7
+,Blueprint,1,5000
+DerbyRewardSet8_41_2017_champions,FreeDiamonds,3,40
+,Plank,3,210
+,Nail,3,210
+,Bolt,3,210
+,Screw,3,210
+,Duct Tape,3,210
+,Wood Panel,3,210
+,Land Deed,3,210
+,Mallet,3,210
+,Marker Stake,3,210
+,Voucher3,2,105
+,Voucher4,2,105
+,MoreXP_lv4,1,13
+,MoreXP_lv5,1,6
+,FasterBoats_lv4,1,13
+,FasterBoats_lv5,1,6
+,FasterTom_lv4,1,13
+,FasterTom_lv5,1,6
+,FreeTom_lv4,1,13
+,FreeTom_lv5,1,6
+,FreeRose_lv4,1,13
+,FreeRose_lv5,1,6
+,FreeErnest_lv4,1,13
+,FreeErnest_lv5,1,6
+,EasierBoats_lv4,1,13
+,EasierBoats_lv5,1,6
+,MoreCash_lv4,1,13
+,MoreCash_lv5,1,6
+,HeavierFish_lv4,1,13
+,HeavierFish_lv5,1,6
+,MiningMoreOres_lv5,1,6
+,Blueprint,1,5000
+DerbyRewardSet1_18_Xmas_rookie,Axe,1,6
+,Saw,1,6
+,Shovel,1,6
+,Dynamite,1,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Brown_Sugar,3,4
+,White Sugar,3,4
+,Vanilla Ice Cream,1,4
+,Apple Jam,1,4
+,Raspberry,5,4
+,Cherry,5,4
+,Blackberry,5,4
+,Apple,5,4
+,Honey,3,4
+,Cream,3,4
+,Butter,3,4
+,Cheese,3,4
+,Goat Cheese,3,4
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet1_41_Xmas_rookie,Axe,1,6
+,Saw,1,6
+,Shovel,1,6
+,Dynamite,1,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Brown_Sugar,3,3
+,White Sugar,3,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,3
+,Raspberry,5,3
+,Cherry,5,3
+,Blackberry,5,3
+,Apple,5,3
+,Honey,3,3
+,Cream,3,3
+,Butter,3,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+,Bracelet,1,3
+,SoySauce,1,3
+,Horse balloon,1,3
+,GnomePainter,1,3
+DerbyRewardSet1_18_Xmas_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,3
+,Raspberry,9,3
+,Cherry,9,3
+,Blackberry,9,3
+,Apple,9,3
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Flagged fence,1,3
+,GnomePainter,1,3
+DerbyRewardSet1_41_Xmas_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,9,2
+,Cherry,9,2
+,Blackberry,9,2
+,Apple,9,2
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,2,2
+,Duck Down,2,2
+,Bracelet,1,2
+,SoySauce,1,2
+,Horse balloon,1,3
+,GnomePainter,1,3
+DerbyRewardSet1_18_Xmas_pro,Axe,2,16
+,Saw,2,16
+,Shovel,1,16
+,Dynamite,2,16
+,Demolition Charge,1,16
+,Pickaxe,1,16
+,Brown_Sugar,5,9
+,White Sugar,5,9
+,Vanilla Ice Cream,1,9
+,Apple Jam,1,9
+,Honey,5,9
+,Cream,5,9
+,Butter,5,9
+,Cheese,3,9
+,Goat Cheese,3,9
+,Flagged fence,1,4
+,GnomePainter,1,4
+,GnomeElf,1,4
+DerbyRewardSet1_41_Xmas_pro,Axe,2,7
+,Saw,2,7
+,Shovel,1,7
+,Dynamite,2,7
+,Demolition Charge,1,7
+,Pickaxe,1,7
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,2
+,Honey,5,3
+,Cream,5,3
+,Butter,5,3
+,Cheese,3,3
+,Goat Cheese,3,3
+,Lobster Meat,2,3
+,Duck Down,2,3
+,Bracelet,1,2
+,SoySauce,1,2
+,Horse balloon,1,2
+,GnomePainter,1,2
+,GnomeElf,1,2
+DerbyRewardSet1_18_Xmas_expert,Axe,2,30
+,Saw,2,30
+,Shovel,1,30
+,Dynamite,2,30
+,Demolition Charge,1,30
+,Pickaxe,1,30
+,Brown_Sugar,5,17
+,White Sugar,5,17
+,Vanilla Ice Cream,1,17
+,Apple Jam,1,17
+,Honey,5,17
+,Cream,5,17
+,Butter,5,17
+,Cheese,5,17
+,Goat Cheese,5,17
+,Flagged fence,1,6
+,GnomePainter,1,6
+,GnomeElf,1,6
+,GnomeFirefighter,1,6
+DerbyRewardSet1_41_Xmas_expert,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Vanilla Ice Cream,1,6
+,Apple Jam,1,6
+,Honey,5,5
+,Cream,5,5
+,Butter,5,6
+,Cheese,5,6
+,Goat Cheese,5,6
+,Lobster Meat,2,5
+,Duck Down,2,5
+,Bracelet,1,5
+,SoySauce,1,5
+,Horse balloon,1,3
+,GnomePainter,1,3
+,GnomeElf,1,3
+,GnomeFirefighter,1,3
+DerbyRewardSet1_18_Xmas_champion,Axe,2,30
+,Saw,2,30
+,Shovel,1,30
+,Dynamite,2,30
+,Demolition Charge,1,30
+,Pickaxe,1,30
+,White Sugar,5,17
+,Vanilla Ice Cream,1,17
+,Apple Jam,1,17
+,Honey,5,17
+,Butter,5,17
+,Cheese,5,17
+,Goat Cheese,5,17
+,Flagged fence,1,5
+,GnomePainter,1,5
+,GnomeElf,1,5
+,GnomeFirefighter,1,5
+DerbyRewardSet1_41_Xmas_champion,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Vanilla Ice Cream,1,6
+,Apple Jam,1,6
+,Honey,5,5
+,Cream,5,5
+,Butter,5,6
+,Cheese,5,6
+,Goat Cheese,5,6
+,Lobster Meat,2,5
+,Duck Down,2,5
+,Bracelet,1,5
+,SoySauce,1,5
+,Horse balloon,1,3
+,GnomePainter,1,3
+,GnomeElf,1,3
+,GnomeFirefighter,1,3
+DerbyRewardSet2_18_2017_Xmas_rookie,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Land Deed,1,16
+,Mallet,1,16
+,Marker Stake,1,16
+,White Sugar,3,5
+,Syrup,3,5
+,Cherry Popsicle,1,5
+,Raspberry Jam,1,5
+,Blackberry Jam,1,5
+,Raspberry,5,5
+,Cherry,5,5
+,Blackberry,5,5
+,Apple,5,5
+,Honey,3,5
+,Cream,3,5
+,Butter,3,5
+,Cheese,3,5
+,Goat Cheese,3,5
+,GnomeFisherman,1,6
+,GnomeFlowergirl,1,6
+,FasterCrops1_lv1,1,2
+,FasterCrops2_lv1,1,2
+,FasterCrops3_lv1,1,2
+,FasterTrees_lv1,1,2
+,FasterBushes_lv1,1,2
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,2
+DerbyRewardSet2_18_2017_Xmas_novice,Axe,1,15
+,Saw,1,15
+,Shovel,1,15
+,Dynamite,1,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Land Deed,1,30
+,Mallet,1,30
+,Marker Stake,1,30
+,White Sugar,3,6
+,Syrup,3,6
+,Cherry Popsicle,1,6
+,Raspberry Jam,1,6
+,Blackberry Jam,1,6
+,Raspberry,9,6
+,Cherry,9,6
+,Blackberry,9,6
+,Apple,9,6
+,Honey,3,6
+,Cream,3,6
+,Butter,3,6
+,Cheese,3,6
+,Goat Cheese,3,6
+,GnomeFisherman,1,6
+,GnomeFlowergirl,1,6
+,Horse lounge,1,6
+,FasterCrops1_lv1,1,1
+,FasterCrops1_lv2,1,2
+,FasterCrops2_lv1,1,1
+,FasterCrops2_lv2,1,2
+,FasterCrops3_lv1,1,1
+,FasterCrops3_lv2,1,2
+,FasterTrees_lv1,1,1
+,FasterTrees_lv2,1,2
+,FasterBushes_lv1,1,1
+,FasterBushes_lv2,1,2
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+DerbyRewardSet2_18_2017_Xmas_professional,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,1,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Land Deed,1,30
+,Mallet,1,30
+,Marker Stake,1,30
+,Voucher1,1,12
+,White Sugar,5,9
+,Syrup,4,9
+,Cherry Popsicle,1,9
+,Raspberry Jam,1,9
+,Blackberry Jam,1,9
+,Honey,5,9
+,Cream,5,9
+,Butter,5,9
+,Cheese,3,9
+,Goat Cheese,3,9
+,GnomeFisherman,1,5
+,GnomeFlowergirl,1,5
+,Horse lounge,1,5
+,Covered stand,1,5
+,FasterCrops1_lv2,1,1
+,FasterCrops1_lv3,1,2
+,FasterCrops2_lv2,1,1
+,FasterCrops2_lv3,1,2
+,FasterCrops3_lv2,1,1
+,FasterCrops3_lv3,1,2
+,FasterTrees_lv2,1,1
+,FasterTrees_lv3,1,2
+,FasterBushes_lv2,1,1
+,FasterBushes_lv3,1,2
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,FasterBaitMaker_lv3,1,2
+,FasterNetMaker_lv3,1,2
+DerbyRewardSet2_18_2017_Xmas_expert,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,2,15
+,Pickaxe,1,15
+,Land Deed,2,30
+,Mallet,2,30
+,Marker Stake,2,30
+,Voucher1,2,12
+,White Sugar,6,6
+,Syrup,5,6
+,Cherry Popsicle,1,6
+,Raspberry Jam,1,6
+,Blackberry Jam,1,6
+,Honey,6,6
+,Cream,6,6
+,Butter,6,6
+,Cheese,4,6
+,Goat Cheese,4,6
+,GnomeFisherman,1,5
+,GnomeFlowergirl,1,5
+,Horse lounge,1,5
+,Covered stand,1,5
+,FasterCrops1_lv3,1,1
+,FasterCrops1_lv4,1,2
+,FasterCrops2_lv3,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops3_lv3,1,1
+,FasterCrops3_lv4,1,2
+,FasterTrees_lv3,1,1
+,FasterTrees_lv4,1,2
+,FasterBushes_lv3,1,1
+,FasterBushes_lv4,1,2
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+DerbyRewardSet2_18_2017_Xmas_champions,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,2,15
+,Demolition Charge,2,15
+,Pickaxe,1,15
+,Land Deed,2,30
+,Mallet,2,30
+,Marker Stake,2,30
+,Voucher1,2,12
+,White Sugar,6,6
+,Syrup,5,6
+,Cherry Popsicle,1,6
+,Raspberry Jam,1,6
+,Blackberry Jam,1,6
+,Honey,6,6
+,Butter,6,6
+,Cheese,4,6
+,Goat Cheese,4,6
+,GnomeFisherman,1,5
+,GnomeFlowergirl,1,5
+,Horse lounge,1,5
+,Covered stand,1,5
+,FasterCrops1_lv4,1,2
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,2
+,FasterCrops3_lv5,1,1
+,FasterTrees_lv4,1,2
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,2
+,FasterBushes_lv5,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+,FasterBaitMaker_lv5,1,1
+,FasterNetMaker_lv5,1,1
+DerbyRewardSet2_41_2017_Xmas_rookie,Axe,3,6
+,Saw,3,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,White Sugar,5,2
+,Syrup,5,2
+,Cherry Popsicle,1,2
+,Raspberry Jam,1,2
+,Blackberry Jam,1,2
+,Raspberry,9,2
+,Cherry,9,2
+,Blackberry,9,2
+,Apple,9,2
+,Honey,5,2
+,Cream,5,2
+,Butter,5,2
+,Cheese,3,2
+,Goat Cheese,3,2
+,Lobster Meat,3,2
+,Duck Down,3,2
+,GnomeFisherman,1,4
+,GnomeFlowergirl,1,4
+,FasterCrops1_lv1,1,1
+,FasterCrops2_lv1,1,1
+,FasterCrops3_lv1,1,1
+,FasterCrops4_lv1,1,1
+,FasterTrees_lv1,1,1
+,FasterBushes_lv1,1,1
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+DerbyRewardSet2_41_2017_Xmas_novice,Axe,1,20
+,Saw,1,20
+,Shovel,1,20
+,Dynamite,1,20
+,Demolition Charge,1,20
+,Pickaxe,1,20
+,Land Deed,1,39
+,Mallet,1,39
+,Marker Stake,1,39
+,White Sugar,3,8
+,Syrup,3,8
+,Cherry Popsicle,1,4
+,Raspberry Jam,1,4
+,Blackberry Jam,1,4
+,Raspberry,9,8
+,Cherry,9,8
+,Blackberry,9,8
+,Apple,9,8
+,Honey,3,8
+,Cream,3,8
+,Butter,3,8
+,Cheese,3,8
+,Goat Cheese,3,8
+,Lollipop,1,4
+,Lobster Meat,2,4
+,Duck Down,2,4
+,GnomeFisherman,1,8
+,GnomeFlowergirl,1,8
+,Horse lounge,1,8
+,FasterCrops1_lv1,1,1
+,FasterCrops1_lv2,1,2
+,FasterCrops2_lv1,1,1
+,FasterCrops2_lv2,1,2
+,FasterCrops3_lv1,1,1
+,FasterCrops3_lv2,1,2
+,FasterCrops4_lv1,1,1
+,FasterCrops4_lv2,1,2
+,FasterTrees_lv1,1,1
+,FasterTrees_lv2,1,2
+,FasterBushes_lv1,1,1
+,FasterBushes_lv2,1,2
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+DerbyRewardSet2_41_2017_Xmas_professional,Axe,2,36
+,Saw,2,36
+,Shovel,1,36
+,Dynamite,1,36
+,Demolition Charge,1,36
+,Pickaxe,1,36
+,Land Deed,1,72
+,Mallet,1,72
+,Marker Stake,1,72
+,Voucher1,1,29
+,White Sugar,5,15
+,Syrup,4,15
+,Cherry Popsicle,1,15
+,Raspberry Jam,1,22
+,Blackberry Jam,1,22
+,Honey,5,15
+,Cream,5,15
+,Butter,5,15
+,Cheese,3,22
+,Goat Cheese,3,22
+,Lollipop,1,15
+,Lobster Meat,2,15
+,Duck Down,2,15
+,GnomeFisherman,1,11
+,GnomeFlowergirl,1,11
+,Horse lounge,1,11
+,Covered stand,1,11
+,FasterCrops1_lv2,1,2
+,FasterCrops1_lv3,1,4
+,FasterCrops2_lv2,1,2
+,FasterCrops2_lv3,1,4
+,FasterCrops3_lv2,1,2
+,FasterCrops3_lv3,1,4
+,FasterCrops4_lv2,1,2
+,FasterCrops4_lv3,1,4
+,FasterTrees_lv2,1,2
+,FasterTrees_lv3,1,4
+,FasterBushes_lv2,1,2
+,FasterBushes_lv3,1,4
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterBaitMaker_lv3,1,4
+,FasterNetMaker_lv3,1,4
+DerbyRewardSet2_41_2017_Xmas_expert,Axe,2,42
+,Saw,2,42
+,Shovel,1,42
+,Dynamite,2,42
+,Demolition Charge,2,42
+,Pickaxe,1,42
+,Land Deed,2,84
+,Mallet,2,84
+,Marker Stake,2,84
+,Voucher1,2,34
+,White Sugar,6,9
+,Syrup,5,9
+,Cherry Popsicle,1,17
+,Raspberry Jam,1,17
+,Blackberry Jam,1,17
+,Honey,6,9
+,Cream,6,9
+,Butter,6,9
+,Cheese,4,17
+,Goat Cheese,4,17
+,Lollipop,1,9
+,Lobster Meat,2,17
+,Duck Down,2,17
+,GnomeFisherman,1,13
+,GnomeFlowergirl,1,13
+,Horse lounge,1,13
+,Covered stand,1,13
+,FasterCrops1_lv3,1,2
+,FasterCrops1_lv4,1,4
+,FasterCrops2_lv3,1,2
+,FasterCrops2_lv4,1,4
+,FasterCrops3_lv3,1,2
+,FasterCrops3_lv4,1,4
+,FasterCrops4_lv3,1,2
+,FasterCrops4_lv4,1,4
+,FasterTrees_lv3,1,2
+,FasterTrees_lv4,1,4
+,FasterBushes_lv3,1,2
+,FasterBushes_lv4,1,4
+,FasterBaitMaker_lv3,1,2
+,FasterNetMaker_lv3,1,2
+,FasterBaitMaker_lv4,1,4
+,FasterNetMaker_lv4,1,4
+DerbyRewardSet2_41_2017_Xmas_champions,Axe,2,42
+,Saw,2,42
+,Shovel,1,42
+,Dynamite,2,42
+,Demolition Charge,2,42
+,Pickaxe,1,42
+,Land Deed,2,84
+,Mallet,2,84
+,Marker Stake,2,84
+,Voucher1,2,34
+,White Sugar,6,9
+,Syrup,5,9
+,Cherry Popsicle,1,17
+,Raspberry Jam,1,17
+,Blackberry Jam,1,17
+,Honey,6,9
+,Cream,6,9
+,Butter,6,9
+,Cheese,4,17
+,Goat Cheese,4,17
+,Lollipop,1,9
+,Lobster Meat,2,17
+,Duck Down,2,17
+,GnomeFisherman,1,13
+,GnomeFlowergirl,1,13
+,Horse lounge,1,13
+,Covered stand,1,13
+,FasterCrops1_lv4,1,4
+,FasterCrops1_lv5,1,2
+,FasterCrops2_lv4,1,4
+,FasterCrops2_lv5,1,2
+,FasterCrops3_lv4,1,4
+,FasterCrops3_lv5,1,2
+,FasterCrops4_lv4,1,4
+,FasterCrops4_lv5,1,2
+,FasterTrees_lv4,1,4
+,FasterTrees_lv5,1,2
+,FasterBushes_lv4,1,4
+,FasterBushes_lv5,1,2
+,FasterBaitMaker_lv4,1,4
+,FasterNetMaker_lv4,1,4
+,FasterBaitMaker_lv5,1,2
+,FasterNetMaker_lv5,1,2
+DerbyRewardSet3_18__Xmas_rookie,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,8
+,Nail,1,8
+,Bolt,1,8
+,Screw,1,8
+,Duct Tape,1,8
+,Wood Panel,1,8
+,Land Deed,1,8
+,Mallet,1,8
+,Marker Stake,1,8
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Syrup,5,6
+,Strawberry Ice Cream,2,6
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,6
+,Cherry Jam,2,6
+,Gifts,1,12
+,ToySoldier,1,12
+,Puzzle Piece 1,1,175
+DerbyRewardSet3_41_Xmas_rookie,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Plank,1,6
+,Nail,1,6
+,Bolt,1,6
+,Screw,1,6
+,Duct Tape,1,6
+,Wood Panel,1,6
+,Land Deed,1,6
+,Mallet,1,6
+,Marker Stake,1,6
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Brown_Sugar,5,2
+,White Sugar,5,3
+,Syrup,5,3
+,Strawberry Ice Cream,2,3
+,Chocolate Ice Cream,2,3
+,Blackberry Jam,2,3
+,Cherry Jam,2,3
+,Lobster Meat,2,4
+,Duck Down,2,4
+,Gifts,1,8
+,ToySoldier,1,8
+,Puzzle Piece 1,1,121
+DerbyRewardSet3_18_Xmas_novice,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,2
+,Brown_Sugar,5,6
+,White Sugar,5,6
+,Syrup,5,6
+,Strawberry Ice Cream,2,6
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,6
+,Cherry Jam,2,6
+,Gifts,1,15
+,ToySoldier,1,15
+,Puzzle Piece 1,1,231
+DerbyRewardSet3_41_Xmas_novice,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,4
+,Hand Drill,1,4
+,Paint Bucket,1,4
+,Stone Block,1,4
+,Brick,1,4
+,Tar Bucket,1,4
+,Map Piece,1,2
+,Brown_Sugar,5,4
+,White Sugar,5,4
+,Syrup,5,4
+,Strawberry Ice Cream,2,4
+,Chocolate Ice Cream,2,6
+,Blackberry Jam,2,4
+,Cherry Jam,2,4
+,Lobster Meat,2,6
+,Duck Down,2,6
+,Gifts,1,15
+,ToySoldier,1,15
+,Puzzle Piece 1,1,231
+DerbyRewardSet3_18_Xmas_pro,FreeDiamonds,2,4
+,Axe,2,5
+,Saw,2,5
+,Shovel,2,5
+,Dynamite,2,5
+,Demolition Charge,2,5
+,Pickaxe,2,5
+,Plank,1,9
+,Nail,1,9
+,Bolt,1,9
+,Screw,1,9
+,Duct Tape,1,9
+,Wood Panel,1,9
+,Land Deed,1,9
+,Mallet,1,9
+,Marker Stake,1,9
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,3
+,Voucher2,1,3
+,Brown_Sugar,5,4
+,White Sugar,5,4
+,Syrup,5,4
+,Strawberry Ice Cream,2,4
+,Chocolate Ice Cream,2,4
+,Blackberry Jam,2,4
+,Cherry Jam,2,4
+,Gifts,1,12
+,ToySoldier,1,12
+,Puzzle Piece 1,1,180
+DerbyRewardSet3_41_Xmas_pro,FreeDiamonds,2,4
+,Axe,2,5
+,Saw,2,5
+,Shovel,2,5
+,Dynamite,2,5
+,Demolition Charge,2,5
+,Pickaxe,2,5
+,Plank,1,9
+,Nail,1,9
+,Bolt,1,9
+,Screw,1,9
+,Duct Tape,1,9
+,Wood Panel,1,9
+,Land Deed,1,9
+,Mallet,1,9
+,Marker Stake,1,9
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,3
+,Voucher2,1,3
+,Brown_Sugar,5,3
+,White Sugar,5,3
+,Syrup,5,3
+,Strawberry Ice Cream,2,3
+,Chocolate Ice Cream,2,3
+,Blackberry Jam,2,3
+,Cherry Jam,2,3
+,Lobster Meat,2,3
+,Duck Down,2,3
+,Gifts,1,12
+,ToySoldier,1,12
+,Puzzle Piece 1,1,179
+DerbyRewardSet3_18_Xmas_expert,FreeDiamonds,2,7
+,Axe,2,11
+,Saw,2,11
+,Shovel,2,11
+,Dynamite,2,11
+,Demolition Charge,2,11
+,Pickaxe,2,11
+,Plank,1,22
+,Nail,1,22
+,Bolt,1,22
+,Screw,1,22
+,Duct Tape,1,22
+,Wood Panel,1,22
+,Land Deed,1,22
+,Mallet,1,22
+,Marker Stake,1,22
+,Hammer,1,5
+,Hand Drill,1,5
+,Paint Bucket,1,5
+,Stone Block,1,5
+,Brick,1,5
+,Tar Bucket,1,5
+,Map Piece,1,2
+,Voucher1,1,7
+,Voucher2,1,7
+,Gifts,1,20
+,ToySoldier,1,20
+,Puzzle Piece 1,1,337
+DerbyRewardSet3_41_Xmas_expert,FreeDiamonds,2,4
+,Axe,2,6
+,Saw,2,6
+,Shovel,2,6
+,Dynamite,2,6
+,Demolition Charge,2,6
+,Pickaxe,2,6
+,Plank,1,12
+,Nail,1,12
+,Bolt,1,12
+,Screw,1,12
+,Duct Tape,1,12
+,Wood Panel,1,12
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,4
+,Voucher2,1,4
+,Gifts,1,12
+,ToySoldier,1,12
+,Puzzle Piece 1,1,187
+DerbyRewardSet3_18_Xmas_champion,FreeDiamonds,2,12
+,Axe,2,18
+,Saw,2,18
+,Shovel,2,18
+,Dynamite,2,18
+,Demolition Charge,2,18
+,Pickaxe,2,18
+,Plank,1,36
+,Nail,1,36
+,Bolt,1,36
+,Screw,1,36
+,Duct Tape,1,36
+,Wood Panel,1,36
+,Land Deed,1,36
+,Mallet,1,36
+,Marker Stake,1,36
+,Hammer,1,9
+,Hand Drill,1,9
+,Paint Bucket,1,9
+,Stone Block,1,9
+,Brick,1,9
+,Tar Bucket,1,9
+,Map Piece,1,3
+,Voucher1,1,12
+,Voucher2,1,12
+,Gifts,1,35
+,ToySoldier,1,35
+,Puzzle Piece 1,1,560
+DerbyRewardSet3_41_Xmas_champion,FreeDiamonds,2,8
+,Axe,2,12
+,Saw,2,12
+,Shovel,2,12
+,Dynamite,2,12
+,Demolition Charge,2,12
+,Pickaxe,2,12
+,Plank,1,24
+,Nail,1,24
+,Bolt,1,24
+,Screw,1,24
+,Duct Tape,1,24
+,Wood Panel,1,24
+,Land Deed,1,24
+,Mallet,1,24
+,Marker Stake,1,24
+,Hammer,1,6
+,Hand Drill,1,6
+,Paint Bucket,1,6
+,Stone Block,1,6
+,Brick,1,6
+,Tar Bucket,1,6
+,Map Piece,1,2
+,Voucher1,1,8
+,Voucher2,1,8
+,Gifts,1,25
+,ToySoldier,1,25
+,Puzzle Piece 1,1,375
+DerbyRewardSet4_18_2017_Xmas_rookie,Axe,2,22
+,Saw,2,22
+,Shovel,2,22
+,Dynamite,2,22
+,Demolition Charge,2,22
+,Pickaxe,1,22
+,Plank,1,33
+,Nail,1,33
+,Bolt,1,33
+,Screw,1,33
+,Duct Tape,1,33
+,Wood Panel,1,33
+,Land Deed,1,33
+,Mallet,1,33
+,Marker Stake,1,33
+,Hammer,1,11
+,Hand Drill,1,11
+,Paint Bucket,1,11
+,Stone Block,1,11
+,Brick,1,11
+,Tar Bucket,1,11
+,Map Piece,1,5
+,Voucher1,1,8
+,Expansion Key,1,37
+,FasterCrops1_lv1,1,2
+,FasterCrops1_lv2,1,1
+,FasterCrops2_lv1,1,2
+,FasterCrops2_lv2,1,1
+,FasterCrops3_lv1,1,2
+,FasterCrops3_lv2,1,1
+,FasterTrees_lv1,1,2
+,FasterTrees_lv2,1,1
+,FasterBushes_lv1,1,2
+,FasterBushes_lv2,1,1
+,FasterBuildings1_lv1,1,2
+,FasterBuildings2_lv1,1,2
+,FasterBuildings3_lv1,1,2
+,MoreXP_lv1,1,2
+,FasterBoats_lv1,1,2
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,2
+,FasterFishingSpots_lv1,1,2
+,FasterTownBuildings1_lv1,1,2
+,FasterTownBuildings2_lv1,1,2
+,FasterPersonalTrain_lv1,1,2
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet4_18_2017_Xmas_novice,FreeDiamonds,2,12
+,Axe,2,21
+,Saw,2,21
+,Shovel,2,21
+,Dynamite,2,21
+,Demolition Charge,2,21
+,Pickaxe,2,21
+,Plank,1,35
+,Nail,1,35
+,Bolt,1,35
+,Screw,1,35
+,Duct Tape,1,35
+,Wood Panel,1,35
+,Land Deed,1,35
+,Mallet,1,35
+,Marker Stake,1,35
+,Hammer,1,12
+,Hand Drill,1,12
+,Paint Bucket,1,12
+,Stone Block,1,12
+,Brick,1,12
+,Tar Bucket,1,12
+,Map Piece,1,4
+,Voucher1,2,12
+,Voucher2,2,12
+,Expansion Key,1,58
+,FasterCrops1_lv2,1,2
+,FasterCrops1_lv3,1,1
+,FasterCrops2_lv2,1,2
+,FasterCrops2_lv3,1,1
+,FasterCrops3_lv2,1,2
+,FasterCrops3_lv3,1,1
+,FasterTrees_lv2,1,2
+,FasterTrees_lv3,1,1
+,FasterBushes_lv2,1,2
+,FasterBushes_lv3,1,1
+,FasterBuildings1_lv2,1,2
+,FasterBuildings1_lv1,1,1
+,FasterBuildings2_lv2,1,2
+,FasterBuildings2_lv1,1,1
+,FasterBuildings3_lv2,1,2
+,FasterBuildings3_lv1,1,1
+,MoreXP_lv2,1,2
+,MoreXP_lv1,1,1
+,FasterBoats_lv2,1,2
+,FasterBoats_lv1,1,1
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+,FasterFishingSpots_lv1,1,1
+,FasterTownBuildings1_lv1,1,1
+,FasterTownBuildings2_lv1,1,1
+,FasterPersonalTrain_lv1,1,1
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet4_18_2017_Xmas_professional,FreeDiamonds,2,15
+,Axe,2,22
+,Saw,2,22
+,Shovel,2,22
+,Dynamite,2,22
+,Demolition Charge,2,22
+,Pickaxe,2,22
+,Plank,1,44
+,Nail,1,44
+,Bolt,1,44
+,Screw,1,44
+,Duct Tape,1,44
+,Wood Panel,1,44
+,Land Deed,1,44
+,Mallet,1,44
+,Marker Stake,1,44
+,Hammer,1,12
+,Hand Drill,1,12
+,Paint Bucket,1,12
+,Stone Block,1,12
+,Brick,1,12
+,Tar Bucket,1,12
+,Map Piece,1,3
+,Voucher1,2,15
+,Voucher2,2,15
+,Voucher3,1,15
+,Expansion Key,1,96
+,FasterCrops1_lv3,1,3
+,FasterCrops1_lv4,1,1
+,FasterCrops2_lv3,1,3
+,FasterCrops2_lv4,1,1
+,FasterCrops3_lv3,1,3
+,FasterCrops3_lv4,1,1
+,FasterTrees_lv3,1,3
+,FasterTrees_lv4,1,1
+,FasterBushes_lv3,1,3
+,FasterBushes_lv4,1,1
+,FasterBuildings1_lv3,1,3
+,FasterBuildings1_lv2,1,1
+,FasterBuildings2_lv3,1,3
+,FasterBuildings2_lv2,1,1
+,FasterBuildings3_lv3,1,3
+,FasterBuildings3_lv2,1,1
+,MoreXP_lv3,1,3
+,MoreXP_lv2,1,1
+,FasterBoats_lv3,1,3
+,FasterBoats_lv2,1,1
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,FasterBaitMaker_lv3,1,3
+,FasterNetMaker_lv3,1,3
+,FasterFishingSpots_lv3,1,3
+,FasterTownBuildings1_lv3,1,3
+,FasterTownBuildings2_lv3,1,3
+,FasterPersonalTrain_lv3,1,3
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet4_18_2017_Xmas_expert,FreeDiamonds,2,12
+,Axe,2,17
+,Saw,2,17
+,Shovel,2,17
+,Dynamite,2,17
+,Demolition Charge,2,17
+,Pickaxe,2,17
+,Plank,1,34
+,Nail,1,34
+,Bolt,1,34
+,Screw,1,34
+,Duct Tape,1,34
+,Wood Panel,1,34
+,Land Deed,1,34
+,Mallet,1,34
+,Marker Stake,1,34
+,Hammer,1,9
+,Hand Drill,1,9
+,Paint Bucket,1,9
+,Stone Block,1,9
+,Brick,1,9
+,Tar Bucket,1,9
+,Map Piece,1,3
+,Voucher2,2,12
+,Voucher3,1,12
+,Expansion Key,1,84
+,FasterCrops1_lv4,1,2
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,2
+,FasterCrops3_lv5,1,1
+,FasterTrees_lv4,1,2
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,2
+,FasterBushes_lv5,1,1
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv3,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv3,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+,CandyPole,1,11
+,HolidayFlower,1,11
+,Gingerbread Man,1,1
+,Gingerbread Lady,1,1
+,FrozenPond_1,1,11
+DerbyRewardSet4_18_2017_Xmas_champions,FreeDiamonds,3,12
+,Axe,2,18
+,Saw,2,18
+,Shovel,2,18
+,Dynamite,2,18
+,Demolition Charge,2,18
+,Pickaxe,2,18
+,Plank,1,36
+,Nail,1,36
+,Bolt,1,36
+,Screw,1,36
+,Duct Tape,1,36
+,Wood Panel,1,36
+,Land Deed,1,36
+,Mallet,1,36
+,Marker Stake,1,36
+,Hammer,1,9
+,Hand Drill,1,9
+,Paint Bucket,1,9
+,Stone Block,1,9
+,Brick,1,9
+,Tar Bucket,1,9
+,Map Piece,1,3
+,Voucher2,2,12
+,Voucher3,1,12
+,Expansion Key,1,120
+,FasterCrops1_lv4,1,2
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,2
+,FasterCrops3_lv5,1,1
+,FasterTrees_lv4,1,2
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,2
+,FasterBushes_lv5,1,1
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv5,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv5,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+,FasterBaitMaker_lv5,1,1
+,FasterNetMaker_lv5,1,1
+,FasterFishingSpots_lv5,1,1
+,FasterTownBuildings1_lv5,1,1
+,FasterTownBuildings2_lv5,1,1
+,FasterPersonalTrain_lv5,1,1
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet4_41_2017_Xmas_rookie,Axe,2,58
+,Saw,2,58
+,Shovel,2,58
+,Dynamite,2,58
+,Demolition Charge,2,58
+,Pickaxe,1,58
+,Plank,1,87
+,Nail,1,87
+,Bolt,1,87
+,Screw,1,87
+,Duct Tape,1,87
+,Wood Panel,1,87
+,Land Deed,1,87
+,Mallet,1,87
+,Marker Stake,1,87
+,Hammer,1,29
+,Hand Drill,1,29
+,Paint Bucket,1,29
+,Stone Block,1,29
+,Brick,1,29
+,Tar Bucket,1,29
+,Map Piece,1,10
+,Voucher1,1,29
+,Expansion Key,1,96
+,FasterCrops1_lv1,1,4
+,FasterCrops1_lv2,1,2
+,FasterCrops2_lv1,1,4
+,FasterCrops2_lv2,1,2
+,FasterCrops3_lv1,1,4
+,FasterCrops3_lv2,1,2
+,FasterCrops4_lv1,1,4
+,FasterCrops4_lv2,1,2
+,FasterTrees_lv1,1,4
+,FasterTrees_lv2,1,2
+,FasterBushes_lv1,1,4
+,FasterBushes_lv2,1,2
+,FasterBuildings1_lv1,1,4
+,FasterBuildings2_lv1,1,4
+,FasterBuildings3_lv1,1,4
+,FasterBuildings4_lv1,1,4
+,MoreXP_lv1,1,4
+,FasterBoats_lv1,1,4
+,FasterBaitMaker_lv1,1,4
+,FasterNetMaker_lv1,1,4
+,FasterFishingSpots_lv1,1,4
+,FasterTownBuildings1_lv1,1,4
+,FasterTownBuildings2_lv1,1,4
+,FasterPersonalTrain_lv1,1,4
+,FasterLobsters_lv1,1,4
+,FasterDucks_lv1,1,4
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterLobsters_lv2,1,2
+,FasterDucks_lv2,1,2
+,CandyPole,1,38
+,HolidayFlower,1,38
+,Gingerbread Man,1,5
+,Gingerbread Lady,1,5
+,FrozenPond_1,1,38
+DerbyRewardSet4_41_2017_Xmas_novice,FreeDiamonds,2,15
+,Axe,2,26
+,Saw,2,26
+,Shovel,2,26
+,Dynamite,2,26
+,Demolition Charge,2,26
+,Pickaxe,2,26
+,Plank,1,44
+,Nail,1,44
+,Bolt,1,44
+,Screw,1,44
+,Duct Tape,1,44
+,Wood Panel,1,44
+,Land Deed,1,44
+,Mallet,1,44
+,Marker Stake,1,44
+,Hammer,1,15
+,Hand Drill,1,15
+,Paint Bucket,1,15
+,Stone Block,1,15
+,Brick,1,15
+,Tar Bucket,1,15
+,Map Piece,1,4
+,Voucher1,2,15
+,Voucher2,2,15
+,Expansion Key,1,72
+,FasterCrops1_lv2,1,2
+,FasterCrops1_lv3,1,1
+,FasterCrops2_lv2,1,2
+,FasterCrops2_lv3,1,1
+,FasterCrops3_lv2,1,2
+,FasterCrops3_lv3,1,1
+,FasterCrops4_lv2,1,2
+,FasterCrops4_lv3,1,1
+,FasterTrees_lv2,1,2
+,FasterTrees_lv3,1,1
+,FasterBushes_lv2,1,2
+,FasterBushes_lv3,1,1
+,FasterBuildings1_lv2,1,2
+,FasterBuildings1_lv1,1,1
+,FasterBuildings2_lv2,1,2
+,FasterBuildings2_lv1,1,1
+,FasterBuildings3_lv2,1,2
+,FasterBuildings3_lv1,1,1
+,FasterBuildings4_lv2,1,2
+,FasterBuildings4_lv1,1,1
+,MoreXP_lv2,1,2
+,MoreXP_lv1,1,1
+,FasterBoats_lv2,1,2
+,FasterBoats_lv1,1,1
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+,FasterFishingSpots_lv1,1,1
+,FasterTownBuildings1_lv1,1,1
+,FasterTownBuildings2_lv1,1,1
+,FasterPersonalTrain_lv1,1,1
+,FasterLobsters_lv1,1,1
+,FasterDucks_lv1,1,1
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterLobsters_lv2,1,2
+,FasterDucks_lv2,1,2
+,CandyPole,1,19
+,HolidayFlower,1,19
+,Gingerbread Man,1,3
+,Gingerbread Lady,1,3
+,FrozenPond_1,1,19
+DerbyRewardSet4_41_2017_Xmas_professional,FreeDiamonds,2,33
+,Axe,2,49
+,Saw,2,49
+,Shovel,2,49
+,Dynamite,2,49
+,Demolition Charge,2,49
+,Pickaxe,2,49
+,Plank,1,98
+,Nail,1,98
+,Bolt,1,98
+,Screw,1,98
+,Duct Tape,1,98
+,Wood Panel,1,98
+,Land Deed,1,98
+,Mallet,1,98
+,Marker Stake,1,98
+,Hammer,1,27
+,Hand Drill,1,27
+,Paint Bucket,1,27
+,Stone Block,1,27
+,Brick,1,27
+,Tar Bucket,1,27
+,Map Piece,1,6
+,Voucher1,2,33
+,Voucher2,2,33
+,Voucher3,1,33
+,Expansion Key,1,216
+,FasterCrops1_lv3,1,4
+,FasterCrops1_lv4,1,2
+,FasterCrops2_lv3,1,4
+,FasterCrops2_lv4,1,2
+,FasterCrops3_lv3,1,4
+,FasterCrops3_lv4,1,2
+,FasterCrops4_lv3,1,4
+,FasterCrops4_lv4,1,2
+,FasterTrees_lv3,1,4
+,FasterTrees_lv4,1,2
+,FasterBushes_lv3,1,4
+,FasterBushes_lv4,1,2
+,FasterBuildings1_lv3,1,4
+,FasterBuildings1_lv2,1,2
+,FasterBuildings2_lv3,1,4
+,FasterBuildings2_lv2,1,2
+,FasterBuildings3_lv3,1,4
+,FasterBuildings3_lv2,1,2
+,FasterBuildings4_lv3,1,4
+,FasterBuildings4_lv2,1,2
+,MoreXP_lv3,1,4
+,MoreXP_lv2,1,2
+,FasterBoats_lv3,1,4
+,FasterBoats_lv2,1,2
+,FasterBaitMaker_lv2,1,2
+,FasterNetMaker_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterLobsters_lv2,1,2
+,FasterDucks_lv2,1,2
+,FasterBaitMaker_lv3,1,4
+,FasterNetMaker_lv3,1,4
+,FasterFishingSpots_lv3,1,4
+,FasterTownBuildings1_lv3,1,4
+,FasterTownBuildings2_lv3,1,4
+,FasterPersonalTrain_lv3,1,4
+,FasterLobsters_lv3,1,4
+,FasterDucks_lv3,1,4
+,CandyPole,1,30
+,HolidayFlower,1,30
+,Gingerbread Man,1,5
+,Gingerbread Lady,1,5
+,FrozenPond_1,1,30
+DerbyRewardSet4_41_2017_Xmas_expert,FreeDiamonds,2,15
+,Axe,2,22
+,Saw,2,22
+,Shovel,2,22
+,Dynamite,2,22
+,Demolition Charge,2,22
+,Pickaxe,2,22
+,Plank,1,44
+,Nail,1,44
+,Bolt,1,44
+,Screw,1,44
+,Duct Tape,1,44
+,Wood Panel,1,44
+,Land Deed,1,44
+,Mallet,1,44
+,Marker Stake,1,44
+,Hammer,1,11
+,Hand Drill,1,11
+,Paint Bucket,1,11
+,Stone Block,1,11
+,Brick,1,11
+,Tar Bucket,1,11
+,Map Piece,1,4
+,Voucher2,2,15
+,Voucher3,1,15
+,Expansion Key,1,108
+,FasterCrops1_lv4,1,2
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,2
+,FasterCrops3_lv5,1,1
+,FasterCrops4_lv4,1,2
+,FasterCrops4_lv5,1,1
+,FasterTrees_lv4,1,2
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,2
+,FasterBushes_lv5,1,1
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv4,1,2
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv3,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterLobsters_lv3,1,1
+,FasterDucks_lv3,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+,FasterLobsters_lv4,1,2
+,FasterDucks_lv4,1,2
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet4_41_2017_Xmas_champions,FreeDiamonds,2,15
+,Axe,2,22
+,Saw,2,22
+,Shovel,2,22
+,Dynamite,2,22
+,Demolition Charge,2,22
+,Pickaxe,2,22
+,Plank,1,44
+,Nail,1,44
+,Bolt,1,44
+,Screw,1,44
+,Duct Tape,1,44
+,Wood Panel,1,44
+,Land Deed,1,44
+,Mallet,1,44
+,Marker Stake,1,44
+,Hammer,1,11
+,Hand Drill,1,11
+,Paint Bucket,1,11
+,Stone Block,1,11
+,Brick,1,11
+,Tar Bucket,1,11
+,Map Piece,1,4
+,Voucher2,2,15
+,Voucher3,1,15
+,Expansion Key,1,108
+,FasterCrops1_lv4,1,2
+,FasterCrops1_lv5,1,1
+,FasterCrops2_lv4,1,2
+,FasterCrops2_lv5,1,1
+,FasterCrops3_lv4,1,2
+,FasterCrops3_lv5,1,1
+,FasterCrops4_lv4,1,2
+,FasterCrops4_lv5,1,1
+,FasterTrees_lv4,1,2
+,FasterTrees_lv5,1,1
+,FasterBushes_lv4,1,2
+,FasterBushes_lv5,1,1
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv4,1,2
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv3,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterLobsters_lv3,1,1
+,FasterDucks_lv3,1,1
+,FasterBaitMaker_lv4,1,2
+,FasterNetMaker_lv4,1,2
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+,FasterLobsters_lv4,1,2
+,FasterDucks_lv4,1,2
+,CandyPole,1,15
+,HolidayFlower,1,15
+,Gingerbread Man,1,2
+,Gingerbread Lady,1,2
+,FrozenPond_1,1,15
+DerbyRewardSet5_18_2017_Xmas_rookie,FreeDiamonds,2,7
+,Plank,1,30
+,Nail,1,30
+,Bolt,1,30
+,Screw,1,30
+,Duct Tape,1,30
+,Wood Panel,1,30
+,Land Deed,1,30
+,Mallet,1,30
+,Marker Stake,1,30
+,Hammer,1,10
+,Hand Drill,1,10
+,Paint Bucket,1,10
+,Stone Block,1,10
+,Brick,1,10
+,Tar Bucket,1,10
+,Map Piece,1,5
+,FrozenPond_2,1,6
+,ChristmasLantern,1,6
+,Snowman,1,1
+,Snowgirl,1,1
+DerbyRewardSet5_18_2017_Xmas_novice,FreeDiamonds,2,12
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,20
+,Hand Drill,2,20
+,Paint Bucket,2,20
+,Stone Block,2,20
+,Brick,2,20
+,Tar Bucket,2,20
+,Map Piece,1,5
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_18_2017_Xmas_professional,FreeDiamonds,3,15
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,20
+,Hand Drill,2,20
+,Paint Bucket,2,20
+,Stone Block,2,20
+,Brick,2,20
+,Tar Bucket,2,20
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,1,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_18_2017_Xmas_expert,FreeDiamonds,3,14
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,15
+,Hand Drill,2,15
+,Paint Bucket,2,15
+,Stone Block,2,15
+,Brick,2,15
+,Tar Bucket,2,15
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,2,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_18_2017_Xmas_champions,FreeDiamonds,3,14
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,15
+,Hand Drill,2,15
+,Paint Bucket,2,15
+,Stone Block,2,15
+,Brick,2,15
+,Tar Bucket,2,15
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,2,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_41_2017_Xmas_rookie,FreeDiamonds,2,7
+,Plank,1,30
+,Nail,1,30
+,Bolt,1,30
+,Screw,1,30
+,Duct Tape,1,30
+,Wood Panel,1,30
+,Land Deed,1,30
+,Mallet,1,30
+,Marker Stake,1,30
+,Hammer,1,10
+,Hand Drill,1,10
+,Paint Bucket,1,10
+,Stone Block,1,10
+,Brick,1,10
+,Tar Bucket,1,10
+,Map Piece,1,5
+,FrozenPond_2,1,6
+,ChristmasLantern,1,6
+,Snowman,1,1
+,Snowgirl,1,1
+DerbyRewardSet5_41_2017_Xmas_novice,FreeDiamonds,2,14
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,20
+,Hand Drill,2,20
+,Paint Bucket,2,20
+,Stone Block,2,20
+,Brick,2,20
+,Tar Bucket,2,20
+,Map Piece,1,5
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_41_2017_Xmas_professional,FreeDiamonds,3,15
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,20
+,Hand Drill,2,20
+,Paint Bucket,2,20
+,Stone Block,2,20
+,Brick,2,20
+,Tar Bucket,2,20
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,1,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_41_2017_Xmas_expert,FreeDiamonds,3,15
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,15
+,Hand Drill,2,15
+,Paint Bucket,2,15
+,Stone Block,2,15
+,Brick,2,15
+,Tar Bucket,2,15
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,2,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet5_41_2017_Xmas_champions,FreeDiamonds,3,15
+,Plank,2,60
+,Nail,2,60
+,Bolt,2,60
+,Screw,2,60
+,Duct Tape,2,60
+,Wood Panel,2,60
+,Land Deed,2,60
+,Mallet,2,60
+,Marker Stake,2,60
+,Hammer,2,15
+,Hand Drill,2,15
+,Paint Bucket,2,15
+,Stone Block,2,15
+,Brick,2,15
+,Tar Bucket,2,15
+,Map Piece,1,5
+,Voucher3,2,30
+,Voucher4,2,30
+,FrozenPond_2,1,12
+,ChristmasLantern,1,12
+,Snowman,1,2
+,Snowgirl,1,2
+DerbyRewardSet6_18_2017_Xmas_novice,FreeDiamonds,2,10
+,Plank,2,26
+,Nail,2,26
+,Bolt,2,26
+,Screw,2,26
+,Duct Tape,2,26
+,Wood Panel,2,26
+,Land Deed,2,26
+,Mallet,2,26
+,Marker Stake,2,26
+,Hammer,2,9
+,Hand Drill,2,9
+,Paint Bucket,2,9
+,Stone Block,2,9
+,Brick,2,9
+,Tar Bucket,2,9
+,Map Piece,2,2
+,Voucher3,1,13
+,Winter Lantern,1,12
+,Candycane Bench,1,12
+,HolidayTree,1,4
+,XmasPine,1,12
+,Puzzle Piece 1,1,315
+,FasterBuildings1_lv2,1,2
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv2,1,2
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv2,1,2
+,FasterBuildings3_lv3,1,1
+,MoreXP_lv2,1,2
+,MoreXP_lv3,1,1
+,FasterBoats_lv2,1,2
+,FasterBoats_lv3,1,1
+,FasterTom_lv1,1,1
+,FasterTom_lv2,1,2
+,FreeTom_lv1,1,1
+,FreeTom_lv2,1,2
+,FreeRose_lv1,1,1
+,FreeRose_lv2,1,2
+,FreeErnest_lv1,1,1
+,FreeErnest_lv2,1,2
+,EasierBoats_lv1,1,1
+,EasierBoats_lv2,1,2
+,FasterFishingSpots_lv1,1,1
+,FasterTownBuildings1_lv1,1,1
+,FasterTownBuildings2_lv1,1,1
+,FasterPersonalTrain_lv1,1,1
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+DerbyRewardSet6_18_2017_Xmas_professional,FreeDiamonds,3,17
+,Plank,2,34
+,Nail,2,34
+,Bolt,2,34
+,Screw,2,34
+,Duct Tape,2,34
+,Wood Panel,2,34
+,Land Deed,2,34
+,Mallet,2,34
+,Marker Stake,2,34
+,Hammer,2,12
+,Hand Drill,2,12
+,Paint Bucket,2,12
+,Stone Block,2,12
+,Brick,2,12
+,Tar Bucket,2,12
+,Map Piece,2,3
+,Voucher3,2,12
+,Voucher4,1,12
+,Winter Lantern,1,15
+,Candycane Bench,1,15
+,HolidayTree,1,5
+,XmasPine,1,15
+,Puzzle Piece 1,1,434
+,FasterBuildings1_lv3,1,3
+,FasterBuildings1_lv4,1,1
+,FasterBuildings2_lv3,1,3
+,FasterBuildings2_lv4,1,1
+,FasterBuildings3_lv3,1,3
+,FasterBuildings3_lv4,1,1
+,MoreXP_lv3,1,3
+,MoreXP_lv4,1,1
+,FasterBoats_lv3,1,3
+,FasterBoats_lv4,1,1
+,FasterTom_lv2,1,1
+,FasterTom_lv3,1,3
+,FreeTom_lv2,1,1
+,FreeTom_lv3,1,3
+,FreeRose_lv2,1,1
+,FreeRose_lv3,1,3
+,FreeErnest_lv2,1,1
+,FreeErnest_lv3,1,3
+,EasierBoats_lv2,1,1
+,EasierBoats_lv3,1,3
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,FasterFishingSpots_lv3,1,3
+,FasterTownBuildings1_lv3,1,3
+,FasterTownBuildings2_lv3,1,3
+,FasterPersonalTrain_lv3,1,3
+DerbyRewardSet6_18_2017_Xmas_expert,FreeDiamonds,3,17
+,Plank,2,34
+,Nail,2,34
+,Bolt,2,34
+,Screw,2,34
+,Duct Tape,2,34
+,Wood Panel,2,34
+,Land Deed,2,34
+,Mallet,2,34
+,Marker Stake,2,34
+,Hammer,2,12
+,Hand Drill,2,12
+,Paint Bucket,2,12
+,Stone Block,2,12
+,Brick,2,12
+,Tar Bucket,2,12
+,Map Piece,2,2
+,Voucher3,2,13
+,Voucher4,2,12
+,Winter Lantern,1,15
+,Candycane Bench,1,15
+,HolidayTree,1,5
+,XmasPine,1,15
+,Puzzle Piece 1,1,437
+,FasterBuildings1_lv4,1,3
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv4,1,3
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv4,1,3
+,FasterBuildings3_lv5,1,1
+,MoreXP_lv4,1,3
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,3
+,FasterBoats_lv5,1,1
+,FasterTom_lv3,1,1
+,FasterTom_lv4,1,3
+,FreeTom_lv3,1,1
+,FreeTom_lv4,1,3
+,FreeRose_lv3,1,1
+,FreeRose_lv4,1,3
+,FreeErnest_lv3,1,1
+,FreeErnest_lv4,1,3
+,EasierBoats_lv3,1,1
+,EasierBoats_lv4,1,3
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterFishingSpots_lv4,1,3
+,FasterTownBuildings1_lv4,1,3
+,FasterTownBuildings2_lv4,1,3
+,FasterPersonalTrain_lv4,1,3
+DerbyRewardSet6_18_2017_Xmas_champions,FreeDiamonds,3,17
+,Plank,2,34
+,Nail,2,34
+,Bolt,2,34
+,Screw,2,34
+,Duct Tape,2,34
+,Wood Panel,2,34
+,Land Deed,2,34
+,Mallet,2,34
+,Marker Stake,2,34
+,Hammer,2,12
+,Hand Drill,2,12
+,Paint Bucket,2,12
+,Stone Block,2,12
+,Brick,2,12
+,Tar Bucket,2,12
+,Map Piece,2,2
+,Voucher3,2,13
+,Voucher4,2,12
+,Winter Lantern,1,15
+,Candycane Bench,1,15
+,HolidayTree,1,5
+,XmasPine,1,15
+,Puzzle Piece 1,1,437
+,FasterBuildings1_lv4,1,3
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv4,1,3
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv4,1,3
+,FasterBuildings3_lv5,1,1
+,MoreXP_lv4,1,3
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,3
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,3
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,3
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,3
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,3
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,3
+,EasierBoats_lv5,1,1
+,FasterFishingSpots_lv4,1,3
+,FasterTownBuildings1_lv4,1,3
+,FasterTownBuildings2_lv4,1,3
+,FasterPersonalTrain_lv4,1,3
+,FasterFishingSpots_lv5,1,1
+,FasterTownBuildings1_lv5,1,1
+,FasterTownBuildings2_lv5,1,1
+,FasterPersonalTrain_lv5,1,1
+DerbyRewardSet6_41_2017_Xmas_novice,FreeDiamonds,2,12
+,Plank,2,26
+,Nail,2,26
+,Bolt,2,26
+,Screw,2,26
+,Duct Tape,2,26
+,Wood Panel,2,26
+,Land Deed,2,26
+,Mallet,2,26
+,Marker Stake,2,26
+,Hammer,2,9
+,Hand Drill,2,9
+,Paint Bucket,2,9
+,Stone Block,2,9
+,Brick,2,9
+,Tar Bucket,2,9
+,Map Piece,2,2
+,Voucher3,1,13
+,Winter Lantern,1,12
+,Candycane Bench,1,12
+,HolidayTree,1,4
+,XmasPine,1,12
+,Puzzle Piece 1,1,315
+,FasterBuildings1_lv2,1,2
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv2,1,2
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv2,1,2
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv2,1,2
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv2,1,2
+,MoreXP_lv3,1,1
+,FasterBoats_lv2,1,2
+,FasterBoats_lv3,1,1
+,FasterTom_lv1,1,1
+,FasterTom_lv2,1,2
+,FreeTom_lv1,1,1
+,FreeTom_lv2,1,2
+,FreeRose_lv1,1,1
+,FreeRose_lv2,1,2
+,FreeErnest_lv1,1,1
+,FreeErnest_lv2,1,2
+,EasierBoats_lv1,1,1
+,EasierBoats_lv2,1,2
+,FasterFishingSpots_lv1,1,1
+,FasterTownBuildings1_lv1,1,1
+,FasterTownBuildings2_lv1,1,1
+,FasterPersonalTrain_lv1,1,1
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+DerbyRewardSet6_41_2017_Xmas_professional,FreeDiamonds,3,26
+,Plank,2,51
+,Nail,2,51
+,Bolt,2,51
+,Screw,2,51
+,Duct Tape,2,51
+,Wood Panel,2,51
+,Land Deed,2,51
+,Mallet,2,51
+,Marker Stake,2,51
+,Hammer,2,17
+,Hand Drill,2,17
+,Paint Bucket,2,17
+,Stone Block,2,17
+,Brick,2,17
+,Tar Bucket,2,17
+,Map Piece,2,5
+,Voucher3,2,17
+,Voucher4,1,17
+,Winter Lantern,1,25
+,Candycane Bench,1,25
+,HolidayTree,1,8
+,XmasPine,1,25
+,Puzzle Piece 1,1,651
+,FasterBuildings1_lv3,1,4
+,FasterBuildings1_lv4,1,2
+,FasterBuildings2_lv3,1,4
+,FasterBuildings2_lv4,1,2
+,FasterBuildings3_lv3,1,4
+,FasterBuildings3_lv4,1,2
+,FasterBuildings4_lv3,1,4
+,FasterBuildings4_lv4,1,2
+,MoreXP_lv3,1,4
+,MoreXP_lv4,1,2
+,FasterBoats_lv3,1,4
+,FasterBoats_lv4,1,2
+,FasterTom_lv2,1,2
+,FasterTom_lv3,1,4
+,FreeTom_lv2,1,2
+,FreeTom_lv3,1,4
+,FreeRose_lv2,1,2
+,FreeRose_lv3,1,4
+,FreeErnest_lv2,1,2
+,FreeErnest_lv3,1,4
+,EasierBoats_lv2,1,2
+,EasierBoats_lv3,1,4
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,FasterFishingSpots_lv3,1,4
+,FasterTownBuildings1_lv3,1,4
+,FasterTownBuildings2_lv3,1,4
+,FasterPersonalTrain_lv3,1,4
+DerbyRewardSet6_41_2017_Xmas_expert,FreeDiamonds,3,12
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Winter Lantern,1,12
+,Candycane Bench,1,12
+,HolidayTree,1,4
+,XmasPine,1,12
+,Puzzle Piece 1,1,312
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv5,1,1
+,FasterBuildings4_lv4,1,2
+,FasterBuildings4_lv5,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv5,1,1
+,FasterTom_lv3,1,1
+,FasterTom_lv4,1,2
+,FreeTom_lv3,1,1
+,FreeTom_lv4,1,2
+,FreeRose_lv3,1,1
+,FreeRose_lv4,1,2
+,FreeErnest_lv3,1,1
+,FreeErnest_lv4,1,2
+,EasierBoats_lv3,1,1
+,EasierBoats_lv4,1,2
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+DerbyRewardSet6_41_2017_Xmas_champions,FreeDiamonds,3,12
+,Plank,2,24
+,Nail,2,24
+,Bolt,2,24
+,Screw,2,24
+,Duct Tape,2,24
+,Wood Panel,2,24
+,Land Deed,2,24
+,Mallet,2,24
+,Marker Stake,2,24
+,Hammer,2,8
+,Hand Drill,2,8
+,Paint Bucket,2,8
+,Stone Block,2,8
+,Brick,2,8
+,Tar Bucket,2,8
+,Map Piece,2,1
+,Voucher3,2,9
+,Voucher4,2,8
+,Winter Lantern,1,12
+,Candycane Bench,1,12
+,HolidayTree,1,4
+,XmasPine,1,12
+,Puzzle Piece 1,1,312
+,FasterBuildings1_lv4,1,2
+,FasterBuildings1_lv5,1,1
+,FasterBuildings2_lv4,1,2
+,FasterBuildings2_lv5,1,1
+,FasterBuildings3_lv4,1,2
+,FasterBuildings3_lv5,1,1
+,FasterBuildings4_lv4,1,2
+,FasterBuildings4_lv5,1,1
+,MoreXP_lv4,1,2
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,2
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,2
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,2
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,2
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,2
+,EasierBoats_lv5,1,1
+,FasterFishingSpots_lv4,1,2
+,FasterTownBuildings1_lv4,1,2
+,FasterTownBuildings2_lv4,1,2
+,FasterPersonalTrain_lv4,1,2
+,FasterFishingSpots_lv5,1,1
+,FasterTownBuildings1_lv5,1,1
+,FasterTownBuildings2_lv5,1,1
+,FasterPersonalTrain_lv5,1,1
+DerbyRewardSet7_18_Xmas_pro,FreeDiamonds,3,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Voucher3,2,9
+,Voucher4,1,9
+,Snowman,1,1
+,Snowgirl,1,1
+,HolidayTree,1,1
+,Winter Arch,1,5
+,Expansion Key,1,30
+DerbyRewardSet7_41_Xmas_pro,FreeDiamonds,3,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Voucher3,2,9
+,Voucher4,1,9
+,Snowman,1,1
+,Snowgirl,1,1
+,HolidayTree,1,1
+,Winter Arch,1,5
+,Expansion Key,1,30
+DerbyRewardSet7_18_Xmas_expert,FreeDiamonds,3,9
+,Plank,2,36
+,Nail,2,36
+,Bolt,2,36
+,Screw,2,36
+,Duct Tape,2,36
+,Wood Panel,2,36
+,Land Deed,2,36
+,Mallet,2,36
+,Marker Stake,2,36
+,Voucher3,2,18
+,Voucher4,2,18
+,Snowman,1,2
+,Snowgirl,1,2
+,HolidayTree,1,2
+,Winter Arch,1,10
+,Expansion Key,1,75
+DerbyRewardSet7_41_Xmas_expert,FreeDiamonds,3,9
+,Plank,2,36
+,Nail,2,36
+,Bolt,2,36
+,Screw,2,36
+,Duct Tape,2,36
+,Wood Panel,2,36
+,Land Deed,2,36
+,Mallet,2,36
+,Marker Stake,2,36
+,Voucher3,2,18
+,Voucher4,2,18
+,Snowman,1,2
+,Snowgirl,1,2
+,HolidayTree,1,2
+,Winter Arch,1,10
+,Expansion Key,1,75
+DerbyRewardSet7_18_Xmas_champion,FreeDiamonds,3,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Voucher3,2,9
+,Voucher4,2,9
+,Snowman,1,1
+,Snowgirl,1,1
+,HolidayTree,1,1
+,Winter Arch,1,5
+,Expansion Key,1,45
+DerbyRewardSet7_41_Xmas_champion,FreeDiamonds,3,5
+,Plank,2,18
+,Nail,2,18
+,Bolt,2,18
+,Screw,2,18
+,Duct Tape,2,18
+,Wood Panel,2,18
+,Land Deed,2,18
+,Mallet,2,18
+,Marker Stake,2,18
+,Voucher3,2,9
+,Voucher4,2,9
+,Snowman,1,1
+,Snowgirl,1,1
+,HolidayTree,1,1
+,Winter Arch,1,5
+,Expansion Key,1,45
+DerbyRewardSet8_18_2017_Xmas_expert,FreeDiamonds,3,9
+,Plank,3,36
+,Nail,3,36
+,Bolt,3,36
+,Screw,3,36
+,Duct Tape,3,36
+,Wood Panel,3,36
+,Land Deed,3,36
+,Mallet,3,36
+,Marker Stake,3,36
+,Voucher3,2,18
+,Voucher4,2,18
+,MoreXP_lv4,1,3
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,3
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,3
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,3
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,3
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,3
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,3
+,EasierBoats_lv5,1,1
+,Snowman,1,3
+,Snowgirl,1,3
+,HolidayTree,1,1
+,Gingerbread Man,1,10
+,Gingerbread Lady,1,10
+DerbyRewardSet8_18_2017_Xmas_champions,FreeDiamonds,3,8
+,Plank,3,36
+,Nail,3,36
+,Bolt,3,36
+,Screw,3,36
+,Duct Tape,3,36
+,Wood Panel,3,36
+,Land Deed,3,36
+,Mallet,3,36
+,Marker Stake,3,36
+,Voucher3,2,18
+,Voucher4,2,18
+,MoreXP_lv4,1,3
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,3
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,3
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,3
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,3
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,3
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,3
+,EasierBoats_lv5,1,1
+,Snowman,1,3
+,Snowgirl,1,3
+,HolidayTree,1,1
+,Gingerbread Man,1,10
+,Gingerbread Lady,1,10
+DerbyRewardSet8_41_2017_Xmas_expert,FreeDiamonds,3,14
+,Plank,3,60
+,Nail,3,60
+,Bolt,3,60
+,Screw,3,60
+,Duct Tape,3,60
+,Wood Panel,3,60
+,Land Deed,3,60
+,Mallet,3,60
+,Marker Stake,3,60
+,Voucher3,2,30
+,Voucher4,2,30
+,MoreXP_lv4,1,4
+,MoreXP_lv5,1,2
+,FasterBoats_lv4,1,4
+,FasterBoats_lv5,1,2
+,FasterTom_lv4,1,4
+,FasterTom_lv5,1,2
+,FreeTom_lv4,1,4
+,FreeTom_lv5,1,2
+,FreeRose_lv4,1,4
+,FreeRose_lv5,1,2
+,FreeErnest_lv4,1,4
+,FreeErnest_lv5,1,2
+,EasierBoats_lv4,1,4
+,EasierBoats_lv5,1,2
+,Snowman,1,5
+,Snowgirl,1,5
+,HolidayTree,1,2
+,Gingerbread Man,1,18
+,Gingerbread Lady,1,18
+DerbyRewardSet8_41_2017_Xmas_champions,FreeDiamonds,3,7
+,Plank,3,30
+,Nail,3,30
+,Bolt,3,30
+,Screw,3,30
+,Duct Tape,3,30
+,Wood Panel,3,30
+,Land Deed,3,30
+,Mallet,3,30
+,Marker Stake,3,30
+,Voucher3,2,15
+,Voucher4,2,15
+,MoreXP_lv4,1,2
+,MoreXP_lv5,1,1
+,FasterBoats_lv4,1,2
+,FasterBoats_lv5,1,1
+,FasterTom_lv4,1,2
+,FasterTom_lv5,1,1
+,FreeTom_lv4,1,2
+,FreeTom_lv5,1,1
+,FreeRose_lv4,1,2
+,FreeRose_lv5,1,1
+,FreeErnest_lv4,1,2
+,FreeErnest_lv5,1,1
+,EasierBoats_lv4,1,2
+,EasierBoats_lv5,1,1
+,Snowman,1,3
+,Snowgirl,1,3
+,HolidayTree,1,1
+,Gingerbread Man,1,10
+,Gingerbread Lady,1,10
+DerbyRewardSet9_18_Xmas_champion,FreeDiamonds,3,6
+,Plank,4,30
+,Nail,4,30
+,Bolt,4,30
+,Screw,4,30
+,Duct Tape,4,30
+,Wood Panel,4,30
+,Land Deed,4,30
+,Mallet,4,30
+,Marker Stake,4,30
+,Voucher3,3,15
+,Voucher4,3,15
+,Snowman,1,3
+,Snowgirl,1,3
+,Reindeer1,1,1
+,Gingerbread Man,1,5
+,Gingerbread Lady,1,5
+,Reindeer2,1,1
+DerbyRewardSet9_41_Xmas_champion,FreeDiamonds,3,6
+,Plank,4,30
+,Nail,4,30
+,Bolt,4,30
+,Screw,4,30
+,Duct Tape,4,30
+,Wood Panel,4,30
+,Land Deed,4,30
+,Mallet,4,30
+,Marker Stake,4,30
+,Voucher3,2,15
+,Voucher4,2,15
+,Snowman,1,3
+,Snowgirl,1,3
+,Reindeer1,1,1
+,Gingerbread Man,1,5
+,Gingerbread Lady,1,5
+,Reindeer2,1,1
+DerbyRewardSetBronze_18_NYE_rookie,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,WisteriaTree,1,10000
+,Voucher3,1,2
+DerbyRewardSetSilver_18_NYE_rookie,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,3,4
+,Nail,3,4
+,Bolt,3,4
+,Screw,3,4
+,Duct Tape,3,4
+,Wood Panel,3,4
+,Land Deed,3,3
+,Mallet,3,3
+,Marker Stake,3,3
+,Hammer,3,1
+,Hand Drill,3,1
+,Paint Bucket,3,1
+,Stone Block,3,1
+,Brick,3,1
+,Tar Bucket,3,1
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+,Voucher3,2,2
+,Voucher4,1,2
+DerbyRewardSetGold_18_NYE_rookie,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_41_NYE_rookie,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,WisteriaTree,1,10000
+,Voucher3,1,2
+DerbyRewardSetSilver_41_NYE_rookie,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,3,4
+,Nail,3,4
+,Bolt,3,4
+,Screw,3,4
+,Duct Tape,3,4
+,Wood Panel,3,4
+,Land Deed,3,3
+,Mallet,3,3
+,Marker Stake,3,3
+,Hammer,3,1
+,Hand Drill,3,1
+,Paint Bucket,3,1
+,Stone Block,3,1
+,Brick,3,1
+,Tar Bucket,3,1
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+,Voucher3,2,2
+,Voucher4,1,2
+DerbyRewardSetGold_41_NYE_rookie,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_18_NYE_novice,Axe,3,2
+,Saw,3,2
+,Shovel,2,2
+,Dynamite,2,2
+,Demolition Charge,2,2
+,Pickaxe,2,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,WisteriaTree,1,10000
+,Voucher3,1,2
+,Voucher4,1,2
+DerbyRewardSetSilver_18_NYE_novice,Axe,4,6
+,Saw,4,6
+,Shovel,3,6
+,Dynamite,3,6
+,Demolition Charge,3,6
+,Pickaxe,3,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+,Voucher3,2,7
+,Voucher4,1,7
+DerbyRewardSetGold_18_NYE_novice,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_41_NYE_novice,Axe,4,2
+,Saw,4,2
+,Shovel,3,2
+,Dynamite,3,2
+,Demolition Charge,3,2
+,Pickaxe,3,2
+,Plank,2,4
+,Nail,2,4
+,Bolt,2,4
+,Screw,2,4
+,Duct Tape,2,4
+,Wood Panel,2,4
+,Land Deed,2,3
+,Mallet,2,3
+,Marker Stake,2,3
+,Hammer,2,1
+,Hand Drill,2,1
+,Paint Bucket,2,1
+,Stone Block,2,1
+,Brick,2,1
+,Tar Bucket,2,1
+,WisteriaTree,1,10000
+,Voucher3,1,2
+,Voucher4,1,2
+DerbyRewardSetSilver_41_NYE_novice,Axe,5,6
+,Saw,5,6
+,Shovel,3,6
+,Dynamite,3,6
+,Demolition Charge,3,6
+,Pickaxe,3,6
+,Plank,3,12
+,Nail,3,12
+,Bolt,3,12
+,Screw,3,12
+,Duct Tape,3,12
+,Wood Panel,3,12
+,Land Deed,3,9
+,Mallet,3,9
+,Marker Stake,3,9
+,Hammer,3,2
+,Hand Drill,3,2
+,Paint Bucket,3,2
+,Stone Block,3,2
+,Brick,3,2
+,Tar Bucket,3,2
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+,Voucher3,2,7
+,Voucher4,1,7
+DerbyRewardSetGold_41_NYE_novice,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_18_NYE_pro,Axe,5,3
+,Saw,5,3
+,Shovel,3,3
+,Dynamite,3,3
+,Demolition Charge,3,3
+,Pickaxe,3,3
+,Plank,2,8
+,Nail,2,8
+,Bolt,2,8
+,Screw,2,8
+,Duct Tape,2,8
+,Wood Panel,2,8
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,1,6
+,Voucher4,1,6
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_18_NYE_pro,Axe,6,4
+,Saw,6,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,1,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_18_NYE_pro,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_41_NYE_pro,Axe,6,3
+,Saw,6,3
+,Shovel,4,3
+,Dynamite,4,3
+,Demolition Charge,4,3
+,Pickaxe,4,3
+,Plank,2,8
+,Nail,2,8
+,Bolt,2,8
+,Screw,2,8
+,Duct Tape,2,8
+,Wood Panel,2,8
+,Land Deed,2,6
+,Mallet,2,6
+,Marker Stake,2,6
+,Voucher3,1,6
+,Voucher4,1,6
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_41_NYE_pro,Axe,7,4
+,Saw,7,4
+,Shovel,5,4
+,Dynamite,5,4
+,Demolition Charge,5,4
+,Pickaxe,5,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,6
+,Mallet,3,6
+,Marker Stake,3,6
+,Voucher3,2,5
+,Voucher4,1,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_41_NYE_pro,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_18_NYE_expert,Axe,6,4
+,Saw,6,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_18_NYE_expert,Axe,7,4
+,Saw,7,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_18_NYE_expert,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_41_NYE_expert,Axe,6,4
+,Saw,6,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_41_NYE_expert,Axe,7,4
+,Saw,7,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_41_NYE_expert,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_18_NYE_champion,Axe,3,4
+,Saw,3,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_18_NYE_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_18_NYE_champion,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+DerbyRewardSetBronze_41_NYE_champion,Axe,3,4
+,Saw,3,4
+,Shovel,3,4
+,Dynamite,3,4
+,Demolition Charge,3,4
+,Pickaxe,3,4
+,Plank,2,12
+,Nail,2,12
+,Bolt,2,12
+,Screw,2,12
+,Duct Tape,2,12
+,Wood Panel,2,12
+,Land Deed,2,9
+,Mallet,2,9
+,Marker Stake,2,9
+,Voucher3,2,9
+,Voucher4,2,9
+,WisteriaTree,1,10000
+DerbyRewardSetSilver_41_NYE_champion,Axe,4,4
+,Saw,4,4
+,Shovel,4,4
+,Dynamite,4,4
+,Demolition Charge,4,4
+,Pickaxe,4,4
+,Plank,3,8
+,Nail,3,8
+,Bolt,3,8
+,Screw,3,8
+,Duct Tape,3,8
+,Wood Panel,3,8
+,Land Deed,3,7
+,Mallet,3,7
+,Marker Stake,3,7
+,Voucher3,2,5
+,Voucher4,2,5
+,TrumpetTree,1,10000
+,WisteriaTree,1,10000
+DerbyRewardSetGold_41_NYE_champion,TrumpetTree,1,1
+,WisteriaTree,1,1
+,PoincianaTree,1,1
+Chill_RewardSet1_rookie,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,2,2
+,Cherry,2,2
+,Blackberry,2,2
+,Apple,2,2
+,Honey,1,3
+,Cream,1,3
+,Butter,1,3
+,Cheese,1,3
+,Goat Cheese,1,3
+Chill_RewardSet2_rookie,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,2,2
+,Cherry,2,2
+,Blackberry,2,2
+,Apple,2,2
+,Cream,1,3
+,Butter,1,3
+,Bracelet,1,2
+,SoySauce,1,2
+Chill_RewardSet3_rookie,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,2,2
+,Cherry,2,2
+,Blackberry,2,2
+,Apple,2,2
+,Honey,1,3
+,Cream,1,3
+,Butter,1,3
+,Cheese,1,3
+,Goat Cheese,1,3
+,Lobster Meat,1,2
+,Duck Down,1,2
+Chill_RewardSet4_rookie,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,White Sugar,2,2
+,Syrup,2,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Cream,2,2
+,Butter,2,2
+Chill_RewardSet5_rookie,Axe,1,60
+,Saw,1,60
+,Shovel,1,60
+,Dynamite,1,60
+,Demolition Charge,1,60
+,Pickaxe,1,60
+,White Sugar,2,24
+,Syrup,2,24
+,Cherry Popsicle,1,12
+,Raspberry Jam,1,12
+,Blackberry Jam,1,12
+,Raspberry,3,24
+,Cherry,3,24
+,Blackberry,3,24
+,Apple,3,24
+,Honey,2,24
+,Cream,2,24
+,Butter,2,24
+,Cheese,2,24
+,Goat Cheese,1,24
+,Lobster Meat,1,12
+,Duck Down,1,12
+,FasterCrops1_lv1,1,2
+,FasterCrops2_lv1,1,5
+,FasterCrops3_lv1,1,2
+,FasterCrops4_lv1,1,5
+,FasterTrees_lv1,1,2
+,FasterBushes_lv1,1,5
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,5
+,MoreCash_lv1,1,2
+,HeavierFish_lv1,1,5
+,MiningMoreOres_lv1,1,2
+Chill_RewardSet6_rookie,Axe,1,60
+,Saw,1,60
+,Shovel,1,60
+,Dynamite,1,60
+,Demolition Charge,1,60
+,Pickaxe,1,60
+,Land Deed,1,12
+,Mallet,1,12
+,Marker Stake,1,12
+,White Sugar,2,24
+,Syrup,2,24
+,Cherry Popsicle,1,12
+,Raspberry Jam,1,12
+,Blackberry Jam,1,12
+,Raspberry,3,24
+,Cherry,3,24
+,Blackberry,3,24
+,Apple,3,24
+,Honey,2,24
+,Cream,2,24
+,Butter,2,24
+,Cheese,2,24
+,Goat Cheese,1,24
+,Lobster Meat,1,12
+,Duck Down,1,12
+,FasterCrops1_lv1,1,2
+,FasterCrops2_lv1,1,5
+,FasterCrops3_lv1,1,2
+,FasterCrops4_lv1,1,5
+,FasterTrees_lv1,1,2
+,FasterBushes_lv1,1,5
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,5
+,MoreCash_lv1,1,2
+,HeavierFish_lv1,1,5
+,MiningMoreOres_lv1,1,2
+Chill_RewardSet7_rookie,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Syrup,2,2
+Chill_RewardSet8_rookie,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Syrup,2,4
+,Strawberry Ice Cream,1,2
+,Chocolate Ice Cream,1,3
+,Blackberry Jam,1,2
+,Cherry Jam,1,2
+,Lobster Meat,1,3
+,Duck Down,1,3
+Chill_RewardSet9_rookie,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,2
+,Brown_Sugar,2,5
+,White Sugar,2,5
+,Syrup,2,5
+,Strawberry Ice Cream,1,5
+,Chocolate Ice Cream,1,5
+,Blackberry Jam,1,5
+,Cherry Jam,1,5
+,Lobster Meat,1,5
+,Duck Down,1,5
+Chill_RewardSet10_rookie,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher1,1,5
+,Brown_Sugar,2,10
+,White Sugar,2,10
+,Syrup,2,10
+,Apple,2,10
+,Cream,1,10
+,Butter,1,10
+,Cheese,1,10
+,Blueprint,1,500
+Chill_RewardSet11_rookie,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,5
+,Paint Bucket,1,5
+,Stone Block,1,5
+,Brick,1,5
+,Tar Bucket,1,5
+,Map Piece,1,5
+,Voucher1,1,5
+,Cream,1,10
+,Butter,1,10
+,Cheese,1,10
+Chill_RewardSet12_rookie,Axe,2,15
+,Saw,2,15
+,Shovel,2,15
+,Dynamite,2,15
+,Demolition Charge,2,15
+,Pickaxe,1,15
+,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Voucher1,1,15
+,FasterCrops1_lv1,1,2
+,FasterCrops2_lv1,1,2
+,FasterCrops3_lv1,1,2
+,FasterCrops4_lv1,1,2
+,FasterTrees_lv1,1,2
+,FasterBushes_lv1,1,2
+,FasterBuildings1_lv1,1,2
+,FasterBuildings2_lv1,1,2
+,FasterBuildings3_lv1,1,2
+,FasterBuildings4_lv1,1,2
+,MoreXP_lv1,1,2
+,FasterBoats_lv1,1,2
+,FasterBaitMaker_lv1,1,2
+,FasterNetMaker_lv1,1,2
+,FasterFishingSpots_lv1,1,2
+,FasterTownBuildings1_lv1,1,2
+,FasterTownBuildings2_lv1,1,2
+,FasterPersonalTrain_lv1,1,2
+,FasterLobsters_lv1,1,2
+,FasterDucks_lv1,1,2
+,MoreCash_lv1,1,2
+,HeavierFish_lv1,1,2
+Chill_RewardSet13_rookie,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Puzzle Piece 1,1,500
+,Brown_Sugar,2,1
+,White Sugar,2,1
+,Syrup,2,1
+,Apple,2,1
+,Cream,1,1
+,Butter,1,1
+,Cheese,1,1
+Chill_RewardSet14_rookie,FreeDiamonds,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Brown_Sugar,2,1
+,White Sugar,2,1
+,Syrup,2,1
+,Apple,2,1
+,Cream,1,1
+,Butter,1,1
+,Cheese,1,1
+Chill_RewardSet15_rookie,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Expansion Key,1,500
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Syrup,2,3
+,Apple,2,3
+,Cream,1,3
+,Butter,1,3
+,Cheese,1,3
+,Puzzle Piece 1,1,500
+Chill_RewardSet1_novice,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,1,3
+,Goat Cheese,1,3
+Chill_RewardSet2_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,1,3
+,Cream,1,3
+,Butter,1,3
+,Bracelet,1,2
+,SoySauce,1,2
+Chill_RewardSet3_novice,Axe,1,9
+,Saw,1,9
+,Shovel,1,9
+,Dynamite,1,9
+,Demolition Charge,1,9
+,Pickaxe,1,9
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,1,3
+,Goat Cheese,1,3
+,Lobster Meat,1,2
+,Duck Down,1,2
+Chill_RewardSet4_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,White Sugar,2,2
+,Syrup,2,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,2,2
+,Cream,2,2
+,Butter,2,2
+,Cheese,2,2
+Chill_RewardSet5_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,White Sugar,2,2
+,Syrup,2,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,2,2
+,Cream,2,2
+,Butter,2,2
+,Cheese,2,2
+,Goat Cheese,2,2
+,Lollipop,1,1
+,Lobster Meat,1,1
+,Duck Down,1,1
+,FasterCrops1_lv1,1,1
+,FasterCrops2_lv1,1,1
+,FasterCrops3_lv1,1,1
+,FasterCrops4_lv1,1,1
+,FasterTrees_lv1,1,1
+,FasterBushes_lv1,1,1
+,FasterBaitMaker_lv1,1,1
+,FasterNetMaker_lv1,1,1
+,MoreCash_lv1,1,1
+,HeavierFish_lv1,1,1
+,MiningMoreOres_lv1,1,1
+Chill_RewardSet6_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,White Sugar,2,2
+,Syrup,2,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,3,2
+,Cherry,3,2
+,Blackberry,3,2
+,Apple,3,2
+,Honey,2,2
+,Cream,2,2
+,Butter,2,2
+,Cheese,2,2
+,Goat Cheese,2,2
+,Lollipop,1,1
+,Lobster Meat,1,1
+,Duck Down,1,1
+,FasterCrops1_lv2,1,1
+,FasterCrops2_lv2,1,1
+,FasterCrops3_lv2,1,1
+,FasterCrops4_lv2,1,1
+,FasterTrees_lv2,1,1
+,FasterBushes_lv2,1,1
+,FasterNetMaker_lv1,1,1
+,FasterBaitMaker_lv2,1,1
+,MoreCash_lv1,1,1
+,HeavierFish_lv1,1,1
+,MiningMoreOres_lv1,1,1
+Chill_RewardSet7_novice,FreeDiamonds,1,2
+,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,1
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Syrup,2,2
+Chill_RewardSet8_novice,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Syrup,2,4
+,Strawberry Ice Cream,1,2
+,Chocolate Ice Cream,1,3
+,Blackberry Jam,1,2
+,Cherry Jam,1,2
+,Lobster Meat,1,3
+,Duck Down,1,3
+Chill_RewardSet9_novice,FreeDiamonds,2,1
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,2
+,Brown_Sugar,2,5
+,White Sugar,2,5
+,Syrup,2,5
+,Strawberry Ice Cream,1,5
+,Chocolate Ice Cream,1,5
+,Blackberry Jam,1,5
+,Cherry Jam,1,5
+,Lobster Meat,1,5
+,Duck Down,1,5
+Chill_RewardSet10_novice,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher1,1,5
+,Voucher2,1,3
+,Brown_Sugar,2,10
+,White Sugar,2,10
+,Syrup,2,10
+,Apple,2,10
+,Cream,1,10
+,Butter,1,10
+,Cheese,1,10
+,Blueprint,1,500
+Chill_RewardSet11_novice,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+Chill_RewardSet12_novice,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher1,1,10
+,Voucher2,1,10
+,FasterCrops1_lv3,1,1
+,FasterCrops2_lv3,1,1
+,FasterCrops3_lv3,1,1
+,FasterCrops4_lv3,1,1
+,FasterTrees_lv3,1,1
+,FasterBushes_lv3,1,1
+,FasterBuildings1_lv1,1,1
+,FasterBuildings2_lv1,1,1
+,FasterBuildings3_lv1,1,1
+,FasterBuildings4_lv1,1,1
+,MoreXP_lv2,1,1
+,FasterBoats_lv2,1,1
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,FasterLobsters_lv2,1,1
+,FasterDucks_lv2,1,1
+,MoreCash_lv2,1,1
+,HeavierFish_lv2,1,1
+Chill_RewardSet13_novice,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Puzzle Piece 1,1,500
+,Brown_Sugar,2,1
+,White Sugar,2,1
+,Syrup,2,1
+,Apple,2,1
+,Cream,1,1
+,Butter,1,1
+,Cheese,1,1
+Chill_RewardSet14_novice,FreeDiamonds,1,3
+,Plank,1,3
+,Nail,1,3
+,Bolt,1,3
+,Screw,1,3
+,Duct Tape,1,3
+,Wood Panel,1,3
+,Land Deed,1,3
+,Mallet,1,3
+,Marker Stake,1,3
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,30
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv3,1,1
+,FasterBoats_lv3,1,1
+,FasterTom_lv2,1,2
+,FreeTom_lv2,1,2
+,FreeRose_lv2,1,2
+,FreeErnest_lv2,1,2
+,EasierBoats_lv2,1,2
+,FasterFishingSpots_lv2,1,2
+,FasterTownBuildings1_lv2,1,2
+,FasterTownBuildings2_lv2,1,2
+,FasterPersonalTrain_lv2,1,2
+,MoreCash_lv2,1,2
+,HeavierFish_lv2,1,2
+,MiningMoreOres_lv1,1,1
+Chill_RewardSet15_novice,Plank,1,10
+,Nail,1,10
+,Bolt,1,10
+,Screw,1,10
+,Duct Tape,1,10
+,Wood Panel,1,10
+,Land Deed,1,10
+,Mallet,1,10
+,Marker Stake,1,10
+,Hammer,1,10
+,Hand Drill,1,10
+,Paint Bucket,1,10
+,Stone Block,1,10
+,Brick,1,10
+,Tar Bucket,1,10
+,Map Piece,1,10
+,Voucher3,1,10
+,Expansion Key,1,500
+,Puzzle Piece 1,1,500
+Chill_RewardSet1_pro,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,2
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,1,3
+,Goat Cheese,1,3
+Chill_RewardSet2_pro,Axe,1,2
+,Saw,1,2
+,Shovel,1,2
+,Dynamite,1,2
+,Demolition Charge,1,2
+,Pickaxe,1,2
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,2
+,Raspberry,3,3
+,Cherry,3,3
+,Blackberry,3,3
+,Apple,3,3
+,Honey,1,3
+,Cream,1,3
+,Butter,1,3
+,Bracelet,1,2
+,SoySauce,1,2
+Chill_RewardSet3_pro,Axe,2,5
+,Saw,2,5
+,Shovel,1,5
+,Dynamite,2,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Brown_Sugar,5,5
+,White Sugar,5,5
+,Vanilla Ice Cream,1,5
+,Apple Jam,1,4
+,Raspberry,3,1
+,Cherry,3,1
+,Blackberry,3,1
+,Apple,3,1
+,Honey,5,4
+,Cream,5,4
+,Butter,5,4
+,Cheese,3,4
+,Goat Cheese,3,4
+,Lobster Meat,2,4
+,Duck Down,2,4
+Chill_RewardSet4_pro,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,White Sugar,3,2
+,Syrup,2,2
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Honey,2,2
+,Cream,2,2
+,Butter,2,2
+,Cheese,1,2
+,Goat Cheese,1,2
+,Lollipop,1,2
+,Lobster Meat,1,2
+,Duck Down,1,2
+Chill_RewardSet5_pro,Axe,2,15
+,Saw,2,15
+,Shovel,1,15
+,Dynamite,1,15
+,Demolition Charge,1,15
+,Pickaxe,1,15
+,Land Deed,1,5
+,Mallet,1,5
+,Marker Stake,1,5
+,Voucher1,1,15
+,White Sugar,5,5
+,Syrup,4,5
+,Cherry Popsicle,1,2
+,Raspberry Jam,1,2
+,Blackberry Jam,1,2
+,Honey,5,4
+,Cream,5,4
+,Butter,5,4
+,Cheese,3,4
+,Goat Cheese,3,4
+,Lollipop,1,2
+,Lobster Meat,2,2
+,Duck Down,2,2
+,FasterCrops1_lv2,1,1
+,FasterCrops2_lv2,1,1
+,FasterCrops3_lv2,1,1
+,FasterCrops4_lv2,1,1
+,FasterTrees_lv2,1,1
+,FasterBushes_lv2,1,1
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,MoreCash_lv2,1,1
+,HeavierFish_lv2,1,1
+Chill_RewardSet6_pro,FreeDiamonds,1,2
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Hammer,1,3
+,Hand Drill,1,3
+,Paint Bucket,1,3
+,Stone Block,1,3
+,Brick,1,3
+,Tar Bucket,1,3
+,Map Piece,1,1
+,Voucher1,1,3
+,Voucher2,1,3
+,Brown_Sugar,3,3
+,White Sugar,3,3
+,Syrup,3,3
+,Strawberry Ice Cream,1,3
+,Chocolate Ice Cream,1,3
+,Blackberry Jam,1,3
+,Cherry Jam,1,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+Chill_RewardSet7_pro,FreeDiamonds,2,4
+,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Voucher1,1,15
+,Voucher2,1,15
+,Brown_Sugar,3,3
+,White Sugar,3,3
+,Syrup,3,3
+,Strawberry Ice Cream,1,3
+,Chocolate Ice Cream,1,3
+,Blackberry Jam,1,3
+,Cherry Jam,1,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+Chill_RewardSet8_pro,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Voucher1,1,10
+,Voucher2,1,10
+,Voucher3,1,10
+,FasterCrops1_lv3,1,1
+,FasterCrops2_lv3,1,1
+,FasterCrops3_lv3,1,1
+,FasterCrops4_lv3,1,1
+,FasterTrees_lv3,1,1
+,FasterBushes_lv3,1,1
+,FasterBuildings1_lv2,1,1
+,FasterBuildings2_lv2,1,1
+,FasterBuildings3_lv2,1,1
+,FasterBuildings4_lv2,1,1
+,MoreXP_lv2,1,1
+,FasterBoats_lv2,1,1
+,FasterBaitMaker_lv2,1,1
+,FasterNetMaker_lv2,1,1
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,FasterLobsters_lv2,1,1
+,FasterDucks_lv2,1,1
+,MoreCash_lv2,1,1
+,HeavierFish_lv2,1,1
+,MiningMoreOres_lv3,1,1
+Chill_RewardSet9_pro,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,2
+,Voucher1,1,10
+,Voucher2,1,10
+,Voucher3,1,10
+Chill_RewardSet10_pro,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,1,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,2
+,Voucher3,1,15
+,Voucher4,1,15
+,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Blueprint,1,500
+Chill_RewardSet11_pro,FreeDiamonds,2,1
+,Voucher3,1,3
+,Voucher4,1,3
+,Axe,1,2
+,Saw,1,2
+,Shovel,1,2
+,Dynamite,1,2
+,Demolition Charge,1,2
+,Pickaxe,1,2
+Chill_RewardSet12_pro,FreeDiamonds,2,1
+,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,2
+,Hand Drill,1,2
+,Paint Bucket,1,2
+,Stone Block,2,2
+,Brick,1,2
+,Tar Bucket,1,2
+,Map Piece,1,2
+,Voucher3,1,15
+,Voucher4,1,5
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv3,1,1
+,FasterBoats_lv3,1,1
+,FasterTom_lv2,1,1
+,FreeTom_lv2,1,1
+,FreeRose_lv2,1,1
+,FreeErnest_lv2,1,1
+,EasierBoats_lv2,1,1
+,FasterFishingSpots_lv2,1,1
+,FasterTownBuildings1_lv2,1,1
+,FasterTownBuildings2_lv2,1,1
+,FasterPersonalTrain_lv2,1,1
+,HeavierFish_lv2,1,1
+,MoreCash_lv2,1,1
+,MiningMoreOres_lv3,1,1
+,Axe,1,1
+,Saw,1,1
+,Shovel,1,1
+,Dynamite,1,1
+,Demolition Charge,1,1
+,Pickaxe,1,1
+Chill_RewardSet13_pro,Plank,1,2
+,Nail,1,2
+,Bolt,1,2
+,Screw,1,2
+,Duct Tape,1,2
+,Wood Panel,1,2
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Voucher3,1,15
+,Voucher4,1,5
+,Puzzle Piece 1,1,500
+,FasterBuildings1_lv4,1,1
+,FasterBuildings2_lv4,1,1
+,FasterBuildings3_lv4,1,1
+,FasterBuildings4_lv4,1,1
+,MoreXP_lv4,1,1
+,FasterBoats_lv4,1,1
+,FasterTom_lv3,1,1
+,FreeTom_lv3,1,1
+,FreeRose_lv3,1,1
+,FreeErnest_lv3,1,1
+,EasierBoats_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,HeavierFish_lv3,1,1
+,MoreCash_lv3,1,1
+,Axe,1,1
+,Saw,1,1
+,Shovel,1,1
+,Dynamite,1,1
+,Demolition Charge,1,1
+,Pickaxe,1,1
+Chill_RewardSet14_pro,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Voucher3,1,5
+,Voucher4,1,3
+,Axe,1,2
+,Saw,1,2
+,Shovel,1,2
+,Dynamite,1,2
+,Demolition Charge,1,2
+Chill_RewardSet15_pro,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Voucher3,1,1
+,Voucher4,1,1
+,Expansion Key,1,500
+,Puzzle Piece 1,1,500
+Chill_RewardSet1_expert,Brown_Sugar,2,1
+,White Sugar,2,1
+,Vanilla Ice Cream,1,1
+,Apple Jam,1,1
+,Honey,2,1
+,Cream,2,1
+,Butter,2,1
+,Cheese,2,1
+,Goat Cheese,2,1
+Chill_RewardSet2_expert,Axe,1,1
+,Saw,1,1
+,Shovel,1,1
+,Dynamite,1,1
+,Demolition Charge,1,1
+,Pickaxe,1,1
+,Brown_Sugar,2,3
+,White Sugar,2,3
+,Vanilla Ice Cream,1,3
+,Apple Jam,1,3
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,2,3
+,Goat Cheese,2,3
+,Lobster Meat,1,1
+,Duck Down,1,1
+,Bracelet,1,1
+,SoySauce,1,1
+Chill_RewardSet3_expert,Axe,1,10
+,Saw,1,10
+,Shovel,1,10
+,Dynamite,1,10
+,Demolition Charge,1,10
+,Pickaxe,1,10
+,Voucher1,1,25
+,White Sugar,2,7
+,Syrup,2,7
+,Cherry Popsicle,1,10
+,Raspberry Jam,1,10
+,Blackberry Jam,1,10
+,Honey,2,10
+,Cream,2,6
+,Butter,2,6
+,Cheese,2,6
+,Goat Cheese,1,6
+,Lollipop,1,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+,FasterCrops1_lv3,1,1
+,FasterCrops2_lv3,1,1
+,FasterCrops3_lv3,1,1
+,FasterCrops4_lv3,1,1
+,FasterTrees_lv3,1,1
+,FasterBushes_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,MoreCash_lv3,1,1
+,HeavierFish_lv3,1,1
+,MiningMoreOres_lv3,1,1
+Chill_RewardSet4_expert,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Voucher1,1,9
+,White Sugar,2,3
+,Syrup,2,3
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,1,3
+,Goat Cheese,1,3
+Chill_RewardSet5_expert,FreeDiamonds,1,3
+,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher1,1,10
+,Voucher2,1,10
+Chill_RewardSet6_expert,Axe,1,6
+,Saw,1,6
+,Shovel,1,6
+,Dynamite,1,6
+,Demolition Charge,1,6
+,Pickaxe,1,6
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Voucher1,1,4
+,Voucher2,1,4
+Chill_RewardSet7_expert,Axe,1,4
+,Saw,1,4
+,Shovel,1,4
+,Dynamite,1,4
+,Demolition Charge,1,4
+,Pickaxe,1,4
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher2,1,6
+,Voucher3,1,6
+,FasterCrops1_lv4,1,1
+,FasterCrops2_lv4,1,1
+,FasterCrops3_lv4,1,1
+,FasterCrops4_lv4,1,1
+,FasterTrees_lv4,1,1
+,FasterBushes_lv4,1,1
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv3,1,1
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterLobsters_lv3,1,1
+,FasterDucks_lv3,1,1
+,MoreCash_lv3,1,1
+,HeavierFish_lv3,1,1
+,MiningMoreOres_lv3,1,1
+Chill_RewardSet8_expert,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher2,1,10
+,Voucher3,1,10
+Chill_RewardSet9_expert,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,4
+,Voucher4,1,4
+,Shovel,1,1
+,Dynamite,1,1
+Chill_RewardSet10_expert,FreeDiamonds,1,3
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,Saw,1,1
+,Shovel,1,1
+,Blueprint,1,500
+Chill_RewardSet11_expert,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,FasterBuildings1_lv4,1,1
+,FasterBuildings2_lv4,1,1
+,FasterBuildings3_lv4,1,1
+,FasterBuildings4_lv4,1,1
+,MoreXP_lv4,1,1
+,FasterBoats_lv4,1,1
+,FasterTom_lv3,1,1
+,FreeTom_lv3,1,1
+,FreeRose_lv3,1,1
+,FreeErnest_lv3,1,1
+,EasierBoats_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,MoreCash_lv3,1,1
+,HeavierFish_lv3,1,1
+,MiningMoreOres_lv3,1,1
+,Axe,1,1
+,Saw,1,1
+Chill_RewardSet12_expert,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,4
+,Voucher4,1,4
+,Dynamite,1,1
+,Demolition Charge,1,1
+Chill_RewardSet13_expert,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,Puzzle Piece 1,1,500
+,Axe,1,1
+,Saw,1,1
+Chill_RewardSet14_expert,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Voucher3,1,3
+,Voucher4,1,3
+,Saw,1,3
+,Shovel,1,3
+Chill_RewardSet15_expert,FreeDiamonds,2,3
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,MoreXP_lv5,1,1
+,FasterBoats_lv5,1,1
+,FasterTom_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+,MoreCash_lv5,1,1
+,HeavierFish_lv5,1,1
+,MiningMoreOres_lv5,1,1
+,Expansion Key,1,500
+,Puzzle Piece 1,1,500
+Chill_RewardSet1_champions,Brown_Sugar,2,1
+,White Sugar,2,1
+,Vanilla Ice Cream,1,1
+,Apple Jam,1,1
+,Honey,2,1
+,Cream,2,1
+,Butter,2,1
+,Cheese,2,1
+,Goat Cheese,2,1
+Chill_RewardSet2_champions,Axe,1,1
+,Saw,1,1
+,Shovel,1,1
+,Dynamite,1,1
+,Demolition Charge,1,1
+,Pickaxe,1,1
+,Brown_Sugar,2,2
+,White Sugar,2,2
+,Vanilla Ice Cream,1,2
+,Apple Jam,1,2
+,Honey,2,2
+,Cream,2,2
+,Butter,2,2
+,Cheese,2,2
+,Goat Cheese,2,2
+,Lobster Meat,1,1
+,Duck Down,1,1
+,Bracelet,1,1
+,SoySauce,1,1
+Chill_RewardSet3_champions,Axe,1,8
+,Saw,1,8
+,Shovel,1,8
+,Dynamite,1,8
+,Demolition Charge,1,8
+,Pickaxe,1,8
+,Voucher1,1,20
+,White Sugar,2,7
+,Syrup,2,7
+,Cherry Popsicle,1,8
+,Raspberry Jam,1,8
+,Blackberry Jam,1,8
+,Honey,2,8
+,Cream,2,6
+,Butter,2,6
+,Cheese,2,6
+,Goat Cheese,1,6
+,Lollipop,1,3
+,Lobster Meat,1,3
+,Duck Down,1,3
+,FasterCrops1_lv4,1,1
+,FasterCrops2_lv4,1,1
+,FasterCrops3_lv4,1,1
+,FasterCrops4_lv4,1,1
+,FasterTrees_lv4,1,1
+,FasterBushes_lv4,1,1
+,FasterBaitMaker_lv4,1,1
+,FasterNetMaker_lv4,1,1
+,MoreCash_lv4,1,1
+,HeavierFish_lv4,1,1
+Chill_RewardSet4_champions,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Land Deed,1,2
+,Mallet,1,2
+,Marker Stake,1,2
+,Voucher1,1,8
+,White Sugar,2,3
+,Syrup,2,3
+,Honey,2,3
+,Cream,2,3
+,Butter,2,3
+,Cheese,1,3
+,Goat Cheese,1,3
+Chill_RewardSet5_champions,FreeDiamonds,1,3
+,Axe,1,3
+,Saw,1,3
+,Shovel,1,3
+,Dynamite,1,3
+,Demolition Charge,1,3
+,Pickaxe,1,3
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher1,1,7
+,Voucher2,1,7
+Chill_RewardSet6_champions,Axe,1,4
+,Saw,1,4
+,Shovel,1,4
+,Dynamite,1,4
+,Demolition Charge,1,4
+,Pickaxe,1,4
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Voucher1,1,4
+,Voucher2,1,4
+Chill_RewardSet7_champions,Axe,1,4
+,Saw,1,4
+,Shovel,1,4
+,Dynamite,1,4
+,Demolition Charge,1,4
+,Pickaxe,1,4
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher2,1,6
+,Voucher3,1,6
+,FasterCrops1_lv4,1,1
+,FasterCrops2_lv4,1,1
+,FasterCrops3_lv4,1,1
+,FasterCrops4_lv4,1,1
+,FasterTrees_lv4,1,1
+,FasterBushes_lv4,1,1
+,FasterBuildings1_lv3,1,1
+,FasterBuildings2_lv3,1,1
+,FasterBuildings3_lv3,1,1
+,FasterBuildings4_lv3,1,1
+,MoreXP_lv3,1,1
+,FasterBoats_lv3,1,1
+,FasterBaitMaker_lv3,1,1
+,FasterNetMaker_lv3,1,1
+,FasterFishingSpots_lv3,1,1
+,FasterTownBuildings1_lv3,1,1
+,FasterTownBuildings2_lv3,1,1
+,FasterPersonalTrain_lv3,1,1
+,FasterLobsters_lv3,1,1
+,FasterDucks_lv3,1,1
+,MoreCash_lv3,1,1
+,HeavierFish_lv3,1,1
+,MiningMoreOres_lv3,1,1
+Chill_RewardSet8_champions,Axe,1,5
+,Saw,1,5
+,Shovel,1,5
+,Dynamite,1,5
+,Demolition Charge,1,5
+,Pickaxe,1,5
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher2,1,6
+,Voucher3,1,6
+Chill_RewardSet9_champions,FreeDiamonds,2,4
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,4
+,Voucher4,1,4
+,Shovel,1,1
+,Dynamite,1,1
+Chill_RewardSet10_champions,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,Saw,1,1
+,Shovel,1,1
+,Blueprint,1,500
+Chill_RewardSet11_champions,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,FasterBuildings1_lv4,1,1
+,FasterBuildings2_lv4,1,1
+,FasterBuildings3_lv4,1,1
+,FasterBuildings4_lv4,1,1
+,MoreXP_lv4,1,1
+,FasterBoats_lv4,1,1
+,FasterTom_lv4,1,1
+,FreeTom_lv4,1,1
+,FreeRose_lv4,1,1
+,FreeErnest_lv4,1,1
+,EasierBoats_lv4,1,1
+,FasterFishingSpots_lv4,1,1
+,FasterTownBuildings1_lv4,1,1
+,FasterTownBuildings2_lv4,1,1
+,FasterPersonalTrain_lv4,1,1
+,MoreCash_lv4,1,1
+,HeavierFish_lv4,1,1
+,Axe,1,1
+,Saw,1,1
+Chill_RewardSet12_champions,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,Hammer,1,1
+,Hand Drill,1,1
+,Paint Bucket,1,1
+,Stone Block,1,1
+,Brick,1,1
+,Tar Bucket,1,1
+,Map Piece,1,1
+,Voucher3,1,4
+,Voucher4,1,4
+,Dynamite,1,1
+,Demolition Charge,1,1
+Chill_RewardSet13_champions,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Voucher3,1,6
+,Voucher4,1,6
+,Puzzle Piece 1,1,500
+,Axe,1,1
+,Saw,1,1
+Chill_RewardSet14_champions,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+,Land Deed,1,1
+,Mallet,1,1
+,Marker Stake,1,1
+,MoreXP_lv5,1,1
+,FasterBoats_lv5,1,1
+,FasterTom_lv5,1,1
+,FreeTom_lv5,1,1
+,FreeRose_lv5,1,1
+,FreeErnest_lv5,1,1
+,EasierBoats_lv5,1,1
+,MoreCash_lv5,1,1
+,HeavierFish_lv5,1,1
+,MiningMoreOres_lv5,1,1
+Chill_RewardSet15_champions,FreeDiamonds,2,1
+,Plank,2,1
+,Nail,2,1
+,Bolt,2,1
+,Screw,2,1
+,Duct Tape,2,1
+,Wood Panel,2,1
+,Land Deed,2,1
+,Mallet,2,1
+,Marker Stake,2,1
+,Voucher3,1,4
+,Voucher4,1,4
+,Expansion Key,1,500
+,Puzzle Piece 1,1,500

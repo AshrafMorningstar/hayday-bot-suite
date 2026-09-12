@@ -1,0 +1,13 @@
+{
+  "serverPort": 3001,
+  "autoLaunchBrowser": true,
+  "adbPorts": [
+    5555,
+    5554,
+    62001,
+    7555
+  ],
+  "aiSelfHealingEnabled": true,
+  "lastRepaired": "2026-09-12T15:46:29.232Z",
+  "lastVerified": "2026-09-12T15:46:29.244Z"
+}

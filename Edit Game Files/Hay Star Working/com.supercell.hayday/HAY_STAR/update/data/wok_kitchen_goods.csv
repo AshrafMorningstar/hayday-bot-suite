@@ -1,0 +1,20 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Fried rice,sc/icons.sc,recipe_fried_rice,TID_PRODUCT_FRIED_RICE,Wok_Kitchen,5,Egg,60,530,510,120,4,1,39,39,69,TID_WOK_KITCHEN_PRODUCT_DESCRIPTION,43,,39
+,,,,,5,Rice,,,,,,,,,,,,,
+Tofu stir fry,sc/icons.sc,recipe_tofu_stir_fry,TID_PRODUCT_TOFU_STIR_FRY,Wok_Kitchen,3,Soybean,75,790,760,185,4,1,58,58,89,TID_WOK_KITCHEN_PRODUCT_DESCRIPTION,62,,58
+,,,,,3,Sesame,,,,,,,,,,,,,
+,,,,,3,Broccoli,,,,,,,,,,,,,
+,,,,,3,Onion,,,,,,,,,,,,,
+Spicy fish,sc/icons.sc,recipe_spicy_fish,TID_PRODUCT_SPICY_FISH,Wok_Kitchen,1,Fish Meat,90,1400,1350,325,5,1,106,106,79,TID_WOK_KITCHEN_PRODUCT_DESCRIPTION,111,,106
+,,,,,1,OliveOil,,,,,,,,,,,,,
+,,,,,5,Garlic,,,,,,,,,,,,,
+,,,,,3,Chili,,,,,,,,,,,,,
+Peanut noodles,sc/icons.sc,recipe_peanut_noodles,TID_PRODUCT_PEANUT_NOODLE,Wok_Kitchen,1,Rice Noodles,45,1730,1665,400,3,1,57,57,86,TID_WOK_KITCHEN_PRODUCT_DESCRIPTION,60,,57
+,,,,,1,PeanutBag,,,,,,,,,,,,,
+,,,,,1,Ginger,,,,,,,,,,,,,
+,,,,,1,SoySauce,,,,,,,,,,,,,
+Lamb Stir Fry,sc/icons.sc,recipe_lamb_stir_fry,TID_PRODUCT_LAMB_STIR_FRY,Wok_Kitchen,3,Rice,120,695,665,160,5,1,48,48,69,TID_WOK_KITCHEN_PRODUCT_DESCRIPTION,53,,44
+,,,,,1,Grilled Lamb Skewer,,,,,,,,,,,,,
+,,,,,2,Chili,,,,,,,,,,,,,
+,,,,,1,Sesame,,,,,,,,,,,,,

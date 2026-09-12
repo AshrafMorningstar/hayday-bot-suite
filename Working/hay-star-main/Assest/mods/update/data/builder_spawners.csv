@@ -1,0 +1,3 @@
+Name,UnlockLevel,MinSpawnTime,MaxSpawnTime,TutorialStockSeconds
+String,int,int,int,int
+BuilderSpawner,7,2,2,3600

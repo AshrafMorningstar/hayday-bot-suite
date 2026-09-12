@@ -1,0 +1,8 @@
+Name,OldName,FileName,MapType,TID
+String,String,String,String,String
+Valley Map 001 (chicken),Valley Season 19 (chicken),data/valley_maps/mapgame_board_2020_01.json,CollectChickens,
+Valley Map 001 (sanctuary),Valley Season 20 (sanctuary),data/valley_maps/mapgame_board_2020_02_sanctuary.json,CollectSanctuaryAnimals,
+Valley Map 002 (chicken),Valley Season 21 (chicken),data/valley_maps/mapgame_board_January16.json,CollectChickens,
+Valley Map 002 (sanctuary),Valley Season 22 (sanctuary),data/valley_maps/mapgame_board_2020_01_sanctuary.json,CollectSanctuaryAnimals,
+Valley Map 003 (chicken),Valley Season 23 (chicken),data/valley_maps/mapgame_board_2020_02.json,CollectChickens,
+Valley Map 003 (sanctuary),Valley Season 24 (sanctuary),data/valley_maps/mapgame_board_December16.json,CollectSanctuaryAnimals,

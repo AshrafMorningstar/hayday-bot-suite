@@ -1,0 +1,6 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Cream,sc/icons.sc,recipe_cream,TID_CREAM,Dairy,1,Milk,20,500,500,100,2,1,8,8,6,TID_DAIRY_PRODUCT_DESCRIPTION,10,,8
+Butter,sc/icons.sc,recipe_butter,TID_BUTTER,Dairy,2,Milk,30,500,500,100,3,1,15,15,9,TID_DAIRY_PRODUCT_DESCRIPTION,18,,15
+Cheese,sc/icons.sc,recipe_cheese,TID_CHEESE,Dairy,3,Milk,60,500,500,100,4,1,22,22,12,TID_DAIRY_PRODUCT_DESCRIPTION,26,,22
+Goat Cheese,sc/icons.sc,recipe_goat_cheese,TID_GOAT_CHEESE,Dairy,2,Goat Milk,90,500,500,100,5,1,31,31,33,TID_DAIRY_PRODUCT_DESCRIPTION,36,,31

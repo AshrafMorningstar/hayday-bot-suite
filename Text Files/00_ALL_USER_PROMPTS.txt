@@ -1,0 +1,536 @@
+==========================================================================================
+COMPLETE ARCHIVE OF ALL USER PROMPTS IN ANTIGRAVITY
+Export Date: 2026-09-07 21:35:39
+==========================================================================================
+
+This file contains every prompt submitted by the user across all conversations,
+organized chronologically and numbered sequentially.
+
+==========================================================================================
+CONVERSATION 01: Hay Star - Language Architecture, Rust/C++/Frida & Emulator Setup
+Category: Project Architecture & Reverse Engineering | Session ID: 8a0cce0d-442b-4b24-8fd5-86572167c9a1
+==========================================================================================
+
+PROMPT #1 (Conversation 01 - Turn 1)
+Timestamp: 2026-09-05T14:33:40-07:00
+--------------------------------------------------
+What are the programming language use For creating this program
+
+......................................................................
+
+PROMPT #2 (Conversation 01 - Turn 2)
+Timestamp: 2026-09-05T14:35:22-07:00
+--------------------------------------------------
+What is the best programming language for my Program Or recreating it for stable and also fully workable fast and reliable
+
+......................................................................
+
+PROMPT #3 (Conversation 01 - Turn 3)
+Timestamp: 2026-09-05T14:37:39-07:00
+--------------------------------------------------
+So you can do it 🦀 Rust for the loader/orchestrator + C++ for the native .so + TypeScript for Frida hooks My program So you can recreate this program on Rust and which is the best language for my program So can you do it recreate this program completely from scratch
+
+......................................................................
+
+PROMPT #4 (Conversation 01 - Turn 4)
+Timestamp: 2026-09-05T16:09:10-07:00
+--------------------------------------------------
+Continue
+
+......................................................................
+
+PROMPT #5 (Conversation 01 - Turn 5)
+Timestamp: 2026-09-05T16:12:15-07:00
+--------------------------------------------------
+Comments on artifact URI: file:///c%3A/Users/Admin/.gemini/antigravity-ide/brain/8a0cce0d-442b-4b24-8fd5-86572167c9a1/implementation_plan.md
+
+The user has approved this document.
+
+......................................................................
+
+PROMPT #6 (Conversation 01 - Turn 6)
+Timestamp: 2026-09-05T16:17:33-07:00
+--------------------------------------------------
+replace nxrth to mstar and Change the project name Hay Star
+
+......................................................................
+
+PROMPT #7 (Conversation 01 - Turn 7)
+Timestamp: 2026-09-05T16:39:19-07:00
+--------------------------------------------------
+Continue and also replace nxrth to mstar and Change the project name Hay Star
+
+......................................................................
+
+PROMPT #8 (Conversation 01 - Turn 8)
+Timestamp: 2026-09-05T16:39:34-07:00
+--------------------------------------------------
+Continue and also replace nxrth to mstar and Change the project name Hay Star
+
+......................................................................
+
+PROMPT #9 (Conversation 01 - Turn 9)
+Timestamp: 2026-09-05T18:29:52-07:00
+--------------------------------------------------
+fix it was not working 
+[*] Looking for ADB...
+[+] ADB: C:\LDPlayer\LDPlayer9\adb.exe
+[*] Looking for Android emulator...
+[+] Device: emulator-5554
+[*] Resolving app context (com.supercell.hayday)...
+[+] App UID: 10060
+[+] App context: u:object_r:app_data_file:s0:c60,c256,c512,c768
+
+[*] Verifying remote asset checksums (/data/adb/nxrth-assets)...
+[!] Asset error: Asset error: Frida server SHA-256 mismatch:
+  expected b13013c5fb19b01dc81fed1cd9b517b10681240c63d8111167e9df50fb0a0d18
+  got      83f200183bcee2a73626474b5bb488631af74b2a582f1906474cf78fc7f2c61c
+[*] Session ended (code 1). Auto-restarting in 3s... (Ctrl+C to stop)
+
+[*] ===== Auto-retry attempt 2 (Ctrl+C to stop) =====
+[*] Looking for ADB...
+[+] ADB: C:\LDPlayer\LDPlayer9\adb.exe
+[*] Looking for Android emulator...
+[+] Device: emulator-5554
+[*] Resolving app context (com.supercell.hayday)...
+[+] App UID: 10060
+[+] App context: u:object_r:app_data_file:s0:c60,c256,c512,c768
+
+[*] Verifying remote asset checksums (/data/adb/nxrth-assets)...
+[!] Asset error: Asset error: Frida server SHA-256 mismatch:
+  expected b13013c5fb19b01dc81fed1cd9b517b10681240c63d8111167e9df50fb0a0d18
+  got      83f200183bcee2a73626474b5bb488631af74b2a582f1906474cf78fc7f2c61c
+[*] Session ended (code 1). Auto-restarting in 3s... (Ctrl+C to stop) fix it
+
+......................................................................
+
+PROMPT #10 (Conversation 01 - Turn 10)
+Timestamp: 2026-09-05T18:33:21-07:00
+--------------------------------------------------
+fix it 
+[*] Looking for ADB...
+[+] ADB: C:\LDPlayer\LDPlayer9\adb.exe
+[*] Looking for Android emulator...
+[+] Device: emulator-5554
+[*] Resolving app context (com.supercell.hayday)...
+[+] App UID: 10060
+[+] App context: u:object_r:app_data_file:s0:c60,c256,c512,c768
+
+[*] Verifying remote asset checksums (/data/adb/nxrth-assets)...
+[+] Assets verified
+[*] Checking for stale injector servers...
+[*] Staging runtime gadget...
+[+] Runtime gadget staged for UID 10060: /data/user/0/com.supercell.hayday/files/metrics/libmetrics.so
+
+[*] === SETUP ===
+[1/3] Starting Frida server (port 31337)...
+[!] Injection failed: Frida error: injector server failed to start
+[*] Session ended (code 1). Auto-restarting in 3s... (Ctrl+C to stop)
+
+[*] ===== Auto-retry attempt 2 (Ctrl+C to stop) =====
+[*] Looking for ADB...
+[+] ADB: C:\LDPlayer\LDPlayer9\adb.exe
+[*] Looking for Android emulator...
+[+] Device: emulator-5554
+[*] Resolving app context (com.supercell.hayday)...
+[+] App UID: 10060
+[+] App context: u:object_r:app_data_file:s0:c60,c256,c512,c768
+
+[*] Verifying remote asset checksums (/data/adb/nxrth-assets)...
+[+] Assets verified
+[*] Checking for stale injector servers...
+[*] Staging runtime gadget...
+[+] Runtime gadget staged for UID 10060: /data/user/0/com.supercell.hayday/files/metrics/libmetrics.so
+
+[*] === SETUP ===
+[1/3] Starting Frida server (port 31337)...
+[!] Injection failed: Frida error: injector server failed to start
+[*] Session ended (code 1). Auto-restarting in 3s... (Ctrl+C to stop) fix the all error fix it fully auto
+
+......................................................................
+
+PROMPT #11 (Conversation 01 - Turn 11)
+Timestamp: 2026-09-05T18:35:32-07:00
+--------------------------------------------------
+start and test it if there are any error fix it fully auto
+
+......................................................................
+
+PROMPT #12 (Conversation 01 - Turn 12)
+Timestamp: 2026-09-05T22:01:03-07:00
+--------------------------------------------------
+nfields
+  [CAVE] allocated 256 bytes at 0x76388c61d600
+  native gate: module@0x8a7c000 mailbox@0x8a8e8a8 on_tick@0x8a8263c
+  [CAVE] allocated 64 bytes at 0x763872c7a940
+  [FARJUMP] 0x5b5e430 -> 0x76388c61d600
+  [CAVE] allocated 64 bytes at 0x76388dfd53b0
+  86 field(s) [Some(400000)..Some(400085)]
+  nfields -> 86 field(s): [400000, 400001, 400002, 400003, 400004, 400005, 400006, 400007, 400008, 400009, 400010, 400011, 400012, 400013, 400014, 400015, 400016, 400017, 400018, 400019, 400020, 400021, 400022, 400023, 400024, 400025, 400026, 400027, 400028, 400029, 400030, 400031, 400032, 400033, 400034, 400035, 400036, 400037, 400038, 400039, 400040, 400041, 400042, 400043, 400044, 400045, 400046, 400047, 400048, 400049, 400050, 400051, 400052, 400053, 400054, 400055, 400056, 400057, 400058, 400059, 400060, 400061, 400062, 400063, 400064, 400065, 400066, 400067, 400068, 400069, 400070, 400071, 400072, 400073, 400074, 400075, 400076, 400077, 400078, 400079, 400080, 400081, 400082, 400083, 400084, 400085] it crash the game so fix it and also find any or bugs if there are then fix it fully auto and also if there then fix then test it all commands and test it and if game crash then Restart the script automatically and also create error logs File for debugging it and fixing it it have all details and also screenshot what happened so after that I can fix it so create a folder in that folder create the files of the problem so I can debug it after or later by manually or by using AI
+
+......................................................................
+
+PROMPT #13 (Conversation 01 - Turn 13)
+Timestamp: 2026-09-05T22:26:42-07:00
+--------------------------------------------------
+Whenever I open the game it will be go to the Google Play store or Google login account can you fix it It will be never appear so can you change it on the game file I give you full authority I have to go back 2 to 4 times For removing is there any way to remove that login screen before game start can you change it by the game data Don't create a any script or anything like that like Python script or anything like that for going back Do it by using the game code or modifying it can you do it or not If you can then started doing it
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 02: Program Testing & Execution
+Category: Testing & Debugging | Session ID: 8730a4b2-7299-41fe-8b38-1fcd4b1e177d
+==========================================================================================
+
+PROMPT #14 (Conversation 02 - Turn 1)
+Timestamp: 2026-09-06T02:21:35-07:00
+--------------------------------------------------
+Start this program and test it
+
+......................................................................
+
+PROMPT #15 (Conversation 02 - Turn 2)
+Timestamp: 2026-09-06T02:59:54-07:00
+--------------------------------------------------
+n
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 03: File Merge & Folder Organization
+Category: File Management | Session ID: 0f1c7ed5-7ccb-4e03-bf4c-c2a5a28c1ab9
+==========================================================================================
+
+PROMPT #16 (Conversation 03 - Turn 1)
+Timestamp: 2026-09-06T02:32:55-07:00
+--------------------------------------------------
+Go through the all file and create a new folder for the merge file and after that merge the file in that file make the tom price set at low lowest whenever the tomb was going to buy the item the item price was less than $10 which is the in the low price folder But and every other And all other things are set on high prices for example people come to buy the items the reward XP  experience point And coins are higher for example experience set Higher value And also Did people orders rewards are set on higher value they can give me Whenever they come they ask for wheat and they give me highest value of the reward for example betty Tell us about anything the value of the item their reward they give me it will be highest value they can give me or if the joan Comes for asking anything the Rewards must be highest And also The speed of people TID PEOPLE Fast and also The truck order will be Super fast And also replace the name for example S1 V11 TO Morningstar Mstar or HAY_ STAR But mainly use HAY_ STAR So whenever they are name of it replace it the every name which is the there are requested by the given name I give you full authority Just do it
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 04: Inxernal Documents & Supercell File Integration
+Category: File Management & Integration | Session ID: d249fcf1-4184-4f20-91ee-566a979d3fd6
+==========================================================================================
+
+PROMPT #17 (Conversation 04 - Turn 1)
+Timestamp: 2026-09-06T15:34:03-07:00
+--------------------------------------------------
+I give you the old files in the file path C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday Upload the files before starting the programs give me option to selecting Which file I want to upload from the folder and also create option for clean the all files from the folder and show They do that only automatically So whenever Program was launched It will give the options for running the mod The person can choose the more before applying itStart the my program and before starting the program C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday It will be automatically upload the file which is the given in the folder fully automatically You automatically arrange it which is suitable for the program I give you full authority you can do anything you want to do I give you full authority And also reapplying the all files because I added new files in the folder So do everything from the start Of the for example the mode 1 mode 2 mode 3 option for selecting and uploading the files in the before starting the In the program Cleaned & Arranged Game Assets Directory  Implemented Automatic Game Asset Staging Start the my program and before starting the program C:\Users\Admin\Documents\inxernal-main\com.supercell.hayday It will be automatically upload the file which is the given in the folder fully automatically You automatically arrange it which is suitable for the program I give you full authority you can do anything you want to do I give you full authority
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 05: Live Debugging, Searchable Product Pickers & UI Bot Design
+Category: UI & Feature Development | Session ID: f5d38075-2792-4df0-a066-08fbe2641490
+==========================================================================================
+
+PROMPT #18 (Conversation 05 - Turn 1)
+Timestamp: 2026-09-06T18:45:35-07:00
+--------------------------------------------------
+start the Program and test it fully auto
+
+......................................................................
+
+PROMPT #19 (Conversation 05 - Turn 2)
+Timestamp: 2026-09-06T18:47:19-07:00
+--------------------------------------------------
+start the Program and test it fully auto
+
+......................................................................
+
+PROMPT #20 (Conversation 05 - Turn 3)
+Timestamp: 2026-09-07T00:20:07-07:00
+--------------------------------------------------
+Create live debugging option It will be I can do applying the code and testing it on the life it was fully working For example opening the shop harvesting or anything like that fully working and also get the all global ID of every items for example plots fishing boat trucks shop and many more created a file for it
+
+......................................................................
+
+PROMPT #21 (Conversation 05 - Turn 4)
+Timestamp: 2026-09-07T09:02:48-07:00
+--------------------------------------------------
+The product pickers can be searched. Every one of them — the object to place
+  on the map, the item to sell, the machine, the recipe, the tool, the habitat,
+  the animal — held the whole catalogue and let you type into it, but typing
+  did nothing: the text went nowhere. Type any part of a name now and the
+  matches drop down. It matches anywhere in the name, not just the start.
+- The Map tab no longer puts a row filter over the map's own coordinates. The
+  search that belongs there is the one on the picker above it. - When an account will not open, the log now says why. If the Hay Day servers
+  close the connection while the game loads, it sits there for ever, drawing
+  the whole time - the "never opens on the first attempt" report. The clean
+  relaunch was always the cure; HDX now names the cause and stops waiting the
+  moment it knows. A slow start still gets its time.
+- Every list in the Manual tab sorts: click a header. Numbers sort as numbers,
+  so 9 comes before 20. Sorting clears the selection, because afterwards the
+  row you picked is not the row a button would act on.
+- Three controls asked before they checked. "Chop All", "Chop tree/bush" and
+  "Refresh Early (Diamonds)" confirmed first, so with no device connected they
+  asked whether to destroy every tree or spend diamonds, and only then said
+  there was no device. All three check first now.
+- "Collect ready honey" is now "Collect ready nests (honey, peanuts)". The
+  two nests are one class in the game, so it always collected the squirrel's
+  peanut bags too.
+- Collecting nests now reports what the game refused: "honey=0
+  honey_rejected=6" is a full barn, "honey=0 honey_rejected=0" is nothing
+  ready. Floaters and mystery boxes too.
+- The Manual tab's "Plant empty fields" has a "Fields to sow" box; it always
+  needed that number and was sending the request without it.
+- The Mine tab's "Collect attempts (cap)" box is gone: collection asks in
+  growing batches and stops at the first refusal.
+- Pressing Stop while an account is starting no longer runs the diagnosis for
+  a failure that did not happen. - A licence that stops being valid while HDX is open now says so and closes,
+  instead of quietly retrying for as long as the app is left running. An expiry, a
+  suspension or revocation, or a licence moved to another PC is reported by the
+  next authenticated call — which happens even while idle, because the session
+  keeps itself fresh. HDX names the reason, stops every card so the seat is
+  released, and exits.
+- The game check now asks one question: is this the supported Hay Day version and
+  ABI. It used to also inspect the installed APK files, which refused perfectly
+  good installs: the same version is packaged differently depending on where it
+  was installed from. That inspection is gone.
+- Fixes games that died or froze seconds after the farm appeared. HDX attached
+  with Frida's default settings, one of which takes over the game's own crash
+  handling — so the game, running translated on the emulator, could no longer
+  install the fault handler it depends on, and a fault it normally absorbs killed
+  it or left the picture frozen. On one loaded emulator the old setting lost the
+  game three times in six runs; the new one never lost it.
+- Fixes a startup that failed about one time in five for no real reason. The
+  check that confirms the farm is alive watched a counter that, by the game's own
+  design, stops about ten seconds after the farm loads; on a slow start HDX looked
+  only after it had stopped and rejected a healthy farm. It now accepts a farm
+  whose counter has run at all, and still waits out one that never started.
+
+......................................................................
+
+PROMPT #22 (Conversation 05 - Turn 5)
+Timestamp: 2026-09-07T10:28:54-07:00
+--------------------------------------------------
+C:\Users\Admin\Documents\inxernal-main\screenshot of ui This is the path UI designing for this bot 300 6 and also make it everything working fully working just like I give you the screenshot of all the everything just collected everything just considered everything I give you full authority make everything send everything was working for me
+
+......................................................................
+
+PROMPT #23 (Conversation 05 - Turn 6)
+Timestamp: 2026-09-07T10:46:53-07:00
+--------------------------------------------------
+[JAVA-GUARD] direct report guard timed out: direct report guard pending: Error: java.lang.ClassNotFoundException: Didn't find class "pkbpqnzc.aG" on path: DexPathList[[zip file "/data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk"],nativeLibraryDirectories=[/data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk!/lib/x86_64, /data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk!/lib/arm64-v8a, /system/lib64, /system/vendor/lib64]] fix it this [JAVA-GUARD] direct report guard timed out: direct report guard pending: Error: java.lang.ClassNotFoundException: Didn't find class "pkbpqnzc.aG" on path: DexPathList[[zip file "/data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk"],nativeLibraryDirectories=[/data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk!/lib/x86_64, /data/user_de/0/com.google.android.gms/app_chimera/m/0000000b/CronetDynamite.uncompressed.apk!/lib/arm64-v8a, /system/lib64, /system/vendor/lib64]]
+
+nxrth> loadnative
+  SELinux: Permissive
+  bridge: mods=['libnativeloader.so', 'libnativebridge.so', 'libhoudini.so'] ext=True vendorNs=True capturedNs=0x3
+  captured ns from: /data/app/com.supercell.hayday-HWDjJe5vhTM3rkRle39ffw==/lib/arm64/libsupercell_hayday.so
+[+] native module staged: /data/user/0/com.supercell.hayday/files/libnxrth.so
+  loadmodule -> {'ok': True, 'via': 'NativeBridgeLoadLibraryExt', 'handle': '0x76386cd3d8a0', 'nsSource': 'captured:/data/app/com.supercell.hayday-HWDjJe5vhTM3rkRle39ffw==/lib/arm64/libsupercell_hayday.so', 'error': None}
+  --- module logcat (NXRTH) ---
+   09-07 10:45:23.470  4831  4913 I NXRTH   : libnxrth loaded (ctor)  build=Aug 26 2026 14:50:18
+   09-07 10:45:23.472  4831  4913 I NXRTH   : nx_init: OK  libg @ 0x5058000  mailbox @ 0x8a6a8a8  on_tick @ 0x8a5e63c
+   09-07 10:45:23.472  4831  4913 I NXRTH   : validate: [tick] first insn = 0x12000280
+   09-07 10:45:23.489  4831  4913 I NXRTH   : ranges: 4730 readable regions
+  >>> MODULE LIVE: native engine resident in-process.
+nxrth> nfields
+  [CAVE] allocated 256 bytes at 0x763872a41dd0
+  native gate: module@0x8a58000 mailbox@0x8a6a8a8 on_tick@0x8a5e63c
+  [FARJUMP] 0x5b3a430 -> 0x763872a41dd0
+  [CAVE] allocated 64 bytes at 0x763885c8c640
+  [FARJUMP] 0x5b3a430 -> 0x763872a41dd0
+  [CAVE] allocated 64 bytes at 0x763862fa64c0
+  native cmd timed out (gate not running - in the farm?).
+  [CAVE] allocated 64 bytes at 0x76385dc6b300
+  [!] native gate not live (open the farm and retry).
+  nfields -> 0 field(s): []
+nxrth> harvest
+  [CAVE] allocated 512 bytes at 0x7638638f0750
+  [CAVE] allocated 384 bytes at 0x763869f10410
+  Plant gate built on main game tick; mbox 0x7638638f0750
+  [FARJUMP] 0x5b3a430 -> 0x763869f10410
+  [CAVE] allocated 64 bytes at 0x763861f1ba60
+  [!] Hook not live (open the farm screen and retry). fix it this error fix it all errror
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 06: Pictures Backup & Hay Day Assets Upload
+Category: File Management | Session ID: 940bd130-2630-4800-bea4-5eee0e1f8ffe
+==========================================================================================
+
+PROMPT #24 (Conversation 06 - Turn 1)
+Timestamp: 2026-09-07T11:45:11-07:00
+--------------------------------------------------
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh upload this file in the program before starting the program it will be automatically upload the files fully automatically and also there are options for example a clean launch or by file uploading did give a choice before starting the program
+
+......................................................................
+
+PROMPT #25 (Conversation 06 - Turn 2)
+Timestamp: 2026-09-07T11:46:25-07:00
+--------------------------------------------------
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh upload this file in the program before starting the program it will be automatically upload the files fully automatically and also there are options for example a clean launch or by file uploading did give a choice before starting the program
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 07: Asset Removal & Instant Screen Jump / Teleport Step-by-Step
+Category: Game Mechanics & Tutorials | Session ID: 79abb81c-d865-4554-a01c-67e9f022028e
+==========================================================================================
+
+PROMPT #26 (Conversation 07 - Turn 1)
+Timestamp: 2026-09-07T11:49:26-07:00
+--------------------------------------------------
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh upload this file in the program before starting the program it will be automatically upload the files fully automatically and also there are options for example a clean launch or by file uploading did give a choice before starting the program
+
+......................................................................
+
+PROMPT #27 (Conversation 07 - Turn 2)
+Timestamp: 2026-09-07T12:18:58-07:00
+--------------------------------------------------
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh give me option to removing the Assetsor applying the Assetsor also launch software without Assets removing Assets and launching clean Without any Assets  And it will be re upload every time C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Assets files Every time and also create a program for editing the live exceed Assets in ld player for testing It was working or not For debugging or testing purposes
+
+......................................................................
+
+PROMPT #28 (Conversation 07 - Turn 3)
+Timestamp: 2026-09-07T21:23:40-07:00
+--------------------------------------------------
+Teach me how you created Instant Screen Jump / Teleport  Teach me step by step
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 08: Tom Hiring Diamond Cost, Zero Voucher Pets & Silo Storage Upgrades
+Category: Game Logic & Modifications | Session ID: 4f26811b-056b-4c82-a044-36a9e1154837
+==========================================================================================
+
+PROMPT #29 (Conversation 08 - Turn 1)
+Timestamp: 2026-09-07T12:25:54-07:00
+--------------------------------------------------
+The hiring the Tom or boy By a diamond It was set to the Only one diamond in every option For example hire it for 10 day by 100 daimods it was to 10 day to 1 Diamonds And the item was tom or boy Find the items The file value was set to the lowest priced he can buy the item at the lowest price for set low price min price is 1 to max was 10 to 15 coins
+
+......................................................................
+
+PROMPT #30 (Conversation 08 - Turn 2)
+Timestamp: 2026-09-07T12:43:25-07:00
+--------------------------------------------------
+in this create the Without using the tom buy all Pets to zero Vouchers or every vouchers value was set to the one
+
+......................................................................
+
+PROMPT #31 (Conversation 08 - Turn 3)
+Timestamp: 2026-09-07T12:57:10-07:00
+--------------------------------------------------
+in this create the Without using the tom buy all Pets to zero Vouchers or every vouchers value was set to the one
+
+......................................................................
+
+PROMPT #32 (Conversation 08 - Turn 4)
+Timestamp: 2026-09-07T13:07:37-07:00
+--------------------------------------------------
+when buy any pet it was crash the game can youfix
+
+......................................................................
+
+PROMPT #33 (Conversation 08 - Turn 5)
+Timestamp: 2026-09-07T13:14:09-07:00
+--------------------------------------------------
+silo storage for increase storage upgrade Material required set 0 or 1 and And also the speed of requirement diamond set to 0 or free  or Item was created instantly
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 09: Hay Day Live Asset Editor, Level 1 Unlocks & Big Fish Instant Catch
+Category: Live Editor & Feature Unlocks | Session ID: f7b50c86-9ddb-413a-bcdb-5fe03dd5f220
+==========================================================================================
+
+PROMPT #34 (Conversation 09 - Turn 1)
+Timestamp: 2026-09-07T12:46:58-07:00
+--------------------------------------------------
+how to use AY DAY LIVE ASSET EDITOR & TESTING DEBUGGER Give me complete detail to how to use it for For example I want to set the shop item price and to the maximum
+
+......................................................................
+
+PROMPT #35 (Conversation 09 - Turn 2)
+Timestamp: 2026-09-07T13:22:37-07:00
+--------------------------------------------------
+It can inject it on the server
+
+......................................................................
+
+PROMPT #36 (Conversation 09 - Turn 3)
+Timestamp: 2026-09-07T13:29:21-07:00
+--------------------------------------------------
+It can inject it on the server And also pet can eat They can reduce the pets Pick up time they can web for only two to three second After that they started eating the Instantly And they get hungry Instantly and also the The minimum XP gate from waking up pet 10000 In mix xp is 10000000000000
+
+......................................................................
+
+PROMPT #37 (Conversation 09 - Turn 4)
+Timestamp: 2026-09-07T13:30:52-07:00
+--------------------------------------------------
+Do it by yourself
+
+......................................................................
+
+PROMPT #38 (Conversation 09 - Turn 5)
+Timestamp: 2026-09-07T13:42:12-07:00
+--------------------------------------------------
+Unlock the all features for example Shop trucks fishing boat boats It will unlock on level one or I can just click on it and going in Is there any way I can just putting the command and the phishing I can go to the fishing instantly or opening the shop instantly by using the command IN PROGRAM
+
+......................................................................
+
+PROMPT #39 (Conversation 09 - Turn 6)
+Timestamp: 2026-09-07T13:53:08-07:00
+--------------------------------------------------
+It was crushing the game can you fix it
+
+......................................................................
+
+PROMPT #40 (Conversation 09 - Turn 7)
+Timestamp: 2026-09-07T14:04:49-07:00
+--------------------------------------------------
+Uh set the instant fishing and also the fish Have big fish The weight of the fish are more than 10 or more
+
+......................................................................
+
+PROMPT #41 (Conversation 09 - Turn 8)
+Timestamp: 2026-09-07T14:15:29-07:00
+--------------------------------------------------
+Can you teach me how do you created  Instant Screen Jump / Teleport Completely teach me step by step
+
+......................................................................
+
+PROMPT #42 (Conversation 09 - Turn 9)
+Timestamp: 2026-09-07T14:32:54-07:00
+--------------------------------------------------
+Create a command for lure create the red lure Automatically and also automatically speeding And also create a command for instantly fishing by just using the command and also fish can catch up instantly
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 10: Automatic Red Lure Creation & Speed Command
+Category: Automation & Commands | Session ID: 5123f459-aee2-4f7c-845a-8813dfd8f31c
+==========================================================================================
+
+PROMPT #43 (Conversation 10 - Turn 1)
+Timestamp: 2026-09-07T14:32:34-07:00
+--------------------------------------------------
+Create a command for lure create the red lure Automatically and also automatically speeding And also create a command for instantly fishing by just using the command and also fish can catch up instantly
+
+......................................................................
+
+==========================================================================================
+CONVERSATION 11: Antigravity Chat Export & Comprehensive Conversation Archive
+Category: Antigravity Tools & Archiving | Session ID: 568eeef5-050a-4387-8ff7-bd1a6d5bbd3b
+==========================================================================================
+
+PROMPT #44 (Conversation 11 - Turn 1)
+Timestamp: 2026-09-07T20:55:15-07:00
+--------------------------------------------------
+how to see export chat in antigravity
+
+......................................................................
+
+PROMPT #45 (Conversation 11 - Turn 2)
+Timestamp: 2026-09-07T21:31:17-07:00
+--------------------------------------------------
+Create a text file of all conversation in the reading I need you to create a text file which all prompt I All I would like to created for giving in that text file And also to get every text file for the family which is needed for example what are you doing what are Or anything like that
+ Or anything like that in the Create a new folder on desktop and upload the all text file on it
+
+......................................................................
+
+
+Total Prompts Recorded: 45

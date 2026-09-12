@@ -1,0 +1,74 @@
+Name,TrackPointsRequired,RewardPool
+String,int,String
+Track5E40,1,SiloPartsLucky2
+,1,CoinsMed40
+,2,SiloParts1
+,2,CoinsXLarge40
+,3,BoxSilo1
+Track5E60,2,SiloPartsLucky3
+,1,CoinsMed60
+,2,SiloParts1
+,2,CoinsXLarge60
+,3,BoxSilo1
+Track5E100,2,SiloPartsLucky3
+,1,CoinsMed100
+,2,SiloParts2
+,3,CoinsXLarge100
+,4,BoxSilo1
+Track5E9999,2,SiloPartsLucky4
+,2,CoinsMed9999
+,2,SiloParts3
+,3,CoinsXLarge9999
+,5,BoxSilo1
+Track5H40,2,SiloPartsLucky2
+,2,CoinsMed40
+,3,SiloParts1
+,3,CoinsXLarge40
+,5,BoxSilo1
+Track5H60,4,SiloPartsLucky3
+,3,CoinsMed60
+,3,SiloParts1
+,3,CoinsXLarge60
+,5,BoxSilo1
+Track5H100,4,SiloPartsLucky3
+,3,CoinsMed100
+,3,SiloParts2
+,4,CoinsXLarge100
+,6,BoxSilo1
+Track5H9999,4,SiloPartsLucky4
+,3,CoinsMed9999
+,3,SiloParts3
+,5,CoinsXLarge9999
+,7,BoxSilo1
+BoatTrackBasic,40,BoatCoinsSmall
+,80,BoatToolsMix
+,120,BoatCoinsMed
+BoatTrackReturning,40,BoatCoinsSmallDouble
+,80,BoatToolsMixDouble
+,120,BoatCoinsMedDouble
+TrackPBM_40,1,SiloPartsLucky2
+,1,Material Pool 1
+,2,SiloParts1
+,2,Material Pool 2
+,3,BoxSilo1
+TrackPBM_60,2,SiloPartsLucky3
+,1,Material Pool 1
+,2,SiloParts1
+,2,Material Pool 2
+,3,BoxSilo1
+TrackPBM_100,2,SiloPartsLucky3
+,1,Material Pool 1
+,2,SiloParts2
+,3,Material Pool 2
+,4,BoxSilo1
+TrackPBM_9999,2,SiloPartsLucky4
+,2,Material Pool 1
+,2,SiloParts3
+,3,Material Pool 2
+,5,BoxSilo1
+BoatNauticalMilesTrack,40,BoatNauticalMiles_LandPool
+,80,BoatNauticalMiles_BoxCoinXP
+,110,BoatNauticalMiles_PuzzlePiece
+,160,BoatNauticalMiles_BoxLand1Star
+,240,BoatNauticalMiles_PuzzlePiece
+,370,BoatNauticalMiles_BoxLand2Star

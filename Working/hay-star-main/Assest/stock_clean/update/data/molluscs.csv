@@ -1,0 +1,3 @@
+Name,ExportName,GrowingExportName,FileName,GrowTime,Good,CollectIconFileName,CollectIconExportName,TID,PendingRelease
+String,String,String,String,int,String,String,String,String,Boolean
+Mussel,apple_tree_stage_3,apple_tree_stage_1,sc/fruit_trees_berrybushes.sc,60,Mussel,sc/icons.sc,tool_collect_eggs,TID_MUSSEL,TRUE

@@ -1,0 +1,4 @@
+Name,ToolIconFileName,ToolIconExportName,TID,DescriptionTID,UnlockLevel,ReputationUnlockLevel,DiamondPrice,PerceivedValue,CollectionToolType
+String,String,String,String,String,int,int,int,int,int
+Pop Box,sc/pop_crosspromo.sc,icon_pop_greenlootbox_large,TID_POP_GIFT_BOX,TID_POP_GIFT_BOX_DESCRIPTION,8,,1000,13000,1
+HD Box,sc/pop_crosspromo.sc,icon_pop_purplelootbox_large,TID_POP_REWARD_BOX,TID_POP_REWARD_BOX_DESCRIPTION,8,,1000,13000,2

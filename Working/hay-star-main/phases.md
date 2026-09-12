@@ -1,0 +1,32 @@
+# Feature Ticket List & Phases — Hay Star
+
+## Phase Summary
+- **Phase 1: Project Backup & Reference Organization** (`Status: COMPLETED`)
+  - [x] Create timestamped backup of entire workspace (`_backup_2026-09-11/`)
+  - [x] Organize loose documentation into `_reference_docs/`
+- **Phase 2: Master Global ID Catalog** (`Status: COMPLETED`)
+  - [x] Port 550+ line ID catalog from legacy project to root `game_ids.py`
+  - [x] Add animal feed mappings, landmark offsets, and price calculation engine
+- **Phase 3: Global ID Auto-Extractor** (`Status: COMPLETED`)
+  - [x] Create `tools/id_extractor.py` scanning 375+ CSV files in asset pack
+  - [x] Generate machine-readable `tools/extracted_ids/all_global_ids.json`
+- **Phase 4: Universal 1-3 Letter Shortcuts** (`Status: COMPLETED`)
+  - [x] Create `command_registry.py` with 28+ shortcuts and fuzzy search
+  - [x] Enhance `engine_bot.py` with alias dispatching
+- **Phase 5: Continuous Auto-Farm Loop** (`Status: COMPLETED`)
+  - [x] Implement `auto_farm_loop.py` (harvest → wait → plant → jump → sell → collect)
+  - [x] Implement stats tracker (cycles, harvests, plants, sells, coins, uptime)
+- **Phase 6: Camera Teleport & Landmark Navigation** (`Status: COMPLETED`)
+  - [x] Add landmark definitions (`shop`, `farm`, `animals`, `machines`, `mine`, `boat`, `town`, `fishing`)
+  - [x] Add ADB swipe gestures and TCP memory jump packets
+- **Phase 7: Multi-Account Manager & Config Engine** (`Status: COMPLETED`)
+  - [x] Enhance `account_manager.py` with numbered CLI selection and rotation scheduling
+  - [x] Create `config_automation.py` with parameter tuning and hot-reloading (`cr`)
+- **Phase 8: Environment Installer & Diagnostics** (`Status: COMPLETED`)
+  - [x] Create `install.py` and `install.bat` verifying Python, ADB, emulator, root, and files
+- **Phase 9: Comprehensive Automated Test Suite** (`Status: COMPLETED`)
+  - [x] Create `tests/test_all.py` and `tests/run_tests.bat` with 23 verification tests
+  - [x] Achieve 100% test pass rate
+- **Phase 10: Unified Main Integration** (`Status: COMPLETED`)
+  - [x] Update `launcher.py` with master control dashboard and live REPL shell
+  - [x] Update `supervisor.py` and `start.bat`

@@ -1,0 +1,54 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Cheese Cake,sc/icons.sc,recipe_cheese_cake,TID_CHEESE_CAKE,Cake_Oven,1,Cookie,240,730,700,170,7,1,48,51,24,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,55,,48
+,,,,,1,Cheese,,,,,,,,,,,,,
+Carrot Cake,sc/icons.sc,recipe_carrot_cake,TID_CARROT_CAKE,Cake_Oven,2,Carrot,90,500,500,100,5,1,29,32,21,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,34,,29
+,,,,,1,Butter,,,,,,,,,,,,,
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+Birthday Cake,sc/icons.sc,recipe_cream_cake,TID_BIRTHDAY_CAKE,Cake_Oven,5,Wheat,180,560,540,130,6,1,36,41,23,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,42,,36
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+Chocolate Cake,sc/icons.sc,recipe_chocolate_cake,TID_CHOCOLATE_CAKE,Cake_Oven,1,Butter,120,825,795,190,5,1,57,60,36,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,62,,57
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+,,,,,2,Cacao,,,,,,,,,,,,,
+Strawberry Cake,sc/icons.sc,recipe_strawberry_cake,TID_STRAWBERRY_CAKE,Cake_Oven,3,Wheat,180,815,780,190,6,1,54,60,35,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,60,,54
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,2,Strawberry,,,,,,,,,,,,,
+Berry Cake,sc/icons.sc,recipe_berry_cake,TID_BERRY_CAKE,Cake_Oven,1,Raspberry,60,660,635,155,4,1,49,59,23,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,53,,49
+,,,,,2,Cherry,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,Egg,,,,,,,,,,,,,
+Potato Feta Cake,sc/icons.sc,recipe_potato_feta_cake,TID_POTATO_FETA_CAKE,Cake_Oven,1,Potato,120,795,765,185,5,1,59,59,38,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,64,,59
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+,,,,,4,Egg,,,,,,,,,,,,,
+Lemon Cake,sc/icons.sc,recipe_lemon_cake,TID_PRODUCT_LEMON_CAKE,Cake_Oven,2,Lemon Curd,150,2310,2220,535,6,1,167,177,68,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,173,,167
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,3,Wheat,,,,,,,,,,,,,
+Honey Apple Cake,sc/icons.sc,recipe_honeyapple_cake,TID_PRODUCT_HONEY_APPLE_CAKE,Cake_Oven,2,Wheat,200,1240,1195,285,7,1,47,47,42,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,54,,47
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,2,Apple,,,,,,,,,,,,,
+,,,,,2,Honey,,,,,,,,,,,,,
+Fruitcake,sc/icons.sc,recipe_fruitcake,TID_FRUIT_CAKE,Cake_Oven,3,Wheat,180,1160,1115,270,6,1,83,83,89,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,89,,83
+,,,,,2,Orange,,,,,,,,,,,,,
+,,,,,2,Cherry,,,,,,,,,,,,,
+,,,,,2,Grapes,,,,,,,,,,,,,
+Pineapple Cake,sc/icons.sc,recipe_upsidedown_cake,TID_PINEAPPLE_CAKE,Cake_Oven,3,Pineapple,75,675,645,155,4,1,51,51,65,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,55,,51
+,,,,,4,Wheat,,,,,,,,,,,,,
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,2,Cherry,,,,,,,,,,,,,
+Fancy Cake,sc/icons.sc,recipe_fancy_cake,TID_PRODUCT_FANCY_CAKE,Cake_Oven,3,Lily,15,1140,1030,245,2,1,86,91,54,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,80,,86
+,,,,,3,Raspberry,,,,,,,,,,,,,
+,,,,,1,GoldOre,,,,,,,,,,,,,
+,,,,,1,Birthday Cake,,,,,,,,,,,,,
+Chocolate Roll,sc/icons.sc,recipe_chocolate_roll,TID_PRODUCT_CHOCOLATEROLL,Cake_Oven,5,Cacao,90,1560,1500,360,5,1,114,114,95,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,119,,114
+,,,,,3,Wheat,,,,,,,,,,,,,
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,3,Mint,,,,,,,,,,,,,
+Pomegranate Cake,sc/icons.sc,recipe_pomegranate_cake,TID_PRODUCT_POMEGRANATECAKE,Cake_Oven,6,Wheat,160,820,790,190,6,1,53,53,108,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,59,,53
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,2,Cream,,,,,,,,,,,,,
+,,,,,1,Pomegranate,,,,,,,,,,,,,
+Blueberry Cheesecake,sc/icons.sc,recipe_blueberry_cheese_cake,TID_BLUEBERRY_CHEECECAKE,Cake_Oven,1,Cheese Cake,240,1295,1245,300,7,1,87,90,31,TID_CAKE_OVEN_PRODUCT_DESCRIPTION,94,,87
+,,,,,2,Blueberry,,,,,,,,,,,,,

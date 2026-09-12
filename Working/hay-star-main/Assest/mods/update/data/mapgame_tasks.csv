@@ -1,0 +1,249 @@
+Name,TaskType,TID,DescriptionTID,IconTooltipTID,FileName,ExportName,MinRequiredQuantity,MaxRequiredQuantity,MinXPLevelForSpawn,NumItemsTask,TaskParam1,MinTaskDurationMin,MaxTaskDurationMin,CompleteCooldownIntervalSeconds,ExpireCooldownIntervalSeconds,SpawnProbability,MinCoinsReward,MaxCoinsReward,MinPlayers,MaxPlayers,SocialTask,InstantCompleteCooldown,ObstaclePositiveSpawnProbability,ObstaclePositiveReward,ObstacleNegativeReward,QuestNotification,SocialChickenRewardAmount,SocialChickenAnimal,MinRepLevelForSpawn,TaskParam2,TaskParam3,SpawnProbabilityMatchingDerbyTask,PiggyBankMinCoinsReward,PiggyBankMaxCoinsReward
+String,String,String,String,String,String,String,int,int,int,int,String,int,int,int,int,int,int,int,int,int,boolean,int,int,String,String,String,int,String,int,String,String,int,int,int
+MapGameObstacleTruckRandomReward,Obstacle,TID_MAPGAME_RANDOM_REWARD_TITLE,TID_MAPGAME_RANDOM_REWARD_DESCRIPTION,,sc/map_icons.sc,icon_sun,,,18,,,90,120,1,1,800,0,0,,,,8,60,MapGameToolRewardSet1,MapGameCoinRewardSet1,ReceiveTruckHelp,,,,,,,51,51
+,,,,,,,,,,,,,,,,,,,,,,,,,MapGameCoinRewardSet2,,,,,,,,,
+MapGameEmptyNodeChicken,Chicken,TID_MAP_GAME_TASK_CHICKEN_TITLE,TID_MAP_GAME_TASK_CHICKEN_DESCRIPTION,,sc/map_icons.sc,icon_sun,,,18,,,240,300,1,1,100,0,0,1,1,TRUE,100,,,,CollectChicken,1,Chicken,,,,,,
+MapGameDumpTaskWheat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,5,8,1,1,Wheat,182,182,14400,1800,50,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskCorn,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,5,7,2,1,Corn,185,185,14400,1800,50,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskSoybean,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,5,5,1,Soybean,200,200,14400,1800,30,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskSugarcane,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,4,7,1,Sugarcane,210,210,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskCarrot,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,5,9,1,Carrot,190,190,14400,1800,40,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskIndigo,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,13,1,Indigo,300,300,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskPumpkin,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,15,1,Pumpkin,360,360,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskCotton,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,18,1,Cotton,330,330,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskChili,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,25,1,Chili,420,420,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskTomato,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,30,1,Tomato,540,540,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskStrawberry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,34,1,Strawberry,660,660,14400,1800,10,15,15,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskPotato,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,35,1,Potato,400,400,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskPineapple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,52,1,Pineapple,210,210,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskRice,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,56,1,Rice,225,225,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskLettuce,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,58,1,Lettuce,390,390,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskSunflower,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,63,1,Sunflower,270,270,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskOnion,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,68,1,Onion,480,480,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskCucumber,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,70,1,Cucumber,215,215,14400,1800,30,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskBellpepper,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,74,1,Bellpepper,450,450,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskTeaLeaves,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,80,1,TeaLeaves,570,570,14400,1800,10,15,15,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskPeony,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,82,1,Peony,420,420,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskBroccoli,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,83,1,Broccoli,260,260,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskGrapes,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,84,1,Grapes,360,360,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskMint,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,85,1,Mint,360,360,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskEggplant,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,90,1,Eggplant,220,220,14400,1800,20,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskWatermelon,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,92,1,Watermelon,480,480,14400,1800,10,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDeliveryShort,Delivery,TID_MAP_GAME_TASK_DELIVERY_TITLE,TID_MAP_GAME_TASK_DELIVERY_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,18,,,180,240,14400,1800,100,15,20,,,,5,,,,,,,,,,100,15,15
+MapGameDeliveryLong,Delivery,TID_MAP_GAME_TASK_DELIVERY_TITLE,TID_MAP_GAME_TASK_DELIVERY_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,5,18,,,300,360,14400,1800,30,25,35,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskBread,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,5,2,1,Bread,195,205,14400,1800,8,30,45,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCorn Bread,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,7,1,Corn Bread,210,240,14400,1800,8,30,45,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskPancakes,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,9,1,Pancakes,210,210,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCookie,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,10,1,Cookie,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBacon and Eggs,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,11,1,Bacon and Eggs,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCarrot Pie,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,14,1,Carrot Pie,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskButter Popcorn,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,16,1,Butter Popcorn,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCotton Fabrics,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,18,1,Cotton Fabrics,210,240,14400,1800,8,30,45,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBlue Woolly Hat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,19,1,Blue Woolly Hat,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCotton Shirt,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,19,1,Cotton Shirt,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskRaspberry Muffin,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,19,1,Raspberry Muffin,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBerry Cake,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,23,1,Berry Cake,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBlackberry Muffin,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,26,1,Blackberry Muffin,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskPizza,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,33,1,Pizza,195,195,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBaked Potato,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,35,1,Baked Potato,215,215,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskPotato Bread,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,39,1,Potato Bread,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskEspreso,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,42,1,Espreso,185,185,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskFrutti di Mare Pizza,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,45,1,Frutti di Mare Pizza,195,195,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskHot Chocolate,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,47,1,Hot Chocolate,205,205,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskLobster Skewer,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,48,1,Lobster Skewer,220,220,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskSushiRoll,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,56,1,SushiRoll,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskOliveOil,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,60,1,OliveOil,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskBright Bouquet,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,65,1,Bright Bouquet,200,200,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskGreenSmoothie,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,66,1,GreenSmoothie,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskLemon Curd,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,66,1,Lemon Curd,205,205,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskGrilled Onion,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,68,1,Grilled Onion,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskHoney Toast,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,69,1,Honey Toast,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskYogurtSmoothie,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,70,1,YogurtSmoothie,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskHot Dog,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,75,1,Hot Dog,210,210,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskTofu Dog,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,76,1,Tofu Dog,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskTaco,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,77,1,Taco,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskMilk Tea,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,81,1,Milk Tea,225,225,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskQuesadilla,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,82,1,Quesadilla,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskHoney Tea,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,83,1,Honey Tea,220,220,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskMixedSmoothie,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,88,1,MixedSmoothie,210,210,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskOrange Tea,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,89,1,Orange Tea,220,220,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskBananaBread,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,91,1,BananaBread,210,210,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskGoat Cheese Toast,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,92,1,Goat Cheese Toast,230,230,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskBananaPancakes,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,94,1,BananaPancakes,240,240,14400,1800,8,30,30,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskEgg,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,4,1,1,Egg,200,200,14400,1800,70,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskMilk,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,6,1,Milk,240,240,14400,1800,12,15,15,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskBacon,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,10,1,Bacon,420,420,14400,1800,40,15,20,,,,5,,,,,,,,,,100,12,12
+MapGameDumpTaskWool,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,16,1,Wool,540,540,14400,1800,5,20,20,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskGoat Milk,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,32,1,Goat Milk,660,660,14400,1800,5,20,20,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskApple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,15,1,Apple,240,240,14400,1800,35,15,20,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskRaspberry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,19,1,Raspberry,240,240,14400,1800,35,15,20,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCherry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,22,1,Cherry,240,240,14400,1800,35,15,15,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskBlackberry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,26,1,Blackberry,240,240,14400,1800,18,15,15,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCacao,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,36,1,Cacao,240,240,14400,1800,18,15,15,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskCoffee,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,42,1,Coffee,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskOlive,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,59,1,Olive,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskLemon,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,66,1,Lemon,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskOrange,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,71,1,Orange,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskPeach,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,76,1,Peach,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskBanana,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,88,1,Banana,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskPlum,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,94,1,Plum,240,240,14400,1800,6,15,15,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskFish Meat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,27,1,Fish Meat,360,360,14400,1800,50,20,35,,,,5,,,,,,,,,,100,15,15
+MapGameDumpTaskLobster Meat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,44,1,Lobster Meat,360,360,14400,1800,10,35,35,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskDuck Down,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,50,1,Duck Down,360,360,14400,1800,10,35,35,,,,5,,,,,,,,,,100,18,18
+MapGameDumpTaskWheatCarrot,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,3,9,2,Wheat,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,2,2,,,Carrot,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskEggApple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,2,15,2,Egg,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Apple,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskIndigoPumpkin,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,2,15,2,Indigo,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,2,2,,,Pumpkin,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskPotatoBacon,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,2,35,2,Potato,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Bacon,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskMilkCoffee,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,42,2,Milk,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Coffee,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCornRaspberry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,3,19,2,Corn,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Raspberry,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskSugarcaneCherry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,3,22,2,Sugarcane,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Cherry,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskChiliWheat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,25,2,Chili,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,5,5,,,Wheat,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCottonCorn,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,18,2,Cotton,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,5,5,,,Corn,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskPumpkinWheat,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,15,2,Pumpkin,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,5,5,,,Wheat,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCherryApple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,22,2,Cherry,360,360,14400,1800,5,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,2,2,,,Apple,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskSoybeanWool,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,3,16,2,Soybean,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Wool,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskStrawberryBlackberry,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,34,2,Strawberry,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Blackberry,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCoffeePineapple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,52,2,Coffee,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Pineapple,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskOrangeCucumber,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,71,2,Orange,360,360,14400,1800,5,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Cucumber,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskLettuceTomato,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,58,2,Lettuce,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Tomato,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskLemonOrange,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,71,2,Lemon,360,360,14400,1800,5,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Orange,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCacaoMilk,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,36,2,Cacao,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Milk,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCottonWool,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,2,18,2,Cotton,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Wool,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskRiceOnion,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,68,2,Rice,360,360,14400,1800,5,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Onion,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskWheatEggCarrot,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,5,5,9,2,Wheat,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,3,3,,,Egg,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Carrot,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskCherryChiliApple,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,25,2,Cherry,360,360,14400,1800,3,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,2,2,,,Chili,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Apple,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskIndigoCornCotton,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,18,2,Indigo,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,3,3,,,Corn,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2,2,,,Cotton,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskStrawberryMilkLettuce,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,58,2,Strawberry,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,2,2,,,Milk,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Lettuce,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskTomatoCacaoEgg,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,36,2,Tomato,360,360,14400,1800,3,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Cacao,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,3,3,,,Egg,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskLettuceOnionBellpepper,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,74,2,Lettuce,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Onion,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Bellpepper,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskPineappleMintSugarcane,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,85,2,Pineapple,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Mint,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,3,3,,,Sugarcane,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskTeaLeavesCoffeeMilk,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,80,2,TeaLeaves,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Coffee,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Milk,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskPotatoBaconEgg,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,35,2,Potato,360,360,14400,1800,3,20,20,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Bacon,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,3,3,,,Egg,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpTaskPeachWatermelonGrapes,Dump,TID_MAP_GAME_TASK_DUMP_TITLE,TID_MAPGAME_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,92,2,Peach,360,360,14400,1800,3,28,28,,,,5,,,,,,,,,,100,15,15
+,,,,,,,1,1,,,Watermelon,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1,1,,,Grapes,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskWheat,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,8,10,1,1,Wheat,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCorn,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,7,9,2,1,Corn,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskSoybean,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,5,1,Soybean,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskSugarcane,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,7,1,Sugarcane,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCarrot,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,5,7,9,1,Carrot,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskIndigo,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,4,13,1,Indigo,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskPumpkin,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,15,1,Pumpkin,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCotton,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,4,18,1,Cotton,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskChili,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,25,1,Chili,360,360,14400,1800,5,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskBread,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,2,1,Bread,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCorn Bread,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,7,1,Corn Bread,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskPancakes,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,9,1,Pancakes,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCookie,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,10,1,Cookie,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskBacon and Eggs,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,11,1,Bacon and Eggs,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCarrot Pie,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,14,1,Carrot Pie,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskButter Popcorn,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,16,1,Butter Popcorn,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCotton Fabrics,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,18,1,Cotton Fabrics,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskBlue Woolly Hat,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,19,1,Blue Woolly Hat,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskApple,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,4,15,1,Apple,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskRaspberry,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,19,1,Raspberry,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskCotton Shirt,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,19,1,Cotton Shirt,360,360,14400,1800,3,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskRaspberry Muffin,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,19,1,Raspberry Muffin,360,360,14400,1800,3,45,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskBerry Cake,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,23,1,Berry Cake,360,360,14400,1800,3,45,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameDumpSocialTaskWheat2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,8,10,1,1,Wheat,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCorn2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,7,9,2,1,Corn,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskSoybean2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,5,1,Soybean,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskSugarcane2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,7,1,Sugarcane,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCarrot2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,5,7,9,1,Carrot,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskIndigo2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,4,13,1,Indigo,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskPumpkin2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,15,1,Pumpkin,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCotton2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,4,18,1,Cotton,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskChili2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,25,1,Chili,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskBread2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,4,6,2,1,Bread,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCorn Bread2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,7,1,Corn Bread,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskPancakes2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,9,1,Pancakes,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCookie2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,10,1,Cookie,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskBacon and Eggs2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,11,1,Bacon and Eggs,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCarrot Pie2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,14,1,Carrot Pie,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskButter Popcorn2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,16,1,Butter Popcorn,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCotton Fabrics2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,3,18,1,Cotton Fabrics,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskBlue Woolly Hat2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,19,1,Blue Woolly Hat,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskApple2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,3,4,15,1,Apple,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskRaspberry2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,3,19,1,Raspberry,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCotton Shirt2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,2,19,1,Cotton Shirt,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskRaspberry Muffin2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,19,1,Raspberry Muffin,360,360,14400,1800,1,45,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskBerry Cake2,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,1,1,23,1,Berry Cake,360,360,14400,1800,1,45,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskWheat3,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,8,10,1,1,Wheat,360,360,14400,1800,1,30,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MapGameDumpSocialTaskCorn3,Dump,TID_MAP_GAME_TASK_SOCIAL_DUMP_TITLE,TID_MAPGAME_SOCIAL_TASK_NODE_DESCRIPTION,,sc/map_icons.sc,icon_sun,2,2,25,1,Chili,360,360,14400,1800,1,45,45,3,4,TRUE,5,,,,,1,Chicken,,,,,24,24
+MapGameOffloadSanctuaryAnimal,Offload Sanctuary Animal,TID_MAPGAME_TASK_OFFLOAD_SANCTUARY_ANIMAL_TITLE,TID_MAPGAME_SANCTUARY_NODE_OFFLOADING_DESCRIPTION,,sc/map_icons.sc,icon_sun,,,,,,30,30,-1,-1,100,,,,,,5,,,,,,,,,,,,
+MapGameEmptyNodeSanctuaryAnimal,Sanctuary Animal,TID_MAP_GAME_TASK_SANCTUARY_ANIMAL_TITLE,TID_MAP_GAME_TASK_SANCTUARY_ANIMAL_DESCRIPTION,,sc/map_icons.sc,icon_sun,,,18,,,-1,-1,100,100,100,100,150,1,1,TRUE,100,,,,DeliverSanctuaryAnimal,1,Chicken,,,,,,
+MapGameGasStationFREE,Gas Station,TID_MAPGAME_GAS_STATION_NODE_TITLE,TID_MAPGAME_GAS_STATION_NODE_DESCRIPTION_TRAVEL_HERE,,sc/map_icons.sc,icon_sun,3,5,18,1,MapGameFuelUnit,90,120,43200,1800,400,0,0,,,,0,100,,,,,,,,,,,
+MapGameGasStation3,Gas Station,TID_MAPGAME_GAS_STATION_NODE_TITLE,TID_MAPGAME_GAS_STATION_NODE_DESCRIPTION_TRAVEL_HERE,,sc/map_icons.sc,icon_sun,3,3,18,1,MapGameFuelUnit,90,120,43200,1800,150,0,0,,,,3,0,,,,,,,,,,,
+MapGameGasStation6,Gas Station,TID_MAPGAME_GAS_STATION_NODE_TITLE,TID_MAPGAME_GAS_STATION_NODE_DESCRIPTION_TRAVEL_HERE,,sc/map_icons.sc,icon_sun,6,6,18,1,MapGameFuelUnit,90,120,43200,1800,180,0,0,,,,5,0,,,,,,,,,,,
+MapGameGasStation10,Gas Station,TID_MAPGAME_GAS_STATION_NODE_TITLE,TID_MAPGAME_GAS_STATION_NODE_DESCRIPTION_TRAVEL_HERE,,sc/map_icons.sc,icon_sun,10,10,18,1,MapGameFuelUnit,90,120,43200,1800,50,0,0,,,,10,0,,,,,,,,,,,
+MapGameGasStation15,Gas Station,TID_MAPGAME_GAS_STATION_NODE_TITLE,TID_MAPGAME_GAS_STATION_NODE_DESCRIPTION_TRAVEL_HERE,,sc/map_icons.sc,icon_sun,20,20,18,1,MapGameFuelUnit,90,120,43200,1800,20,0,0,,,,15,0,,,,,,,,,,,
+MapGameEmptyNodeSanctuaryAnimal60Seconds,Sanctuary Animal,TID_MAP_GAME_TASK_SANCTUARY_ANIMAL_TITLE,TID_MAP_GAME_TASK_SANCTUARY_ANIMAL_DESCRIPTION,,sc/map_icons.sc,icon_sun,,,18,,,60,60,5,5,0,100,150,1,1,TRUE,100,,,,DeliverSanctuaryAnimal,1,Chicken,,,,,,

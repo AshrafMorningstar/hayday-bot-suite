@@ -1,0 +1,8 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,int
+Fresh Diffuser,sc/icons.sc,recipe_fresh_diffuser,TID_PRODUCT_FRESH_DIFFUSER,Perfumerie,1,Ginger essential oil,20,181,174,42,2,1,66,66,110,TID_PERFUMERIE_PRODUCT_DESCRIPTION,68,66
+,,,,,1,Mint essential oil,,,,,,,,,,,,
+Zesty Perfume,sc/icons.sc,recipe_zesty_perfume,TID_PRODUCT_ZESTY_PERFUME,Perfumerie,1,Lemon essential oil,15,201,194,46,2,1,76,76,113,TID_PERFUMERIE_PRODUCT_DESCRIPTION,78,76
+,,,,,3,Ginger,,,,,,,,,,,,
+Calming Diffuser,sc/icons.sc,recipe_calming_diffuser,TID_PRODUCT_CALMING_DIFFUSER,Perfumerie,1,Chamomile essential oil,25,87,84,20,3,1,30,30,116,TID_PERFUMERIE_PRODUCT_DESCRIPTION,33,30
+,,,,,3,Indigo,,,,,,,,,,,,

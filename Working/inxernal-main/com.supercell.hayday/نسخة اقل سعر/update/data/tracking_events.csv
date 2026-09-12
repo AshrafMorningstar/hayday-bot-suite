@@ -1,0 +1,53 @@
+Label,Type,Product,ProductDetail,Enabled,IsEvent
+String,String,String,String,boolean,boolean
+Economy,Spend GC,*,*,,true
+Level,floater,*,*,,true
+Game,Crops,*,*,,true
+Game,UI,newspaper,shown,,true
+Game,UI,Silo full,shown,,true
+Game,UI,Warehouse full,shown,,true
+Game,UI,premium_purchase,shown,,true
+Game,UI,wheel_of_fortune,shown,,true
+Game,UI,helpers_tab,shown,,true
+Game,UI,leaderboards,shown,,true
+Game,UI,event_bg,shown,,true
+Game,UI,TOS,*,,true
+Game,UI,ButtonPressed,SiloTutorial,,true
+Game,UI,*,*,,true
+Game,Productions,*,*,,true
+Game,LoadTimeStat,*,*,,true
+Game,Pet,*,*,,true
+Game,Crosspromo,*,*,,true
+Social,Visiting players,*,*,,true
+Social,facebook,*,*,,true
+Social,G Connect,*,*,,true
+Social,GC Connect,*,*,,true
+Social,FB Connect,*,*,,true
+Economy,InAppPurchase,*,*,,true
+Economy,Spend PC,*,*,,true
+Economy,openShop,*,*,,true
+Economy,Instant complete,*,*,,true
+economy,purchasing,*,*,,true
+Session,sessionStart,*,*,,true
+Session,sessionEnd,*,*,,true
+Level,Level reached,*,*,,true
+Level,Installed,*,*,,true
+,,,,,
+Debugger,DeviceInformation,,,true,true
+Game,EnterGameMode,*,*,,true
+Game,BoatOrders,*,*,,true
+Game,Boy,*,*,,true
+Game,Mine,*,*,,true
+Game,MysteryBoxes,*,*,,true
+Game,Nature,*,*,,true
+Game,Orders,*,*,,true
+Game,ToolOffer,*,*,,true
+Game,UI,boat_leaderboard,shown,,true
+Game,Fishing,*,*,,true
+Game,FB Request,Friend invite,received,,true
+Game,FB Request,Friend invite,sent,,true
+Game,Neighborhood,get visitor,*,,true
+Game,Neighborhood,donate,*,,true
+Game,Visitor,mission complete,*,,true
+Game,Visitor,send away,*,,true
+AdMonetisation,RewardVideo,*,*,true,true

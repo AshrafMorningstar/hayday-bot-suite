@@ -1,0 +1,3 @@
+Name,FileName,ExportName,TileWidth,TileHeight,TapSound,UpdateIntervalSeconds,SoundDelay,CollectIconOffsetX,CollectIconOffsetY,RewardSet,PopSound,OpenSound
+String,String,String,int,int,String,int,int,int,int,String,String,String
+PopPromoStand,sc/buildings_new.sc,map_object_pop,2,2,MenuBleep,1,3000,10000,5000,PopRewardSet1,BalloonPop,TreasureBox

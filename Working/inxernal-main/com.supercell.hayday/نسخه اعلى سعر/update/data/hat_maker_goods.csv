@@ -1,0 +1,13 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+ClocheHat,sc/icons.sc,recipe_felt_hat,TID_CLOCHE_HAT,Hat_Maker,6,Wool,0,242,233,56,0,1,91,91,70,TID_HAT_MAKER_PRODUCT_DESCRIPTION,96,,91
+,,,,,2,Strawberry,,,,,,,,,,,,,
+TopHat,sc/icons.sc,recipe_top_hat,TID_TOP_HAT,Hat_Maker,3,Cotton Fabrics,0,320,308,74,0,1,102,108,72,TID_HAT_MAKER_PRODUCT_DESCRIPTION,109,,102
+,,,,,1,Duck Down,,,,,,,,,,,,,
+,,,,,1,CoalBar,,,,,,,,,,,,,
+SunHat,sc/icons.sc,recipe_duchess_hat,TID_SUN_HAT,Hat_Maker,3,Wool,0,287,276,66,0,1,83,95,74,TID_HAT_MAKER_PRODUCT_DESCRIPTION,89,,83
+,,,,,2,Duck Down,,,,,,,,,,,,,
+,,,,,1,Indigo,,,,,,,,,,,,,
+,,,,,1,Raspberry,,,,,,,,,,,,,
+FlowerCrown,sc/icons.sc,recipe_flower_crown,TID_PRODUCT_FLOWERCROWN,Hat_Maker,5,Peony,0,172,165,40,0,1,64,64,86,TID_HAT_MAKER_PRODUCT_DESCRIPTION,69,,64
+,,,,,4,Cotton,,,,,,,,,,,,,

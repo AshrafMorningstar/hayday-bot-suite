@@ -1,0 +1,9 @@
+Name,TotalCardCount,BombCount,RewardsToAdvance,AllowBombOnFirst,DiamondContinuePrice
+String,int,int,int,boolean,String
+Round1,3,1,1,FALSE,2;3
+Round2,3,1,1,TRUE,3;5
+Round3,3,1,1,TRUE,5;8
+Round4,3,1,1,FALSE,5;8
+Round5,3,1,1,TRUE,8;12
+Round6,3,1,1,TRUE,10;15
+Round7,3,1,1,FALSE,12;18

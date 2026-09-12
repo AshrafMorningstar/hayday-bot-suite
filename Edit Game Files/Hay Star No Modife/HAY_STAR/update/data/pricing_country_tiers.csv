@@ -1,0 +1,251 @@
+Name,Tier,HumanReadable
+String,int,String
+AF,100,Afghanistan
+AL,100,Albania
+DZ,100,Algeria
+AS,100,American Samoa
+AD,100,Andorra
+AO,100,Angola
+AI,100,Anguilla
+AQ,100,Antarctica
+AG,100,Antigua and Barbuda
+AR,100,Argentina
+AM,100,Armenia
+AW,100,Aruba
+AU,100,Australia
+AT,100,Austria
+AZ,100,Azerbaijan
+BS,100,Bahamas (the)
+BH,100,Bahrain
+BD,100,Bangladesh
+BB,100,Barbados
+BY,100,Belarus
+BE,100,Belgium
+BZ,100,Belize
+BJ,100,Benin
+BM,100,Bermuda
+BT,100,Bhutan
+BO,100,Bolivia (Plurinational State of)
+BQ,100,"Bonaire, Sint Eustatius and Saba"
+BA,100,Bosnia and Herzegovina
+BW,100,Botswana
+BV,100,Bouvet Island
+BR,100,Brazil
+IO,100,British Indian Ocean Territory (the)
+BN,100,Brunei Darussalam
+BG,100,Bulgaria
+BF,100,Burkina Faso
+BI,100,Burundi
+CV,100,Cabo Verde
+KH,100,Cambodia
+CM,100,Cameroon
+CA,100,Canada
+KY,100,Cayman Islands (the)
+CF,100,Central African Republic (the)
+TD,100,Chad
+CL,100,Chile
+CN,100,China
+CX,100,Christmas Island
+CC,100,Cocos (Keeling) Islands (the)
+CO,100,Colombia
+KM,100,Comoros (the)
+CD,100,Congo (the Democratic Republic of the)
+CG,100,Congo (the)
+CK,100,Cook Islands (the)
+CR,100,Costa Rica
+HR,100,Croatia
+CU,100,Cuba
+CW,100,Curaçao
+CY,100,Cyprus
+CZ,100,Czechia
+CI,100,Côte d'Ivoire
+DK,100,Denmark
+DJ,100,Djibouti
+DM,100,Dominica
+DO,100,Dominican Republic (the)
+EC,100,Ecuador
+EG,100,Egypt
+SV,100,El Salvador
+GQ,100,Equatorial Guinea
+ER,100,Eritrea
+EE,100,Estonia
+SZ,100,Eswatini
+ET,100,Ethiopia
+FK,100,Falkland Islands (the) [Malvinas]
+FO,100,Faroe Islands (the)
+FJ,100,Fiji
+FI,100,Finland
+FR,100,France
+GF,100,French Guiana
+PF,100,French Polynesia
+TF,100,French Southern Territories (the)
+GA,100,Gabon
+GM,100,Gambia (the)
+GE,100,Georgia
+DE,100,Germany
+GH,100,Ghana
+GI,100,Gibraltar
+GR,100,Greece
+GL,100,Greenland
+GD,100,Grenada
+GP,100,Guadeloupe
+GU,100,Guam
+GT,100,Guatemala
+GG,100,Guernsey
+GN,100,Guinea
+GW,100,Guinea-Bissau
+GY,100,Guyana
+HT,100,Haiti
+HM,100,Heard Island and McDonald Islands
+VA,100,Holy See (the)
+HN,100,Honduras
+HK,100,Hong Kong
+HU,100,Hungary
+IS,100,Iceland
+IN,100,India
+ID,100,Indonesia
+IR,100,Iran (Islamic Republic of)
+IQ,100,Iraq
+IE,100,Ireland
+IM,100,Isle of Man
+IL,100,Israel
+IT,100,Italy
+JM,100,Jamaica
+JP,100,Japan
+JE,100,Jersey
+JO,100,Jordan
+KZ,100,Kazakhstan
+KE,100,Kenya
+KI,100,Kiribati
+KP,100,Korea (the Democratic People's Republic of)
+KR,100,Korea (the Republic of)
+KW,100,Kuwait
+KG,100,Kyrgyzstan
+LA,100,Lao People's Democratic Republic (the)
+LV,100,Latvia
+LB,100,Lebanon
+LS,100,Lesotho
+LR,100,Liberia
+LY,100,Libya
+LI,100,Liechtenstein
+LT,100,Lithuania
+LU,100,Luxembourg
+MO,100,Macao
+MG,100,Madagascar
+MW,100,Malawi
+MY,100,Malaysia
+MV,100,Maldives
+ML,100,Mali
+MT,100,Malta
+MH,100,Marshall Islands (the)
+MQ,100,Martinique
+MR,100,Mauritania
+MU,100,Mauritius
+YT,100,Mayotte
+MX,100,Mexico
+FM,100,Micronesia (Federated States of)
+MD,100,Moldova (the Republic of)
+MC,100,Monaco
+MN,100,Mongolia
+ME,100,Montenegro
+MS,100,Montserrat
+MA,100,Morocco
+MZ,100,Mozambique
+MM,100,Myanmar
+NA,100,Namibia
+NR,100,Nauru
+NP,100,Nepal
+NL,100,Netherlands (the)
+NC,100,New Caledonia
+NZ,100,New Zealand
+NI,100,Nicaragua
+NE,100,Niger (the)
+NG,100,Nigeria
+NU,100,Niue
+NF,100,Norfolk Island
+MP,100,Northern Mariana Islands (the)
+NO,100,Norway
+OM,100,Oman
+PK,100,Pakistan
+PW,100,Palau
+PS,100,"Palestine, State of"
+PA,100,Panama
+PG,100,Papua New Guinea
+PY,100,Paraguay
+PE,100,Peru
+PH,100,Philippines (the)
+PN,100,Pitcairn
+PL,100,Poland
+PT,100,Portugal
+PR,100,Puerto Rico
+QA,100,Qatar
+MK,100,Republic of North Macedonia
+RO,100,Romania
+RU,100,Russian Federation (the)
+RW,100,Rwanda
+RE,100,Réunion
+BL,100,Saint Barthélemy
+SH,100,"Saint Helena, Ascension and Tristan da Cunha"
+KN,100,Saint Kitts and Nevis
+LC,100,Saint Lucia
+MF,100,Saint Martin (French part)
+PM,100,Saint Pierre and Miquelon
+VC,100,Saint Vincent and the Grenadines
+WS,100,Samoa
+SM,100,San Marino
+ST,100,Sao Tome and Principe
+SA,100,Saudi Arabia
+SN,100,Senegal
+RS,100,Serbia
+SC,100,Seychelles
+SL,100,Sierra Leone
+SG,100,Singapore
+SX,100,Sint Maarten (Dutch part)
+SK,100,Slovakia
+SI,100,Slovenia
+SB,100,Solomon Islands
+SO,100,Somalia
+ZA,100,South Africa
+GS,100,South Georgia and the South Sandwich Islands
+SS,100,South Sudan
+ES,100,Spain
+LK,100,Sri Lanka
+SD,100,Sudan (the)
+SR,100,Suriname
+SJ,100,Svalbard and Jan Mayen
+SE,100,Sweden
+CH,100,Switzerland
+SY,100,Syrian Arab Republic
+TW,100,Taiwan (Province of China)
+TJ,100,Tajikistan
+TZ,100,"Tanzania, United Republic of"
+TH,100,Thailand
+TL,100,Timor-Leste
+TG,100,Togo
+TK,100,Tokelau
+TO,100,Tonga
+TT,100,Trinidad and Tobago
+TN,100,Tunisia
+TR,100,Turkey
+TM,100,Turkmenistan
+TC,100,Turks and Caicos Islands (the)
+TV,100,Tuvalu
+UG,100,Uganda
+UA,100,Ukraine
+AE,100,United Arab Emirates (the)
+GB,100,United Kingdom of Great Britain and Northern Ireland (the)
+UM,100,United States Minor Outlying Islands (the)
+US,100,United States of America (the)
+UY,100,Uruguay
+UZ,100,Uzbekistan
+VU,100,Vanuatu
+VE,100,Venezuela (Bolivarian Republic of)
+VN,100,Viet Nam
+VG,100,Virgin Islands (British)
+VI,100,Virgin Islands (U.S.)
+WF,100,Wallis and Futuna
+EH,100,Western Sahara
+YE,100,Yemen
+ZM,100,Zambia
+ZW,100,Zimbabwe
+AX,100,Åland Islands

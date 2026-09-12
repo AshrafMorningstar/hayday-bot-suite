@@ -1,0 +1,17 @@
+Name,Level,RequiredSunPointsToFillBar
+String,int,int
+Level1,1,20
+Level2,2,50
+Level3,3,100
+Level4,4,200
+Level5,5,550
+Level6,6,1000
+Level7,7,1500
+Level8,8,2100
+Level9,9,2800
+Level10,10,3600
+Level11,11,4500
+Level12,12,6000
+Level13,13,8000
+Level14,14,10000
+Level15,15,15000

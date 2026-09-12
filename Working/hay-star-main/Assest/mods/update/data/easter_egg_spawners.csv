@@ -1,0 +1,8 @@
+Name,UnlockLevel,SpawnTimeMinSeconds,SpawnTimeMaxSeconds,SpawnUpdateIntervalSeconds,SpawnLocationFishingWaterX,SpawnLocationFishingWaterY
+String,int,int,int,int,int,int
+EasterEggSpawner,9,79200,79200,3,3,12
+,,,,,10,14
+,,,,,18,7
+,,,,,0,15
+,,,,,5,5
+,,,,,9,16

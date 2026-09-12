@@ -1,0 +1,21 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Mint Fudge,sc/icons.sc,recipe_fudge_mint,TID_MINT_FUDGE,Fudge_Shop,2,Butter,150,1350,1300,310,6,1,95,100,102,TID_FUDGE_SHOP_PRODUCT_DESCRIPTION,101,,95
+,,,,,2,Cacao,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,3,Mint,,,,,,,,,,,,,
+Chili Fudge,sc/icons.sc,recipe_fudge_chili,TID_CHILI_FUDGE,Fudge_Shop,2,Butter,170,1390,1335,320,6,1,98,103,104,TID_FUDGE_SHOP_PRODUCT_DESCRIPTION,104,,98
+,,,,,2,Cacao,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,3,Chili,,,,,,,,,,,,,
+Lemon Fudge,sc/icons.sc,recipe_fudge_lemon,TID_LEMON_FUDGE,Fudge_Shop,2,Butter,110,1520,1460,350,5,1,107,117,108,TID_FUDGE_SHOP_PRODUCT_DESCRIPTION,112,,107
+,,,,,2,White Sugar,,,,,,,,,,,,,
+,,,,,3,Milk,,,,,,,,,,,,,
+,,,,,2,Lemon,,,,,,,,,,,,,
+Peanut Fudge,sc/icons.sc,recipe_fudge_peanut,TID_PEANUT_FUDGE,Fudge_Shop,2,Butter,90,2945,2830,680,5,1,88,93,111,TID_FUDGE_SHOP_PRODUCT_DESCRIPTION,93,,88
+,,,,,2,Cacao,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,2,PeanutBag,,,,,,,,,,,,,
+Rich Fudge,sc/icons.sc,recipe_fudge_rich,TID_RICH_FUDGE,Fudge_Shop,3,Butter,120,1665,1600,385,5,1,116,126,99,TID_FUDGE_SHOP_PRODUCT_DESCRIPTION,121,,116
+,,,,,3,Cacao,,,,,,,,,,,,,
+,,,,,2,White Sugar,,,,,,,,,,,,,

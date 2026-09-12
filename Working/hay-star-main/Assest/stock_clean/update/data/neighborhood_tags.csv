@@ -1,0 +1,15 @@
+Name,TID,Excludes,TagOrder
+String,String,String,int
+Chatty,TID_NHTAG_CHATTY,Quiet,10
+Quiet,TID_NHTAG_QUIET,Chatty,11
+International,TID_NHTAG_INTERNATIONAL,,20
+Fun,TID_NHTAG_FUN,,30
+Active,TID_NHTAG_ACTIVE,,40
+DerbyFocused,TID_NHTAG_DERBYFOCUSED,DerbyCasual,50
+DerbyCasual,TID_NHTAG_DERBYCASUAL,DerbyFocused,51
+,,Derby320Only,
+Derby320Only,TID_NHTAG_DERBY320,DerbyCasual,52
+LovesTheTown,TID_NHTAG_LOVESTOWN,,60
+Helpers,TID_NHTAG_HELPERS,,70
+Traders,TID_NHTAG_TRADERS,,80
+Competitive,TID_NHTAG_COMPETITIVE,,90

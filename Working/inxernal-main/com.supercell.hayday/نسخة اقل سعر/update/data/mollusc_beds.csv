@@ -1,0 +1,5 @@
+Name,FileName,ExportName,LockedExportName,TID,UnlockAllLocations,LocationMollusc,LocationXOffset,LocationYOffset,CollectionTool,CollectionToolAmount,LimitedCollectionTool,LimitedCollectionToolAmount
+String,String,String,String,String,Boolean,String,int,int,String,int,String,int
+Bed1,sc/fishing_background.sc,mussel_bed_01,mussel_bed_01_locked,TID_MOLLUSC_BED_1,true,Mussel,1,0,Land Deed,3,Expansion Key,-1
+,,,,,,Mussel,2,1,Mallet,3,,
+,,,,,,Mussel,0,1,Marker Stake,3,,

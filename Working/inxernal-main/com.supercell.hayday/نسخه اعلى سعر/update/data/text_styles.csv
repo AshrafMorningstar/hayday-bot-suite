@@ -1,0 +1,8 @@
+Name,TextColor,OutlineColor,ShadowColor
+String,String,String,String
+Default,E36101,F9E106,6F3801
+Standard_Event_yellow,F9E106,E36101,6F3801
+Event_Blue_Outline,F9E106,1883C8,0B4B76
+Event_Green_Outline,F9E106,669933,365b10
+Event_Purple_Outline,F9E106,9b4abd,721773
+Event_Red_Outline,F9E106,ce3568,893333

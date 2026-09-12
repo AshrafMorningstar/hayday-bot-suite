@@ -1,0 +1,55 @@
+# Git ignore rules for Hay Day Automation & Bot Suite
+
+# Build outputs & compiled binaries
+**/target/
+**/build/
+**/*.so
+**/*.dll
+**/*.exe
+**/*.o
+**/*.obj
+**/*.pyc
+**/*.pyd
+**/__pycache__/
+
+# Large binary files (>50MB)
+**/frida_server_x86_64
+**/*.apk
+**/*.sctx
+**/*.sc
+**/*.bin
+**/*.rar
+**/*.7z
+**/*.zip
+
+# Large backup dumps, asset packs, and duplicate trees
+Backup Projects/
+Hell Hole/
+Not Working/
+Nxrth OG FIles (Dont Touch it)/
+waste/
+Working FIne/
+**/_backup*/
+**/Old test the program test/
+**/install_time_asset_pack/
+**/stage_cache/
+
+# Logs & temp files
+*.log
+**/*.log
+*.tmp
+logs/
+**/logs/
+**/test_logs/
+**/error_logs/
+node_modules/
+.vs/
+.idea/
+.vscode/
+# Temporary trash and screen video captures
+**/.trashed*
+**/screenshot of ui/
+**/Assest/screenshot_*
+**/Assest/*.mp4
+**/screenshot_VID_*
+**/.user_uploaded/

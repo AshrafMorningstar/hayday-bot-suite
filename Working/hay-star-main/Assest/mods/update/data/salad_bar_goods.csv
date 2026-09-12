@@ -1,0 +1,51 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+GreekSalad,sc/icons.sc,recipe_greek_salad,TID_PRODUCT_GREEK_SALAD,Salad_Bar,3,Lettuce,90,384,369,89,5,1,143,143,58,TID_SALADBAR_PRODUCT_DESCRIPTION,148,,143
+,,,,,2,Goat Cheese,,,,,,,,,,,,,
+,,,,,1,Roasted Tomatoes,,,,,,,,,,,,,
+,,,,,2,Olive,,,,,,,,,,,,,
+BaconSalad,sc/icons.sc,recipe_bacon_salad,TID_PRODUCT_BACON_SALAD,Salad_Bar,3,Lettuce,105,373,359,86,5,1,139,139,62,TID_SALADBAR_PRODUCT_DESCRIPTION,144,,139
+,,,,,2,Bacon,,,,,,,,,,,,,
+,,,,,1,Roasted Tomatoes,,,,,,,,,,,,,
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+SeafoodSalad,sc/icons.sc,recipe_seafood_salad,TID_PRODUCT_LOBSTER_SALAD,Salad_Bar,3,Lettuce,120,394,379,91,5,1,130,138,64,TID_SALADBAR_PRODUCT_DESCRIPTION,135,,130
+,,,,,1,Lobster Meat,,,,,,,,,,,,,
+,,,,,1,Fish Meat,,,,,,,,,,,,,
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+Pasta Salad,sc/icons.sc,recipe_pasta_salad,TID_PRODUCT_PASTA_SALAD,Salad_Bar,4,Raw Pasta,150,392,377,90,6,1,144,144,67,TID_SALADBAR_PRODUCT_DESCRIPTION,150,,144
+,,,,,1,OliveOil,,,,,,,,,,,,,
+,,,,,2,Lemon,,,,,,,,,,,,,
+,,,,,2,Tomato,,,,,,,,,,,,,
+Fruit Salad,sc/icons.sc,recipe_fruit_salad,TID_PRODUCT_FRUITSALAD,Salad_Bar,1,Orange,120,309,297,71,5,1,93,93,82,TID_SALADBAR_PRODUCT_DESCRIPTION,98,,93
+,,,,,3,Strawberry,,,,,,,,,,,,,
+,,,,,2,Blackberry,,,,,,,,,,,,,
+,,,,,1,Honey,,,,,,,,,,,,,
+Summer Salad,sc/icons.sc,recipe_summer_salad,TID_PRODUCT_SUMMERSALAD,Salad_Bar,1,Peach,180,285,274,66,6,1,102,102,84,TID_SALADBAR_PRODUCT_DESCRIPTION,108,,102
+,,,,,3,Tomato,,,,,,,,,,,,,
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+,,,,,3,Onion,,,,,,,,,,,,,
+Summer Rolls,sc/icons.sc,recipe_summer_rolls,TID_PRODUCT_SUMMERROLLS,Salad_Bar,2,Rice Noodles,60,164,157,38,4,1,56,56,78,TID_SALADBAR_PRODUCT_DESCRIPTION,60,,56
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,1,Lettuce,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+VeggieDip,sc/icons.sc,recipe_crudites,TID_PRODUCT_VEGGIEDIPS,Salad_Bar,2,Bellpepper,120,137,132,32,5,1,47,47,74,TID_SALADBAR_PRODUCT_DESCRIPTION,52,,47
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,2,Tomato,,,,,,,,,,,,,
+,,,,,1,Cream,,,,,,,,,,,,,
+MushroomSalad,sc/icons.sc,recipe_mushroom_salad,TID_MUSHROOM_SALAD,Salad_Bar,3,Mushroom,60,111,106,26,4,1,41,41,89,TID_SALADBAR_PRODUCT_DESCRIPTION,45,,41
+,,,,,1,Lettuce,,,,,,,,,,,,,
+,,,,,1,Bacon,,,,,,,,,,,,,
+,,,,,2,Potato,,,,,,,,,,,,,
+Beetroot salad,sc/icons.sc,recipe_beetroot_salad,TID_PRODUCT_BEETROOT_SALAD,Salad_Bar,3,Beetroot,45,120,116,28,3,1,43,43,76,TID_SALADBAR_PRODUCT_DESCRIPTION,46,,43
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+Coleslaw,sc/icons.sc,recipe_coleslaw,TID_PRODUCT_COLESLAW,Salad_Bar,3,Cabbage,75,241,232,56,4,1,89,89,75,TID_SALADBAR_PRODUCT_DESCRIPTION,93,,89
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+,,,,,2,Carrot,,,,,,,,,,,,,
+Orange Salad,sc/icons.sc,recipe_pomegranate_salad,TID_ORANGE_SALAD,Salad_Bar,2,Orange,45,287,276,66,3,1,99,99,117,TID_SALADBAR_PRODUCT_DESCRIPTION,102,,99
+,,,,,1,Pomegranate,,,,,,,,,,,,,
+,,,,,3,Lettuce,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Bean Salad,sc/icons.sc,recipe_bean_salad,TID_BEAN_SALAD,Salad_Bar,3,BlackBean,60,88,84,20,4,1,33,33,58,TID_SALADBAR_PRODUCT_DESCRIPTION,37,,33
+,,,,,1,Tomato,,,,,,,,,,,,,
+,,,,,2,Lettuce,,,,,,,,,,,,,
+,,,,,1,Corn,,,,,,,,,,,,,

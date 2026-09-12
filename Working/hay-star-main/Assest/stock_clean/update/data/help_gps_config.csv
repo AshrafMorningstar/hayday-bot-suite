@@ -1,0 +1,17 @@
+Name,IntValue,StringValue,BooleanValue
+String,int,String,boolean
+BoatEnabled,,,TRUE
+TruckEnabled,,,TRUE
+TreeEnabled,,,TRUE
+BushEnabled,,,TRUE
+TownEnabled,,,TRUE
+BoatIconFileName,,sc/icons.sc,
+BoatIconExportName,,icon_riverboat,
+TruckIconFileName,,sc/icons.sc,
+TruckIconExportName,,nh_derby_task_car_order,
+SafeAreaInsetLeftPercentage,15,,
+SafeAreaInsetRightPercentage,15,,
+SafeAreaInsetTopPercentage,20,,
+SafeAreaInsetBottomPercentage,20,,
+MobileScale,70,,
+ShowNumbers,,,FALSE

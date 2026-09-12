@@ -1,0 +1,5 @@
+Name,FileName,ExportName,TileWidth,TileHeight,TapSound,EffectFileName,EffectExportName,UpdateIntervalSeconds,BabyAnimal,CollectIconOffsetX,CollectIconOffsetY
+String,String,String,int,int,String,String,String,int,String,int,int
+FarmPassBuilding,sc/buildings_new.sc,chick_house_mapobject,3,3,MenuBleep,sc/effects.sc,repairsmoke_03,1,BabyChicken,3100,-8100
+,,chick_house_mapobject_fp,,,,,,,,,
+,,chick_house_mapobject_closed,,,,,,,,,

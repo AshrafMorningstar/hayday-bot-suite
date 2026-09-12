@@ -1,0 +1,3 @@
+Name,FileName,ExportName,TileWidth,TileHeight
+String,String,String,int,int
+FarmBridge,sc/buildings_new.sc,boat_leaderboard,1,1

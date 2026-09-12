@@ -1,0 +1,27 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Rustic Bouquet,sc/icons.sc,recipe_rustic_bouquet,TID_PRODUCT_RUSTICBOUQUET,Flowershop,3,Indigo,45,545,520,125,3,1,41,41,49,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,44,,41
+,,,,,5,Wheat,,,,,,,,,,,,,
+,,,,,3,Cotton,,,,,,,,,,,,,
+Bright Bouquet,sc/icons.sc,recipe_bright_bouquet,TID_PRODUCT_BRIGHTBOUQUET,Flowershop,5,Sunflower,20,875,845,200,2,1,68,68,65,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,70,,68
+,,,,,3,Indigo,,,,,,,,,,,,,
+,,,,,1,Cotton,,,,,,,,,,,,,
+,,,,,5,IronOre,,,,,,,,,,,,,
+Soft Bouquet,sc/icons.sc,recipe_soft_bouquet,TID_PRODUCT_SOFTBOUQUET,Flowershop,4,Peony,30,775,745,180,3,1,58,58,93,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,61,,58
+,,,,,1,Cotton,,,,,,,,,,,,,
+,,,,,1,Cotton Fabrics,,,,,,,,,,,,,
+Candy bouquet,sc/icons.sc,recipe_candy_bouquet,TID_PRODUCT_CANDYBOUQUET,Flowershop,3,Peony,20,1435,1380,330,2,1,99,124,90,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,101,,99
+,,,,,1,Caramel Apple,,,,,,,,,,,,,
+,,,,,1,Toffee,,,,,,,,,,,,,
+Gracious bouquet,sc/icons.sc,recipe_gracious_bouquet,TID_PRODUCT_GRACIOUSBOUQUET,Flowershop,1,Cotton Fabrics,40,3760,625,300,3,1,70,0,73,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,73,,70
+,,,,,5,Lily,,,,,,,,,,,,,
+,,,,,1,GoldOre,,,,,,,,,,,,,
+,,,,,1,Diamonds,,,,,,,,,,,,,
+Veggie Bouquet,sc/icons.sc,recipe_veggie_bouquet,TID_PRODUCT_VEGGIEBOUQUET,Flowershop,3,Broccoli,15,905,870,210,2,1,65,65,106,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,67,,65
+,,,,,3,Mushroom,,,,,,,,,,,,,
+,,,,,3,Tomato,,,,,,,,,,,,,
+,,,,,1,Cotton Fabrics,,,,,,,,,,,,,
+Birthday Bouquet,sc/icons.sc,recipe_birthday_bouquet,TID_PRODUCT_BIRTHDAYBOUQUET,Flowershop,3,Peony,20,905,870,210,2,1,65,65,92,TID_FLOWERSHOP_PRODUCT_DESCRIPTION,67,,65
+,,,,,1,Lily,,,,,,,,,,,,,
+,,,,,1,Indigo,,,,,,,,,,,,,
+,,,,,1,Cherry Juice,,,,,,,,,,,,,

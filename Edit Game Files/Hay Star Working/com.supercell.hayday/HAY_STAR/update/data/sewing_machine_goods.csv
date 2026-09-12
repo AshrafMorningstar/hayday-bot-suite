@@ -1,0 +1,16 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Cotton Shirt,sc/icons.sc,recipe_cotton_shirt,TID_PRODUCT_COTTON_SHIRT,Sewing_Machine,2,Cotton Fabrics,45,620,595,145,3,1,45,45,19,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,48,,45
+Wooly Pants,sc/icons.sc,recipe_wooly_pants,TID_PRODUCT_WOOLY_PANTS,Sewing_Machine,1,Cotton Fabrics,90,795,765,185,5,1,59,59,21,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,64,,59
+,,,,,3,Wool,,,,,,,,,,,,,
+Violet Dress,sc/icons.sc,recipe_violet_dress,TID_PRODUCT_COTTON_VIOLET_DRESS,Sewing_Machine,2,Cotton Fabrics,135,840,810,195,5,1,61,61,25,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,66,,61
+,,,,,1,Indigo,,,,,,,,,,,,,
+,,,,,1,Raspberry,,,,,,,,,,,,,
+Pillow,sc/icons.sc,recipe_pillow,TID_PRODUCT_PILLOW,Sewing_Machine,2,Cotton Fabrics,180,1750,1680,405,6,1,93,111,51,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,99,,93
+,,,,,3,Duck Down,,,,,,,,,,,,,
+Blanket,sc/icons.sc,recipe_blanket,TID_PRODUCT_BLANKET,Sewing_Machine,3,Cotton Fabrics,210,2830,2725,655,7,1,151,181,59,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,158,,151
+,,,,,5,Duck Down,,,,,,,,,,,,,
+,,,,,1,Pumpkin,,,,,,,,,,,,,
+Soothing Pad,sc/icons.sc,recipe_soothing_pad,TID_PRODUCT_SOOTHING_PAD,Sewing_Machine,2,Cotton Fabrics,60,830,800,190,4,1,61,61,45,TID_SEWING_MACHINE_PRODUCT_DESCRIPTION,65,,61
+,,,,,5,Wheat,,,,,,,,,,,,,
+,,,,,5,Chamomile,,,,,,,,,,,,,

@@ -1,0 +1,42 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Vanilla Ice Cream,sc/icons.sc,recipe_vanilla_ice_cream,TID_VANILLA_ICE_CREAM,Ice_Cream_Maker,1,Cream,120,89,85,20,5,1,28,33,29,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,33,,28
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+Cherry Popsicle,sc/icons.sc,recipe_cherry_popsicle,TID_CHERRY_POPSICLE,Ice_Cream_Maker,1,Cherry Juice,180,181,174,42,6,1,55,65,33,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,69,,55
+,,,,,1,Syrup,,,,,,,,,,,,,
+Strawberry Ice Cream,sc/icons.sc,recipe_strawberry_ice_cream,TID_STRAWBERRY_ICE_CREAM,Ice_Cream_Maker,1,Cream,240,171,165,40,7,1,60,65,34,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,67,,60
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,3,Strawberry,,,,,,,,,,,,,
+Chocolate Ice Cream,sc/icons.sc,recipe_chocolate_ice_cream,TID_CHOCOLATE_ICE_CREAM,Ice_Cream_Maker,1,Cream,150,176,170,41,6,1,61,66,39,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,67,,61
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+,,,,,2,Cacao,,,,,,,,,,,,,
+Orange Sorbet,sc/icons.sc,recipe_orange_sorbet,TID_PRODUCT_ORANGESORBET,Ice_Cream_Maker,2,Orange,210,207,199,48,7,1,51,51,78,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,58,,51
+,,,,,1,Honey,,,,,,,,,,,,,
+Peach Ice Cream,sc/icons.sc,recipe_peach_ice_cream,TID_PRODUCT_PEACHICECREAM,Ice_Cream_Maker,2,Peach,180,233,224,54,6,1,56,56,83,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,62,,56
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Honey,,,,,,,,,,,,,
+BananaSplit,sc/icons.sc,recipe_banana_split,TID_BANANA_SPLIT,Ice_Cream_Maker,1,Banana,210,208,200,48,7,1,71,71,96,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,78,,71
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,3,Cherry,,,,,,,,,,,,,
+MintIcecream,sc/icons.sc,recipe_mintchoc_icecream,TID_PRODUCT_MINTICECREAM,Ice_Cream_Maker,1,Cacao,135,148,143,34,5,1,50,55,85,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,55,,50
+,,,,,2,Mint,,,,,,,,,,,,,
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,
+SesameIceCream,sc/icons.sc,recipe_sesameseed_icecream,TID_SESAME_ICE_CREAM,Ice_Cream_Maker,3,Sesame,120,91,88,21,5,1,30,33,50,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,35,,30
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Brown_Sugar,,,,,,,,,,,,,
+Peanut Butter Milkshake,sc/icons.sc,recipe_peanutbutter_milkshake,TID_PRODUCT_PBMILKSHAKE,Ice_Cream_Maker,1,PeanutBag,100,374,360,86,5,1,73,73,68,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,78,,73
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,3,Cacao,,,,,,,,,,,,,
+Affogato,sc/icons.sc,recipe_affagato,TID_PRODUCT_AFFOGATO,Ice_Cream_Maker,1,Vanilla Ice Cream,20,225,217,52,2,1,76,86,78,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,78,,76
+,,,,,1,Espreso,,,,,,,,,,,,,
+Coconut Ice Cream,sc/icons.sc,recipe_coconut_icecream,TID_PRODUCT_COCONUT_ICECREAM,Ice_Cream_Maker,2,Coconut,15,165,159,38,2,1,57,67,102,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,59,,57
+,,,,,1,Syrup,,,,,,,,,,,,,
+Fruit Sorbet,sc/icons.sc,recipe_fruit_sorbet,TID_PRODUCT_FRUITSORBET,Ice_Cream_Maker,1,Guava,60,268,257,62,4,1,90,105,106,TID_ICE_CREAM_MAKER_PRODUCT_DESCRIPTION,94,,90
+,,,,,2,Mango,,,,,,,,,,,,,
+,,,,,1,PassionFruit,,,,,,,,,,,,,
+,,,,,3,White Sugar,,,,,,,,,,,,,

@@ -1,0 +1,47 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Lobster Soup,sc/icons.sc,recipe_lobster_soup,TID_LOBSTER_SOUP,Soup_Kitchen,2,Lobster Meat,0,315,303,73,0,1,78,94,46,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,84,,78
+,,,,,1,Cream,,,,,,,,,,,,,
+,,,,,1,Tomato,,,,,,,,,,,,,
+,,,,,2,Chili,,,,,,,,,,,,,
+Tomato Soup,sc/icons.sc,recipe_tomato_soup,TID_TOMATO_SOUP,Soup_Kitchen,2,Tomato,0,247,237,57,0,1,88,88,47,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,93,,88
+,,,,,1,Tomato Juice,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+Fish Soup,sc/icons.sc,recipe_fish_soup,TID_FISH_SOUP,Soup_Kitchen,3,Potato,0,154,148,35,0,1,57,57,53,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,63,,57
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,2,Fish Meat,,,,,,,,,,,,,
+,,,,,1,Carrot,,,,,,,,,,,,,
+Pumpkin Soup,sc/icons.sc,recipe_pumpkin_soup,TID_PRODUCT_PUMPKIN_SOUP,Soup_Kitchen,3,Pumpkin,0,202,194,47,0,1,50,50,49,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,55,,50
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,1,Butter,,,,,,,,,,,,,
+,,,,,1,Honey,,,,,,,,,,,,,
+Noodle Soup,sc/icons.sc,recipe_noodle_soup,TID_PRODUCT_NOODLE_SOUP,Soup_Kitchen,3,Rice Noodles,0,223,215,52,0,1,75,75,73,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,82,,75
+,,,,,2,Carrot,,,,,,,,,,,,,
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,2,Egg,,,,,,,,,,,,,
+Onion Soup,sc/icons.sc,recipe_onion_soup,TID_PRODUCT_ONIONSOUP,Soup_Kitchen,3,Onion,0,170,163,39,0,1,60,60,72,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,66,,60
+,,,,,1,Cheese,,,,,,,,,,,,,
+,,,,,2,Bread,,,,,,,,,,,,,
+PotatoSoup,sc/icons.sc,recipe_potato_soup,TID_POTATO_SOUP,Soup_Kitchen,3,Potato,0,132,127,31,0,1,49,49,78,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,55,,49
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,2,Onion,,,,,,,,,,,,,
+PepperSoup,sc/icons.sc,recipe_pepper_soup,TID_PRODUCT_PEPPERSOUP,Soup_Kitchen,2,Bellpepper,0,227,218,52,0,1,83,83,81,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,87,,83
+,,,,,1,Chili,,,,,,,,,,,,,
+,,,,,1,Bread,,,,,,,,,,,,,
+,,,,,1,OliveOil,,,,,,,,,,,,,
+Broccoli Soup,sc/icons.sc,recipe_broccoli_soup,TID_PRODUCT_BROCCOLISOUP,Soup_Kitchen,3,Broccoli,0,123,119,28,0,1,45,45,87,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,49,,45
+,,,,,3,Potato,,,,,,,,,,,,,
+,,,,,1,Onion,,,,,,,,,,,,,
+MushroomSoup,sc/icons.sc,recipe_mushroom_soup,TID_MUSHROOM_SOUP,Soup_Kitchen,3,Mushroom,0,92,88,21,0,1,32,32,104,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,36,,32
+,,,,,2,Onion,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,
+Cabbage Soup,sc/icons.sc,recipe_cabbage_soup,TID_PRODUCT_CABBAGESOUP,Soup_Kitchen,3,Cabbage,0,138,133,32,0,1,52,52,65,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,57,,52
+,,,,,2,Potato,,,,,,,,,,,,,
+,,,,,2,Bacon,,,,,,,,,,,,,
+,,,,,2,Carrot,,,,,,,,,,,,,
+Asparagus Soup,sc/icons.sc,recipe_asparagus_soup,TID_ASPARAGUS_SOUP,Soup_Kitchen,3,Asparagus,0,132,127,30,0,1,44,44,51,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,48,,44
+,,,,,2,Cream,,,,,,,,,,,,,
+Lamb Soup,sc/icons.sc,recipe_lamb_soup,TID_LAMB_SOUP,Soup_Kitchen,1,Grilled Lamb Skewer,0,93,89,21,0,1,32,32,46,TID_SOUP_KITCHEN_PRODUCT_DESCRIPTION,37,,28
+,,,,,1,Potato,,,,,,,,,,,,,
+,,,,,2,Carrot,,,,,,,,,,,,,

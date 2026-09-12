@@ -1,0 +1,14 @@
+Name,TID,FileName,ExportName,PopupExportName,WalkSpeed,IdleTime,Greeting,Re-engagementGreeting,UnlockLevel,TapSound,TileWidth,TileHeight,MondayChance,TuesdayChance,WednesdayChance,ThursdayChance,FridayChance,SaturdayChance,SundayChance,FriendshipTrackName,QuestIconFileName,QuestIconExportName
+String,String,String,String,String,int,int,String,String,int,string,int,int,int,int,int,int,int,int,int,String,String,String
+Mike,TID_PEOPLE_NAME_MIKE,sc/humans.sc,farmer01,popup_mike,16,390,TID_PEOPLE_ORDER_GREETING1,TID_PEOPLE_ORDER_REENGAGEMENT1,1,FarmMaleAttention,1,1,100,1,1,1,1,1,1,mike_track,sc/icons.sc,icon_visitor_mike
+,,,,,,,TID_PEOPLE_ORDER_GREETING2,TID_PEOPLE_ORDER_REENGAGEMENT2,,FarmMaleAttention
+Joan,TID_PEOPLE_NAME_JOAN,sc/humans.sc,female01,popup_joan,16,450,TID_PEOPLE_ORDER_GREETING3,TID_PEOPLE_ORDER_REENGAGEMENT3,1,FarmFemaleAttention,1,1,1,100,1,1,1,1,1,joan_track,sc/icons.sc,icon_visitor_joan
+,,,,,,,TID_PEOPLE_ORDER_GREETING4,TID_PEOPLE_ORDER_REENGAGEMENT4,,FarmFemaleAttention
+Greg,TID_GREG,sc/humans.sc,lumberjack01,popup_greg,16,460,TID_PEOPLE_ORDER_GREETING5,TID_PEOPLE_ORDER_REENGAGEMENT5,1,FarmMaleAttention,1,1,1,1,100,1,1,1,1,greg_track,sc/icons.sc,icon_visitor_greg
+,,,,,,,TID_PEOPLE_ORDER_GREETING6,TID_PEOPLE_ORDER_REENGAGEMENT6,,FarmMaleAttention
+Betty,TID_PEOPLE_NAME_BETTY,sc/humans.sc,female02,popup_betty,16,460,TID_PEOPLE_ORDER_GREETING7,TID_PEOPLE_ORDER_REENGAGEMENT7,1,FarmFemaleAttention,1,1,1,1,1,100,1,1,1,betty_track,sc/icons.sc,icon_visitor_betty
+,,,,,,,TID_PEOPLE_ORDER_GREETING8,TID_PEOPLE_ORDER_REENGAGEMENT8,,FarmFemaleAttention
+Girl,TID_PEOPLE_NAME_GIRL_TILLY,sc/humans.sc,female03,popup_girl,18,480,TID_PEOPLE_ORDER_GREETING9,TID_PEOPLE_ORDER_REENGAGEMENT9,1,FarmFemaleAttention,1,1,1,1,1,1,100,1,1,girl_track,sc/icons.sc,icon_visitor_tilly
+,,,,,,,TID_PEOPLE_ORDER_GREETING10,TID_PEOPLE_ORDER_REENGAGEMENT10,,FarmFemaleAttention
+Mavis,TID_PEOPLE_NAME_MAVIS,sc/humans.sc,female03,popup_mavis,,,TID_PEOPLE_ORDER_GREETING9,TID_PEOPLE_ORDER_REENGAGEMENT9,9999999,FarmFemaleAttention,1,1,1,1,1,1,1,100,1,mavis_track,,
+,,,,,,,TID_PEOPLE_ORDER_GREETING10,TID_PEOPLE_ORDER_REENGAGEMENT10,,FarmFemaleAttention

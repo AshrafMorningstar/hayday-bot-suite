@@ -1,0 +1,683 @@
+Name,MinLevel,Good,MinAmount,MaxAmount,Probability,DiamondMax,DiamondMin
+String,int,String,int,int,int,int,int
+Level1_20,1,Wheat,1,,100,4,
+,,Corn,1,,100,4,
+,,Soybean,1,,100,4,
+,,Sugarcane,1,,100,4,
+,,Carrot,1,,100,4,
+,,Indigo,1,,100,4,
+,,Pumpkin,1,,100,4,
+,,Chili,1,,100,4,
+,,Tomato,1,,100,4,
+,,Strawberry,1,,100,4,
+,,Potato,1,,100,4,
+,,Lettuce,1,,100,4,
+,,Rice,1,,100,4,
+,,Strawberry,3,,29,9,4
+,,Potato,3,,29,9,4
+,,Lettuce,3,,29,9,4
+,,Rice,3,,29,9,4
+,,Chicken Food,5,,60,4,
+,,Cow Food,5,,60,4,
+,,Pig Food,5,,60,4,
+,,Sheep Food,5,,60,4,
+,,Goat Food,3,,60,4,
+,,Dynamite,1,,70,4,
+,,Saw,1,,70,4,
+,,Axe,1,,70,4,
+,,Demolition Charge,1,,70,4,
+,,Shovel,1,,70,4,
+,,Pickaxe,1,,70,4,
+,,Dynamite,2,,10,9,4
+,,Saw,2,,10,9,4
+,,Axe,2,,10,9,4
+,,Demolition Charge,2,,10,9,4
+,,Shovel,2,,10,9,4
+,,Pickaxe,2,,10,9,4
+,,Dynamite,3,,14,24,9
+,,Saw,3,,14,24,9
+,,Axe,3,,14,24,9
+,,Demolition Charge,3,,14,24,9
+,,Shovel,3,,14,24,9
+,,Pickaxe,3,,14,24,9
+,,Dynamite,5,,20,,24
+,,Saw,5,,20,,24
+,,Axe,5,,20,,24
+,,Demolition Charge,5,,20,,24
+,,Shovel,5,,20,,24
+,,Pickaxe,5,,20,,24
+,,Apple,1,,80,4,
+,,Cherry,1,,80,4,
+,,Raspberry,1,,80,4,
+,,Blackberry,1,,80,4,
+,,Cacao,1,,80,4,
+,,Coffee,1,,80,4,
+,,Olive,1,,80,4,
+,,Lemon,1,,80,4,
+,,Cacao,3,,21,14,4
+,,Coffee,3,,21,14,4
+,,Olive,3,,21,14,4
+,,Lemon,3,,21,14,4
+,,Olive,9,,45,24,14
+,,Lemon,9,,45,24,14
+,,Cream,1,,10,4,
+,,Butter,1,,10,4,
+,,Cheese,1,,10,4,
+,,SoySauce,1,,10,9,
+,,Lemon Curd,1,,10,9,
+,,Mayonaise,1,,10,9,
+,,OliveOil,1,,10,9,
+,,Brown_Sugar,1,,10,4,
+,,White Sugar,1,,10,4,
+,,Syrup,1,,10,4,
+,,Cream,3,,19,9,4
+,,Butter,3,,19,9,4
+,,Cheese,3,,19,9,4
+,,Brown_Sugar,3,,19,9,4
+,,White Sugar,3,,19,9,4
+,,Syrup,3,,19,9,4
+,,Cream,5,,21,24,9
+,,Butter,5,,21,24,9
+,,Cheese,5,,21,24,9
+,,SoySauce,3,,21,24,9
+,,Lemon Curd,3,,21,24,9
+,,Mayonaise,3,,21,24,9
+,,OliveOil,3,,21,24,9
+,,Brown_Sugar,5,,21,24,9
+,,White Sugar,5,,21,24,9
+,,Syrup,5,,21,24,9
+,,Cream,9,,32,,24
+,,Butter,9,,32,,24
+,,Cheese,9,,32,,24
+,,SoySauce,6,,32,,24
+,,Lemon Curd,6,,32,,24
+,,Mayonaise,6,,32,,24
+,,OliveOil,6,,32,,24
+,,Brown_Sugar,9,,32,,24
+,,White Sugar,9,,32,,24
+,,Syrup,9,,32,,24
+,,Fish Meat,3,,15,9,4
+,,Cheese Cake,1,,15,9,4
+,,Carrot Juice,1,,15,9,4
+,,Fish Pie,1,,15,9,4
+,,Butter Popcorn,2,,15,9,4
+,,Fish Meat,6,,21,24,9
+,,Cheese Cake,3,,21,24,9
+,,Carrot Juice,3,,21,24,9
+,,Fish Pie,3,,21,24,9
+,,Butter Popcorn,5,,21,24,9
+,,Fish Meat,9,,32,,24
+,,Cheese Cake,5,,32,,24
+,,Carrot Juice,5,,32,,24
+,,Fish Pie,5,,32,,24
+,,Butter Popcorn,9,,32,,24
+,,Plank,1,,2,,14
+,,Nail,1,,2,,14
+,,Bolt,1,,2,,14
+,,Screw,1,,2,,14
+,,Duct Tape,1,,2,,14
+,,Wood Panel,1,,2,,14
+,,Land Deed,1,,2,,14
+,,Mallet,1,,2,,14
+,,Marker Stake,1,,2,,14
+,,Plank,2,,2,,19
+,,Nail,2,,2,,19
+,,Bolt,2,,2,,19
+,,Screw,2,,2,,19
+,,Duct Tape,2,,2,,19
+,,Wood Panel,2,,2,,19
+,,Land Deed,2,,2,,19
+,,Mallet,2,,2,,19
+,,Marker Stake,2,,2,,19
+,,Plank,3,,1,,29
+,,Nail,3,,1,,29
+,,Bolt,3,,1,,29
+,,Screw,3,,1,,29
+,,Duct Tape,3,,1,,29
+,,Wood Panel,3,,1,,29
+,,Land Deed,3,,1,,29
+,,Mallet,3,,1,,29
+,,Marker Stake,3,,1,,29
+Level30_40,30,Wheat,3,5,100,4,
+,,Corn,3,5,100,4,
+,,Soybean,3,5,100,4,
+,,Sugarcane,3,5,100,4,
+,,Carrot,3,5,100,4,
+,,Indigo,3,5,100,4,
+,,Pumpkin,3,5,100,4,
+,,Chili,3,5,100,4,
+,,Tomato,3,5,100,4,
+,,Strawberry,3,5,100,4,
+,,Potato,3,5,100,4,
+,,Lettuce,3,5,100,4,
+,,Rice,3,5,100,4,
+,,Strawberry,5,,29,9,4
+,,Potato,5,,29,9,4
+,,Lettuce,5,,29,9,4
+,,Rice,5,,29,9,4
+,,Chicken Food,5,,60,4,
+,,Cow Food,5,,60,4,
+,,Pig Food,5,,60,4,
+,,Sheep Food,5,,60,4,
+,,Goat Food,3,5,60,4,
+,,Dynamite,1,3,70,4,
+,,Saw,1,3,70,4,
+,,Axe,1,3,70,4,
+,,Demolition Charge,1,3,70,4,
+,,Shovel,1,3,70,4,
+,,Pickaxe,1,3,70,4,
+,,Dynamite,2,,10,9,4
+,,Saw,2,,10,9,4
+,,Axe,2,,10,9,4
+,,Demolition Charge,2,,10,9,4
+,,Shovel,2,,10,9,4
+,,Pickaxe,2,,10,9,4
+,,Dynamite,3,,14,24,9
+,,Saw,3,,14,24,9
+,,Axe,3,,14,24,9
+,,Demolition Charge,3,,14,24,9
+,,Shovel,3,,14,24,9
+,,Pickaxe,3,,14,24,9
+,,Dynamite,5,,20,,24
+,,Saw,5,,20,,24
+,,Axe,5,,20,,24
+,,Demolition Charge,5,,20,,24
+,,Shovel,5,,20,,24
+,,Pickaxe,5,,20,,24
+,,Apple,3,5,80,4,
+,,Cherry,3,5,80,4,
+,,Raspberry,3,5,80,4,
+,,Blackberry,3,5,80,4,
+,,Cacao,3,5,80,4,
+,,Coffee,3,5,80,4,
+,,Olive,3,5,80,4,
+,,Lemon,3,5,80,4,
+,,Cacao,5,9,21,14,4
+,,Coffee,5,9,21,14,4
+,,Olive,5,9,21,14,4
+,,Lemon,5,9,21,14,4
+,,Olive,9,,45,29,14
+,,Lemon,9,,45,29,14
+,,Cream,3,5,10,4,
+,,Butter,3,5,10,4,
+,,Cheese,3,5,10,4,
+,,SoySauce,3,5,10,9,
+,,Lemon Curd,3,5,10,9,
+,,Mayonaise,3,5,10,9,
+,,OliveOil,3,5,10,9,
+,,Brown_Sugar,3,5,10,4,
+,,White Sugar,3,5,10,4,
+,,Syrup,3,5,10,4,
+,,Cream,5,,6,9,4
+,,Butter,5,,6,9,4
+,,Cheese,5,,6,9,4
+,,Brown_Sugar,5,,6,9,4
+,,White Sugar,5,,6,9,4
+,,Syrup,5,,6,9,4
+,,Cream,5,9,9,24,9
+,,Butter,5,9,9,24,9
+,,Cheese,5,9,9,24,9
+,,SoySauce,5,9,9,24,9
+,,Lemon Curd,5,9,9,24,9
+,,Mayonaise,5,9,9,24,9
+,,OliveOil,5,9,9,24,9
+,,Brown_Sugar,5,9,9,24,9
+,,White Sugar,5,9,9,24,9
+,,Syrup,5,9,9,24,9
+,,Cream,9,,13,,24
+,,Butter,9,,13,,24
+,,Cheese,9,,13,,24
+,,SoySauce,9,,13,,24
+,,Lemon Curd,9,,13,,24
+,,Mayonaise,9,,13,,24
+,,OliveOil,9,,13,,24
+,,Brown_Sugar,9,,13,,24
+,,White Sugar,9,,13,,24
+,,Syrup,9,,13,,24
+,,Fish Meat,3,,7,9,4
+,,Lobster Meat,3,,6,9,4
+,,Frutti di Mare Pizza,3,,5,9,4
+,,Potato Bread,3,,5,9,4
+,,Baked Potato,3,,5,9,4
+,,Fish and Chips,3,,5,9,4
+,,Cheese Cake,3,,5,9,4
+,,Honey Apple Cake,3,,5,9,4
+,,Strawberry Candle,3,,5,9,4
+,,Raspberry Mocha,3,,5,9,4
+,,Honey,3,,6,9,4
+,,Apple Jam,3,,6,9,4
+,,Blackberry Jam,3,,6,9,4
+,,Cherry Jam,3,,5,9,4
+,,Raspberry Jam,3,,6,9,4
+,,Diamond Ring,3,,6,9,4
+,,Necklace,3,,6,9,4
+,,Apple Juice,3,,6,9,4
+,,Berry Juice,3,,6,9,4
+,,Carrot Juice,3,,6,9,4
+,,Cherry Juice,3,,6,9,4
+,,Tomato Juice,3,,6,9,4
+,,Fish Pie,3,,5,9,4
+,,Butter Popcorn,3,,5,9,4
+,,Chocolate Popcorn,3,,5,9,4
+,,Honey Popcorn,3,,5,9,4
+,,Lobster Soup,3,,5,9,4
+,,Lobster Skewer,3,,5,9,4
+,,Fish Meat,5,,8,24,9
+,,Lobster Meat,5,,8,24,9
+,,Frutti di Mare Pizza,5,,8,24,9
+,,Potato Bread,5,,8,24,9
+,,Baked Potato,5,,8,24,9
+,,Fish and Chips,5,,8,24,9
+,,Cheese Cake,5,,8,24,9
+,,Honey Apple Cake,5,,8,24,9
+,,Strawberry Candle,5,,8,24,9
+,,Raspberry Mocha,5,,8,24,9
+,,Honey,5,,8,24,9
+,,Apple Jam,5,,8,24,9
+,,Blackberry Jam,5,,8,24,9
+,,Cherry Jam,5,,8,24,9
+,,Raspberry Jam,5,,8,24,9
+,,Diamond Ring,5,,8,24,9
+,,Necklace,5,,8,24,9
+,,Apple Juice,5,,8,24,9
+,,Berry Juice,5,,8,24,9
+,,Carrot Juice,5,,8,24,9
+,,Cherry Juice,5,,8,24,9
+,,Tomato Juice,5,,8,24,9
+,,Fish Pie,5,,8,24,9
+,,Butter Popcorn,5,,8,24,9
+,,Chocolate Popcorn,5,,8,24,9
+,,Honey Popcorn,5,,8,24,9
+,,Lobster Soup,5,,8,24,9
+,,Lobster Skewer,5,,8,24,9
+,,Fish Meat,5,,13,,24
+,,Lobster Meat,5,,13,,24
+,,Frutti di Mare Pizza,5,,12,,24
+,,Potato Bread,5,,12,,24
+,,Baked Potato,5,,12,,24
+,,Fish and Chips,5,,12,,24
+,,Cheese Cake,5,,12,,24
+,,Honey Apple Cake,5,,12,,24
+,,Strawberry Candle,5,,12,,24
+,,Raspberry Mocha,5,,12,,24
+,,Honey,5,,13,,24
+,,Apple Jam,5,,13,,24
+,,Blackberry Jam,5,,13,,24
+,,Cherry Jam,5,,13,,24
+,,Raspberry Jam,5,,13,,24
+,,Diamond Ring,5,,12,,24
+,,Necklace,5,,12,,24
+,,Apple Juice,5,,13,,24
+,,Berry Juice,5,,13,,24
+,,Carrot Juice,5,,13,,24
+,,Cherry Juice,5,,13,,24
+,,Tomato Juice,5,,13,,24
+,,Fish Pie,5,,12,,24
+,,Butter Popcorn,5,,12,,24
+,,Chocolate Popcorn,5,,12,,24
+,,Honey Popcorn,5,,12,,24
+,,Lobster Soup,5,,12,,24
+,,Lobster Skewer,5,,12,,24
+,,Plank,1,,2,,14
+,,Nail,1,,2,,14
+,,Bolt,1,,2,,14
+,,Screw,1,,2,,14
+,,Duct Tape,1,,2,,14
+,,Wood Panel,1,,2,,14
+,,Land Deed,1,,2,,14
+,,Mallet,1,,2,,14
+,,Marker Stake,1,,2,,14
+,,Plank,2,,2,,19
+,,Nail,2,,2,,19
+,,Bolt,2,,2,,19
+,,Screw,2,,2,,19
+,,Duct Tape,2,,2,,19
+,,Wood Panel,2,,2,,19
+,,Land Deed,2,,2,,19
+,,Mallet,2,,2,,19
+,,Marker Stake,2,,2,,19
+,,Plank,3,,1,,29
+,,Nail,3,,1,,29
+,,Bolt,3,,1,,29
+,,Screw,3,,1,,29
+,,Duct Tape,3,,1,,29
+,,Wood Panel,3,,1,,29
+,,Land Deed,3,,1,,29
+,,Mallet,3,,1,,29
+,,Marker Stake,3,,1,,29
+Level50_plus,50,Corn,3,5,100,4,
+,,Soybean,3,5,100,4,
+,,Sugarcane,3,5,100,4,
+,,Carrot,3,5,100,4,
+,,Indigo,3,5,100,4,
+,,Pumpkin,3,5,100,4,
+,,Chili,3,5,100,4,
+,,Tomato,3,5,100,4,
+,,Strawberry,3,5,100,4,
+,,Potato,3,5,100,4,
+,,Lettuce,3,5,100,4,
+,,Rice,3,5,100,4,
+,,Cotton,3,5,100,4,
+,,Strawberry,5,,6,9,4
+,,Potato,5,,6,9,4
+,,Lettuce,5,,6,9,4
+,,Rice,5,,6,9,4
+,,Grapes,5,,6,9,4
+,,Onion,5,,6,9,4
+,,TeaLeaves,5,,6,9,4
+,,Peony,5,,6,9,4
+,,Sunflower,5,,6,9,4
+,,Bellpepper,5,,6,9,4
+,,Mint,5,,6,9,4
+,,Watermelon,5,,6,9,4
+,,Broccoli,5,,6,9,4
+,,Cucumber,5,,6,9,4
+,,Eggplant,5,,6,9,4
+,,Pineapple,5,,6,9,4
+,,Ginger,5,,6,9,4
+,,Mushroom,5,,6,9,4
+,,Sesame,5,,6,9,4
+,,Chicken Food,5,,60,4,
+,,Cow Food,5,,60,4,
+,,Pig Food,5,,60,4,
+,,Sheep Food,5,,60,4,
+,,Goat Food,3,5,60,4,
+,,Dynamite,1,3,70,4,
+,,Saw,1,3,70,4,
+,,Axe,1,3,70,4,
+,,Demolition Charge,1,3,70,4,
+,,Shovel,1,3,70,4,
+,,Pickaxe,1,3,70,4,
+,,Dynamite,2,,10,9,4
+,,Saw,2,,10,9,4
+,,Axe,2,,10,9,4
+,,Demolition Charge,2,,10,9,4
+,,Shovel,2,,10,9,4
+,,Pickaxe,2,,10,9,4
+,,Dynamite,3,,14,,9
+,,Saw,3,,14,,9
+,,Axe,3,,14,,9
+,,Demolition Charge,3,,14,,9
+,,Shovel,3,,14,,9
+,,Pickaxe,3,,14,,9
+,,Dynamite,5,,20,,24
+,,Saw,5,,20,,24
+,,Axe,5,,20,,24
+,,Demolition Charge,5,,20,,24
+,,Shovel,5,,20,,24
+,,Pickaxe,5,,20,,24
+,,Apple,3,5,53,4,
+,,Cherry,3,5,53,4,
+,,Raspberry,3,5,53,4,
+,,Blackberry,3,5,53,4,
+,,Cacao,3,5,53,4,
+,,Coffee,3,5,53,4,
+,,Olive,3,5,53,4,
+,,Lemon,3,5,53,4,
+,,Banana,3,5,54,4,
+,,Orange,3,5,54,4,
+,,Peach,3,5,54,4,
+,,Plum,3,5,54,4,
+,,Cacao,5,9,10,14,4
+,,Coffee,5,9,10,14,4
+,,Olive,5,9,10,14,4
+,,Lemon,5,9,10,14,4
+,,Banana,5,9,11,14,4
+,,Orange,5,9,11,14,4
+,,Peach,5,9,11,14,4
+,,Plum,5,9,11,14,4
+,,Olive,9,,15,29,14
+,,Lemon,9,,15,29,14
+,,Banana,9,,15,29,14
+,,Orange,9,,15,29,14
+,,Peach,9,,15,29,14
+,,Plum,9,,15,29,14
+,,Cream,3,5,10,4,
+,,Butter,3,5,10,4,
+,,Cheese,3,5,10,4,
+,,SoySauce,3,5,3,9,
+,,Lemon Curd,3,5,3,9,
+,,Mayonaise,3,5,3,9,
+,,OliveOil,3,5,3,9,
+,,Brown_Sugar,3,5,10,4,
+,,White Sugar,3,5,10,4,
+,,Syrup,3,5,10,4,
+,,Cream,5,,3,9,4
+,,Butter,5,,3,9,4
+,,Cheese,5,,3,9,4
+,,Brown_Sugar,5,,3,9,4
+,,White Sugar,5,,3,9,4
+,,Syrup,5,,3,9,4
+,,Cream,5,9,3,24,9
+,,Butter,5,9,3,24,9
+,,Cheese,5,9,3,24,9
+,,SoySauce,5,9,3,24,9
+,,Lemon Curd,5,9,3,24,9
+,,Mayonaise,5,9,3,24,9
+,,OliveOil,5,9,3,24,9
+,,Brown_Sugar,5,9,3,24,9
+,,White Sugar,5,9,3,24,9
+,,Syrup,5,9,3,24,9
+,,Cream,9,,6,,24
+,,Butter,9,,6,,24
+,,Cheese,9,,6,,24
+,,SoySauce,9,,6,,24
+,,Lemon Curd,9,,6,,24
+,,Mayonaise,9,,6,,24
+,,OliveOil,9,,6,,24
+,,Brown_Sugar,9,,6,,24
+,,White Sugar,9,,6,,24
+,,Syrup,9,,6,,24
+,,Fish Meat,3,,3,9,4
+,,Duck Down,3,,3,9,4
+,,Lobster Meat,3,,3,9,4
+,,Frutti di Mare Pizza,3,,3,9,4
+,,Potato Bread,3,,3,9,4
+,,Baked Potato,3,,3,9,4
+,,Fish and Chips,3,,3,9,4
+,,BananaPancakes,3,,3,9,4
+,,Grilled Eggplant,3,,3,9,4
+,,Cheese Cake,3,,3,9,4
+,,Honey Apple Cake,3,,3,9,4
+,,Pineapple Cake,3,,3,9,4
+,,Lemon Candle,3,,3,9,4
+,,Raspberry Candle,3,,3,9,4
+,,Strawberry Candle,3,,3,9,4
+,,Floral candle,3,,3,9,4
+,,Caramel Apple,3,,3,9,4
+,,Chocolate,3,,3,9,4
+,,Jelly Beans,3,,3,9,4
+,,Lollipop,3,,3,9,4
+,,Toffee,3,,3,9,4
+,,Raspberry Mocha,3,,3,9,4
+,,BananaLatte,3,,3,9,4
+,,Caramel latte,3,,3,9,4
+,,Beeswax,3,,3,9,4
+,,Honey,3,,3,9,4
+,,Apple Jam,3,,3,9,4
+,,Blackberry Jam,3,,3,9,4
+,,Cherry Jam,3,,3,9,4
+,,Raspberry Jam,3,,3,9,4
+,,Strawberry Jam,3,,3,9,4
+,,Grape Jam,3,,3,9,4
+,,Marmelade,3,,3,9,4
+,,Peach Jam,3,,3,9,4
+,,PlumJam,3,,3,9,4
+,,Diamond Ring,3,,3,9,4
+,,Necklace,3,,3,9,4
+,,Flower Pendant,3,,3,9,4
+,,Apple Juice,3,,3,9,4
+,,Berry Juice,3,,3,9,4
+,,Carrot Juice,3,,3,9,4
+,,Cherry Juice,3,,3,9,4
+,,Tomato Juice,3,,3,9,4
+,,Grape Juice,3,,3,9,4
+,,Orange Juice,3,,3,9,4
+,,WatermelonLemonade,3,,3,9,4
+,,Pineapple Juice,3,,3,9,4
+,,Lobster Pasta,3,,3,9,4
+,,Fish Pie,3,,3,9,4
+,,Butter Popcorn,3,,3,9,4
+,,Chocolate Popcorn,3,,3,9,4
+,,Honey Popcorn,3,,3,9,4
+,,Honey Toast,3,,3,9,4
+,,Goat Cheese Toast,3,,3,9,4
+,,Blanket,3,,3,9,4
+,,Pillow,3,,3,9,4
+,,Fish Soup,3,,3,9,4
+,,Lobster Soup,3,,3,9,4
+,,LobsterSushi,3,,3,9,4
+,,SushiRoll,3,,3,9,4
+,,Big sushi roll,3,,3,9,4
+,,Lobster Skewer,3,,3,9,4
+,,Fish Meat,5,,3,24,9
+,,Duck Down,5,,3,24,9
+,,Lobster Meat,5,,3,24,9
+,,Frutti di Mare Pizza,5,,3,24,9
+,,Potato Bread,5,,3,24,9
+,,Baked Potato,5,,3,24,9
+,,Fish and Chips,5,,3,24,9
+,,BananaPancakes,5,,3,24,9
+,,Grilled Eggplant,5,,3,24,9
+,,Cheese Cake,5,,3,24,9
+,,Honey Apple Cake,5,,3,24,9
+,,Pineapple Cake,5,,3,24,9
+,,Lemon Candle,5,,3,24,9
+,,Raspberry Candle,5,,3,24,9
+,,Strawberry Candle,5,,3,24,9
+,,Floral candle,5,,3,24,9
+,,Caramel Apple,5,,3,24,9
+,,Chocolate,5,,3,24,9
+,,Jelly Beans,5,,3,24,9
+,,Lollipop,5,,3,24,9
+,,Toffee,5,,3,24,9
+,,Raspberry Mocha,5,,3,24,9
+,,BananaLatte,5,,3,24,9
+,,Caramel latte,5,,3,24,9
+,,Beeswax,5,,3,24,9
+,,Honey,5,,3,24,9
+,,Apple Jam,5,,3,24,9
+,,Blackberry Jam,5,,3,24,9
+,,Cherry Jam,5,,3,24,9
+,,Raspberry Jam,5,,3,24,9
+,,Strawberry Jam,5,,3,24,9
+,,Grape Jam,5,,3,24,9
+,,Marmelade,5,,3,24,9
+,,Peach Jam,5,,3,24,9
+,,PlumJam,5,,3,24,9
+,,Diamond Ring,5,,3,24,9
+,,Necklace,5,,3,24,9
+,,Flower Pendant,5,,3,24,9
+,,Apple Juice,5,,3,24,9
+,,Berry Juice,5,,3,24,9
+,,Carrot Juice,5,,3,24,9
+,,Cherry Juice,5,,3,24,9
+,,Tomato Juice,5,,3,24,9
+,,Grape Juice,5,,3,24,9
+,,Orange Juice,5,,3,24,9
+,,WatermelonLemonade,5,,3,24,9
+,,Pineapple Juice,5,,3,24,9
+,,Lobster Pasta,5,,3,24,9
+,,Fish Pie,5,,3,24,9
+,,Butter Popcorn,5,,3,24,9
+,,Chocolate Popcorn,5,,3,24,9
+,,Honey Popcorn,5,,3,24,9
+,,Honey Toast,5,,3,24,9
+,,Goat Cheese Toast,5,,3,24,9
+,,Blanket,5,,3,24,9
+,,Pillow,5,,3,24,9
+,,Fish Soup,5,,3,24,9
+,,Lobster Soup,5,,3,24,9
+,,LobsterSushi,5,,3,24,9
+,,SushiRoll,5,,3,24,9
+,,Big sushi roll,5,,3,24,9
+,,Lobster Skewer,5,,3,24,9
+,,Fish Meat,9,,7,,24
+,,Duck Down,9,,7,,24
+,,Lobster Meat,9,,7,,24
+,,Frutti di Mare Pizza,9,,6,,24
+,,Potato Bread,9,,6,,24
+,,Baked Potato,9,,6,,24
+,,Fish and Chips,9,,6,,24
+,,BananaPancakes,9,,6,,24
+,,Grilled Eggplant,9,,6,,24
+,,Cheese Cake,9,,6,,24
+,,Honey Apple Cake,9,,6,,24
+,,Pineapple Cake,9,,6,,24
+,,Lemon Candle,9,,6,,24
+,,Raspberry Candle,9,,6,,24
+,,Strawberry Candle,9,,6,,24
+,,Floral candle,9,,6,,24
+,,Caramel Apple,9,,6,,24
+,,Chocolate,9,,6,,24
+,,Jelly Beans,9,,6,,24
+,,Lollipop,9,,6,,24
+,,Toffee,9,,6,,24
+,,Raspberry Mocha,9,,7,,24
+,,BananaLatte,9,,7,,24
+,,Caramel latte,9,,7,,24
+,,Beeswax,9,,7,,24
+,,Honey,9,,7,,24
+,,Apple Jam,9,,7,,24
+,,Blackberry Jam,9,,7,,24
+,,Cherry Jam,9,,7,,24
+,,Raspberry Jam,9,,7,,24
+,,Strawberry Jam,9,,7,,24
+,,Grape Jam,9,,7,,24
+,,Marmelade,9,,7,,24
+,,Peach Jam,9,,7,,24
+,,PlumJam,9,,7,,24
+,,Diamond Ring,9,,7,,24
+,,Necklace,9,,7,,24
+,,Flower Pendant,9,,7,,24
+,,Apple Juice,9,,7,,24
+,,Berry Juice,9,,7,,24
+,,Carrot Juice,9,,7,,24
+,,Cherry Juice,9,,7,,24
+,,Tomato Juice,9,,7,,24
+,,Grape Juice,9,,7,,24
+,,Orange Juice,9,,7,,24
+,,WatermelonLemonade,9,,7,,24
+,,Pineapple Juice,9,,7,,24
+,,Lobster Pasta,9,,7,,24
+,,Fish Pie,9,,7,,24
+,,Butter Popcorn,9,,7,,24
+,,Chocolate Popcorn,9,,7,,24
+,,Honey Popcorn,9,,7,,24
+,,Honey Toast,9,,7,,24
+,,Goat Cheese Toast,9,,7,,24
+,,Blanket,9,,7,,24
+,,Pillow,9,,7,,24
+,,Fish Soup,9,,7,,24
+,,Lobster Soup,9,,7,,24
+,,LobsterSushi,9,,7,,24
+,,SushiRoll,9,,7,,24
+,,Big sushi roll,9,,7,,24
+,,Lobster Skewer,9,,7,,24
+,,Plank,1,,2,,
+,,Nail,1,,2,,
+,,Bolt,1,,2,,
+,,Screw,1,,2,,
+,,Duct Tape,1,,2,,
+,,Wood Panel,1,,2,,
+,,Land Deed,1,,2,,
+,,Mallet,1,,2,,
+,,Marker Stake,1,,2,,
+,,Plank,2,,2,,14
+,,Nail,2,,2,,14
+,,Bolt,2,,2,,14
+,,Screw,2,,2,,14
+,,Duct Tape,2,,2,,14
+,,Wood Panel,2,,2,,14
+,,Land Deed,2,,2,,14
+,,Mallet,2,,2,,14
+,,Marker Stake,2,,2,,14
+,,Plank,3,,1,,24
+,,Nail,3,,1,,24
+,,Bolt,3,,1,,24
+,,Screw,3,,1,,24
+,,Duct Tape,3,,1,,24
+,,Wood Panel,3,,1,,24
+,,Land Deed,3,,1,,24
+,,Mallet,3,,1,,24
+,,Marker Stake,3,,1,,24

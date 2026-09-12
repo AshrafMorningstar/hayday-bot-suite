@@ -1,0 +1,5 @@
+Name,Category,TaskType,FarmPoints,Good,Amount,Probability,TID,IconFileName,IconExportName,Tags,DerbyTaskTags,MinXPLevelForSpawn,MinRepLevelForSpawn,MaxXPLevelForSpawn,TimeLimitMinutes
+String,String,String,int,String,int,int,String,String,String,String,String,int,int,int,int
+TruckOrder,Truck,CompleteTruckOrder,1,,1,1,TID_FARM_PASS_TASK_CAR_ORDER_ONE,sc/icons.sc,nh_derby_task_car_order,truck,,4,,,
+BoatCrate,Boat,FillBoatCrate,1,,1,1,TID_FARM_PASS_TASK_BOAT_CRATES,sc/icons.sc,task_icon_crate,boat,,17,,,
+BoatOrder_5,Boat,CompleteBoatOrder,10,,1,1,TID_FARM_PASS_TASK_BOAT_ORDERS,sc/icons.sc,nh_derby_task_boat_order,boat,,17,,,

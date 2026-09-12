@@ -1,0 +1,10 @@
+Name,IntValue,StringValue
+String,int,String
+ActiveTutorialGroup,,NewFtue
+DefaultCharacter,,popup_mavis
+CameraDampingRange,400,
+CameraReboundRate,20,
+ReturningCarAddedProgress,250,
+FallbackCarUnlockLvl,5,
+NameGateKeyboardOffsetMobile,80,
+NameGateKeyboardOffsetTablet,80,

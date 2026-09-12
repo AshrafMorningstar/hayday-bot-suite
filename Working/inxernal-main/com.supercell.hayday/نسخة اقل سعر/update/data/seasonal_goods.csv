@@ -1,0 +1,182 @@
+Name,ToolIconFileName,ToolIconExportName,TID,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,ProcessingBuilding,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,Deprecated,DiamondPrice,OrderValue2
+String,String,String,String,int,String,int,int,int,int,int,int,int,int,String,int,string,int,Boolean,Boolean,int,int
+Gift_Box1,sc/icons.sc,gift_package01,TID_GIFT_BOX1,1,Corn Bread,0,57,10,57,0,57,55,100,Gift_Wrapping_Station_2024,17,TID_GIFT_BOX_DESCRIPTION,65,,,,55
+,,,,3,Apple,,,,,,,,,,,,,,,,
+,,,,1,Wool,,,,,,,,,,,,,,,,
+Gift_Box2,sc/icons.sc,gift_package02,TID_GIFT_BOX2,1,Bacon and Eggs,0,84,10,84,0,84,85,100,Gift_Wrapping_Station_2024,17,TID_GIFT_BOX_DESCRIPTION,95,,,,85
+,,,,5,Indigo,,,,,,,,,,,,,,,,
+,,,,5,Carrot,,,,,,,,,,,,,,,,
+Gift_Box3,sc/icons.sc,gift_package03,TID_GIFT_BOX3,1,Fish Pie,0,98,20,98,0,98,94,100,Gift_Wrapping_Station_2024,30,TID_GIFT_BOX_DESCRIPTION,104,,,,94
+,,,,5,Tomato,,,,,,,,,,,,,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+Gift_Box4,sc/icons.sc,gift_package04,TID_GIFT_BOX4,1,Cherry Popsicle,0,133,20,133,0,133,128,100,Gift_Wrapping_Station_2024,35,TID_GIFT_BOX_DESCRIPTION,138,,,,128
+,,,,5,Strawberry,,,,,,,,,,,,,,,,
+,,,,1,Goat Milk,,,,,,,,,,,,,,,,
+Easter_egg1,sc/icons.sc,egg_package01,TID_EASTER_EGG1,1,Brown_Sugar,0,87,20,20,0,47,,34,Easter_Egg_Maker,17,TID_EASTER_EGG_DESCRIPTION,34,,,,
+,,,,2,Egg,,,,,,,,,,,,,,,,
+,,,,3,Indigo,,,,,,,,,,,,,,,,
+Easter_egg2,sc/icons.sc,egg_package02,TID_EASTER_EGG2,1,Syrup,0,206,25,48,0,111,,84,Easter_Egg_Maker,25,TID_EASTER_EGG_DESCRIPTION,77,,,,
+,,,,1,Butter,,,,,,,,,,,,,,,,
+,,,,3,Cherry,,,,,,,,,,,,,,,,
+Easter_egg3,sc/icons.sc,egg_package03,TID_EASTER_EGG3,1,Cream,0,244,25,56,0,132,,68,Easter_Egg_Maker,43,TID_EASTER_EGG_DESCRIPTION,72,,,,
+,,,,3,Blackberry,,,,,,,,,,,,,,,,
+,,,,1,Honey,,,,,,,,,,,,,,,,
+Easter_egg4,sc/icons.sc,egg_package04,TID_EASTER_EGG4,3,Pineapple,0,258,30,59,0,139,,97,Easter_Egg_Maker,54,TID_EASTER_EGG_DESCRIPTION,97,,,,
+,,,,3,Cacao,,,,,,,,,,,,,,,,
+,,,,1,Toffee,,,,,,,,,,,,,,,,
+Gift_Box1_23,sc/icons.sc,gift_package05,TID_GIFT_BOX1_23,1,Cookie,0,157,20,36,0,60,,60,Gift_Wrapping_Station_2023,17,TID_GIFT_BOX_DESCRIPTION,58,,,,
+,,,,3,Milk,,,,,,,,,,,,,,,,
+,,,,3,Pumpkin,,,,,,,,,,,,,,,,
+Gift_Box2_23,sc/icons.sc,gift_package06,TID_GIFT_BOX2_23,1,Wooly Pants,0,294,25,68,0,75,,100,Gift_Wrapping_Station_2023,25,TID_GIFT_BOX_DESCRIPTION,109,,,,
+,,,,3,Cotton,,,,,,,,,,,,,,,,
+,,,,3,Apple,,,,,,,,,,,,,,,,
+Gift_Box3_23,sc/icons.sc,gift_package07,TID_GIFT_BOX3_23,1,Spicy Pizza,0,298,25,69,0,80,,100,Gift_Wrapping_Station_2023,43,TID_GIFT_BOX_DESCRIPTION,92,,,,
+,,,,3,Strawberry,,,,,,,,,,,,,,,,
+,,,,1,Honey,,,,,,,,,,,,,,,,
+Gift_Box4_23,sc/icons.sc,gift_package08,TID_GIFT_BOX4_23,1,Caramel latte,0,304,30,70,0,90,,150,Gift_Wrapping_Station_2023,70,TID_GIFT_BOX_DESCRIPTION,121,,,,
+,,,,1,Lemon,,,,,,,,,,,,,,,,
+,,,,3,Lily,,,,,,,,,,,,,,,,
+Easter_egg1_24,sc/icons.sc,egg_package05,TID_EASTER_EGG1_24,1,Pumpkin Pie,0,57,10,57,0,57,54,100,Easter_Egg_Maker_2025,17,TID_EASTER_EGG_DESCRIPTION,64,,,,54
+,,,,5,Soybean,,,,,,,,,,,,,,,,
+,,,,5,Wheat,,,,,,,,,,,,,,,,
+Easter_egg2_24,sc/icons.sc,egg_package06,TID_EASTER_EGG2_24,1,Raspberry Muffin,0,100,20,100,0,100,97,100,Easter_Egg_Maker_2025,20,TID_EASTER_EGG_DESCRIPTION,107,,,,97
+,,,,1,Pumpkin,,,,,,,,,,,,,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+Easter_egg3_24,sc/icons.sc,egg_package07,TID_EASTER_EGG3_24,1,Apple Juice,0,79,10,79,0,79,77,100,Easter_Egg_Maker_2025,35,TID_EASTER_EGG_DESCRIPTION,87,,,,77
+,,,,5,Potato,,,,,,,,,,,,,,,,
+,,,,1,Goat Milk,,,,,,,,,,,,,,,,
+Easter_egg4_24,sc/icons.sc,egg_package08,TID_EASTER_EGG4_24,1,Toffee,0,79,35,79,0,79,77,100,Easter_Egg_Maker_2025,55,TID_EASTER_EGG_DESCRIPTION,87,,,,77
+,,,,3,Sesame,,,,,,,,,,,,,,,,
+,,,,5,Lily,,,,,,,,,,,,,,,,
+Birthday_balloon1_24,sc/icons.sc,balloon_package01,TID_BIRTHDAY_BALLOON1_24,1,Sweater,0,67,20,67,0,60,65,65,Birthday_Balloon_Maker_2024,17,TID_BIRTHDAY_BALLOON_DESCRIPTION,34,,,65,65
+,,,,3,Apple,,,,,,,,,,,,,,,,
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+Birthday_balloon2_24,sc/icons.sc,balloon_package02,TID_BIRTHDAY_BALLOON2_24,1,Carrot Cake,0,77,25,77,0,75,75,85,Birthday_Balloon_Maker_2024,22,TID_BIRTHDAY_BALLOON_DESCRIPTION,77,,,75,75
+,,,,3,Cotton,,,,,,,,,,,,,,,,
+,,,,3,Cherry,,,,,,,,,,,,,,,,
+Birthday_balloon3_24,sc/icons.sc,balloon_package03,TID_BIRTHDAY_BALLOON3_24,1,Fishburger,0,133,25,133,0,80,100,109,Birthday_Balloon_Maker_2024,35,TID_BIRTHDAY_BALLOON_DESCRIPTION,72,,,100,100
+,,,,3,Potato,,,,,,,,,,,,,,,,
+,,,,1,Goat Milk,,,,,,,,,,,,,,,,
+Birthday_balloon4_24,sc/icons.sc,balloon_package04,TID_BIRTHDAY_BALLOON4_24,1,Honey,0,166,30,166,0,90,165,167,Birthday_Balloon_Maker_2024,45,TID_BIRTHDAY_BALLOON_DESCRIPTION,97,,,165,165
+,,,,1,Mocha,,,,,,,,,,,,,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+Halloween_candy1_24,sc/icons.sc,halloween_candy01,TID_HALLOWEEN_CANDY1_24,3,Sugarcane,0,27,10,27,0,27,29,100,Halloween_Candy_Maker_2024,17,TID_HALLOWEEN_CANDY_DESCRIPTION,39,,,65,29
+,,,,3,Carrot,,,,,,,,,,,,,,,,
+,,,,1,Egg,,,,,,,,,,,,,,,,
+Halloween_candy2_24,sc/icons.sc,halloween_candy02,TID_HALLOWEEN_CANDY2_24,1,Apple,0,45,10,45,0,45,42,100,Halloween_Candy_Maker_2024,17,TID_HALLOWEEN_CANDY_DESCRIPTION,57,,,75,42
+,,,,1,Popcorn,,,,,,,,,,,,,,,,
+,,,,3,Indigo,,,,,,,,,,,,,,,,
+Halloween_candy3_24,sc/icons.sc,halloween_candy03,TID_HALLOWEEN_CANDY3_24,1,Blue Sweater,0,109,25,109,0,109,103,100,Halloween_Candy_Maker_2024,35,TID_HALLOWEEN_CANDY_DESCRIPTION,123,,,100,103
+,,,,5,Chili,,,,,,,,,,,,,,,,
+,,,,2,Brown_Sugar,,,,,,,,,,,,,,,,
+Halloween_candy4_24,sc/icons.sc,halloween_candy04,TID_HALLOWEEN_CANDY4_24,1,Potato Bread,0,126,35,126,0,126,99,100,Halloween_Candy_Maker_2024,50,TID_HALLOWEEN_CANDY_DESCRIPTION,119,,,165,99
+,,,,1,Honey,,,,,,,,,,,,,,,,
+,,,,3,Pumpkin,,,,,,,,,,,,,,,,
+Gift_Box1_24,sc/icons.sc,gift_package09,TID_GIFT_BOX1_24,1,Blue Woolly Hat,0,87,10,87,0,87,87,100,Gift_Wrapping_Station_2024,20,TID_GIFT_BOX_DESCRIPTION,97,,,,87
+,,,,3,Raspberry,,,,,,,,,,,,,,,,
+,,,,5,Cotton,,,,,,,,,,,,,,,,
+Gift_Box2_24,sc/icons.sc,gift_package11,TID_GIFT_BOX2_24,1,Chili Popcorn,0,85,10,85,0,85,82,100,Gift_Wrapping_Station_2024,25,TID_GIFT_BOX_DESCRIPTION,92,,,,82
+,,,,3,Cherry,,,,,,,,,,,,,,,,
+,,,,3,Egg,,,,,,,,,,,,,,,,
+Gift_Box3_24,sc/icons.sc,gift_package10,TID_GIFT_BOX3_24,1,Chocolate Cake,0,122,25,122,0,122,113,100,Gift_Wrapping_Station_2024,45,TID_GIFT_BOX_DESCRIPTION,123,,,,113
+,,,,3,Coffee,,,,,,,,,,,,,,,,
+,,,,5,Chamomile,,,,,,,,,,,,,,,,
+Gift_Box4_24,sc/icons.sc,gift_package12,TID_GIFT_BOX4_24,1,Toffee,0,106,35,106,0,106,103,100,Gift_Wrapping_Station_2024,60,TID_GIFT_BOX_DESCRIPTION,113,,,,103
+,,,,3,Blackberry,,,,,,,,,,,,,,,,
+,,,,5,Pineapple,,,,,,,,,,,,,,,,
+Easter_egg1_25,sc/icons.sc,egg_package09,TID_EASTER_EGG1_25,1,Pancakes,0,44,10,44,0,44,41,100,Easter_Egg_Maker_2025,17,TID_EASTER_EGG_DESCRIPTION,51,,,,41
+,,,,5,Corn,,,,,,,,,,,,,,,,
+,,,,1,Milk,,,,,,,,,,,,,,,,
+Easter_egg2_25,sc/icons.sc,egg_package10,TID_EASTER_EGG2_25,1,Blue Woolly Hat,0,70,20,70,0,70,70,100,Easter_Egg_Maker_2025,20,TID_EASTER_EGG_DESCRIPTION,80,,,,70
+,,,,5,Carrot,,,,,,,,,,,,,,,,
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+Easter_egg3_25,sc/icons.sc,egg_package11,TID_EASTER_EGG3_25,1,Fish Pie,0,145,10,145,0,145,142,100,Easter_Egg_Maker_2025,30,TID_EASTER_EGG_DESCRIPTION,152,,,,142
+,,,,5,Tomato,,,,,,,,,,,,,,,,
+,,,,3,Blackberry,,,,,,,,,,,,,,,,
+Easter_egg4_25,sc/icons.sc,egg_package12,TID_EASTER_EGG4_25,1,Chocolate Cake,0,122,25,122,0,122,113,100,Easter_Egg_Maker_2025,45,TID_EASTER_EGG_DESCRIPTION,123,,,,113
+,,,,3,Coffee,,,,,,,,,,,,,,,,
+,,,,5,Chamomile,,,,,,,,,,,,,,,,
+Birthday_balloon1_25,sc/icons.sc,balloon_package05,TID_BIRTHDAY_BALLOON1_25,1,Bacon and Eggs,0,84,10,84,0,84,78,100,Birthday_Balloon_Maker_2025,17,TID_BIRTHDAY_BALLOON_DESCRIPTION,81,,,,78
+,,,,5,Carrot,,,,,,,,,,,,,,,,
+,,,,5,Indigo,,,,,,,,,,,,,,,,
+Birthday_balloon2_25,sc/icons.sc,balloon_package01,TID_BIRTHDAY_BALLOON1_24,1,Corn Bread,0,75,10,75,0,75,67,100,Birthday_Balloon_Maker_2025,17,TID_BIRTHDAY_BALLOON_DESCRIPTION,70,,,,67
+,,,,3,Apple,,,,,,,,,,,,,,,,
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+Birthday_balloon3_25,sc/icons.sc,balloon_package06,TID_BIRTHDAY_BALLOON2_25,1,Blue Woolly Hat,0,70,10,70,0,70,60,100,Birthday_Balloon_Maker_2025,20,TID_BIRTHDAY_BALLOON_DESCRIPTION,63,,,,60
+,,,,3,Raspberry,,,,,,,,,,,,,,,,
+,,,,5,Soybean,,,,,,,,,,,,,,,,
+Birthday_balloon4_25,sc/icons.sc,balloon_package02,TID_BIRTHDAY_BALLOON2_24,1,Chili Popcorn,0,45,10,45,0,45,33,100,Birthday_Balloon_Maker_2025,25,TID_BIRTHDAY_BALLOON_DESCRIPTION,36,,,,33
+,,,,1,Bread,,,,,,,,,,,,,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+Birthday_balloon5_25,sc/icons.sc,balloon_package07,TID_BIRTHDAY_BALLOON3_25,1,Vanilla Ice Cream,0,127,20,127,0,127,114,100,Birthday_Balloon_Maker_2025,30,TID_BIRTHDAY_BALLOON_DESCRIPTION,117,,,,114
+,,,,3,Blackberry,,,,,,,,,,,,,,,,
+,,,,5,Chili,,,,,,,,,,,,,,,,
+Birthday_balloon6_25,sc/icons.sc,balloon_package03,TID_BIRTHDAY_BALLOON3_24,1,Fish Pie,0,129,20,129,0,129,121,100,Birthday_Balloon_Maker_2025,35,TID_BIRTHDAY_BALLOON_DESCRIPTION,124,,,,121
+,,,,3,Cherry,,,,,,,,,,,,,,,,
+,,,,5,Potato,,,,,,,,,,,,,,,,
+Birthday_balloon7_25,sc/icons.sc,balloon_package04,TID_BIRTHDAY_BALLOON4_24,1,Soothing Pad,0,140,25,140,0,140,130,100,Birthday_Balloon_Maker_2025,45,TID_BIRTHDAY_BALLOON_DESCRIPTION,133,,,,130
+,,,,3,Coffee,,,,,,,,,,,,,,,,
+,,,,3,Strawberry,,,,,,,,,,,,,,,,
+Birthday_balloon8_25,sc/icons.sc,balloon_package08,TID_BIRTHDAY_BALLOON4_25,1,Tomato Soup,0,133,35,133,0,133,121,100,Birthday_Balloon_Maker_2025,60,TID_BIRTHDAY_BALLOON_DESCRIPTION,124,,,,121
+,,,,5,Pineapple,,,,,,,,,,,,,,,,
+,,,,5,Garlic,,,,,,,,,,,,,,,,
+Halloween_candy1_25,sc/icons.sc,halloween_candy05,TID_HALLOWEEN_CANDY1_25,3,Bread,0,34,10,34,0,34,25,100,Halloween_Candy_Maker_2025,17,TID_HALLOWEEN_CANDY_DESCRIPTION,28,,,,25
+,,,,5,Soybean,,,,,,,,,,,,,,,,
+Halloween_candy2_25,sc/icons.sc,halloween_candy06,TID_HALLOWEEN_CANDY2_25,1,Popcorn,0,28,10,28,0,28,20,100,Halloween_Candy_Maker_2025,17,TID_HALLOWEEN_CANDY_DESCRIPTION,23,,,,20
+,,,,3,Egg,,,,,,,,,,,,,,,,
+Halloween_candy3_25,sc/icons.sc,halloween_candy07,TID_HALLOWEEN_CANDY3_25,1,Cream,0,54,15,54,0,54,36,100,Halloween_Candy_Maker_2025,20,TID_HALLOWEEN_CANDY_DESCRIPTION,39,,,,36
+,,,,1,Halloween_candy1_25,,,,,,,,,,,,,,,,
+Halloween_candy4_25,sc/icons.sc,halloween_candy08,TID_HALLOWEEN_CANDY4_25,1,Violet Dress,0,102,15,102,0,102,84,100,Halloween_Candy_Maker_2025,25,TID_HALLOWEEN_CANDY_DESCRIPTION,87,,,,84
+,,,,1,Halloween_candy2_25,,,,,,,,,,,,,,,,
+Gift_Box1_25,sc/icons.sc,gift_package13,TID_GIFT_BOX1_25,5,Indigo,0,71,15,71,0,71,62,100,Gift_Wrapping_Station_2025,17,TID_GIFT_WRAPPING_STATION,65,,,,62
+,,,,3,Milk,,,,,,,,,,,,,,,,
+,,,,1,Carrot Pie,,,,,,,,,,,,,,,,
+Gift_Box2_25,sc/icons.sc,gift_package14,TID_GIFT_BOX2_25,5,Sugarcane,0,48,15,48,0,48,42,100,Gift_Wrapping_Station_2025,17,TID_GIFT_WRAPPING_STATION,45,,,,42
+,,,,3,Egg,,,,,,,,,,,,,,,,
+,,,,3,Bread,,,,,,,,,,,,,,,,
+Gift_Box3_25,sc/icons.sc,gift_package15,TID_GIFT_BOX3_25,5,Pumpkin,0,98,20,98,0,98,90,100,Gift_Wrapping_Station_2025,20,TID_GIFT_WRAPPING_STATION,93,,,,90
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+,,,,1,Raspberry Muffin,,,,,,,,,,,,,,,,
+Gift_Box4_25,sc/icons.sc,gift_package16,TID_GIFT_BOX4_25,5,Carrot,0,58,30,58,0,58,51,100,Gift_Wrapping_Station_2025,30,TID_GIFT_WRAPPING_STATION,54,,,,51
+,,,,3,Wool,,,,,,,,,,,,,,,,
+,,,,1,Brown_Sugar,,,,,,,,,,,,,,,,
+Halloween_candy5_25,sc/icons.sc,halloween_candy01,TID_HALLOWEEN_CANDY1_24,1,Cookie,0,60,20,60,0,60,52,100,Halloween_Candy_Maker_2025,30,TID_HALLOWEEN_CANDY_DESCRIPTION,55,,,,52
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+Halloween_candy6_25,sc/icons.sc,halloween_candy02,TID_HALLOWEEN_CANDY2_24,1,Carrot Pie,0,80,20,80,0,80,55,100,Halloween_Candy_Maker_2025,35,TID_HALLOWEEN_CANDY_DESCRIPTION,58,,,,55
+,,,,1,Halloween_candy3_25,,,,,,,,,,,,,,,,
+Halloween_candy7_25,sc/icons.sc,halloween_candy03,TID_HALLOWEEN_CANDY3_24,1,Honey,0,143,25,143,0,143,95,100,Halloween_Candy_Maker_2025,45,TID_HALLOWEEN_CANDY_DESCRIPTION,98,,,,95
+,,,,1,Halloween_candy4_25,,,,,,,,,,,,,,,,
+Halloween_candy8_25,sc/icons.sc,halloween_candy04,TID_HALLOWEEN_CANDY4_24,1,Apple Juice,0,93,35,93,0,93,74,100,Halloween_Candy_Maker_2025,60,TID_HALLOWEEN_CANDY_DESCRIPTION,77,,,,74
+,,,,1,Halloween_candy5_25,,,,,,,,,,,,,,,,
+Gift_Box5_25,sc/icons.sc,gift_package09,TID_GIFT_BOX1_24,1,Gift_Box1_25,0,113,50,113,0,113,96,100,Gift_Wrapping_Station_2025,50,TID_GIFT_WRAPPING_STATION,99,,,,96
+,,,,1,Goat Cheese,,,,,,,,,,,,,,,,
+Gift_Box6_25,sc/icons.sc,gift_package11,TID_GIFT_BOX2_24,1,Gift_Box2_25,0,80,50,80,0,80,65,100,Gift_Wrapping_Station_2025,75,TID_GIFT_WRAPPING_STATION,68,,,,65
+,,,,1,Blue Woolly Hat,,,,,,,,,,,,,,,,
+Gift_Box7_25,sc/icons.sc,gift_package10,TID_GIFT_BOX3_24,1,Gift_Box3_25,0,173,55,173,0,173,154,100,Gift_Wrapping_Station_2025,80,TID_GIFT_WRAPPING_STATION,157,,,,154
+,,,,1,Violet Dress,,,,,,,,,,,,,,,,
+Gift_Box8_25,sc/icons.sc,gift_package12,TID_GIFT_BOX4_24,1,Gift_Box4_25,0,104,65,104,0,104,87,100,Gift_Wrapping_Station_2025,85,TID_GIFT_WRAPPING_STATION,90,,,,87
+,,,,1,Hamburger,,,,,,,,,,,,,,,,
+Birthday_balloon1_26,sc/icons.sc,balloon_package09,TID_BIRTHDAY_BALLOON1_26,1,Carrot Pie,0,71,10,71,0,71,62,100,Birthday_Balloon_Maker_2026,17,TID_BIRTHDAY_BALLOON_MAKER,65,,,,78
+,,,,5,Soybean,,,,,,,,,,,,,,,,
+,,,,5,Wheat,,,,,,,,,,,,,,,,
+Birthday_balloon2_26,sc/icons.sc,balloon_package10,TID_BIRTHDAY_BALLOON2_26,1,Raspberry Muffin,0,48,20,48,0,48,42,100,Birthday_Balloon_Maker_2026,20,TID_BIRTHDAY_BALLOON_MAKER,45,,,,67
+,,,,5,Pumpkin,,,,,,,,,,,,,,,,
+,,,,5,Soybean,,,,,,,,,,,,,,,,
+Birthday_balloon3_26,sc/icons.sc,balloon_package11,TID_BIRTHDAY_BALLOON3_26,1,Tomato Juice,0,98,10,98,0,98,90,100,Birthday_Balloon_Maker_2026,35,TID_BIRTHDAY_BALLOON_MAKER,93,,,,60
+,,,,5,Potato,,,,,,,,,,,,,,,,
+,,,,1,Goat Cheese,,,,,,,,,,,,,,,,
+Birthday_balloon4_26,sc/icons.sc,balloon_package12,TID_BIRTHDAY_BALLOON4_26,1,Lamb Soup,0,58,35,58,0,58,51,100,Birthday_Balloon_Maker_2026,75,TID_BIRTHDAY_BALLOON_MAKER,54,,,,33
+,,,,5,Sesame,,,,,,,,,,,,,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+Birthday_balloon5_26,sc/icons.sc,balloon_package05,TID_BIRTHDAY_BALLOON1_25,1,Pancakes,0,113,10,113,0,113,96,100,Birthday_Balloon_Maker_2026,17,TID_BIRTHDAY_BALLOON_MAKER,99,,,,
+,,,,5,Corn,,,,,,,,,,,,,,,,
+,,,,2,Milk,,,,,,,,,,,,,,,,
+Birthday_balloon6_26,sc/icons.sc,balloon_package01,TID_BIRTHDAY_BALLOON1_24,1,Blue Sweater,0,80,20,80,0,80,65,100,Birthday_Balloon_Maker_2026,20,TID_BIRTHDAY_BALLOON_MAKER,68,,,,
+,,,,5,Carrot,,,,,,,,,,,,,,,,
+,,,,3,Bacon,,,,,,,,,,,,,,,,
+Birthday_balloon7_26,sc/icons.sc,balloon_package06,TID_BIRTHDAY_BALLOON2_25,1,Fish Pie,0,173,10,173,0,173,154,100,Birthday_Balloon_Maker_2026,30,TID_BIRTHDAY_BALLOON_MAKER,157,,,,
+,,,,5,Tomato,,,,,,,,,,,,,,,,
+,,,,2,Egg,,,,,,,,,,,,,,,,
+Birthday_balloon8_26,sc/icons.sc,balloon_package02,TID_BIRTHDAY_BALLOON2_24,1,Chocolate Cake,0,104,25,104,0,104,87,100,Birthday_Balloon_Maker_2026,45,TID_BIRTHDAY_BALLOON_MAKER,90,,,,
+,,,,3,Coffee,,,,,,,,,,,,,,,,
+,,,,1,Roasted Tomatoes,,,,,,,,,,,,,,,,

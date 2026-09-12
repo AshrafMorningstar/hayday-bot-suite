@@ -1,0 +1,6 @@
+"Name","FileName","ExportName","TileWidth","TileHeight","IdleAnim","TapSound","WalkSpeedAccuratePerSubtick","RouteTileX","RouteTileY"
+"String","String","String","int","int","String","String","int","String","String"
+"Angus","sc/fishing_humans.sc","fisherman",1,1,"Idle","MenuBleep",10,"15.20","4.30"
+,,,,,,,,"17.00","4.00"
+,,,,,,,,"18.80","4.10"
+,,,,,,,,"18.80","2.90"

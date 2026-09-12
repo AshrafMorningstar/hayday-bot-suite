@@ -1,0 +1,3 @@
+Name,FileName,ExportName,TileWidth,TileHeight,ClaimFileName,ClaimExportName,TapSound,BuildEffectFileName,BuildEffectExportName,BuildEffectStart,BuildEffectEnd,BuildEffectMS,FadeSpeed,BuildTileX,BuildTileY,TruckHelpClaimFileName,TruckHelpClaimExportName
+String,String,String,int,int,String,String,String,String,String,String,String,int,int,int,int,String,String
+Truck,sc/trucks_skins.sc,truck_0,1,2,sc/effects.sc,truck_claim,MenuBleep,sc/common.sc,construction_2x1,TruckSkinStart,TruckSkinEnd,3300,200,16,22,sc/effects.sc,happy_character

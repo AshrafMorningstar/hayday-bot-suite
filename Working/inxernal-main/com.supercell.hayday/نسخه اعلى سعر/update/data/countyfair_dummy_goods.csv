@@ -1,0 +1,4 @@
+Name,ToolIconFileName,ToolIconExportName,BonusIconFileName,BonusIconExportName,BonusTID,TID,DescriptionTID,DiamondPrice,UnlockLevel
+String,String,String,String,String,String,String,String,int,int
+CountyFairDummyLuckyBonusTicket,sc/hud_county_fair.sc,icon_lucky_bonus,,,,TID_COUNTY_FAIR_LUCKY_BONUS_TICKET,TID_COUNTY_FAIR_LUCKY_BONUS_TICKET_DESCRIPTION,1,1
+CountyFairDummyRibbon,sc/hud_county_fair.sc,task_points_dynamic,,,,TID_COUNTY_FAIR_RIBBON,TID_COUNTY_FAIR_RIBBON_DESCRIPTION,1,1

@@ -1,0 +1,11 @@
+CsvName,ExportNum
+String,int
+data/stew_pot_goods.csv,269
+data/waffle_maker_goods.csv,274
+data/omelet_maker_goods.csv,278
+data/placeholder_goods.csv,279
+data/porridge_bar_goods.csv,280
+data/milkshake_bar_goods.csv,281
+data/essentials_oils_lab_goods.csv,286
+data/perfumerie_goods.csv,294
+data/doner_kebab_stand_goods.csv,334

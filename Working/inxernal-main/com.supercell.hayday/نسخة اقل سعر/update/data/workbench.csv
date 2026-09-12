@@ -1,0 +1,7 @@
+Name,TID,ExportName,FileName,TileWidth,TileHeight,TapSound,RepairPrice,TimeMin,TimeSec,ExpToBuild,InstantComplete,BuildingHUDScale,MigrationBands,MigrationCoinDiscounts,MigrationPartsDiscounts,TutorialBuildPerkBuilding,TutorialBuildPerkType
+String,String,String,String,int,int,String,int,int,int,int,int,int,int,int,int,String,String
+BrokenWorkbench,,gardening_workbench,sc/decos03_features.sc,3,3,BuildingWorkbenchTap,1500,,,,,49,,,,,
+Workbench,TID_WORKBENCH,workbench_01,sc/buildings_new.sc,3,3,BuildingWorkbenchTap,,0,,30,0,49,0,0,0,Bakery,Queue
+,,,,,,,,,,,,49,10,10,25,,
+,,,,,,,,,,,,49,70,40,50,,
+,,,,,,,,,,,,49,90,70,75,,

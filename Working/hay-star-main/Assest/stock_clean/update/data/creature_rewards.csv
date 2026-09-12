@@ -1,0 +1,143 @@
+Name,Rewards,RewardAmounts,Probabilities
+String,String,int,int
+Tool,Axe,1,3
+,Saw,1,3
+,Shovel,1,1
+,Dynamite,1,3
+,Demolition Charge,1,2
+,Pickaxe,1,1
+Upgrade,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+TownUpgrade,Hammer,1,99
+,Hand Drill,1,99
+,Paint Bucket,1,99
+,Stone Block,1,99
+,Brick,1,99
+,Tar Bucket,1,1
+,Plank,1,1
+,Nail,1,1
+,Bolt,1,1
+,Screw,1,1
+,Duct Tape,1,1
+,Wood Panel,1,1
+Expansion,Land Deed,2,10
+,Mallet,2,10
+,Marker Stake,2,10
+,Map Piece,2,10
+,Expansion Key,1,1
+Voucher,Axe,1,1
+,Saw,1,1
+,Shovel,1,1
+,Dynamite,1,1
+,Demolition Charge,1,1
+,Pickaxe,1,1
+,Voucher1,1,99
+,Voucher2,1,95
+,Voucher3,1,90
+,Voucher4,1,85
+Diamond,FreeDiamonds,5,1
+Puzzle,Puzzle Piece 1,1,1
+Blueprints,Blueprint,1,1
+Product,White Sugar,1,1
+,Syrup,1,1
+,Cherry Popsicle,1,1
+,Raspberry Jam,1,1
+,Blackberry Jam,1,1
+,Raspberry,1,1
+,Cherry,1,1
+,Blackberry,1,1
+,Apple,1,1
+,Honey,1,1
+,Cream,1,1
+,Butter,1,1
+,Cheese,1,1
+,Goat Cheese,1,1
+,SeasonalCurrency7,5,99
+Decorations,GnomeElf,1,1
+SantaSpecial,Chasing droplets,1,1
+Deco1,Chickzilla,1,1
+,Chocobunny,1,45
+,Wood Panel,1,4
+,GachaCurrency,1,45
+,Bolt,1,4
+,FreeDiamonds,1,1
+Deco2,TNTilly,1,1
+,Chocobunny,1,45
+,Dynamite,1,4
+,GachaCurrency,1,45
+,Plank,1,4
+,FreeDiamonds,1,1
+Deco3,Sneaky beaks,1,1
+,Chocobunny,1,45
+,Nail,1,4
+,GachaCurrency,1,45
+,Screw,1,4
+,FreeDiamonds,1,1
+Deco4,Tiny Tom,1,1
+,Chocobunny,1,45
+,Bolt,1,4
+,GachaCurrency,1,45
+,Duct Tape,1,4
+,FreeDiamonds,1,1
+Deco5,Beaktiste,1,1
+,Chocobunny,1,45
+,Wood Panel,1,4
+,GachaCurrency,1,45
+,Plank,1,4
+,FreeDiamonds,1,1
+Deco6,Capy cowboy,1,1
+,Chocobunny,1,45
+,Plank,1,4
+,GachaCurrency,1,45
+,Nail,1,4
+,FreeDiamonds,1,1
+Deco7,Great hatchini,1,1
+,Chocobunny,1,45
+,Screw,1,4
+,GachaCurrency,1,45
+,Bolt,1,4
+,FreeDiamonds,1,1
+RewardPlaceholder1,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder2,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder3,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder4,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder5,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder6,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder7,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder8,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder9,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder10,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder11,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder12,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder13,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder14,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder15,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder16,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder17,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder18,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder19,GnomeElf,1,1
+,Goat Cheese,1,1
+RewardPlaceholder20,GnomeElf,1,1
+,Goat Cheese,1,1

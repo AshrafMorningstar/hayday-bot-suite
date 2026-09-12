@@ -1,0 +1,5 @@
+Name,MaxPoints,DiamondCost
+String,int,int
+DiamondSkipBucket1,3,1
+DiamondSkipBucket2,5,2
+DiamondSkipBucket3,6,5

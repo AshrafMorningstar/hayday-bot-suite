@@ -1,0 +1,21 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Plain Waffles,sc/icons.sc,recipe_plainwaffles,TID_PRODUCT_PLAIN_WAFFLES,Waffle_Maker,3,Egg,0,103,99,24,0,1,38,48,114,TID_WAFFLE_MAKER_PRODUCT_DESCRIPTION,41,,38
+,,,,,5,Wheat,,,,,,,,,,,,,
+,,,,,2,White Sugar,,,,,,,,,,,,,
+Breakfast Waffles,sc/icons.sc,recipe_breakfastwaffles,TID_PRODUCT_BREAKFAST_WAFFLES,Waffle_Maker,2,Bacon,0,220,212,51,0,1,81,91,119,TID_WAFFLE_MAKER_PRODUCT_DESCRIPTION,84,,81
+,,,,,1,Egg,,,,,,,,,,,,,
+,,,,,1,Plain Waffles,,,,,,,,,,,,,
+,,,,,2,Asparagus,,,,,,,,,,,,,
+Berry Waffles,sc/icons.sc,recipe_berrywaffles,TID_PRODUCT_BERRY_WAFFLES,Waffle_Maker,1,Syrup,0,311,299,72,0,1,117,137,114,TID_WAFFLE_MAKER_PRODUCT_DESCRIPTION,120,,117
+,,,,,1,Plain Waffles,,,,,,,,,,,,,
+,,,,,3,Raspberry,,,,,,,,,,,,,
+,,,,,2,Blackberry,,,,,,,,,,,,,
+Chocolate Waffles,sc/icons.sc,recipe_chocolatewaffles,TID_PRODUCT_CHOCOLATE_WAFFLES,Waffle_Maker,2,Cacao,0,329,316,76,0,1,120,130,117,TID_WAFFLE_MAKER_PRODUCT_DESCRIPTION,123,,120
+,,,,,1,Plain Waffles,,,,,,,,,,,,,
+,,,,,3,Strawberry,,,,,,,,,,,,,
+,,,,,1,Banana,,,,,,,,,,,,,
+White Chocolate Blueberry Waffle,sc/icons.sc,recipe_whitechocolate_blueberry_waffles,TID_PRODUCT_WHITE_CHOCOLATE_BLUEBERRY_WAFFLES,Waffle_Maker,2,Cacao,0,345,332,80,0,1,127,137,118,TID_WAFFLE_MAKER_PRODUCT_DESCRIPTION,130,,127
+,,,,,1,Plain Waffles,,,,,,,,,,,,,
+,,,,,3,Blueberry,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,

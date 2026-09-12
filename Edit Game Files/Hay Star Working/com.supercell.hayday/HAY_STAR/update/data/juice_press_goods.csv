@@ -1,0 +1,15 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,ProcessingBuilding,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,int,String,int,int,int,int,int,int,int,int,String,int,string,int,Boolean,int
+Carrot Juice,sc/icons.sc,recipe_carrot_juice,TID_CARROT_JUICE,3,Carrot,30,500,500,100,3,1,9,9,Juice_Press,26,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,12,,9
+Tomato Juice,sc/icons.sc,recipe_tomato_juice,TID_TOMATO_JUICE,3,Tomato,90,500,500,100,5,1,29,29,Juice_Press,31,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,34,,29
+Apple Juice,sc/icons.sc,recipe_apple_juice,TID_APPLE_JUICE,2,Apple,120,500,500,100,5,1,23,23,Juice_Press,28,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,28,,23
+Cherry Juice,sc/icons.sc,recipe_cherry_juice,TID_CHERRY_JUICE,2,Cherry,150,555,535,130,6,1,40,40,Juice_Press,30,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,46,,40
+Berry Juice,sc/icons.sc,recipe_berry_juice,TID_BERRY_JUICE,1,Raspberry,180,530,510,120,6,1,38,38,Juice_Press,31,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,44,,38
+,,,,1,Blackberry,,,,,,,,,,,,,,
+Orange Juice,sc/icons.sc,recipe_orange_juice,TID_PRODUCT_ORANGEJUICE,2,Orange,120,600,580,140,5,1,41,41,Juice_Press,71,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,46,,41
+Grape Juice,sc/icons.sc,recipe_grape_juice,TID_GRAPE_JUICE,2,Grapes,150,500,500,100,6,1,18,18,Juice_Press,84,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,24,,18
+WatermelonLemonade,sc/icons.sc,recipe_watermelon_juice,TID_PRODUCT_WATERMELONLEMONADE,2,Watermelon,60,500,500,100,4,1,20,20,Juice_Press,92,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,24,,20
+Pineapple Juice,sc/icons.sc,recipe_pineapple_juice,TID_PINEAPPLE_JUICE,3,Pineapple,45,500,500,100,3,1,12,12,Juice_Press,52,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,15,,12
+Passion Fruit Juice,sc/icons.sc,recipe_passionfruit_juice,TID_PASSION_FRUIT_JUICE,2,PassionFruit,45,500,500,100,3,1,11,11,Juice_Press,88,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,14,,11
+Mango Juice,sc/icons.sc,recipe_mango_juice,TID_MANGO_JUICE,2,Mango,50,595,570,135,3,1,39,39,Juice_Press,97,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,42,,39
+Guava Juice,sc/icons.sc,recipe_guava_juice,TID_GUAVA_JUICE,2,Guava,55,645,620,150,4,1,42,42,Juice_Press,104,TID_JUICE_PRESS_PRODUCT_DESCRIPTION,46,,42

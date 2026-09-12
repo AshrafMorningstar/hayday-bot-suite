@@ -1,0 +1,11 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,int
+Vanilla Milkshake,sc/icons.sc,recipe_vanilla_milkshake,TID_PRODUCT_DECADENT_MILKSHAKE,Milkshake_Bar,1,Vanilla Ice Cream,0,347,334,80,0,1,116,142,124,TID_MILKSHAKE_BAR_PRODUCT_DESCRIPTION,119,116
+,,,,,2,Cookie,,,,,,,,,,,,
+,,,,,1,Toffee,,,,,,,,,,,,
+,,,,,1,Syrup,,,,,,,,,,,,
+Mocha Milkshake,sc/icons.sc,recipe_mocha_milkshake,TID_PRODUCT_MOCHA_MILKSHAKE,Milkshake_Bar,1,Chocolate Ice Cream,0,442,425,102,0,1,156,171,125,TID_MILKSHAKE_BAR_PRODUCT_DESCRIPTION,159,156
+,,,,,2,Espreso,,,,,,,,,,,,
+Fruity Milkshake,sc/icons.sc,recipe_fruity_milkshake,TID_PRODUCT_FRUITY_MILKSHAKE,Milkshake_Bar,1,Peach Ice Cream,0,392,377,90,0,1,113,113,126,TID_MILKSHAKE_BAR_PRODUCT_DESCRIPTION,116,113
+,,,,,2,Orange,,,,,,,,,,,,
+,,,,,1,Lemon,,,,,,,,,,,,

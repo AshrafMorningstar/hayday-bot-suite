@@ -1,0 +1,32 @@
+Name,Rewards,RewardAmounts,Probabilities,Sequential
+String,String,int,int,Boolean
+MapGameToolRewardSet1,Axe,1,7,FALSE
+,Saw,1,7,
+,Shovel,1,7,
+,Dynamite,1,7,
+,Demolition Charge,1,7,
+,Pickaxe,1,7,
+,MapGameCoinBlue,5,10,
+,MapGameCoinRed,5,10,
+,MapGameCoinGreen,5,10,
+,FreeDiamonds,2,1,
+,Cream,1,10,
+,Brown_Sugar,1,10,
+,Butter,1,10,
+,Cheese,1,10,
+,White Sugar,1,10,
+,Syrup,1,10,
+,Voucher1,3,5,
+,Voucher2,3,5,
+,Voucher3,2,5,
+,Voucher4,1,5,
+MapGameToolRewardSet2,Axe,4,10,FALSE
+,Dynamite,5,10,
+,Demolition Charge,6,10,
+MapGameCoinRewardSet1,MapGameCoinBlue,10,10,FALSE
+,MapGameCoinRed,10,10,
+,MapGameCoinGreen,10,10,
+MapGameCoinRewardSet2,MapGameCoinBlue,15,10,FALSE
+,MapGameCoinRed,15,10,
+,MapGameCoinGreen,15,10,
+MapGameChickenRewardSet1,MapGameCoinChicken,1,10,

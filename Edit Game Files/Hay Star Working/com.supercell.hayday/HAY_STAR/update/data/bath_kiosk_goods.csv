@@ -1,0 +1,16 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Exfoliating Soap,sc/icons.sc,recipe_exfoliating_soap,TID_PRODUCT_EXFOLIATINGSOAP,Bath_Kiosk,2,Cacao,60,935,900,215,4,1,69,69,93,TID_BATHKIOSK_PRODUCT_DESC,73,,69
+,,,,,2,Coffee,,,,,,,,,,,,,
+,,,,,1,Raspberry,,,,,,,,,,,,,
+Face Mask,sc/icons.sc,recipe_honey_mask,TID_PRODUCT_FACEMASK,Bath_Kiosk,2,Egg,90,825,795,190,5,1,39,39,99,TID_BATHKIOSK_PRODUCT_DESC,44,,39
+,,,,,1,Lemon,,,,,,,,,,,,,
+,,,,,1,Honey,,,,,,,,,,,,,
+Honey Soap,sc/icons.sc,recipe_honey_soap,TID_PRODUCT_HONEYSOAP,Bath_Kiosk,2,Cacao,60,845,810,195,4,1,52,52,84,TID_BATHKIOSK_PRODUCT_DESC,56,,52
+,,,,,1,Goat Milk,,,,,,,,,,,,,
+,,,,,1,Honeycomb,,,,,,,,,,,,,
+Lemon Lotion,sc/icons.sc,recipe_lemon_lotion,TID_PRODUCT_LEMONLOTION,Bath_Kiosk,1,OliveOil,75,1035,995,240,4,1,76,76,84,TID_BATHKIOSK_PRODUCT_DESC,80,,76
+,,,,,1,Lemon,,,,,,,,,,,,,
+Rich soap,sc/icons.sc,recipe_rich_soap,TID_PRODUCT_RICHSOAP,Bath_Kiosk,2,Oats,70,685,660,160,4,1,42,42,121,TID_BATHKIOSK_PRODUCT_DESC,46,,42
+,,,,,1,Pomegranate,,,,,,,,,,,,,
+,,,,,1,Coconut,,,,,,,,,,,,,

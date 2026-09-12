@@ -1,0 +1,16 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Cheese fondue,sc/icons.sc,recipe_cheese_fondue,TID_PRODUCT_CHEESE_FONDUE,Fondue_Maker,1,Potato Bread,0,254,245,59,0,1,89,94,91,TID_FONDUE_MAKER_PRODUCT_DESCRIPTION,91,,89
+,,,,,1,Cheese,,,,,,,,,,,,,
+,,,,,2,Mushroom,,,,,,,,,,,,,
+,,,,,1,Tomato,,,,,,,,,,,,,
+Meat fondue,sc/icons.sc,recipe_meat_fondue,TID_PRODUCT_MEAT_FONDUE,Fondue_Maker,3,Bacon,0,261,251,60,0,1,98,98,86,TID_FONDUE_MAKER_PRODUCT_DESCRIPTION,101,,98
+,,,,,1,OliveOil,,,,,,,,,,,,,
+,,,,,1,Broccoli,,,,,,,,,,,,,
+,,,,,1,Bellpepper,,,,,,,,,,,,,
+Chocolate fondue,sc/icons.sc,recipe_chocolate_fondue,TID_PRODUCT_CHOCOLATE_FONDUE,Fondue_Maker,1,Chocolate,0,322,310,74,0,1,113,118,81,TID_FONDUE_MAKER_PRODUCT_DESCRIPTION,116,,113
+,,,,,3,Strawberry,,,,,,,,,,,,,
+Tropical fondue,sc/icons.sc,recipe_tropical_fondue,TID_PRODUCT_TROPICAL_FONDUE,Fondue_Maker,2,Mango,0,216,208,50,0,1,73,78,100,TID_FONDUE_MAKER_PRODUCT_DESCRIPTION,76,,73
+,,,,,3,Pineapple,,,,,,,,,,,,,
+,,,,,2,Cream,,,,,,,,,,,,,
+,,,,,1,White Sugar,,,,,,,,,,,,,

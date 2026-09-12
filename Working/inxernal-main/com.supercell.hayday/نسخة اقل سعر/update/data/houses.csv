@@ -1,0 +1,12 @@
+Name,FileName,ExportName,RequiredAchievementPoints,TileWidth,TileHeight,BrokenPartCount,BrokenExportName,EffectFileName,EffectExportName,TapSound,CollectSound,BuildEffectFileName,BuildEffectExportName,BuildEffectStart,BuildEffectEnd,BuildEffectMS,FadeSpeed,BuildTileX,BuildTileY
+String,String,String,int,int,int,int,String,String,String,String,String,String,String,String,String,int,int,int,int
+Home building,sc/whitehouse_skins.sc,home_01,,4,4,6,home_01_broken,sc/effects.sc,repairsmoke_03,MenuBleep,CoinXpExplosion,sc/common.sc,construction_4x4,HouseSkinStart,HouseSkinEnd,3300,200,16,18
+,sc/whitehouse_skins.sc,home_02,1,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_03,4,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_04,7,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_05,10,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_06,12,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_07,14,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_08,16,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_09,18,,,,,,,,,,,,,,,,
+,sc/whitehouse_skins.sc,home_10_customizable,20,,,,,,,,,,,,,,,,

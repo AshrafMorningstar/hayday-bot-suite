@@ -1,0 +1,6 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Fish Meat,sc/icons.sc,icon_fishfilet,TID_FISHMEAT,500,500,100,11,1,11,11,27,TID_FISHMEAT_DESCRIPTION,22,,11
+Lobster Meat,sc/icons.sc,icon_lobster_meat,TID_LOBSTER_MEAT,520,500,120,8,1,21,29,44,TID_LOBSTER_MEAT_DESCRIPTION,29,,21
+Duck Down,sc/icons.sc,icon_duck_feathers,TID_DUCK_DOWN,500,500,100,6,1,15,21,50,TID_DUCK_DOWN_DESCRIPTION,21,,15
+Mussel Meat,sc/icons.sc,icon_fishfilet,TID_MUSSEL_MEAT,500,500,100,11,1,11,11,1,TID_MUSSEL_MEAT_DESCRIPTION,22,TRUE,11

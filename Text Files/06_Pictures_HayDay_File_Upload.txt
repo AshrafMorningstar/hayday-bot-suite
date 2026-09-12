@@ -1,0 +1,79 @@
+==========================================================================================
+CONVERSATION 06: Pictures Backup & Hay Day Assets Upload
+Category:     File Management
+Session ID:   940bd130-2630-4800-bea4-5eee0e1f8ffe
+Date/Time:    2026-09-07T11:45:11-07:00
+Total Turns:  2
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+TURN 1 | Timestamp: 2026-09-07T11:45:11-07:00
+------------------------------------------------------------------------------------------
+
+[USER PROMPT]:
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh upload this file in the program before starting the program it will be automatically upload the files fully automatically and also there are options for example a clean launch or by file uploading did give a choice before starting the program
+
+[ASSISTANT RESPONSE]:
+[Actions performed: Executed 12 file edits, commands, or tool actions in the background.]
+
+------------------------------------------------------------------------------------------
+TURN 2 | Timestamp: 2026-09-07T11:46:25-07:00
+------------------------------------------------------------------------------------------
+
+[USER PROMPT]:
+C:\Users\Admin\Pictures\back\inxernal-main\com.supercell.hayday Uh upload this file in the program before starting the program it will be automatically upload the files fully automatically and also there are options for example a clean launch or by file uploading did give a choice before starting the program
+
+[ASSISTANT RESPONSE]:
+I have created the implementation plan for automatically uploading custom assets from `com.supercell.hayday` to the game before launch and providing a pre-launch choice between **Modded Launch (Upload Files)**, **Clean Launch (Vanilla)**, and **Direct Launch**:
+
+- Details: [implementation_plan.md](file:///C:/Users/Admin/.gemini/antigravity-ide/brain/940bd130-2630-4800-bea4-5eee0e1f8ffe/implementation_plan.md)
+
+### Key Capabilities Included:
+1. **Interactive Choice Before Launch**:
+   - `[1] Upload Modded Assets & Launch`: Automatically pushes `com.supercell.hayday\نسخه اعلى سعر\update` (`data`, `fingerprint.json`, `localization`, `sc`) to `/data/user/0/com.supercell.hayday/update/` with proper app ownership & permissions.
+   - `[2] Clean Launch`: Removes modded update files so Hay Day starts clean and vanilla.
+   - `[3] Direct Launch`: Launches the game keeping current device files as-is.
+2. **CLI Flags & Non-blocking Support**: Supports `--upload`, `--clean`, and `--skip-upload` flags for automated runs or shortcuts.
+3. **UI Integration**: Adds launch mode controls and quick upload/clean buttons to the web interface and REST API.
+
+Please review the plan and click **Proceed** or let me know if you would like any adjustments!
+
+I have implemented the automatic asset upload and pre-launch mode selection for `com.supercell.hayday`.
+
+### Summary of Changes
+
+1. **Pre-Launch Mode Selection Menu ([loader.py](file:///c:/Users/Admin/Pictures/back/inxernal-main/loader.py))**:
+   - When starting `loader.py` or double-clicking `run_loader.bat`, an interactive menu prompts you before the game launches:
+     ```text
+     ==============================================================
+                     HAY DAY LAUNCH CONFIGURATION
+     ==============================================================
+      Available Modded Asset Packs:
+        [1] نسخه اعلى سعر (399 files, 17.5 MB)
+     --------------------------------------------------------------
+      Select Launch Mode:
+        [1] Upload Modded Assets & Launch  (Auto sync before start)
+        [2] Clean Launch                  (Remove modded assets, vanilla)
+        [3] Direct Launch                 (Keep current device assets)
+     ==============================================================
+      Enter choice [1/2/3] (Press Enter for 1):
+     ```
+   - **[1] Upload Modded Assets (Default)**: Automatically uploads all 399 files from `com.supercell.hayday\نسخه اعلى سعر\update` into `/data/user/0/com.supercell.hayday/update/` on the device, sets proper app UID/GID ownership & `0777` permissions, and launches the game with custom prices and configs.
+   - **[2] Clean Launch**: Cleans custom update assets from the device so Hay Day starts completely vanilla.
+   - **[3] Direct Launch**: Skips file synchronization and keeps current device assets.
+
+2. **CLI Flags & Non-blocking Support**:
+   - Use `python loader.py --upload` for instant modded upload without prompting.
+   - Use `python loader.py --clean` for instant clean launch.
+   - Use `python loader.py --skip-upload` for direct launch.
+
+3. **Web UI Integration ([ui_server.py](file:///c:/Users/Admin/Pictures/back/inxernal-main/ui_server.py), [ui/index.html](file:///c:/Users/Admin/Pictures/back/inxernal-main/ui/index.html), [ui/app.js](file:///c:/Users/Admin/Pictures/back/inxernal-main/ui/app.js))**:
+   - Added **Launch Mode** dropdown (`Upload Modded Assets`, `Clean Launch`, `Direct Launch`) directly in the UI control bar and Accounts tab.
+   - Added **`[ Upload Assets ]`** and **`[ Clean Assets ]`** one-click buttons with live status badges.
+   - Added `/api/assets` REST endpoints for remote control over HTTP.
+
+4. **Live Verification**:
+   - Verified asset detection, upload (~0.8s deployment), permission configuration (`10061:10061`), clean wipe, and UI REST endpoints on `emulator-5554`.
+
+For full details and test logs, see the [walkthrough.md](file:///C:/Users/Admin/.gemini/antigravity-ide/brain/940bd130-2630-4800-bea4-5eee0e1f8ffe/walkthrough.md).
+

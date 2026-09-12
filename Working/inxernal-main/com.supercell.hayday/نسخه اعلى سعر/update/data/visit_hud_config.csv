@@ -1,0 +1,8 @@
+Name,BooleanValue
+String,boolean
+HideSettingsButton,FALSE
+HideNewsButton,FALSE
+HideStickerBookButton,FALSE
+HideEventButtons,FALSE
+HidePassButton,FALSE
+HideTopHudRight,FALSE

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="GameSCIDSocial">TRUE</string>
+    <string name="music_env3">true</string>
+    <string name="SCID_PROD_CURRENT_ACCOUNT_SUPERCELL_ID">85-5bc3ea7c-6a68-4748-8ab0-95d6826c4e80</string>
+    <string name="PLAY_REFERRER_REFERRER_URL">utm_source=google-play&amp;utm_medium=organic</string>
+    <string name="lower_env3">1692100</string>
+    <string name="sc_access_policy_last_seen">{&quot;v&quot;:1,&quot;ageAssurance&quot;:0,&quot;isYoungPlayer&quot;:false,&quot;available&quot;:[true,true,true,true,true,true,true,true,true],&quot;requirement&quot;:[0,0,0,0,0,0,0,0,0]}</string>
+    <string name="PLAY_REFERRER_QUERIED">1</string>
+    <string name="SCID_PROD_HAS_USED_SUPERCELL_ACCOUNT">true</string>
+    <string name="current_theme_end">1796112013</string>
+    <string name="current_loading_screen">cache:/events/991e0961-728f-4056-af80-c27129da7d10_loading_screen_harvest.sc</string>
+    <string name="SCID_PROD_ACCOUNTS">{&quot;85-5bc3ea7c-6a68-4748-8ab0-95d6826c4e80&quot;:{&quot;supercellId&quot;:&quot;85-5bc3ea7c-6a68-4748-8ab0-95d6826c4e80&quot;,&quot;email&quot;:&quot;ashrafmorningstar@gmail.com&quot;,&quot;token&quot;:&quot;eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJpZC5zdXBlcmNlbGwuY29tIiwiaWF0IjoxNzg4OTc0MDU3LCJzdWIiOiI4NS01YmMzZWE3Yy02YTY4LTQ3NDgtOGFiMC05NWQ2ODI2YzRlODAiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vdHlwZSI6ImFjY291bnQiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vYXBwIjoic29pbCIsImh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9hcHBFbnYiOiJwcm9kIiwiaHR0cHM6Ly9pZC5zdXBlcmNlbGwuY29tL2FwcEFjY291bnRJZCI6IjEtMTY5MjEwMCIsInNjaWQiOiI4NS01YmMzZWE3Yy02YTY4LTQ3NDgtOGFiMC05NWQ2ODI2YzRlODAiLCJnYW1lIjoic29pbCIsImVudiI6InByb2QiLCJwaWQiOiIxLTE2OTIxMDAiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vaW5pdGlhbFJlZnJlc2hUb2tlbklzc3VlZEF0IjoxNzg4OTc0MDU3fQ.7ndJjRvHKDPzoeFxMf84bPQ1t7Q2w8XXHWLHvBGbmLeum4g8p-wVOwpupp1Idig-0Vz3eSls-15G7ZfMSZubNw&quot;}}</string>
+    <string name="PLAY_REFERRER_REFERRER_CLICK_TIME">0</string>
+    <string name="INSTALL_ID">pkDHTxmM</string>
+    <string name="language_code_env3">EN</string>
+    <string name="higher_env3">1</string>
+    <string name="CachedLocation">IN</string>
+    <string name="GoogleFirstLogin">TRUE</string>
+    <string name="sounds_env3">true</string>
+    <string name="good_performance_env3">true</string>
+    <string name="sc_privacy_init_flow_data">{&quot;0-45886469&quot;:{&quot;game&quot;:&quot;soil&quot;,&quot;playerInitID&quot;:&quot;942eee56-4798-4bee-f3bc-aa14093bdcf3&quot;,&quot;birthdateSeconds&quot;:0,&quot;lastUpdatedTimeEpochSeconds&quot;:1788973982,&quot;lastTOSAcceptedTimeEpochSeconds&quot;:0,&quot;parentalConsentAcknowledgedTimeEpochSeconds&quot;:0,&quot;createdWithInitFlow&quot;:true},&quot;1-1692100&quot;:{&quot;game&quot;:&quot;soil&quot;,&quot;playerInitID&quot;:&quot;33b835ef-bb4e-113b-aa9a-1f3e30c5b2cb&quot;,&quot;birthdateSeconds&quot;:0,&quot;lastUpdatedTimeEpochSeconds&quot;:1788974179,&quot;lastTOSAcceptedTimeEpochSeconds&quot;:0,&quot;parentalConsentAcknowledgedTimeEpochSeconds&quot;:0,&quot;createdWithInitFlow&quot;:false}}</string>
+    <string name="PLAY_REFERRER_INSTANT_APP_LAUNCHED">0</string>
+    <string name="titan.deviceinformation.sent">v1</string>
+    <string name="current_theme">_autumn</string>
+    <string name="tier_env3">2</string>
+    <string name="current_loading_screen_end">1789459200</string>
+    <string name="passToken_env3">yhsefky4tra42pew8ce2zdfmychhba3sbr3dndsg</string>
+    <string name="PLAY_REFERRER_INSTALL_TIME">0</string>
+</map>

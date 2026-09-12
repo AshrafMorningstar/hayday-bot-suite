@@ -1,0 +1,13 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Chickpea Stew,sc/icons.sc,recipe_chickpea_stew,TID_CHICKPEA_STEW,Stew_Pot,3,Chickpea,0,147,141,34,0,1,52,52,106,TID_STEW_POT_PRODUCT_DESCRIPTION,57,,52
+,,,,,2,Tomato,,,,,,,,,,,,,
+,,,,,1,Coconut,,,,,,,,,,,,,
+Winter Stew,sc/icons.sc,recipe_winter_stew,TID_WINTER_STEW,Stew_Pot,1,Bacon,0,153,147,35,0,1,57,57,112,TID_STEW_POT_PRODUCT_DESCRIPTION,63,,57
+,,,,,3,Potato,,,,,,,,,,,,,
+,,,,,2,Mushroom,,,,,,,,,,,,,
+,,,,,2,Onion,,,,,,,,,,,,,
+Chili Stew,sc/icons.sc,recipe_chili_stew,TID_CHILI_STEW,Stew_Pot,2,Bacon,0,192,185,44,0,1,70,70,109,TID_STEW_POT_PRODUCT_DESCRIPTION,75,,70
+,,,,,3,Chili,,,,,,,,,,,,,
+,,,,,2,Onion,,,,,,,,,,,,,
+,,,,,1,Cream,,,,,,,,,,,,,

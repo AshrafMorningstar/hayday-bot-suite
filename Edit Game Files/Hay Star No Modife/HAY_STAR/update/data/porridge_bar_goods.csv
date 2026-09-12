@@ -1,0 +1,12 @@
+﻿Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Apple porridge,sc/icons.sc,recipe_apple_porridge,TID_PRODUCT_PORRIDGE_APPLE,Porridge_Bar,2,Apple Jam,20,1345,1295,310,2,1,71,71,119,TID_PORRIDGE_BAR_PRODUCT_DESCRIPTION,73,,71
+,,,,,4,Oats,,,,,,,,,,,,,
+,,,,,1,Apple,,,,,,,,,,,,,
+Sweet porridge,sc/icons.sc,recipe_sweet_porridge,TID_PRODUCT_PORRIDGE_SWEET,Porridge_Bar,3,Oats,45,1185,1140,275,3,1,39,39,120,TID_PORRIDGE_BAR_PRODUCT_DESCRIPTION,42,,39
+,,,,,1,Peach,,,,,,,,,,,,,
+,,,,,2,Honey,,,,,,,,,,,,,
+Fresh porridge,sc/icons.sc,recipe_fresh_porridge,TID_PRODUCT_PORRIDGE_FRESH,Porridge_Bar,3,Oats,35,1120,1080,260,3,1,73,73,122,TID_PORRIDGE_BAR_PRODUCT_DESCRIPTION,76,,73
+,,,,,1,Pomegranate,,,,,,,,,,,,,
+,,,,,2,Mint,,,,,,,,,,,,,
+,,,,,2,Coconut,,,,,,,,,,,,,

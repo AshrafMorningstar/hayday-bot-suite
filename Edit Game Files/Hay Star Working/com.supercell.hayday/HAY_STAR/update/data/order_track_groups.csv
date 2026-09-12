@@ -1,0 +1,17 @@
+Name,ToLevel,OrderTrack
+String,int,String
+Track5Easy,40,Track5E40
+,60,Track5E60
+,100,Track5E100
+,9999,Track5E9999
+Track5Hard,40,Track5H40
+,60,Track5H60
+,100,Track5H100
+,9999,Track5H9999
+BoatTrackGroupAll,9999,BoatTrackBasic
+BoatTrackGroupReturning,9999,BoatTrackReturning
+TrackPBM,40,TrackPBM_40
+,60,TrackPBM_60
+,100,TrackPBM_100
+,9999,TrackPBM_9999
+BoatTrackGroupNM,9999,BoatNauticalMilesTrack

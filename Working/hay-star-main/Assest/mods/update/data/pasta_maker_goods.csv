@@ -1,0 +1,5 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+Raw Pasta,sc/icons.sc,recipe_pasta_sheet,TID_PRODUCT_RAWPASTA,Pasta_Maker,2,Wheat,15,22,21,5,2,1,8,8,67,TID_PASTA_MAKER_PRODUCT_DESCRIPTION,10,,8
+,,,,,1,Egg,,,,,,,,,,,,,
+Rice Noodles,sc/icons.sc,recipe_rice_noodles,TID_PRODUCT_RICENOODLES,Pasta_Maker,5,Rice,20,52,50,12,2,1,17,17,73,TID_PASTA_MAKER_PRODUCT_DESCRIPTION,19,,17

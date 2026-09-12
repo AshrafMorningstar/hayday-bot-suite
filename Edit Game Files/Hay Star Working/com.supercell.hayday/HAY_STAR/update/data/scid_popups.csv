@@ -1,0 +1,4 @@
+Name,Enabled,SortOrder,MinPlayerLevel,MaxPlayerLevel,LevelUpTrigger,IAPTrigger,DecoCollectionTrigger,NHTrigger,DerbyTrigger,DecosPlacedTrigger,NumDecos,AchievementTooltip,UseBigGiftDisplay,HeaderText,Point1Text,Point2Text,Point3Text,ShowDelaySeconds,BgImageURL,Gift1Scale,Gift1Offset,Gift2Scale,Gift2Offset
+String,boolean,int,int,int,boolean,boolean,boolean,boolean,boolean,boolean,int,boolean,boolean,String,String,String,String,int,String,int,String,int,String
+lowLevel,TRUE,1000,6,999,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,5,TRUE,TRUE,TID_SCID_POPUP_HEADER,TID_SCID_POPUP_POINT_1,TID_SCID_POPUP_POINT_2,TID_SCID_POPUP_POINT_3,10,,90,0;5,100,0;15
+highLevel,TRUE,1000,1000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,5,TRUE,FALSE,TID_SCID_POPUP_HEADER,TID_SCID_POPUP_POINT_1,TID_SCID_POPUP_POINT_2,TID_SCID_POPUP_POINT_3,10,,80,0;0,60,0;0

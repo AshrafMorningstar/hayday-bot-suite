@@ -1,0 +1,3 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ExpCollect,UnlockLevel,DescriptionTID,DiamondPrice,PendingRelease,RewardGood,RewardGoodAmount,PearlReward,PearlRewardAmount,PearlRewardChancePercent
+String,String,String,String,int,int,String,int,Boolean,String,int,String,int,int
+Mussel,sc/icons.sc,icon_apple,TID_MUSSEL,7,1,TID_MUSSEL_DESCRIPTION,1,TRUE,Mussel Meat,1,Pearl,1,50

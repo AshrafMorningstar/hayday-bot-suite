@@ -1,0 +1,1645 @@
+{
+  "metadata": {
+    "total_ids": 266,
+    "total_named": 19,
+    "files_scanned": 375,
+    "source": "C:\\Users\\Admin\\Documents\\hay-star-main\\install_time_asset_pack\\assets\\data"
+  },
+  "ids_by_category": {
+    "Animal Feeds": [
+      {
+        "id": 6007000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6027000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6047000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6067000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6087000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6107000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6127000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6147000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6167000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6187000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6207000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6227000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6247000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6267000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6287000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6307000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6327000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6347000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6367000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6387000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6407000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6427000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6447000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6467000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6480000,
+        "name": "",
+        "source": "sanctuary_events.csv",
+        "column": "SanctuaryAnimalWeight"
+      },
+      {
+        "id": 6487000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6507000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6527000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6547000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6567000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6587000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6607000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6627000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6647000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6667000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6687000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6707000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6727000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6747000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6767000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6787000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6807000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6827000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6847000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6867000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6887000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6907000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6927000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6947000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6967000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 6987000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Crops & Seeds": [
+      {
+        "id": 4007000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4018000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4029000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4040000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4051000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4062000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4073000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4084000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4095000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4106000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4117000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4128000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4139000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4150000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4161000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4172000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4183000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4194000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4205000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4216000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4227000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4238000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4249000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4260000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4271000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4282000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4293000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4304000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4315000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4326000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4337000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4348000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4359000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4370000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4381000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4392000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4403000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4414000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4425000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4436000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4447000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4458000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4469000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4480000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4491000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4502000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4513000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4524000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4535000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4546000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4557000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4568000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4579000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4590000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4601000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4612000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4623000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4634000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4645000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4656000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4667000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4678000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4689000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4700000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4711000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4722000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4733000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4744000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4755000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4766000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4777000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4788000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4799000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4810000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4821000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4832000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4843000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4854000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4865000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4876000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4887000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4898000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4909000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4920000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4931000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4942000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4953000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4964000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4975000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4986000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 4997000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Fishing Items": [
+      {
+        "id": 7007000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7027000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7047000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7067000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7087000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7107000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7127000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7147000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7167000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7187000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7207000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7227000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7247000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7267000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7287000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7307000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7327000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7347000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7367000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7387000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7407000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7427000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7447000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7467000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7487000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7507000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7527000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7547000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7567000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7587000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7607000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7627000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7647000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7667000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7687000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7707000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7727000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7747000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7767000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7787000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7807000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7827000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7847000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7867000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7887000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7907000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7927000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7947000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7967000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 7987000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Sanctuary Items": [
+      {
+        "id": 8007000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8027000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8047000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8067000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8087000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8107000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8127000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8147000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8167000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8187000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8207000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8227000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8247000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8267000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8287000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8307000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8327000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8347000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8367000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8387000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8407000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8427000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8447000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8467000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8487000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8507000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8527000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8547000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8567000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8587000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8607000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8627000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8647000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8667000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8687000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8707000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8727000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8747000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8767000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8787000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8807000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8827000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8847000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8867000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8887000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8907000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8927000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8947000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8967000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 8987000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Unknown Class 1": [
+      {
+        "id": 1000000,
+        "name": "",
+        "source": "decorations.csv",
+        "column": "Price"
+      },
+      {
+        "id": 1004000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 1015000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 1026000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 1037000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 1048000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 1050000,
+        "name": "",
+        "source": "processing_buildings.csv",
+        "column": "Price"
+      }
+    ],
+    "Unknown Class 2": [
+      {
+        "id": 2005000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 2016000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 2027000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 2038000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 2049000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Unknown Class 3": [
+      {
+        "id": 3006000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 3017000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 3028000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 3039000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 3050000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Unknown Class 5": [
+      {
+        "id": 5008000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 5019000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 5030000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 5041000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ],
+    "Unknown Class 9": [
+      {
+        "id": 9007000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 9027000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      },
+      {
+        "id": 9047000,
+        "name": "",
+        "source": "exp_levels.csv",
+        "column": "ExpToNextLevel"
+      }
+    ]
+  },
+  "name_map": {
+    "1900031": "BoatOrderComplete\"",
+    "9700000": "Fish_1 (fishes)",
+    "9700001": "Fish_7 (fishes)",
+    "9700002": "Fish_6 (fishes)",
+    "9700003": "Fish_10 (fishes)",
+    "9700004": "Fish_13 (fishes)",
+    "9700005": "Fish_14 (fishes)\"",
+    "9700006": "Fish_36 (fishes)",
+    "9700007": "Fish_17 (fishes)",
+    "9700008": "Fish_3 (fishes)",
+    "9700009": "Fish_19 (fishes)",
+    "9700010": "Fish_20 (fishes)",
+    "9700011": "Fish_25 (fishes)",
+    "9700012": "Fish_2 (fishes)",
+    "9700013": "Fish_52 (fishes)",
+    "9700014": "Fish_56 (fishes)",
+    "9700015": "Fish_38 (fishes)",
+    "9700016": "Fish_27 (fishes)",
+    "9700017": "Fish_43 (fishes)"
+  }
+}

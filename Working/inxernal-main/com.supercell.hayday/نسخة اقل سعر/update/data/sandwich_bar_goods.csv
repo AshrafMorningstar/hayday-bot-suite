@@ -1,0 +1,33 @@
+Name,ToolIconFileName,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty,PendingRelease,OrderValueV2
+String,String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int,Boolean,int
+BLTToast,sc/icons.sc,recipe_blt_toast,TID_PRODUCT_BLTTOAST,Sandwich_Bar,2,Bread,0,333,321,77,0,1,126,126,65,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,131,,126
+,,,,,3,Lettuce,,,,,,,,,,,,,
+,,,,,2,Bacon,,,,,,,,,,,,,
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+VeggieBagel,sc/icons.sc,recipe_veggie_bagel,TID_PRODUCT_VEGGIEBAGEL,Sandwich_Bar,2,Bread,0,274,264,63,0,1,102,102,61,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,105,,102
+,,,,,3,Lettuce,,,,,,,,,,,,,
+,,,,,2,Tomato,,,,,,,,,,,,,
+,,,,,1,OliveOil,,,,,,,,,,,,,
+EggSandwich,sc/icons.sc,recipe_egg_sandwich,TID_PRODUCT_EGGSANDWICH,Sandwich_Bar,2,Bread,0,300,289,69,0,1,113,113,66,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,117,,113
+,,,,,3,Lettuce,,,,,,,,,,,,,
+,,,,,2,Egg,,,,,,,,,,,,,
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+Honey Toast,sc/icons.sc,recipe_honey_toast,TID_PRODUCT_HONEY_TOAST,Sandwich_Bar,1,Bread,0,133,128,31,0,1,26,26,69,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,30,,26
+,,,,,1,Egg,,,,,,,,,,,,,
+,,,,,1,Milk,,,,,,,,,,,,,
+,,,,,1,Honey,,,,,,,,,,,,,
+Goat Cheese Toast,sc/icons.sc,recipe_goatcheese_toast,TID_GOAT_CHEESE_TOAST,Sandwich_Bar,1,Bread,0,156,150,36,0,1,56,56,92,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,59,,56
+,,,,,1,Goat Cheese,,,,,,,,,,,,,
+,,,,,3,Grapes,,,,,,,,,,,,,
+Onion melt,sc/icons.sc,recipe_onion_melt,TID_PRODUCT_ONIONMELT,Sandwich_Bar,2,Corn Bread,0,215,207,50,0,1,77,77,84,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,82,,77
+,,,,,3,Onion,,,,,,,,,,,,,
+,,,,,1,Cheese,,,,,,,,,,,,,
+Cucumber Sandwich,sc/icons.sc,recipe_cucumber_sandwich,TID_PRODUCT_CUCUMBERSANDWICH,Sandwich_Bar,2,Cucumber,0,239,230,55,0,1,89,89,79,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,92,,89
+,,,,,2,Bread,,,,,,,,,,,,,
+,,,,,1,Mayonaise,,,,,,,,,,,,,
+PBJ Sandwich,sc/icons.sc,recipe_jelly_sandwich,TID_PRODUCT_JELLYSANDWICH,Sandwich_Bar,2,Bread,0,347,334,80,0,1,53,53,71,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,56,,53
+,,,,,1,PeanutBag,,,,,,,,,,,,,
+,,,,,1,Raspberry Jam,,,,,,,,,,,,,
+Hummus Wrap,sc/icons.sc,recipe_wrap,TID_PRODUCT_WRAP,Sandwich_Bar,2,Bread,0,193,186,45,0,1,72,72,109,TID_SANDWICHBAR_PRODUCT_DESCRIPTION,75,FALSE,72
+,,,,,1,Hummus,,,,,,,,,,,,,
+,,,,,1,Lettuce,,,,,,,,,,,,,

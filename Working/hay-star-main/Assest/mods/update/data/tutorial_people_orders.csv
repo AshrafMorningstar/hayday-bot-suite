@@ -1,0 +1,5 @@
+Name,Good,GoodAmount,PeopleName,SpawnAtHouse
+String,String,int,String,Boolean
+A,Wheat,0,Mike,TRUE
+B,Bread,1,Joan,FALSE
+C,Bread,0,Greg,FALSE

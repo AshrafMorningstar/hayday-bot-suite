@@ -1,0 +1,14 @@
+Name,TutorialGroup,ItemToChange,LevelToChange,ValueToChange,ChangedValue
+String,String,String,int,String,int
+FeedMillLvl2,NewFtue,Hammermill,,UnlockLevel,2
+BakeryLvl3,NewFtue,Bakery,,UnlockLevel,4
+CornLvl2,NewFtue,Corn,,UnlockLevel,2
+MaxFieldsLvl2,NewFtue,,2,MaxFields,9
+ExpLvl2,NewFtue,,2,XpReq,14
+NoStarterChickenFood,NewFtue,Chicken Food,,StarterQty,0
+TruckOrdersStartEarly,NewFtue,,3,MaxOrders,1
+BreadLvl4,NewFtue,Bread,,UnlockLevel,4
+ChickenFoodLvl2,NewFtue,Chicken Food,,UnlockLevel,2
+StarterWheat,NewFtue,Wheat,,StarterQty,3
+MaxFieldsLvl3,NewFtue,,3,MaxFields,12
+MaxFieldsLvl4,NewFtue,,4,MaxFields,12

@@ -1,0 +1,13 @@
+Name,ExportName,IsFruit,DeadExportName,FileName,TileWidth,TileHeight,TimeMin,FruitCount,ExpClear,InstantComplete,Tool,TID,DescriptionTID,TapSound,TapProcessingSound,CollectSound,Price,CollectIconFileName,CollectIconExportName,ShopIconFileName,ShopIconExportName,BirdCanLand,GathererMineResource,ChildExportName,EnterX,EnterY,MineX,MineY,ResourceExportName,MineExportName,MineCount,ExpCollect,BuySound
+String,String,boolean,String,String,int,int,int,int,int,int,String,String,String,String,String,String,int,String,String,String,String,boolean,String,String,int,int,int,int,String,String,int,int,String
+Dandelion,nectar_dandelion_stage_1,,nectar_dandelion_stage_2,sc/fruit_trees_berrybushes.sc,1,1,0,8,5,0,Axe,TID_DANDELION,TID_DANDELION_DESCRIPTION,BigPineTap,BigPineTap,BigPineCollect,120,sc/icons.sc,tool_collect_honey,sc/icons.sc,shop_icon_nectar_bush,,Nectar,NectarFlowers,,,-284,-22,Nectar%02d,Flower%02d,250,8,BigPineTap
+,,,,,,,,,,,,,,,,,,,,,,,,,,,28,-298,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-399,-182,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-128,-76,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-342,-395,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-167,-401,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-277,-251,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-59,-205,,,,,
+Peanutbush,peanut_bush_stage_1,,peanut_bush_stage_2,sc/fruit_trees_berrybushes02.sc,1,1,0,8,5,0,Axe,TID_PEANUTBUSH,TID_PEANUTBUSH_DESCRIPTION,BigPineTap,BigPineTap,BigPineCollect,1200,sc/icons.sc,tool_collect_honey,sc/icons.sc,shop_icon_peanut_bush,,PeanutPods,NectarFlowers,0,512,0,256,Nectar%02d,Flower%02d,1000,8,BigPineTap
+,,,,,,,,,,,,,,,,,,,,,,,,,512,0,336,0,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-110,-110,,,,,

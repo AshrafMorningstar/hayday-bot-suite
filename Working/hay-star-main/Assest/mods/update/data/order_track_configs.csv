@@ -1,0 +1,4 @@
+Name,ActiveTrackGroup,Endless,ResetDays,ResetOnCalendar,CalendarOffset,ReturningUserTrackGroup,ReturningUserThreshold,BlockTapsDuringAnim,CloseScreenAfterAnim,CloseScreenTimeMillis,UnclaimedRewardsPostmanTitleTID,UnclaimedRewardsPostmanTextTID,finalFallback,finalFallbackQty
+String,String,boolean,int,boolean,int,String,int,boolean,boolean,int,String,String,String,int
+TruckTrack,Track5Easy,FALSE,1,TRUE,0,,,FALSE,FALSE,800,,,FreeCash,10
+BoatTrack,BoatTrackGroupNM,FALSE,3,FALSE,0,BoatTrackGroupNM,7,FALSE,FALSE,0,TID_BOAT_TRACK_UNCLAIMED_REWARDS_PACKAGE_TITLE,TID_BOAT_TRACK_UNCLAIMED_REWARDS_PACKAGE_TEXT,FreeCash,10
